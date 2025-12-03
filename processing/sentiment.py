@@ -11,11 +11,10 @@ from processing.index_calc import IndexComponents, compute_index
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-NEWS_JSON_PATH = PROJECT_ROOT / "news.json"
-SENTIMENT_RESULTS_PATH = PROJECT_ROOT / "sentiment_results.json"
+NEWS_JSON_PATH = PROJECT_ROOT / "news.json" 
+SENTIMENT_RESULTS_PATH = PROJECT_ROOT / "docs" / "sentiment_results.json"
 GSI_VALUE_PATH = PROJECT_ROOT / "docs" / "gsi_value.json"
 
-# Headlines that should be treated as high-impact macro events.
 HIGH_IMPACT_KEYWORDS = [
     "powell",
     "federal reserve",
@@ -236,5 +235,6 @@ def run_full_pipeline() -> None:
     """Placeholder kept for symmetry; scraping is orchestrated in run.py."""
 
     run_analysis_only()
+
 
 
