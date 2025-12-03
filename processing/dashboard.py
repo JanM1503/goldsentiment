@@ -7,7 +7,7 @@ from typing import Any, Dict, List
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-SENTIMENT_RESULTS_PATH = PROJECT_ROOT / "sentiment_results.json"
+SENTIMENT_RESULTS_PATH = PROJECT_ROOT / "docs" / "sentiment_results.json"
 DASHBOARD_HTML_PATH = PROJECT_ROOT / "docs" / "index.html"
 
 
@@ -217,5 +217,6 @@ def generate_dashboard() -> None:
 
 if __name__ == "__main__":
     generate_dashboard()
+
 
 
