@@ -2,8 +2,8 @@ name: Update GSI
 
 on:
   schedule:
-    - cron: "*/8 * * * *"   # runs every 30 minutes
-  workflow_dispatch:          # allow manual trigger
+    - cron: "*/5 * * * *"   # run every 30 minutes
+  workflow_dispatch:          # allow manual runs
 
 jobs:
   update-gsi:
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
@@ -31,11 +31,17 @@ jobs:
         run: |
           python run.py sentiment update
 
+      - name: Move results into docs folder
+        run: |
+          cp gsi_value.json docs/
+          cp sentiment_results.json docs/
+          cp index.html docs/
+
       - name: Commit updated files
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add .
+          git add docs/
           git commit -m "Auto-update GSI" || echo "No changes to commit"
 
       - name: Push changes
