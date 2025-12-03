@@ -31,11 +31,8 @@ jobs:
         run: |
           python run.py sentiment update
 
-      - name: Move results into docs folder
-        run: |
-          cp gsi_value.json docs/
-          cp sentiment_results.json docs/
-          cp index.html docs/
+      - name: Ensure docs folder exists
+        run: mkdir -p docs
 
       - name: Commit updated files
         run: |
