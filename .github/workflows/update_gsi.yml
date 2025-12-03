@@ -2,19 +2,24 @@ name: Update GSI
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # run every 30 minutes
-  workflow_dispatch:          # allow manual runs
+    - cron: "*/5 * * * *"   # runs every 5 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write    # allow github-actions[bot] to push commits
 
 jobs:
   update-gsi:
     runs-on: ubuntu-latest
+    env:
+      NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        
+        uses: actions/checkout@v4
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -23,16 +28,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Set environment variables
-        run: |
-          echo "NEWSAPI_KEY=${{ secrets.NEWSAPI_KEY }}" >> $GITHUB_ENV
-
-      - name: Run sentiment update
-        run: |
-          python run.py sentiment update
-
       - name: Ensure docs folder exists
         run: mkdir -p docs
+
+      - name: Run sentiment update
+        run: python run.py sentiment update
+
+      - name: Regenerate dashboard HTML
+        run: python run.py sentiment dashboard
 
       - name: Commit updated files
         run: |
@@ -45,3 +48,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
