@@ -5,7 +5,7 @@ financial and macro news into a single **0–100 sentiment index** for gold:
 
 - **0 = Extremely Bearish** about gold
 - **50 = Neutral**
-- **100 = Extremely Bullish** / very bullish tone
+- **100 = Extremely Bullish** / very bullish ton
 
 It does this by:
 
@@ -505,5 +505,6 @@ For now, the core path is:
 That’s all you need to get from raw macro/gold headlines to a visual Gold
 
 Sentiment Index.
+
 
 
