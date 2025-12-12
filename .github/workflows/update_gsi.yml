@@ -2,7 +2,7 @@ name: Update GSI
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # runs every 5 minutes
+    - cron: "*/15 * * * *"   # runs every 5 minutes
   workflow_dispatch:
 
 permissions:
