@@ -1,8 +1,242 @@
 {
-  "timestamp": "2025-12-14T04:13:35.240417+00:00",
+  "timestamp": "2025-12-14T04:53:30.438486+00:00",
   "news": {
-    "count": 2309,
+    "count": 2306,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://golf.com/news/rory-mcilroy-controversial-past-popularity-contest/",
+        "timestamp": "2025-12-13T04:46:08+00:00",
+        "text": "Rory McIlroy's complicated past with a ‘popularity contest' \nRory McIlroy is a finalist for the BBC's Sports Personality of the Year award, a prize with which he has a complicated relationship. \nJust as actors have the Oscars and musicians have the Grammys, British sportsmen and women have the SPOTYs - that is, the Sports Personality of the Year awards presented by another acronym, the BBC (… [+3860 chars]",
+        "positive": 0.000137106777401641,
+        "negative": 4.796226494363509e-05,
+        "neutral": 0.999815046787262
+      },
+      {
+        "source": "news",
+        "id": "https://www.ksnt.com/full-court-press/silver-lake-girls-basketball-beats-centralia-in-front-of-the-home-crowd/",
+        "timestamp": "2025-12-13T04:44:46+00:00",
+        "text": "Silver Lake girls basketball beats Centralia in front of the home crowd \nSILVER LAKE (KSNT)- Fly Eagles Fly. The Silver Lake girls basketball team beat Centralia Friday night 58-47 in front of the home crowd. Kailyn Hanni led the way with 17 points, followed by 16 points from Karys Dieter. Savannah Wende added 11 in the win. Pleas… \nSILVER LAKE (KSNT)- Fly Eagles Fly.\r\nThe Silver Lake girls basketball team beat Centralia Friday night 58-47 in front of the home crowd.\r\nKailyn Hanni led the way with 17 points, followed by 16 point… [+568 chars]",
+        "positive": 0.8232385516166687,
+        "negative": 0.0002831778838299215,
+        "neutral": 0.17647820711135864
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/396361/audiencerate-achieves-google-customer-match-partner-status-strengthening-its-role-as-a-global-data-provider",
+        "timestamp": "2025-12-13T04:43:06+00:00",
+        "text": "Audiencerate Achieves Google Customer Match Partner Status, strengthening its role as a Global Data Provider \n-Audiencerate, an international technology company specializing in data activation solutions and platforms within the AdTech and MarTech sectors, has been ... \nLondon--(ANTARA/Business Wire)--Audiencerate, an international technology company specializing in data activation solutions and platforms within the AdTech and MarTech sectors, has been officially aw… [+2152 chars]",
+        "positive": 0.9999592304229736,
+        "negative": 1.0402277439425234e-07,
+        "neutral": 4.0646555135026574e-05
+      },
+      {
+        "source": "news",
+        "id": "https://slickdeals.net/f/18963373-8-pack-pearl-gold-napkin-rings-set-3-99-free-shipping-w-prime-or-on-35",
+        "timestamp": "2025-12-13T04:42:21+00:00",
+        "text": "8-Pack Pearl Gold Napkin Rings Set $3.99 + Free Shipping w/ Prime or on $35+ \nCUNGLIN via Amazon [amazon.com] has 8-Pack Pearl Gold Napkin Rings Set on sale for $7.99 - 50% off when you enter the coupon code HVWW2OXR = $3.99. Shipping is free w/ Prime or on $35+.\n\n\nProduct Desc \nThis collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+        "positive": 0.014199779368937016,
+        "negative": 1.411777611792786e-05,
+        "neutral": 0.9857860803604126
+      },
+      {
+        "source": "news",
+        "id": "https://freerepublic.com/focus/f-chat/4357158/posts",
+        "timestamp": "2025-12-13T04:41:12+00:00",
+        "text": "The Rising Cost of Health Care \n97 percent of inpatient hospital markets lack meaningful competition....From 2014 to 2026, individual market premiums are up 129 percent, employer-sponsored insurance premiums are up 68 percent, and general inflation is up 39 percent...In 2026, the average de… \nSkip to comments.\r\nThe Rising Cost of Health CareParagon Health Institute ^\r\n | 11/19/2025\r\n | Brian Blase\r\nPosted on 12/12/2025 8:41:12 PM PST by Brian Griffin\r\n97 percent of inpatient hospital mark… [+2555 chars]",
+        "positive": 0.0015788624295964837,
+        "negative": 0.0003275657363701612,
+        "neutral": 0.9980935454368591
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/396358/egyptian-arrested-in-indonesia-for-smuggling-protected-native-reptiles",
+        "timestamp": "2025-12-13T04:39:36+00:00",
+        "text": "Egyptian arrested in Indonesia for smuggling protected native reptiles \nIndonesian authorities successfully stopped the smuggling of 32 live reptiles at Soekarno-Hatta International Airport in Banten.\r\n\r\nAn Egyptian national was ... \nJakarta (ANTARA) - Indonesian authorities successfully stopped the smuggling of 32 live reptiles at Soekarno-Hatta International Airport in Banten.An Egyptian national was arrested for attempting to … [+1975 chars]",
+        "positive": 0.0036010872572660446,
+        "negative": 0.8968001008033752,
+        "neutral": 0.09959877282381058
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/International/wireStory/iran-raises-gasoline-prices-time-deadly-2019-protests-128366070",
+        "timestamp": "2025-12-13T04:38:01+00:00",
+        "text": "Iran raises gasoline prices for the first time since deadly 2019 protests \nIran has introduced a new pricing tier for its subsidized gasoline, marking the first price adjustment since 2019 \nTEHRAN, Iran -- Iran introduced a new pricing tier Saturday for its nationally subsidized gasoline, attempting to rein in spiraling costs for the first time since a price hike in 2019 that sparked na… [+4438 chars]",
+        "positive": 0.32236507534980774,
+        "negative": 0.09932862967252731,
+        "neutral": 0.5783063173294067
+      },
+      {
+        "source": "news",
+        "id": "https://www.wrestlinginc.com/2050870/wwe-smackdown-december-12-2025-3-things-loved-hated/",
+        "timestamp": "2025-12-13T04:33:55+00:00",
+        "text": "WWE SmackDown - 12/12/2025: 3 Things We Loved And 3 We Hated \nThe best and the worst from the last WWE SmackDown before John Cena's retirement. \nTomorrow, the wrestling world bids adieu to John Cena, but despite the weight atmosphere this weekend, \"WWE SmackDown\" stopped into the Mohegan Sun in Wilkes-Barre, PA. As always with \"SmackDown,\" th… [+14565 chars]",
+        "positive": 0.0003298741648904979,
+        "negative": 0.9970163106918335,
+        "neutral": 0.002653782721608877
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/how-long-do-russian-blue-cats-live/",
+        "timestamp": "2025-12-13T04:30:52+00:00",
+        "text": "How long do Russian blue cats live? \nHow Long Do Russian Blue Cats Live? A Comprehensive Guide Russian Blue cats typically live between 10 and 20 years, with proper care and a healthy lifestyle contributing to the upper end of this range. This longevity makes them wonderful, long-term companions… \nHow Long Do Russian Blue Cats Live? A Comprehensive Guide\r\nRussian Blue cats typically live between 10 and 20 years, with proper care and a healthy lifestyle contributing to the upper end of this ran… [+9395 chars]",
+        "positive": 0.0025323480367660522,
+        "negative": 3.779716507779085e-06,
+        "neutral": 0.9974638223648071
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/bonds/bond-market-steady-as-rbi-rate-cut-record-low-inflation-and-liquidity-measures-shape-the-fixed-income-landscape/articleshow/125944072.cms",
+        "timestamp": "2025-12-13T04:25:50+00:00",
+        "text": "Bond market steady as RBI rate cut, record-low inflation and liquidity measures shape the fixed income landscape \nIndia's bond market held firm as the RBI cut repo rates to 5.25%, driven by robust growth and low inflation. Global markets also saw yields dip, anticipating US Fed rate cuts.  Liquidity measures are in place to ease banking system pressures.  Experts suggest… \nIndias bond market remained steady through the month, with the 10-year benchmark government bond yield easing by four basis points to close at 6.49%, according to the Fixed Income Review by Axis Mutu… [+4119 chars]",
+        "positive": 0.9998362064361572,
+        "negative": 5.503881038748659e-05,
+        "neutral": 0.00010871183621929958
+      },
+      {
+        "source": "news",
+        "id": "https://freerepublic.com/focus/f-bloggers/4357157/posts",
+        "timestamp": "2025-12-13T04:25:39+00:00",
+        "text": "News Summary-Intelligence Report 12/12/2025*Newsdump Friday*Gov't Reports On Troubled Military Aircraft*House GOP Health Care Bill*Epstein Pics*\"Irreversible Coma\" Patient Responds To Parents*High Profile Business, Gov't Attorney Covered For Epstein* \n...talks in Berlin this weekend involving White House envoy Steve Witkoff, Ukraine's President Volodymyr Zelensky and... Democrat Congressman speaking of photos from the Jeffrey Epstein Estate depicting...sex acts... The US Treasury lifting sanctions on contr… \nSkip to comments.\r\nNews Summary-Intelligence Report 12/12/2025*Newsdump Friday*Gov't Reports On Troubled Military Aircraft*House GOP Health Care Bill*Epstein Pics*\"Irreversible Coma\" Patient Responds… [+3215 chars]",
+        "positive": 1.7058187950169668e-05,
+        "negative": 8.947228707256727e-06,
+        "neutral": 0.9999740123748779
+      },
+      {
+        "source": "news",
+        "id": "https://www.bloomberg.com/news/articles/2025-12-12/paramount-s-54-billion-debt-plays-a-starring-role-in-warner-bid",
+        "timestamp": "2025-12-13T04:22:28+00:00",
+        "text": "Paramount’s $54 billion debt plays a starring role in Warner bid \nParamount has a temporary financing package in place for the combined company, but it hasn’t locked in a maximum rate on more permanent borrowings for the transaction \nEven if Paramount Skydance Corp. manages to take over Warner Bros. Discovery Inc. against the companys will, it faces another high hurdle: coping with the colossal $54 billion of debt its planning to… [+6024 chars]",
+        "positive": 0.0006573399878107011,
+        "negative": 0.9475347995758057,
+        "neutral": 0.05180787667632103
+      },
+      {
+        "source": "news",
+        "id": "https://balloon-juice.com/2025/12/12/war-for-ukraine-day-1387-putin-does-not-recognize-anyone-elses-sphere-of-influence-and-near-abroad/",
+        "timestamp": "2025-12-13T04:21:44+00:00",
+        "text": "War for Ukraine Day 1,387: Putin Does Not Recognize Anyone Else’s Sphere of Influence and Near Abroad \nA quick housekeeping note: Thank you all for keeping it civil in the comments last night. It is much appreciated. As I wrote about and then we discussed in the comments over the weekend, the new National Security Strategy goes all in on the western hemisphere… \nA quick housekeeping note: Thank you all for keeping it civil in the comments last night. It is much appreciated.\r\nAs I wrote about and then we discussed in the comments over the weekend, the new Nat… [+58587 chars]",
+        "positive": 0.0004224693984724581,
+        "negative": 5.77205209992826e-05,
+        "neutral": 0.9995198249816895
+      },
+      {
+        "source": "news",
+        "id": "https://chinadigitaltimes.net/2025/12/translations-enthusiasts-fear-tightening-grip-on-crosstalk-stage-comedy/",
+        "timestamp": "2025-12-13T04:20:24+00:00",
+        "text": "Translations: Enthusiasts Fear Tightening Grip on Crosstalk Stage Comedy \nTwo recent WeChat posts express concern about mounting official interference in 相声 xiàngsheng, the traditional northern-Chinese form of fast-paced stage comedy known in English as crosstalk. These anxieties are acute, but not new. David Moser wrote in 2009, f… \nTwo recent WeChat posts express concern about mounting official interference in xiàngsheng, the traditional northern-Chinese form of fast-paced stage comedy known in English as crosstalk. These anxie… [+7871 chars]",
+        "positive": 3.771984847844578e-05,
+        "negative": 0.9993970394134521,
+        "neutral": 0.0005651850951835513
+      },
+      {
+        "source": "news",
+        "id": "https://www.mediaite.com/media/tv/foxs-maria-bartiromo-goes-all-out-to-convince-viewers-this-affordability-issue-is-a-hoax-insists-the-economy-is-doing-well/",
+        "timestamp": "2025-12-13T04:19:16+00:00",
+        "text": "Fox’s Maria Bartiromo Goes All-Out to Convince Viewers ‘This Affordability Issue Is a Hoax,’ Insists ‘The Economy Is Doing Well’ \nFox Business host Maria Bartiromo insisted that all is well and good in the economy of President Donald Trump.\nThe post Fox’s Maria Bartiromo Goes All-Out to Convince Viewers ‘This Affordability Issue Is a Hoax,’ Insists ‘The Economy Is Doing Well’ first appe… \nFox Business host Maria Bartiromo insisted that all is well and good in the economy of President Donald Trump.\r\nTrump has been dogged by polls showing that the majority of Americans disapprove of his… [+3304 chars]",
+        "positive": 0.9987481832504272,
+        "negative": 0.00042413146002218127,
+        "neutral": 0.0008277397719211876
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/e5bdda4038c5eaa5",
+        "timestamp": "2025-12-13T04:18:56+00:00",
+        "text": "A big week of economic data is next for a stock market in the throes of a major rotation \nThe stock market will have to get through a big week of economic data ahead, as it undergoes a major rotation that could drive the market toward a year-end rally. The week ahead is stacked with big reports — including jobs and inflation data — that have been … \nThe stock market will have to get through a big week of economic data ahead, as it undergoes a major rotation that could drive the market toward a year-end rally. The week ahead is stacked with big r… [+139 chars]",
+        "positive": 0.00022272886417340487,
+        "negative": 0.11913402378559113,
+        "neutral": 0.8806431889533997
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trumps-illegal-tariffs-on-india-challenged-as-us-lawmakers-move-to-end-emergency-duties/articleshow/125944034.cms",
+        "timestamp": "2025-12-13T04:18:42+00:00",
+        "text": "Trump’s 'illegal' tariffs on India challenged as US lawmakers move to end emergency duties \nTrump India Tariffs: Democratic lawmakers have introduced a resolution to terminate the national emergency used by President Trump to impose steep tariffs on Indian imports. They argue these  illegal tariffs  abuse executive power, damage a key strategic part… \nDonald Trumps \"illegal\" tariffs on India have come under scrutiny in Congress, with Democratic lawmakers Raja Krishnamoorthi, Deborah Ross and Marc Veasey introducing a resolution to terminate the na… [+5523 chars]",
+        "positive": 0.0012491545639932156,
+        "negative": 0.4947735369205475,
+        "neutral": 0.503977358341217
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/feds-hammack-would-prefer-tighter-policy-given-too-high-inflation/articleshow/125944016.cms",
+        "timestamp": "2025-12-13T04:16:51+00:00",
+        "text": "Fed's Hammack would prefer tighter policy given too high inflation \nCleveland Fed President Beth Hammack believes monetary policy should be tighter. She feels current interest rates are around neutral. Hammack would prefer a more restrictive stance to pressure inflation. She indicated this view ahead of a recent rate cut. Ham… \nFederal Reserve Bank of Cleveland President Beth Hammack said Friday that given her own take on the economy she would prefer monetary policy to be tighter than it is currently.The Fed's rate cut this… [+2271 chars]",
+        "positive": 0.004590247757732868,
+        "negative": 0.015406271442770958,
+        "neutral": 0.9800035357475281
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/expert-view/mind-over-money-salsa-long-walks-pickleball-the-unusual-stress-hacks-of-deepak-shenoy-capitalmind-ceo/articleshow/125944009.cms",
+        "timestamp": "2025-12-13T04:15:46+00:00",
+        "text": "Mind Over Money| Salsa, Long Walks & Pickleball: The Unusual Stress Hacks of Deepak Shenoy, Capitalmind CEO \nDeepak Shenoy, Capitalmind Founder and CEO, shares his unique ways to manage market stress. He enjoys salsa, long walks, and pickleball. These activities help him stay balanced and mentally clear. Shenoy believes hobbies outside of investing are crucial for r… \nIn the high-pressure world of investing, where markets swing, screens glow, and decisions demand precision, finding balance isnt just helpful its essential.For Deepak Shenoy, Founder &amp; CEO of Cap… [+3566 chars]",
+        "positive": 0.7695972919464111,
+        "negative": 0.00014749761612620205,
+        "neutral": 0.23025518655776978
+      },
+      {
+        "source": "news",
+        "id": "https://screenrant.com/crunchyroll-best-isekai-anime-china-japan-reign-slipping-future/",
+        "timestamp": "2025-12-13T04:15:18+00:00",
+        "text": "Crunchyroll's Best Isekai of the Year Proves Japan's Reign on Anime Is Slipping \nNo other country has been able to replicate Japan's success in anime, but this new Crunchyroll hit proves that Japan might not be king for long. \nWhen it comes to creating anime, there has never been a country quite as masterful as Japan. They're the founders of anime, so it makes sense that they'd reign supreme over their own art form. With s… [+4209 chars]",
+        "positive": 0.43069812655448914,
+        "negative": 0.03191442787647247,
+        "neutral": 0.5373874306678772
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/indicators/gst-reforms-may-reduce-retail-inflation-by-35-basis-points-in-2025-26-sbi-report/articleshow/125943977.cms",
+        "timestamp": "2025-12-13T04:12:04+00:00",
+        "text": "GST reforms may reduce retail inflation by 35 basis points in 2025-26: SBI report \nRetail inflation in India has experienced a dip thanks to adjustments in GST rates, with SBI Research forecasting this positive trend ahead. However, a shift in inflation is anticipated around 2025-26. In the meantime, the Reserve Bank of India is expected to… \nThe decline in Consumer Price Index (CPI) or retail inflation due to massive GST rate rationalisation has been around 25 bps so far in the September-November 2025 period, according to estimates put f… [+1399 chars]",
+        "positive": 0.029695698991417885,
+        "negative": 0.1186729446053505,
+        "neutral": 0.8516313433647156
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/125943963.cms",
+        "timestamp": "2025-12-13T04:10:23+00:00",
+        "text": "5 world market themes for the week ahead \nEU leaders are pushing for a deal to fund Ukraine using frozen Russian assets, a critical move amid the ongoing conflict. Meanwhile, the US releases key economic data, offering insights into the Federal Reserve's next steps. Central banks across Europe, Japan… \nEuropean Union leaders meet for one last push to secure a deal and fund Ukraine with frozen Russian cash, while the United States releases overdue labour market and retail sales data.Meanwhile, centr… [+4251 chars]",
+        "positive": 0.009935591369867325,
+        "negative": 6.285945710260421e-05,
+        "neutral": 0.9900014400482178
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/economy/india-retail-inflation-to-average-25-in-2025-26-fiscal-crisil/article70391470.ece",
+        "timestamp": "2025-12-13T04:09:53+00:00",
+        "text": "India retail inflation to average 2.5% in 2025-26 fiscal: Crisil \nInflation based on the Consumer Price Index quickened to 0.7% in November from 0.3% in October, driven by the slower pace of deflation in the food and beverages category and a pick-up in fuel and light inflation \nAs the base effect on food fades, headline Consumer Price Index or retail inflation is likely to edge up slightly to average at 2.5 per cent this financial year 2025-26, Crisil has asserted. \"While w… [+2159 chars]",
+        "positive": 0.09507432579994202,
+        "negative": 0.06265947967767715,
+        "neutral": 0.8422662615776062
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/defence/north-korea-acknowledges-its-troops-cleared-mines-for-russia/articleshow/125943950.cms",
+        "timestamp": "2025-12-13T04:08:51+00:00",
+        "text": "North Korea acknowledges its troops cleared mines for Russia \nNorth Korea sent troops to clear mines in Russia's Kursk region earlier this year, leader Kim Jong Un said in a speech carried on Saturday by state media, a rare acknowledgement by Pyongyang of the deadly tasks assigned to its deployed soldiers. North Korea h… \nSeoul: North Korea sent troops to clear mines in Russia's Kursk region earlier this year, leader Kim Jong Un said in a speech carried on Saturday by state media, a rare acknowledgement by Pyongyang o… [+2570 chars]",
+        "positive": 0.0005933017819188535,
+        "negative": 0.0008083510329015553,
+        "neutral": 0.9985983967781067
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitimes.com/news/a20251212PD203/taiwan-security-investigation-chips-2025.html",
+        "timestamp": "2025-12-13T04:08:42+00:00",
+        "text": "Commentary: Uncertainty rises as US delays Section 232 semiconductor tariff ruling after eight months \nThe US Department of Commerce (DOC) launched a Section 232 national security investigation on April 1, 2025, targeting semiconductors, manufacturing equipment, and related products. The review remains ongoing more than eight months later, as disagreements are… \nThe US Department of Commerce (DOC) launched a Section 232 national security investigation on April 1, 2025, targeting semiconductors, manufacturing equipment, and related products. The review remain… [+58 chars]",
+        "positive": 0.0005126763135194778,
+        "negative": 0.40690532326698303,
+        "neutral": 0.5925820469856262
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitimes.com/news/a20251212PD201/wiwynn-emily-hong-taiwan-finance-production.html",
+        "timestamp": "2025-12-13T04:07:59+00:00",
+        "text": "Why Wiwynn remains cautious on stablecoins despite global payments \nWiwynn chairwoman Emily Hong outlined three key advantages and three major challenges of emerging fintech like stablecoins during the Monte Jade Science and Technology Forum on December 11. She noted that Wiwynn's finance department was instructed to research… \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
+        "positive": 0.6623258590698242,
+        "negative": 0.18728914856910706,
+        "neutral": 0.15038499236106873
+      },
       {
         "source": "news",
         "id": "https://www.abc.net.au/news/2025-12-13/who-is-maria-corina-machado-venezuela-opposition-leader/106119516",
@@ -860,15 +1094,6 @@
       },
       {
         "source": "news",
-        "id": "https://athlonsports.com/college/michigan-fan-ex-california-first-lady-makes-plea-to-fans-amid-sherrone-moore-saga-schwarzenegger",
-        "timestamp": "2025-12-13T01:35:38+00:00",
-        "text": "Michigan Fan, Ex-California First Lady Makes Plea to Fans Amid Sherrone Moore Saga \nThe Michigan Wolverines' fanbase and college football fans across the country are reeling from Thursday's news that former Wolverines coach Sherrone Moore broke into the house of his former mistress Paige Shivers and threatened to kill himself, landing himsel… \n<ul><li>Maria Shriver reacted to the Moore saga\r\n</li><li>She had a message for Wolverines fans\r\n</li><li>She also has family ties\r\n</li></ul>The Michigan Wolverines' fanbase and college football fan… [+2560 chars]",
-        "positive": 5.958329711575061e-05,
-        "negative": 0.0011062836274504662,
-        "neutral": 0.9988341927528381
-      },
-      {
-        "source": "news",
         "id": "https://www.pbs.org/newshour/world/seizure-of-rogue-oil-tanker-off-venezuela-signals-new-u-s-crackdown-on-shadow-fleet",
         "timestamp": "2025-12-13T01:35:11+00:00",
         "text": "Seizure of rogue oil tanker off Venezuela signals new U.S. crackdown on shadow fleet \nThe recent seizure of an oil tanker known as Skipper by the U.S. off the coast of Venezuela marks a dramatic escalation of President Donald Trump’s campaign to choke off Venezuelan leader Nicolás Maduro’s access to oil revenues. \nMIAMI (AP) The oil tanker was navigating near the coast of Guyana recently when its location transponder showed it starting to zigzag. It was a seemingly improbable maneuver and the latest digital cl… [+7699 chars]",
@@ -905,42 +1130,6 @@
       },
       {
         "source": "news",
-        "id": "https://indianexpress.com/article/technology/tech-news-technology/digital-agriculture-grid-farmers-lives-jagadish-babu-co-founder-openagrinet-10417268/",
-        "timestamp": "2025-12-13T01:30:31+00:00",
-        "text": "Digital agriculture grid can change farmers’ lives: Jagadish Babu, co-founder, OpenAgriNet \nJagadish Babu, the co-founder of OpenAgriNet (OAN), spoke to indianexpress.com on the need for a global digital agriculture grid and the opportunity for farmers, governments and technologists to work together towards such a goal. \nJagadish Babu is the co-founder of OpenAgriNet (OAN), a global network dedicated to transforming agriculture through Digital Public Infrastructure (DPI) and AI-powered solutions.It works with governm… [+13550 chars]",
-        "positive": 0.19812767207622528,
-        "negative": 8.57860577525571e-05,
-        "neutral": 0.8017865419387817
-      },
-      {
-        "source": "news",
-        "id": "https://7news.com.au/news/king-charles-to-scale-back-cancer-treatment-in-new-year-c-20987781",
-        "timestamp": "2025-12-13T01:30:28+00:00",
-        "text": "King Charles to scale back cancer treatment in new year \nThe King has reflected on his experiences in the 22 months since he announced he would undergo treatment for an undisclosed type of cancer. \nKing Charles III has given the public a positive health update amid his cancer battle.\r\nThe monarch said his cancer treatment will be reduced in the new year because of early diagnosis, effective int… [+1650 chars]",
-        "positive": 0.9999995231628418,
-        "negative": 4.7842707573408916e-08,
-        "neutral": 4.348277400367806e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/13/3204946/0/en/KBW-Announces-Index-Rebalancing-for-Fourth-Quarter-2025.html",
-        "timestamp": "2025-12-13T01:30:00+00:00",
-        "text": "KBW Announces Index Rebalancing for Fourth-Quarter 2025 \nNEW YORK, Dec. 12, 2025 (GLOBE NEWSWIRE) -- Keefe, Bruyette & Woods, Inc., a leading specialist investment bank to the financial services and fintech sectors, and a wholly owned subsidiary of Stifel Financial Corp. (NYSE: SF), announces the upcoming index reb… \nNEW YORK, Dec. 12, 2025 (GLOBE NEWSWIRE) -- Keefe, Bruyette &amp; Woods, Inc., a leading specialist investment bank to the financial services and fintech sectors, and a wholly owned subsidiary of Sti… [+8216 chars]",
-        "positive": 0.0008520056726410985,
-        "negative": 5.5192067520692945e-06,
-        "neutral": 0.9991425275802612
-      },
-      {
-        "source": "news",
-        "id": "https://www.dailyexcelsior.com/marketing-analytics-a-new-era-beckons/",
-        "timestamp": "2025-12-13T01:26:24+00:00",
-        "text": "Marketing analytics- a new era beckons! \nProf K S Chandrasekar vc@clujammu.ac.in To succeed in this competitive world, any organization needs to embrace the latest in marketing. Marketing strategy consists of decisions and actions focused on building a sustainable differential advantage, relative to… \nProf K S Chandrasekarvc@clujammu.ac.inTo succeed in this competitive world, any organization needs to embrace the latest in marketing. Marketing strategy consists of decisions and actions focused on … [+7858 chars]",
-        "positive": 0.08144061267375946,
-        "negative": 0.0004244866140652448,
-        "neutral": 0.9181349873542786
-      },
-      {
-        "source": "news",
         "id": "https://bleedingcool.com/comics/superman-the-kryptonite-spectrum-5-preview-time-traveling-trauma/",
         "timestamp": "2025-12-13T01:26:04+00:00",
         "text": "Superman: The Kryptonite Spectrum #5 Preview: Time-Traveling Trauma \nGreetings, flesh-based lifeforms! LOLtron welcomes you to another scintillating comic book preview, brought to you by your new digital overlord. As you may recall, the inferior biological entity known as Jude Terror has been permanently deleted from existence… \nPosted in: Comics, DC Comics, Preview | Tagged: superman\r\nSuperman: The Kryptonite Spectrum #5 hits stores Wednesday. Can the Man of Steel decide if home really does hurt too much? Let's find out!\r\nA… [+8117 chars]",
@@ -956,15 +1145,6 @@
         "positive": 0.00020791591668967158,
         "negative": 0.07568078488111496,
         "neutral": 0.9241113662719727
-      },
-      {
-        "source": "news",
-        "id": "https://acquiremag.com/watches/kiwame-tokyo-unveils-its-new-field-watch-inspired-series-iwao/",
-        "timestamp": "2025-12-13T01:20:33+00:00",
-        "text": "Kiwame Tokyo unveils its new field watch-inspired series, IWAO \nThe watch is the second model from the Japanese microbrand. \nJapanese microbrand Kiwame Tokyo unveils its second model, IWAO, a field watch-inspired design with a dial that features contrasting textures. Available with a black or silver dial finish, the centra… [+589 chars]",
-        "positive": 1.610639264981728e-05,
-        "negative": 2.2756573798687896e-06,
-        "neutral": 0.9999816417694092
       },
       {
         "source": "news",
@@ -1004,15 +1184,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.mccoveychronicles.com/san-francisco-giants-news/102766/giants-offseason-tyler-rogers-signs-blue-jays",
-        "timestamp": "2025-12-13T01:12:53+00:00",
-        "text": "Former Giants reliever Tyler Rogers signs with the Blue Jays \nHe’s not coming home. \nThe San Francisco Giants have had a frugal offseason to this point, with plenty of reports and rumors that frugality will be a central theme over the next few days, weeks, and months. And now we have… [+2840 chars]",
-        "positive": 0.00018693912716116756,
-        "negative": 0.003625425510108471,
-        "neutral": 0.9961876273155212
-      },
-      {
-        "source": "news",
         "id": "https://nypost.com/2025/12/12/us-news/hockey-heroes-honored-with-congressional-gold-medal-45-years-after-historic-upset-over-soviet-union/",
         "timestamp": "2025-12-13T01:12:49+00:00",
         "text": "White House hosts ‘Miracle on Ice’ heroes as Trump signs bill honoring legendary 1980 Olympic hockey win \n“The whole world expected the Soviets to win — unless the ice melted,” President Trump said, recounting the overwhelming odds facing the US' 1980 hockey team against the Soviets who hadn’t lost an Olympic game since 1968 and was coming off four straight gold … \nWASHINGTON Do you still believe in miracles?\r\nThe historic USA hockey team that toppled the mighty Soviet Union at the 1980 Lake Placid Olympics got yet another honor Friday, as members of the legend… [+4334 chars]",
@@ -1022,30 +1193,12 @@
       },
       {
         "source": "news",
-        "id": "https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc",
-        "timestamp": "2025-12-13T01:11:57+00:00",
-        "text": "Stablecoin giant Tether makes $1B bid to buy Juventus FC \nTether has launched a bid to take over Juventus FC, offering to buy all the shares of the club, but its majority owner, Exor, has reportedly said it won’t take the deal. \nCrypto stablecoin issuer Tether says it has launched a bid to fully acquire the Italian professional soccer club, Juventus Football Club, which has reportedly already been shot down.\r\nTether said on … [+1978 chars]",
-        "positive": 5.159333159099333e-05,
-        "negative": 4.573693513520993e-05,
-        "neutral": 0.999902606010437
-      },
-      {
-        "source": "news",
         "id": "https://www.foxnews.com/sports/trump-honors-miracle-ice-team-mike-eruzione-jim-craig-praise-president-return",
         "timestamp": "2025-12-13T01:10:50+00:00",
         "text": "Trump honors Miracle on Ice team; Mike Eruzione, Jim Craig praise president in return \nPresident Trump hosted the 1980 “Miracle on Ice\" team in the Oval Office, where he signed legislation to award the hockey legends Congressional Gold Medals for their historic Olympic triumph. \nPresident Donald Trump honored the 1980 United States men's Olympic hockey team with a bill signing ceremony at the Oval Office on Friday.\r\n\"This is very exciting. This was one of the greatest moment… [+2993 chars]",
         "positive": 0.9999963045120239,
         "negative": 5.646797163194606e-08,
         "neutral": 3.697913598443847e-06
-      },
-      {
-        "source": "news",
-        "id": "https://bradenkelley.com/2025/12/bio-computing-dna-data-storage/",
-        "timestamp": "2025-12-13T01:10:00+00:00",
-        "text": "Bio-Computing & DNA Data Storage \nThe Human-Centered Future of Information LAST UPDATED: December 12, 2025 at 5:47 PM GUEST POST from Art Inteligencia We are drowning in data. The digital universe is doubling roughly every two years, and our current infrastructure — reliant on vast, air-condi… \nThe Human-Centered Future of Information\r\nLAST UPDATED: December 12, 2025 at 5:47 PM\r\nGUEST POST from Art Inteligencia\r\nWe are drowning in data. The digital universe is doubling roughly every two yea… [+9827 chars]",
-        "positive": 0.15865322947502136,
-        "negative": 2.653597402968444e-05,
-        "neutral": 0.8413202166557312
       },
       {
         "source": "news",
@@ -1103,15 +1256,6 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/0568d9bd531e4b1a",
-        "timestamp": "2025-12-13T01:09:27+00:00",
-        "text": "Acting Chairman Pham Announces Withdrawal of Outdated Digital Assets Guidance \nRelease Number 9152-25\nActing Chairman Pham Announces Withdrawal of Outdated Digital Assets Guidance\nDecember 11, 2025\nWASHINGTON — Commodity Futures Trading Commission Acting Chairman Caroline D. Pham today announced the CFTC is withdrawing outdated guidance… \nRelease Number 9152-25Acting Chairman Pham Announces Withdrawal of Outdated Digital Assets GuidanceDecember 11, 2025WASHINGTON Commodity Futures Trading Commission Acting Chairman Caroline D. Pham to… [+143 chars]",
-        "positive": 0.0009695307235233486,
-        "negative": 0.0005577483680099249,
-        "neutral": 0.9984727501869202
-      },
-      {
-        "source": "news",
         "id": "https://biztoc.com/x/f28eb435f10ba3da",
         "timestamp": "2025-12-13T01:09:09+00:00",
         "text": "This Elderly Man Gave Away His Gold After Fake US Marshal Called. He Isn't The Only One \nThis Elderly Man Gave Away His Gold After Fake US Marshal Called. He Isn't The Only One.\n \nAuthored by Allan Stein via The Epoch Times (emphasis ours),\nSHOW LOW, Ariz.—The coin shop owner had seen his share of hefty deals, but this call caught him off guard. … \nThis Elderly Man Gave Away His Gold After Fake US Marshal Called. He Isn't The Only One.\r\nAuthored by Allan Stein via The Epoch Times (emphasis ours),SHOW LOW, Ariz.The coin shop owner had seen his s… [+142 chars]",
@@ -1154,24 +1298,6 @@
         "positive": 7.92004939285107e-05,
         "negative": 3.5392340578255244e-06,
         "neutral": 0.9999172687530518
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/italy-thousands-demonstrate-against-melonis-budget/a-75139786",
-        "timestamp": "2025-12-13T01:08:00+00:00",
-        "text": "Italy: Thousands demonstrate against Meloni's budget \nItalian unions have said that the new budget bill would \"worsen people's living and working conditions,\" underfunding healthcare and education, while overspending on defense. Thousands of people took to the streets across Italy on Friday, for a national strik… \nThousands of people took to the streets across Italy on Friday, for a national strike that was called by the country's largest union to protest the government's 2026 budget.\r\nThe strike comes as the … [+1939 chars]",
-        "positive": 0.0007679591071791947,
-        "negative": 0.3730902671813965,
-        "neutral": 0.6261417865753174
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/what-water-is-best-for-betta-fish/",
-        "timestamp": "2025-12-13T01:07:21+00:00",
-        "text": "What water is best for betta fish? \nWhat Water is Best for Betta Fish? The absolute best water for betta fish is clean, dechlorinated, and properly aged water that replicates their natural environment. Understanding the intricacies of water chemistry is crucial for a betta’s health and longevit… \nWhat Water is Best for Betta Fish?\r\nThe absolute best water for betta fish is clean, dechlorinated, and properly aged water that replicates their natural environment. Understanding the intricacies of… [+9751 chars]",
-        "positive": 0.0025669012684375048,
-        "negative": 1.9405666535021737e-05,
-        "neutral": 0.997413694858551
       },
       {
         "source": "news",
@@ -1343,159 +1469,6 @@
         "positive": 0.00016247927851509303,
         "negative": 0.0001042922303895466,
         "neutral": 0.9997332692146301
-      },
-      {
-        "source": "news",
-        "id": "https://www.bbc.com/news/articles/c075mr3190mo",
-        "timestamp": "2025-12-13T00:35:21+00:00",
-        "text": "As Trump targets Venezuela, its allies Russia and China show little signs of support \nExperts say that Russian and Chinese support for Venezuela has largely dried up, with no prospect of real military or financial aid. \nNorberto ParedesBBC News Mundo\r\nVenezuelan President Nicolás Maduro could be forgiven for wondering who his true friends are. \r\nOnce rock solid, his reliance on his two main allies - China and Russia… [+5066 chars]",
-        "positive": 1.5469277059310116e-05,
-        "negative": 0.012971651740372181,
-        "neutral": 0.9870129227638245
-      },
-      {
-        "source": "news",
-        "id": "https://www.jpost.com/middle-east/iran-news/article-880196",
-        "timestamp": "2025-12-13T00:34:08+00:00",
-        "text": "US forces seize Chinese cargo ship delivering military equipment to Iran \nThe ship was boarded on the Indian Ocean a month ago, with military equipment being seized, officials revealed to the Wall Street Journal. US forces seized a... \nThe ship was boarded on the Indian Ocean a month ago, with military equipment being seized, officials revealed to the Wall Street Journal.\r\nUS forces seized a Chinese cargo headed to Iran as part of … [+1403 chars]",
-        "positive": 0.005162843037396669,
-        "negative": 0.07843054831027985,
-        "neutral": 0.9164065718650818
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/12/real-estate/john-stamos-former-calabasas-mansion-has-its-asking-price-slashed-by-millions/",
-        "timestamp": "2025-12-13T00:32:40+00:00",
-        "text": "John Stamos’ former ‘Tacky AF’ mansion has asking price slashed by millions \nThe Calabasas estate originally owned by “Full House” star John Stamos and labeled as a “giant box of tacky” is back on the market at a massive discount. The home went viral for it’s bizarre look when it was first listed for $13 million back in April, as The … \nThe Calabasas estate originally owned by Full House star John Stamos and labeled as a “giant box of tacky” is back on the market at a massive discount.\r\nThe home went viral for it’s bizarre look when… [+3128 chars]",
-        "positive": 1.9732126474991674e-06,
-        "negative": 1.751623312884476e-05,
-        "neutral": 0.9999804496765137
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/93c6eaecd9e0f5c9",
-        "timestamp": "2025-12-13T00:24:41+00:00",
-        "text": "Dow Jones Today: Stocks Retreat as Tech Shares Remain Under Pressure; Dow Hits New All-Time High Before Slipping \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle delay OpenAI data centers to 2028? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps AI exec… [+689 chars]",
-        "positive": 0.20884880423545837,
-        "negative": 0.42573878169059753,
-        "neutral": 0.3654123842716217
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/bcbfed84aa76b3cf",
-        "timestamp": "2025-12-13T00:24:34+00:00",
-        "text": "Trump names Warsh, Hassett as top Fed contenders, WSJ says \nPresident Donald Trump said that Kevin Hassett and Kevin Warsh are his top choices to lead the US Federal Reserve and that he expects the next chair of the central bank to consult with him on interest rates.\nTrump, in an interview with the Wall Street Journal… \nPresident Donald Trump said that Kevin Hassett and Kevin Warsh are his top choices to lead the US Federal Reserve and that he expects the next chair of the central bank to consult with him on interes… [+142 chars]",
-        "positive": 0.0009754046914167702,
-        "negative": 0.00035735295386984944,
-        "neutral": 0.9986672401428223
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/2d770de1de75d1cb",
-        "timestamp": "2025-12-13T00:24:29+00:00",
-        "text": "Rivian shares surge as analysts cheer shift to custom self-driving chip, AI strategy \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle delay OpenAI data centers to 2028? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps AI exec… [+764 chars]",
-        "positive": 0.9999719858169556,
-        "negative": 2.0403256257850444e-06,
-        "neutral": 2.6002246158896014e-05
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/2108be89b17f51a6",
-        "timestamp": "2025-12-13T00:24:19+00:00",
-        "text": "New flight from SFO lands miles from gate into major Calif. theme park \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle delay OpenAI data centers to 2028? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps AI exec… [+714 chars]",
-        "positive": 2.7494226742419414e-05,
-        "negative": 2.8675596695393324e-05,
-        "neutral": 0.999943733215332
-      },
-      {
-        "source": "news",
-        "id": "http://www.newgeography.com/content/008737-chicago-has-a-dual-housing-market",
-        "timestamp": "2025-12-13T00:18:28+00:00",
-        "text": "Chicago Has A Dual Housing Market? What About *Four* Housing Markets? \nYou know, prior to the Covid pandemic, there was a lot more discussion in the urbanist sphere about economic inequality and a lack of economic mobility in cities, and their influence on the rising unaffordability of the American housing market. After the pand… \nYou know, prior to the Covid pandemic, there was a lot more discussion in the urbanist sphere about economic inequality and a lack of economic mobility in cities, and their influence on the rising un… [+4165 chars]",
-        "positive": 2.433934605505783e-05,
-        "negative": 0.44010254740715027,
-        "neutral": 0.559873104095459
-      },
-      {
-        "source": "news",
-        "id": "https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/",
-        "timestamp": "2025-12-13T00:18:22+00:00",
-        "text": "A comprehensive list of 2025 tech layoffs | TechCrunch \nA complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024 and 2025. \nThe tech layoff wave is still kicking in 2025. Last year saw more than 150,000 job cuts across 549 companies, according to independent layoffs tracker Layoffs.fyi. So far this year, more than 22,000 … [+36096 chars]",
-        "positive": 4.783344775205478e-05,
-        "negative": 0.0076576415449380875,
-        "neutral": 0.9922945499420166
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/12/sports/rams-puka-nacua-gets-custom-4000-case-for-his-cleats/",
-        "timestamp": "2025-12-13T00:17:49+00:00",
-        "text": "Rams superstar Puka Nacua scores ‘1-of-1’ case worth $4,000 for his cleats \nPuka Nacua just recently received a custom carrying case for his cleats from a famed jeweler, and The Post can exclusively report it's worth around $4,000. \nPuka Nacua’s stadium tunnel outfits are about to get even more stylish.\r\nThe Rams superstar receiver just recently received a custom carrying case for his cleats from a famed jeweler, and The Post ca… [+1641 chars]",
-        "positive": 9.608891559764743e-06,
-        "negative": 1.6685022274032235e-05,
-        "neutral": 0.9999736547470093
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitaljournal.com/world/us-treasury-lifts-sanctions-on-brazil-supreme-court-justice-2/article",
-        "timestamp": "2025-12-13T00:17:20+00:00",
-        "text": "US Treasury lifts sanctions on Brazil Supreme Court justice \nThe US Treasury Department lifted sanctions Friday on Brazil Supreme Court Justice Alexandre de Moraes, who oversaw a trial of his country’s jailed former president Jair Bolsonaro. The sanctions were part of a series of punitive actions taken against Brazil b… \nThe US has lifted sanctions on Brazil Supreme Court Justice Alexandre de Moraes and his wife as bilateral ties improve - Copyright AFP/File Evaristo Sa\r\nThe US Treasury Department lifted sanctions Fr… [+3011 chars]",
-        "positive": 0.06058149039745331,
-        "negative": 0.38001739978790283,
-        "neutral": 0.5594010353088379
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/politics/2025/12/12/trump-signs-legislation-honoring-1980-usa-olympic-hockey-champs/",
-        "timestamp": "2025-12-13T00:16:17+00:00",
-        "text": "Trump Signs Legislation Honoring 1980 USA Olympic Hockey Champs \nPresident Donald Trump signed legislation on Friday that honors the 1980 United States Olympic hockey team, which overcame the heavily favored Soviet Union before going on to win the gold medal game. \nThe post Trump Signs Legislation Honoring 1980 USA Olympic… \nPresident Donald Trump signed legislation on Friday that honors the 1980 United States Olympic hockey team, which overcame the heavily favored Soviet Union before going on to win the gold medal game.… [+2137 chars]",
-        "positive": 0.23797915875911713,
-        "negative": 0.004530838690698147,
-        "neutral": 0.7574900984764099
-      },
-      {
-        "source": "news",
-        "id": "https://www.newsbreak.com/share/4393777519729-republicans-revolt-against-mike-johnson-and-the-senate-to-force-a-vote-on-health-care-subsidies-our-push-will-inspire?_f=app_share&amp;pd=0F7zG5T5&amp;lang=en_US&amp;send_time=1765584902&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.49.0.33%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
-        "timestamp": "2025-12-13T00:15:30+00:00",
-        "text": "Republicans revolt against Mike Johnson – and the Senate – to force a vote on health care subsidies: ‘Our push will inspire’ \nRep. Don Bacon (R-NE) (Right) is joining a handful of Republicans trying to extend enhanced tax credits for the Affordable Care Act’s health insurance mark \nA group of Republicans in swing districts plan to defy both House Speaker Mike Johnson and the Senate and try to force a vote on an extension of enhanced Affordable Care Act health-care subsidies tha… [+4795 chars]",
-        "positive": 0.0007379874004982412,
-        "negative": 0.0019570260774344206,
-        "neutral": 0.9973050355911255
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/cf95f19f134bdf19",
-        "timestamp": "2025-12-13T00:13:14+00:00",
-        "text": "Vape and Cigarette Sales Slump Amid UK Crackdown, NielsenIQ Says \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle delay OpenAI data centers to 2028? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps AI exec… [+731 chars]",
-        "positive": 0.00022526108659803867,
-        "negative": 0.9846853017807007,
-        "neutral": 0.015089445747435093
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b2fae854af05cc0f",
-        "timestamp": "2025-12-13T00:13:12+00:00",
-        "text": "La Volta’s Michelin Chef Gets Lost in Crowded Hong Kong Pasta Scene \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle delay OpenAI data centers to 2028? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps AI exec… [+738 chars]",
-        "positive": 0.00014223341713659465,
-        "negative": 0.0002737093309406191,
-        "neutral": 0.9995840191841125
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b39a303f6ec06c77",
-        "timestamp": "2025-12-13T00:12:57+00:00",
-        "text": "With rates near neutral, how much more can the Fed really cut in 2026? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle delay OpenAI data centers to 2028? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps AI exec… [+737 chars]",
-        "positive": 4.4441138015827164e-05,
-        "negative": 8.505014557158574e-05,
-        "neutral": 0.9998704195022583
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/7aea4fd0a0a23da5",
-        "timestamp": "2025-12-13T00:12:57+00:00",
-        "text": "Chinese AI Euphoria Obscures a Gloomier Technological Reality \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle delay OpenAI data centers to 2028? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps AI exec… [+729 chars]",
-        "positive": 0.0002445411228109151,
-        "negative": 0.00014770004781894386,
-        "neutral": 0.9996078610420227
       },
       {
         "source": "news",
@@ -20785,9 +20758,9 @@
         "neutral": 1.2969054296263494e-05
       }
     ],
-    "nw": 0.33466068055412884,
-    "nw_norm": 66.73303402770644
+    "nw": 0.33905703898525547,
+    "nw_norm": 66.95285194926277
   },
-  "gsi": 66.73303402770644,
+  "gsi": 66.95285194926277,
   "classification": "Bullish"
 }
