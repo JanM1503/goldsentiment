@@ -1,8 +1,485 @@
 {
-  "timestamp": "2025-12-19T18:50:13.752251+00:00",
+  "timestamp": "2025-12-19T19:08:23.130806+00:00",
   "news": {
-    "count": 2127,
+    "count": 2126,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://pen.org/top-52-banned-books-since-2021/",
+        "timestamp": "2025-12-18T19:02:22+00:00",
+        "text": "Top Banned Books: The Most Banned Books in U.S. Schools – Pen America \nArticle URL: https://pen.org/top-52-banned-books-since-2021/\nComments URL: https://news.ycombinator.com/item?id=46317012\nPoints: 8\n# Comments: 0 \nThe 52 most banned books of the last four school years include National Book Award and Pulitzer Prize winners, bestsellers, and beloved books by authors including Toni Morrison, Margaret Atwood, and … [+13783 chars]",
+        "positive": 1.1974789231317118e-06,
+        "negative": 2.786171535262838e-06,
+        "neutral": 0.9999960660934448
+      },
+      {
+        "source": "news",
+        "id": "https://macdailynews.com/2025/12/18/apple-kicks-off-development-of-oled-panels-for-future-imac-models/",
+        "timestamp": "2025-12-18T19:02:09+00:00",
+        "text": "Apple kicks off development of OLED panels for future iMac models \nApple has officially kicked off a project to bring OLED display technology to its iMac lineup, marking a significant shift from the current…\nThe post Apple kicks off development of OLED panels for future iMac models appeared first on MacDailyNews. \nApple’s 24-inch iMac\r\nApple has officially kicked off a project to bring OLED display technology to its iMac lineup, marking a significant shift from the current LCD-based screens in its all-in-one d… [+3887 chars]",
+        "positive": 0.0034656128846108913,
+        "negative": 0.00025091387215070426,
+        "neutral": 0.9962834715843201
+      },
+      {
+        "source": "news",
+        "id": "https://fortune.com/2025/12/18/inflation-report-october-2025-shutdown-distorted-diane-swonk/",
+        "timestamp": "2025-12-18T19:01:54+00:00",
+        "text": "‘We might need more than a few grains of salt’: Top economists pan inflation report that effectively assumed housing inflation was zero \nThe culprit, several economists say, is the extended government shutdown. \nThe governments long-delayed November inflation report appeared, at first glance, to deliver welcome news: Consumer prices rose only 2.7% from a year earlier, while core inflation cooled to 2.6%, the… [+4253 chars]",
+        "positive": 0.015160453505814075,
+        "negative": 0.9777693748474121,
+        "neutral": 0.007070199120789766
+      },
+      {
+        "source": "news",
+        "id": "https://www.nbcnews.com/politics/donald-trump/trump-promised-no-new-wars-venezuela-escalation-test-magas-tolerance-a-rcna249380",
+        "timestamp": "2025-12-18T19:01:44+00:00",
+        "text": "After Trump promised 'no new wars,' Venezuela escalation could test MAGA's tolerance, analysts say \nPresident Donald Trump’s political base has offered little resistance to his escalating pressure campaign on Venezuela. \nPresident Donald Trumps political base has offered little resistance to his escalating pressure campaign on Venezuela, even as he edges closer to the kind of military confrontation he has long critic… [+9726 chars]",
+        "positive": 0.00024207991373259574,
+        "negative": 0.9210461974143982,
+        "neutral": 0.07871171087026596
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/US/wireStory/prosecutor-14-minnesota-programs-targeted-fraud-state-swamped-128527263",
+        "timestamp": "2025-12-18T19:01:29+00:00",
+        "text": "14 Minnesota programs are targeted for fraud and the state is swamped with crime \nFive new defendants have been charged in connection with a Minnesota housing services fraud scheme \nMINNEAPOLIS -- At least 14 state-run programs in Minnesota have been flagged for fraud, a prosecutor said Thursday as he announced new charges in several schemes.\r\nFirst Assistant U.S. Attorney Joe T… [+2475 chars]",
+        "positive": 2.9824313969584182e-05,
+        "negative": 0.00017582868167664856,
+        "neutral": 0.9997944235801697
+      },
+      {
+        "source": "news",
+        "id": "https://thepointsguy.com/travel-gear/best-travel-carry-on-suitcases/",
+        "timestamp": "2025-12-18T19:00:58+00:00",
+        "text": "Keep calm and carry on: The best carry-on luggage for every kind of trip \nWe rounded up the best carry-on luggage of the year, including bags from Away, Monos, July and Rimowa. \nFrom frequent travelers to fashionistas, there is no \"one size fits all\" when it comes to carry-on luggage.\r\nIf you fly so often that you are on a first-name basis with your local airport's Transport… [+9122 chars]",
+        "positive": 0.0005257555167190731,
+        "negative": 1.5486968550249003e-05,
+        "neutral": 0.9994587302207947
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbssports.com/boxing/news/jake-paul-vs-anthony-joshua-fight-predictions-odds-expert-picks/",
+        "timestamp": "2025-12-18T19:00:53+00:00",
+        "text": "Jake Paul vs. Anthony Joshua fight predictions, undercard, odds, start time for showdown in Miami \nThe action gets underway on Friday night at the Kaseya Center \nFans who have been waiting for Jake Paul's boxing career to come crashing down may get their wish on Friday night when the social media influencer-turned-boxer faces the biggest test of his career in… [+5651 chars]",
+        "positive": 1.3632320587930735e-05,
+        "negative": 3.9118778659030795e-05,
+        "neutral": 0.9999473094940186
+      },
+      {
+        "source": "news",
+        "id": "https://bitcoinist.com/federal-reserve-withdraws-crypto-rules-banks-get-more-freedom/",
+        "timestamp": "2025-12-18T19:00:33+00:00",
+        "text": "Federal Reserve Withdraws Crypto Rules, Banks Get More Freedom \nThe Federal Reserve announced on April 24, 2025, that it is pulling back previous rules for banks handling crypto and dollar tokens. From now on, banks will be supervised the usual way, instead of through separate crypto-focused requirements. Related Reading:… \nThe Federal Reserve announced on April 24, 2025, that it is pulling back previous rules for banks handling crypto and dollar tokens. From now on, banks will be supervised the usual way, instead of th… [+2948 chars]",
+        "positive": 0.00047317382995970547,
+        "negative": 0.003912454005330801,
+        "neutral": 0.9956142902374268
+      },
+      {
+        "source": "news",
+        "id": "https://lebronwire.usatoday.com/story/sports/nba/2025/12/18/lakers-jersey-history-no-19-vern-mikkelsen/87824720007/",
+        "timestamp": "2025-12-18T19:00:31+00:00",
+        "text": "Lakers jersey history No. 19 — Vern Mikkelsen \nA look at Vern Mikkelsen's career with the Lakers. \nThrough the 2024-25 season, the Los Angeles Lakers have had a total of 506 players suit up for them, going back to their days in Minneapolis. Some were forgettable, some were serviceable, some were g… [+1026 chars]",
+        "positive": 2.3878311594671686e-07,
+        "negative": 6.3777747527637985e-06,
+        "neutral": 0.9999933242797852
+      },
+      {
+        "source": "news",
+        "id": "https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/",
+        "timestamp": "2025-12-18T19:00:31+00:00",
+        "text": "Adios 2025, you won’t be missed \nThis week, Joe laments on 2025, and what we can think of in 2026 in the wild world of cybersecurity. \nWelcome to this weeks edition of the Threat Source newsletter. \r\nFor us in America, were in the holiday doldrums and things slow and/or shut down until the new year. At Cisco, we shut down the last w… [+9049 chars]",
+        "positive": 1.5226208233798388e-05,
+        "negative": 0.15235000848770142,
+        "neutral": 0.8476347327232361
+      },
+      {
+        "source": "news",
+        "id": "http://www.newsbtc.com/altcoin/xrp-faith-hits-new-highs-as-long-term-holders-talk-of-a-historic-endgame/",
+        "timestamp": "2025-12-18T19:00:29+00:00",
+        "text": "XRP Faith Hits New Highs As Long-Term Holders Talk Of Historic Endgame \nReports have circulated across social channels this week after a prominent XRP commentator warned critics that they may be underestimating the token’s long-term role in finance. Related Reading: 5,606 Bitcoin: Lightning Network Sets Fresh Capacity Record Acco… \nReports have circulated across social channels this week after a prominent XRP commentator warned critics that they may be underestimating the tokens long-term role in finance.\r\nAccording to a post o… [+3081 chars]",
+        "positive": 0.00036969923530705273,
+        "negative": 0.9971534013748169,
+        "neutral": 0.0024769145529717207
+      },
+      {
+        "source": "news",
+        "id": "https://www.the-sun.com/news/15662067/plane-slams-ground-erupts-fireball-leaving-dead/",
+        "timestamp": "2025-12-18T19:00:19+00:00",
+        "text": "NASCAR driver Greg Biffle killed in plane crash... | Wife, son also dead... \nThe Best for News, Sport, Showbiz, Celebrities \nAttention,\r\nOur system has indicated that your user behaviour is potentially automated.\r\nNews Group Newspapers Limited does not permit the access, collection, text or data mining of any content from … [+717 chars]",
+        "positive": 5.013137069909135e-06,
+        "negative": 3.915996330761118e-06,
+        "neutral": 0.9999910593032837
+      },
+      {
+        "source": "news",
+        "id": "https://sneakernews.com/2025/12/18/nike-aone-gold-grill-im6125-100/",
+        "timestamp": "2025-12-18T19:00:18+00:00",
+        "text": "Nike Made An A’One Inspired By A’ja Wilson’s Gold Grillz \nHow would you celebrate getting a signature shoe? If your résumé is as stacked as A’ja Wilson’s (unlikely), you might want to do something that...\n\n© Sneaker News, 2025. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post Nike Made An A’One Inspired By A’… \nHow would you celebrate getting a signature shoe? If your résumé is as stacked as Aja Wilsons (unlikely), you might want to do something that reflects your career accomplishments so far. Aja did exac… [+1569 chars]",
+        "positive": 1.8548211301094852e-05,
+        "negative": 3.6080029531149194e-05,
+        "neutral": 0.9999452829360962
+      },
+      {
+        "source": "news",
+        "id": "http://chicagoreader.com/music/chicagoans-of-note/hannah-sandoz-folk-shoegaze-softcore/",
+        "timestamp": "2025-12-18T19:00:12+00:00",
+        "text": "Hannah Sandoz, DIY touring musician \nHannah Sandoz (they/he) is a 25-year-old touring musician, content creator, and audio engineer. In 2021, Sandoz graduated from the Technology in Music and Related Arts (TIMARA) program at Oberlin Conservatory, and they moved to Chicago that same year. They’ve… \nHannah Sandoz on tour in San Francisco Credit: Diego Diaz Lundquist\r\nHannah Sandoz (they/he) is a 25-year-old touring musician, content creator, and audio engineer. In 2021, Sandoz graduated from the… [+9888 chars]",
+        "positive": 2.331488303752849e-06,
+        "negative": 1.5313928543037036e-06,
+        "neutral": 0.9999960660934448
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/1969-jaguar-e-type-series-ii-coupe-6/",
+        "timestamp": "2025-12-18T19:00:11+00:00",
+        "text": "One-Family-Owned, Fuel-Injected 1969 Jaguar E-Type Series II Coupe \nThis 1969 Jaguar XKE Series II coupe was purchased new from Rodler-Rooney Motors of White Plains, New York, by the seller's grandfather. The seller and his father refurbished the vehicle during the 1990s, and it was recommissioned in 2020–2023 with work that … \nThis 1969 Jaguar XKE Series II coupe was purchased new from Rodler-Rooney Motors of White Plains, New York, by the seller’s grandfather. The seller and his father refurbished the vehicle during the 1… [+5336 chars]",
+        "positive": 9.741813300934155e-06,
+        "negative": 2.828141805366613e-05,
+        "neutral": 0.9999619722366333
+      },
+      {
+        "source": "news",
+        "id": "https://pypi.org/project/lunalib/1.3.5/",
+        "timestamp": "2025-12-18T19:00:03+00:00",
+        "text": "lunalib 1.3.5 \nA Complete Cryptocurrency Wallet and Mining System \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "positive": 8.998130738291366e-07,
+        "negative": 4.012995486846194e-05,
+        "neutral": 0.999958872795105
+      },
+      {
+        "source": "news",
+        "id": "https://inthesetimes.com/article/inside-the-fight-to-unionize-californias-climbing-gyms-working-people-podcast",
+        "timestamp": "2025-12-18T19:00:00+00:00",
+        "text": "Inside the Fight To Unionize California’s Climbing Gyms \nThe Touchstone Climbing community unionized five gyms, but now the challenge is demanding a fair contract. \nThis week, were staying in Southern California, where the workers of Touchstone Climbing Gym in Los Angeles have been negotiating their first contract with their employer. Touchstone Climbing, a regi… [+7752 chars]",
+        "positive": 0.00017541812849231064,
+        "negative": 0.010055089369416237,
+        "neutral": 0.989769458770752
+      },
+      {
+        "source": "news",
+        "id": "https://www.dailydot.com/viral-politics/white-house-rambling-plaques-presidential-walk-of-fame/",
+        "timestamp": "2025-12-18T19:00:00+00:00",
+        "text": "“Written directly by the President himself”: The White House adds long, rambling plaques to Presidential Walk of Fame \nThe White House drew attention once more after new plaques appeared along President Donald Trump’s recently added \"Presidential Walk of Fame.\" Reporters confirmed the plaques criticized past presidents while praising Trump. \n\n\nHowever, the installation did no… \nThe White House drew attention once more after new plaques appeared along President Donald Trumps recently added Presidential Walk of Fame. Reporters confirmed the plaques criticized past presidents … [+3187 chars]",
+        "positive": 2.7939468054682948e-05,
+        "negative": 0.00026048868312500417,
+        "neutral": 0.9997115731239319
+      },
+      {
+        "source": "news",
+        "id": "http://comicbook.com/comics/list/10-most-important-characters-in-marvel-comics-who-arent-heroes/",
+        "timestamp": "2025-12-18T19:00:00+00:00",
+        "text": "10 Most Important Characters in Marvel Comics Who Aren’t Heroes \nImage Courtesy of Marvel Comics\nMarvel Comics has a lot of great superheroes and villains, but several great non-powered characters play just as important a role in comics. This is because Marvel does its best to create heroes who are relatable to the readers… \nMarvel Comics has a lot of great superheroes and villains, but several great non-powered characters play just as important a role in comics. This is because Marvel does its best to create heroes who … [+7418 chars]",
+        "positive": 0.1624530404806137,
+        "negative": 0.0003138586471322924,
+        "neutral": 0.8372330665588379
+      },
+      {
+        "source": "news",
+        "id": "https://www.sportingnews.com/us/mlb/news/blue-jays-get-major-advantage-bo-bichette-free-agency-pursuit-after-braves-20m-decision/a5f2add239b8a99b8d90a5f3",
+        "timestamp": "2025-12-18T18:58:51+00:00",
+        "text": "Blue Jays get major advantage in Bo Bichette free agency pursuit after Braves' $20M decision \nThe Blue jays might be right in the position they want to be at this current time. \nBlue Jays get major advantage in Bo Bichette free agency pursuit after Braves' $20M decision originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nT… [+2273 chars]",
+        "positive": 0.9999969005584717,
+        "negative": 1.1470065430785326e-07,
+        "neutral": 2.9314276162040187e-06
+      },
+      {
+        "source": "news",
+        "id": "https://pagesix.com/2025/12/18/entertainment/eagle-eyed-fans-spot-taylor-swift-at-travis-kelces-high-school-football-reunion/",
+        "timestamp": "2025-12-18T18:58:30+00:00",
+        "text": "Eagle-eyed fans spot Taylor Swift at Travis Kelce’s high school football reunion \nThe Kansas City Chiefs tight end was seen posing beside his former coach, Jeff Rotsky, during a recent outing in Kansas City, Mo. \nThis is “So High School.” \r\nTaylor Swift was spotted crashing Travis Kelce’s reunion with his high school football coach.\r\nThe Kansas City Chiefs tight end was seen posing beside his former coach, Je… [+2668 chars]",
+        "positive": 0.00010441725316923112,
+        "negative": 0.00020401213259901851,
+        "neutral": 0.9996916055679321
+      },
+      {
+        "source": "news",
+        "id": "https://theintercept.com/2025/12/18/david-brooks-jeffrey-epstein-photos/",
+        "timestamp": "2025-12-18T18:58:13+00:00",
+        "text": "NY Times’ David Brooks Said There’s Too Much Focus on Jeffrey Epstein. Here He Is Hanging With Epstein. \nNew York Times columnist David Brooks appears at a 2011 dinner with Jeffrey Epstein in the latest set of photos from the House Oversight Committee.\nThe post NY Times’ David Brooks Said There’s Too Much Focus on Jeffrey Epstein. Here He Is Hanging With Epstein… \nThe Epstein story? Count him in.\r\nIn November, in the wake of the release of tens of thousands of new documents related to Jeffrey Epstein, New York Times columnist David Brooks announced his intenti… [+4042 chars]",
+        "positive": 9.639682048145914e-07,
+        "negative": 2.4177314116968773e-05,
+        "neutral": 0.9999748468399048
+      },
+      {
+        "source": "news",
+        "id": "https://pypi.org/project/gold-dl/2.0.0/",
+        "timestamp": "2025-12-18T18:58:00+00:00",
+        "text": "gold-dl 2.0.0 \nHigh performance CLI YouTube downloader (video / audio / shorts / playlists) with smart caching and auto quality handling \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "positive": 6.667275556537788e-06,
+        "negative": 0.0004724498721770942,
+        "neutral": 0.9995208978652954
+      },
+      {
+        "source": "news",
+        "id": "https://www.nj.com/politics/2025/12/always-a-con-artist-heres-how-trump-is-paying-for-1776-checks-to-us-troops.html",
+        "timestamp": "2025-12-18T18:57:56+00:00",
+        "text": "‘Always a con artist’: Here’s how Trump is paying for $1,776 checks to U.S. troops \nDefense One first reported that the funding for those checks actually comes from reconciliation funds that were approved by Congress to subsidize housing... \nPresident Donald Trump is already facing backlash for his so-called warrior dividend he announced during his national address on Wednesday night.\r\nTrump announced that 1.45 million military serviceme… [+3095 chars]",
+        "positive": 3.0914259241399122e-06,
+        "negative": 7.874987204559147e-05,
+        "neutral": 0.9999181032180786
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2025/12/18/why-early-retirees-may-be-cheating-themselves-says-4percent-rule-creator.html",
+        "timestamp": "2025-12-18T18:57:41+00:00",
+        "text": "Early retirees may be ‘cheating themselves,’ says 4% rule creator—they can likely withdraw more money each year \nRetirement researcher Bill Bengen has updated the classic 4% rule and says some retirees can safely plan to withdraw 4.7%, even in worst-case scenarios. \nThere's no one right way to retire early. Some people manage to sell a business for a huge sum while others build passive income streams that allow them to leave their 9-to-5. \r\nMany adherents to the… [+4982 chars]",
+        "positive": 3.509153248160146e-05,
+        "negative": 9.227760892827064e-05,
+        "neutral": 0.9998726844787598
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/australias-roads-are-full-of-giant-cars-and-everyone-pays-the-price-what-can-be-done-268212",
+        "timestamp": "2025-12-18T18:57:02+00:00",
+        "text": "Australia’s roads are full of giant cars, and everyone pays the price. What can be done? \nIf larger vehicles make us feel safer inside them, do they also make us take more risks behind the wheel? \nYou may have noticed — there’s a car-size inflation on Australian roads that some have nicknamed car “mobesity”. \n\nMost SUVs and utes from a decade or two ago look small next to today’s models.\n\n\n\nAs… [+5944 chars]",
+        "positive": 6.774983194191009e-05,
+        "negative": 0.0005148208583705127,
+        "neutral": 0.9994174242019653
+      },
+      {
+        "source": "news",
+        "id": "https://loyaltylobby.com/2025/12/18/british-airways-elite-benefits-on-aer-lingus-flights/",
+        "timestamp": "2025-12-18T18:56:38+00:00",
+        "text": "British Airways Elite Benefits On Aer Lingus Flights \nAer Lingus, a former Oneworld member airline, is owned by IAG, which also owns British Airways, Iberia, Vueling, and LEVEL. British Airways introduced Tier Points earnings on Aer Lingus from April last year (read more here), and there were some changes in Sep… \nAer Lingus, a former Oneworld member airline, is owned by IAG, which also owns British Airways, Iberia, Vueling, and LEVEL.\r\nBritish Airways introduced Tier Points earnings on Aer Lingus from April l… [+1963 chars]",
+        "positive": 0.9942759871482849,
+        "negative": 8.091472523119592e-07,
+        "neutral": 0.005723155569285154
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2287f01c3811a640",
+        "timestamp": "2025-12-18T18:55:31+00:00",
+        "text": "Copper Eases But Losses Limited by Supply Concerns, Rate Cut Hopes \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+737 chars]",
+        "positive": 0.956724226474762,
+        "negative": 9.291885362472385e-05,
+        "neutral": 0.04318280890583992
+      },
+      {
+        "source": "news",
+        "id": "https://pypi.org/project/lunalib/1.3.4/",
+        "timestamp": "2025-12-18T18:55:30+00:00",
+        "text": "lunalib 1.3.4 \nA Complete Cryptocurrency Wallet and Mining System \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "positive": 8.412297916038369e-07,
+        "negative": 3.6833243939327076e-05,
+        "neutral": 0.999962329864502
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/e3224f396dc3e89c",
+        "timestamp": "2025-12-18T18:55:26+00:00",
+        "text": "US Fed terminates Citi notices that demanded bank improve risk controls, sources say \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+793 chars]",
+        "positive": 0.04502009227871895,
+        "negative": 0.0004903266672044992,
+        "neutral": 0.9544895887374878
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/5636462a7599537d",
+        "timestamp": "2025-12-18T18:55:23+00:00",
+        "text": "Filecoin price falls 1% after earlier strength, underperforms wider crypto markets \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+757 chars]",
+        "positive": 0.004102008417248726,
+        "negative": 0.0005489682080224156,
+        "neutral": 0.9953489899635315
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/03725261bc952bd0",
+        "timestamp": "2025-12-18T18:55:14+00:00",
+        "text": "Citi Sheds Regulator’s 2024 Penalty Over Risk and Compliance \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+752 chars]",
+        "positive": 0.00019261319539509714,
+        "negative": 8.192010864149779e-05,
+        "neutral": 0.9997255206108093
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/c6e7431b02b80703",
+        "timestamp": "2025-12-18T18:55:08+00:00",
+        "text": "A photo of Miss Finland sparks racist accusations and furor across Asia \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+741 chars]",
+        "positive": 0.0007702445727773011,
+        "negative": 0.0004566475690808147,
+        "neutral": 0.9987731575965881
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/080c6716c08f2fb9",
+        "timestamp": "2025-12-18T18:55:06+00:00",
+        "text": "Why Booking, Expedia Are AI's Top Travel Partners \nArtificial intelligence is beginning to reshape how hotel rooms may soon be searched and booked, as emerging platforms like DirectBooker seek to give AI agents direct, real-time access to hotel rates, availability, and amenities.\nOnline travel agencies, inclu… \nArtificial intelligence is beginning to reshape how hotel rooms may soon be searched and booked, as emerging platforms like DirectBooker seek to give AI agents direct, real-time access to hotel rates… [+143 chars]",
+        "positive": 0.087647944688797,
+        "negative": 0.0005948987090960145,
+        "neutral": 0.9117571711540222
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/6002595b79cc9c2e",
+        "timestamp": "2025-12-18T18:55:05+00:00",
+        "text": "Hopes for January EU-Mercosur Deal Rise After Lula-Meloni Call \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+754 chars]",
+        "positive": 0.000689429696649313,
+        "negative": 1.3066019164398313e-05,
+        "neutral": 0.9992974996566772
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2ac49db075cc7783",
+        "timestamp": "2025-12-18T18:55:01+00:00",
+        "text": "Is Michael Burry Going to Supercharge GameStop Stock Again in 2026? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+744 chars]",
+        "positive": 8.007989526959136e-05,
+        "negative": 2.1128676962689497e-05,
+        "neutral": 0.9998987913131714
+      },
+      {
+        "source": "news",
+        "id": "https://abduzeedo.com/node/88998",
+        "timestamp": "2025-12-18T18:53:57+00:00",
+        "text": "Disconnect to Reconnect: on the Road Again - Photography \nDisconnect to Reconnect: on the Road Again - Photography\n\n \n\n\n abduzeedo\n 12/18 — 2025\n\n\n From burnout to the open road: A story of rediscovering photography through van life. Learn why disconnecting is the ultimate tool for creative recovery.\nFor years, I vi… \nFrom burnout to the open road: A story of rediscovering photography through van life. Learn why disconnecting is the ultimate tool for creative recovery.\r\nFor years, I viewed burnout as something tha… [+2718 chars]",
+        "positive": 0.00045926266466267407,
+        "negative": 0.0001260714780073613,
+        "neutral": 0.9994146823883057
+      },
+      {
+        "source": "news",
+        "id": "https://bikerumor.com/cane-creek-stem-faceplates-colors/",
+        "timestamp": "2025-12-18T18:53:45+00:00",
+        "text": "Cane Creek Drops Colorful New Stem Faceplates \nBrighten up your front end with Cane Creek Chroma Lab's latest color effort - stem faceplates - for GXC and eeSilk stems.\nThe post Cane Creek Drops Colorful New Stem Faceplates appeared first on Bikerumor. \nStraight outta their Chroma Lab comes new brightly colored face plates for Cane Creek’s GXC and eeSilk stems, letting you color coordinate with their headsets, bar ends, and more.\r\nMachined from 6061… [+778 chars]",
+        "positive": 0.0014302307972684503,
+        "negative": 8.64338653627783e-06,
+        "neutral": 0.9985610842704773
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/Business/wireStory/average-us-long-term-mortgage-rate-edges-lower-128525351",
+        "timestamp": "2025-12-18T18:53:36+00:00",
+        "text": "Average US long-term mortgage rate edges lower, remaining near its low for the year \nThe average rate on a 30-year U.S. mortgage edged lower this week, staying relatively close to its low for the year \nThe average rate on a 30-year U.S. mortgage edged lower this week, staying relatively close to its low for the year.\r\nThe decline brings the average long-term mortgage rate to 6.21% from 6.22% last w… [+3142 chars]",
+        "positive": 0.6862755417823792,
+        "negative": 0.12398344278335571,
+        "neutral": 0.18974104523658752
+      },
+      {
+        "source": "news",
+        "id": "https://www.theregister.com/2025/12/18/crypto_crooks_use_stolen_aws/",
+        "timestamp": "2025-12-18T18:53:04+00:00",
+        "text": "Crypto crooks co-opt stolen AWS creds to mine coins \n'Within 10 minutes of gaining initial access, crypto miners were operational'\nYour AWS account could be quietly running someone else's cryptominer. Cryptocurrency thieves are using stolen Amazon account credentials to mine for coins at the expense of AWS cust… \nYour AWS account could be quietly running someone else's cryptominer. Cryptocurrency thieves are using stolen Amazon account credentials to mine for coins at the expense of AWS customers, abusing the… [+2502 chars]",
+        "positive": 0.0002106097963405773,
+        "negative": 0.000348767323885113,
+        "neutral": 0.999440610408783
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/18/3208111/0/en/Workplace-Transformation-Market-Set-to-Reach-US-188-7-Billion-by-2035-as-Generative-AI-Adoption-Delivers-Massive-Productivity-and-Operational-Efficiency-Gains-Says-Astute-Analytica.html",
+        "timestamp": "2025-12-18T18:53:00+00:00",
+        "text": "Workplace Transformation Market Set to Reach US$ 188.7 Billion by 2035 as Generative AI Adoption Delivers Massive Productivity and Operational Efficiency Gains Says Astute Analytica \nEnterprises currently prioritizing resilience by funneling capital into AI-driven automation and fortified cloud infrastructures to support distributed teams. Wherein, decision-makers in the market are aggressively consolidating software portfolios to optimiz… \nChicago, Dec. 18, 2025 (GLOBE NEWSWIRE) -- The global workplace transformation market valuation was valued at US$ 31.5 billion in 2025 and is projected to reach US$ 188.7 billion by 2035, reflecting … [+14328 chars]",
+        "positive": 0.9994681477546692,
+        "negative": 1.0540469475017744e-06,
+        "neutral": 0.0005307387909851968
+      },
+      {
+        "source": "news",
+        "id": "https://brobible.com/sports/article/reggie-miller-conspiracy-theory-lakers-nba-cup/",
+        "timestamp": "2025-12-18T18:50:14+00:00",
+        "text": "Reggie Miller Promotes Conspiracy Theory About The Lakers And Their 2023 NBA Cup Championship \nThe New York Knicks are your 2025 NBA Cup Champions after defeating the San Antonio Spurs this week. But don’t expect the Knicks to hang a banner celebrating their NBA Cup championship. Despite it being the franchise’s first championship of any kind in over 5… \nCandice Ward-Imagn Images\r\nThe New York Knicks are your 2025 NBA Cup Champions after defeating the San Antonio Spurs this week. But don’t expect the Knicks to hang a banner celebrating their NBA Cup … [+2324 chars]",
+        "positive": 3.64267616532743e-05,
+        "negative": 8.902706031221896e-05,
+        "neutral": 0.999874472618103
+      },
+      {
+        "source": "news",
+        "id": "https://www.animenewsnetwork.com/news/2025-12-18/digimon-beatbreak-anime-gets-english-dub/.232245",
+        "timestamp": "2025-12-18T18:50:10+00:00",
+        "text": "Digimon Beatbreak Anime Gets English Dub \nLatest anime in Digimon franchise debuted on October 5 \nImage via Digimon Beatbreak anime's website\r\n©Akiyoshi HongoToei Animation\r\nToei Animation announced on Thursday that DIGIMON BEATBREAK, the new television anime for the Digimonfranchise, is getting … [+1898 chars]",
+        "positive": 0.15015126764774323,
+        "negative": 8.890860044630244e-05,
+        "neutral": 0.8497598171234131
+      },
+      {
+        "source": "news",
+        "id": "https://bleedingcool.com/comics/superman-goes-missing-so-superboy-prime-takes-over-in-2026-event/",
+        "timestamp": "2025-12-18T18:50:05+00:00",
+        "text": "Superman Goes Missing So Superboy Prime Takes Over In 2026 Event \nDC Comics' Reign of the Superboys begins in March 2026 in Action Comics #1096 by Mark Waid and Skylar Patridge, as a young Superboy Clark Kent from the past collides with today's Justice League Unlimited. And Martian Manhunter, Mary Marvel, and Booster Gold s… \nPosted in: Comics, DC Comics, Justice League, Superman | Tagged: Absolute Superman, Reign Of The Superboys, superboy prime\r\nSuperman goes missing so Superboy Prime takes over in Reign Of The Superboy… [+4669 chars]",
+        "positive": 3.6859775718767196e-05,
+        "negative": 1.3250411029730458e-05,
+        "neutral": 0.9999499320983887
+      },
+      {
+        "source": "news",
+        "id": "https://eplindex.com/140460/david-ornstein-provides-tottenham-hotspur-transfer-update-ahead-of-january-window.html",
+        "timestamp": "2025-12-18T18:50:00+00:00",
+        "text": "David Ornstein provides Tottenham Hotspur transfer update ahead of January window \nSpurs Monitor Semenyo and Savinho as January Plans Take ShapeTottenham Hotspur’s thinking ahead of the January transfer window is beginning to crystallise, with two attacking names emerging prominen... \nTottenham Hotspurs thinking ahead of the January transfer window is beginning to crystallise, with two attacking names emerging prominently in internal and external discussions. Antoine Semenyo and S… [+4041 chars]",
+        "positive": 0.0003859522403217852,
+        "negative": 1.0552454114076681e-05,
+        "neutral": 0.9996034502983093
+      },
+      {
+        "source": "news",
+        "id": "https://pypi.org/project/lunalib/1.3.3/",
+        "timestamp": "2025-12-18T18:49:11+00:00",
+        "text": "lunalib 1.3.3 \nA Complete Cryptocurrency Wallet and Mining System \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "positive": 9.150184610007273e-07,
+        "negative": 3.799001206061803e-05,
+        "neutral": 0.9999610185623169
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/18/3208108/0/en/Latest-Air-Pollution-Control-Systems-for-Coal-Fired-Power-Plants-Market-Set-to-Reach-US-6-069-57-Million-by-2033-Astute-Analytica.html",
+        "timestamp": "2025-12-18T18:48:00+00:00",
+        "text": "[Latest] Air Pollution Control Systems for Coal-Fired Power Plants Market Set to Reach US$ 6,069.57 Million by 2033 | Astute Analytica \nThe market shows a clear geographical divergence. Rapid growth in Asia, driven by new plant construction in China and India, fuels demand for new systems. Meanwhile, mature markets in North America and Europe focus on retrofitting existing facilities. The mar… \nChicago, Dec. 18, 2025 (GLOBE NEWSWIRE) -- The global air pollution control system for coal-fired power plants market was valued at US$ 4,084.28 million in 2024 and is expected to reach US$ 6,069.57 … [+15067 chars]",
+        "positive": 0.9786051511764526,
+        "negative": 5.8517711295280606e-05,
+        "neutral": 0.021336285397410393
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/industry/media/entertainment/spotify-india-turns-profitable-in-fy25-on-subscription-surge/articleshow/126063689.cms",
+        "timestamp": "2025-12-18T18:47:25+00:00",
+        "text": "Spotify India turns profitable in FY25 on subscription surge \nSpotify India has achieved a significant financial turnaround. The music streaming platform reported a net profit of Rs 75 crore for FY25, a substantial improvement from the previous year's loss. This success stems from robust revenue growth and a sharp decre… \nMumbai: Global music streaming platform Spotifys Indian unit swung to a net profit of Rs 75 crore in FY25 from a year-earlier net loss of Rs 143 crore. The financial turnaround was powered by strong … [+2101 chars]",
+        "positive": 0.9999997615814209,
+        "negative": 2.544017263517162e-07,
+        "neutral": 1.9118553407082572e-09
+      },
+      {
+        "source": "news",
+        "id": "https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale",
+        "timestamp": "2025-12-18T18:47:20+00:00",
+        "text": "30 great gift ideas that should arrive in time for Christmas \nYou don’t need to deal with long mall lines or crowded parking lots just to wrap up your holiday shopping, but you probably already knew this. Some of the best deals are online, and even though Christmas is now just a few days away, a lot of Verge-approved gi… \nYou can save $50 on the latest AirPods Pro and still have it arrive in time for Christmas.\r\n\n\nYou don’t need to deal with long mall lines or crowded parking lots just to wrap up your holiday shopping… [+14123 chars]",
+        "positive": 0.0002424783888272941,
+        "negative": 0.00015861724386923015,
+        "neutral": 0.9995989203453064
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/18/3208107/0/en/Charlie-Rothkopf-Sets-New-Standard-for-Leadership-Grounded-in-Integrity-Transparency-and-Innovation.html",
+        "timestamp": "2025-12-18T18:46:00+00:00",
+        "text": "Charlie Rothkopf Sets New Standard for Leadership Grounded in Integrity, Transparency, and Innovation \nFounder of CZR recognized for principled leadership and a vision shaping the next generation of digital infrastructure Founder of CZR recognized for principled leadership and a vision shaping the next generation of digital infrastructure \nGeorge Town, Cayman Islands, Dec. 18, 2025 (GLOBE NEWSWIRE) -- Charlie Rothkopf \r\nCharlie Rothkopf, founder of CZR and a prominent voice in next-generation financial innovation, today reaffirmed the … [+4485 chars]",
+        "positive": 0.18435315787792206,
+        "negative": 8.795375833869912e-06,
+        "neutral": 0.8156381249427795
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/news/what-happens-when-an-unpaid-balance-is-sent-to-collections/",
+        "timestamp": "2025-12-18T18:45:56+00:00",
+        "text": "What happens when an unpaid balance is sent to collections? \nIf a bill lands in collections, the fallout escalates quickly. So, you should know what to expect and how to fix it. \nUnderstanding the collections process can help you protect your credit and explore options to resolve outstanding debts.\r\nYta23/Getty Images\r\nIt's one thing to fall behind on a bill, but it's another… [+5447 chars]",
+        "positive": 0.0038371512200683355,
+        "negative": 0.000684466038364917,
+        "neutral": 0.9954783320426941
+      },
+      {
+        "source": "news",
+        "id": "https://statetimes.in/ladakh-emerging-as-a-responsible-sustainable-global-tourism-destination-lg-kavinder/",
+        "timestamp": "2025-12-18T18:45:54+00:00",
+        "text": "Ladakh emerging as a responsible, sustainable global Tourism Destination: LG Kavinder \nUnveils logo of Destination Ladakh, ‘Celebrate Ladakh’ calendar & STP Incentive Scheme STATE TIMES NEWS LEH: The Lieutenant Governor of Ladakh, Kavinder Gupta, on Thursday said that Ladakh is steadily emerging as a memorable, responsible and sustainable globa… \nUnveils logo of Destination Ladakh, ‘Celebrate Ladakh’ calendar &amp; STP Incentive Scheme\r\nSTATE TIMES NEWS\r\nLEH: The Lieutenant Governor of Ladakh, Kavinder Gupta, on Thursday said that Ladakh is s… [+2907 chars]",
+        "positive": 0.00017924046551343054,
+        "negative": 1.0404500244476367e-05,
+        "neutral": 0.9998103976249695
+      },
+      {
+        "source": "news",
+        "id": "https://statetimes.in/iim-jammu-hosts-member-niti-aayog-for-keynote-address-on-nation-building-and-viksit-bharat-2047/",
+        "timestamp": "2025-12-18T18:44:53+00:00",
+        "text": "IIM Jammu hosts Member NITI Aayog for keynote address on Nation Building and Viksit Bharat 2047 \nSTATE TIMES NEWS JAMMU: The Indian Institute of Management (IIM) Jammu had the honour of hosting Dr. Vinod K. Paul, Member, NITI Aayog, who delivered a keynote address on the eve of the Strategic Management Forum (SMF) 2025, marking a significant milestone in… \nSTATE TIMES NEWS\r\nJAMMU: The Indian Institute of Management (IIM) Jammu had the honour of hosting Dr. Vinod K. Paul, Member, NITI Aayog, who delivered a keynote address on the eve of the Strategic Ma… [+2690 chars]",
+        "positive": 0.841593861579895,
+        "negative": 2.9725964850513265e-05,
+        "neutral": 0.15837642550468445
+      },
       {
         "source": "news",
         "id": "https://biztoc.com/x/9999fdff98668f80",
@@ -581,15 +1058,6 @@
       },
       {
         "source": "news",
-        "id": "https://thefly.com/permalinks/entry.php/id4259727/GM;AUR;TSLA-GMs-Anderson-emerging-as-frontrunner-to-succeed-CEO-Barra-Bloomberg-says",
-        "timestamp": "2025-12-18T18:16:47+00:00",
-        "text": "GM's Anderson emerging as front-runner to succeed CEO Barra, Bloomberg says \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
-        "positive": 0.061459966003894806,
-        "negative": 3.939730959245935e-06,
-        "neutral": 0.9385361671447754
-      },
-      {
-        "source": "news",
         "id": "https://mmajunkie.usatoday.com/story/sports/boxing/2025/12/18/jake-paul-vs-anthony-joshua-weigh-in-results/87826397007/",
         "timestamp": "2025-12-18T18:16:44+00:00",
         "text": "Jake Paul, Anthony Joshua make weight for Netflix boxing match \nJake Paul vs. Anthony Joshua, one of the unlikeliest matchups in boxing history, officially became official after they stepped on the scale Thursday. \nMIAMI Jake Paul vs. Anthony Joshua, one of the unlikeliest matchups in boxing history, officially became official after both men stepped on the scale Thursday.\r\nGiven the size difference, Joshua was … [+1836 chars]",
@@ -599,39 +1067,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.sportingnews.com/us/mlb/toronto-blue-jays/news/kyle-tuckers-free-agency-update-force-blue-jays-be-patient/3702d652ac07d10a7e1844fa",
-        "timestamp": "2025-12-18T18:16:37+00:00",
-        "text": "Kyle Tucker's free agency update will force Blue Jays to be patient \nBlue Jays fans will have to be patient this winter. \nKyle Tucker's free agency update will force Blue Jays to be patient originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nAfter a fast-paced start t… [+2072 chars]",
-        "positive": 3.8300862797768787e-05,
-        "negative": 1.7840948203229345e-05,
-        "neutral": 0.9999438524246216
-      },
-      {
-        "source": "news",
-        "id": "https://brobible.com/sports/article/ncaa-rips-kalshi-transfer-portal-prediction-market/",
-        "timestamp": "2025-12-18T18:16:14+00:00",
-        "text": "NCAA President Tears Into Prediction Market Platform Over Plan To Launch ‘Unacceptable’ Transfer Portal Action \nThe NCAA has had to deal with plenty of headaches over the past few years thanks to the widespread legalization of sports betting. Now, its president is pushing back against the prediction market giant Kalshi over its apparent plan to start offering action on… \nThomas Fuller/SOPA Images/LightRocket via Getty Images\r\nThe NCAA has had to deal with plenty of headaches over the past few years thanks to the widespread legalization of sports betting. Now, its pre… [+3369 chars]",
-        "positive": 0.0013091441942378879,
-        "negative": 0.9733054041862488,
-        "neutral": 0.025385422632098198
-      },
-      {
-        "source": "news",
         "id": "https://www.bbc.com/news/articles/c1kp2722399o",
         "timestamp": "2025-12-18T18:15:56+00:00",
         "text": "Faisal Islam: Will 'Santa rate cut' have enough festive spirit to boost the economy? \nThe Bank of England is hoping the interest rate cut will inject some much-needed momentum into the economy. \nFaisal IslamEconomics editor\r\nThe future of the economy can sometimes be seen in minor gestures of a Bank of England governor, such as the arch of his eyebrows. So what to make of Andrew Bailey sport… [+2472 chars]",
         "positive": 8.04673763923347e-05,
         "negative": 0.00029015218024142087,
         "neutral": 0.9996293783187866
-      },
-      {
-        "source": "news",
-        "id": "https://www.ncspin.com/our-pants-on-fire-president",
-        "timestamp": "2025-12-18T18:15:45+00:00",
-        "text": "Our \"pants on fire\" president \nTrump embodies all of the characteristics of a leader who has absolutely no consideration for the honest people he’s supposed to serve. \nRecently, I authored a commentary that examined how, under Trump, we are “governed by fraud, and led by liars.” I hope you read it, and if you did, I hope you got something out of it. It was a length… [+10959 chars]",
-        "positive": 0.00022635978530161083,
-        "negative": 0.0002931786293629557,
-        "neutral": 0.9994804263114929
       },
       {
         "source": "news",
@@ -695,24 +1136,6 @@
         "positive": 4.762395838042721e-05,
         "negative": 0.0008164564496837556,
         "neutral": 0.9991359114646912
-      },
-      {
-        "source": "news",
-        "id": "https://www.news.com.au/finance/culture/australian-culture/bar-mitzvah-turns-to-terror-as-100-children-hide-from-bondi-gunmen/news-story/9a4ca50fca696c4dc0e809ad7b7b52a4",
-        "timestamp": "2025-12-18T18:11:48+00:00",
-        "text": "Sydney mom reveals horrifying moment Bondi Beach terrorists opened fire while children fled \nThe Bondi Beach terrorist attack took the lives of 15 innocent people at a Hanukkah festival. \nWhen a Sydney mom invited her sons entire school year to his bar mitzvah at the Bondi Pavilion, she figured itd be a great way to end the year. But it turned into a terrifying nightmare.\r\nSarah Vanun… [+7445 chars]",
-        "positive": 0.0039832438342273235,
-        "negative": 0.031164325773715973,
-        "neutral": 0.9648523926734924
-      },
-      {
-        "source": "news",
-        "id": "https://decrypt.co/352899/sec-says-third-party-bitcoin-mining-services-securities-offering-lawsuit",
-        "timestamp": "2025-12-18T18:11:03+00:00",
-        "text": "SEC Says Third-Party Bitcoin Mining Services Are Securities Offerings in New Lawsuit \nThe SEC charged a Philadelphia-based Bitcoin mining entrepreneur with running an illegal securities scheme and misappropriating over $48 million of customer funds. \nIn brief\r\n<ul><li>The SEC says some third-party Bitcoin mining hosting qualifies as a securities offering in a new lawsuit.</li><li>The lawsuit against Bitcoin miner VBit also accuses the company's f… [+2602 chars]",
-        "positive": 0.00022526804241351783,
-        "negative": 0.04501407966017723,
-        "neutral": 0.9547606110572815
       },
       {
         "source": "news",
@@ -833,24 +1256,6 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/media/entertainment/media/australian-open-sony-pictures-networks-india-extend-broadcast-partnership/articleshow/126063046.cms",
-        "timestamp": "2025-12-18T18:09:46+00:00",
-        "text": "Australian Open, Sony Pictures Networks India extend broadcast partnership \nThe Australian Open and Sony Pictures Networks India (SPNI) have extended their broadcast agreement, guaranteeing continued live coverage across India and the Indian subcontinent. SPNI will retain exclusive television and digital rights for the Grand Slam in … \nThe Australian Open and Sony Pictures Networks India (SPNI) have extended their long-standing broadcast agreement, ensuring continued live coverage of the Grand Slam across India and the wider Indian… [+877 chars]",
-        "positive": 0.0004125271225348115,
-        "negative": 0.0007050965214148164,
-        "neutral": 0.9988824725151062
-      },
-      {
-        "source": "news",
-        "id": "http://electrek.co/2025/12/18/chinese-korean-ev-pickup-sales-surge-us-pulls-back/",
-        "timestamp": "2025-12-18T18:09:45+00:00",
-        "text": "Chinese and Korean EV pickup sales are surging, so what’s wrong with the US? \nChinese and Korean automakers are selling more pickups than ever before, thanks to new electric options. The US, on the other hand, is headed in the wrong direction.\n\n\n\n more… \nChinese and Korean automakers are selling more pickups than ever before, thanks to new electric options. The US, on the other hand, is headed in the wrong direction.\r\nAmerica is known for its love af… [+3840 chars]",
-        "positive": 0.0012155270669609308,
-        "negative": 0.9362820982933044,
-        "neutral": 0.0625024363398552
-      },
-      {
-        "source": "news",
         "id": "https://www.fujirumors.com/digging-deeper-into-the-goldmine-fujifilm-to-increase-instax-film-production-by-10-in-2026/",
         "timestamp": "2025-12-18T18:09:32+00:00",
         "text": "Digging Deeper into the Goldmine: Fujifilm to Increase Instax Film Production by 10% in 2026 \nFujifilm CEO said it clearly: Instax is Fujifilm’s new Goldmine. And the success seems to continue, so much so that Fujifilm has announced a 10% production increase of Instax Film in 2026. Fujifilm Sold More than 100 Million Instax Cameras since 1998 Fujifilm… \nFujifilm CEO said it clearly: Instax is Fujifilm’s new Goldmine.\r\nAnd the success seems to continue, so much so that Fujifilm has announced a 10% production increase of Instax Film in 2026.\r\nPress Re… [+2408 chars]",
@@ -869,93 +1274,12 @@
       },
       {
         "source": "news",
-        "id": "https://financialpost.com/pmn/transat-notches-first-full-year-profit-since-2018-brushes-off-hit-from-strike-threat",
-        "timestamp": "2025-12-18T18:09:18+00:00",
-        "text": "Transat notches first full-year profit since 2018, brushes off hit from strike threat \nMONTREAL — The head of Transat A.T. Inc. says fallout was “limited” from a strike threat by its pilots and that the company continues to benefit from Canadians’ turn away from U.S. travel, paving the runway for growth in the new year after the tour operator t… \nMONTREAL The head of Transat A.T. Inc. says fallout was limited from a strike threat by its pilots and that the company continues to benefit from Canadians turn away from U.S. travel, paving the runw… [+4868 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 6.473132430073747e-08,
-        "neutral": 2.9242769983284234e-08
-      },
-      {
-        "source": "news",
         "id": "https://www.cnbc.com/2025/12/18/trump-bigger-tax-refunds.html",
         "timestamp": "2025-12-18T18:08:51+00:00",
         "text": "Trump promises 'largest tax refund season of all time.' What you can expect \nPresident Donald Trump is promising bigger tax refunds in 2026 due to changes enacted via the \"big beautiful bill.\" Here's what to expect. \nTrump's address comes amid the president's falling approval ratings on inflation and the cost of living, according to the CNBC All-America Economic Survey, which polled 1,000 U.S. adults in early Dec… [+2227 chars]",
         "positive": 0.010681887157261372,
         "negative": 0.0035164388827979565,
         "neutral": 0.985801637172699
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/india/india-oman-cepa-a-blueprint-for-shared-future-pm-on-deal/articleshow/126063038.cms",
-        "timestamp": "2025-12-18T18:08:51+00:00",
-        "text": "India-Oman CEPA a blueprint for shared future: PM on deal \nIndia and Oman have signed a landmark Comprehensive Economic Partnership Agreement. Prime Minister Narendra Modi called it a blueprint for a shared future. This agreement will boost bilateral trade and investment. It will create new opportunities for growth, … \nIndia and Oman on Thursday signed the landmark Comprehensive Economic Partnership Agreement (CEPA), which Prime Minister Narendra Modi described as the \"blueprint for India-Oman shared future\".Speaki… [+3372 chars]",
-        "positive": 0.9993444085121155,
-        "negative": 8.96668780114851e-07,
-        "neutral": 0.0006546367076225579
-      },
-      {
-        "source": "news",
-        "id": "https://cointelegraph.com/news/sofi-us-dollar-stablecoin-bank-fintechs",
-        "timestamp": "2025-12-18T18:07:58+00:00",
-        "text": "SoFi rolls out US dollar stablecoin issued by bank subsidiary \nSoFi has launched SoFiUSD, a fully reserved US dollar stablecoin issued by its nationally chartered bank, offering settlement and payment infrastructure for banks, fintechs and enterprises. \nSoFi Technologies has launched SoFiUSD, a fully reserved US dollar stablecoin issued by its banking subsidiary, SoFi Bank.\r\nAccording to Thursdays announcement, SoFiUSD is backed one-to-one by cash h… [+3276 chars]",
-        "positive": 7.410535999952117e-06,
-        "negative": 1.2160326150478795e-06,
-        "neutral": 0.9999914169311523
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-chat/4358005/posts",
-        "timestamp": "2025-12-18T18:07:43+00:00",
-        "text": "Coursera to buy Udemy, creating $2.5 billion firm to target AI training \nOnline education platform Coursera (COUR.N), opens new tab said on Wednesday it would buy rival Udemy (UDMY.O), opens new tab in an all-stock deal, valuing the combined company at $2.5 billion, as the industry consolidates after a post-pandemic slowdown and h… \nSkip to comments.\r\nCoursera to buy Udemy, creating $2.5 billion firm to target AI trainingReuters ^\r\n | 12/18/2025\r\n | Akash Sriram\r\nPosted on 12/18/2025 10:07:43 AM PST by SeekAndFind\r\nOnline educat… [+2989 chars]",
-        "positive": 0.00516181904822588,
-        "negative": 3.1317522370954975e-05,
-        "neutral": 0.9948068261146545
-      },
-      {
-        "source": "news",
-        "id": "https://www.thelocal.com/20251218/mayhem-and-chaos-europes-airports-demand-urgent-review-of-new-border-system",
-        "timestamp": "2025-12-18T18:06:28+00:00",
-        "text": "'Mayhem and chaos': Europe's airports demand urgent review of new border system \nThe association of European airports called on Thursday for an urgent review of the new EU border system, amid “mounting operational issues” that could affect the holiday season. \nThe association of European airports called on Thursday for an urgent review of the new EU border system, amid mounting operational issues that could affect the holiday season.\r\n In a letter to the E… [+3665 chars]",
-        "positive": 0.00010256518726237118,
-        "negative": 0.0007850648835301399,
-        "neutral": 0.9991124272346497
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/18/us-news/trump-to-deliver-pot-reform-dream-but-rescheduling-stops-short-of-full-legalization/",
-        "timestamp": "2025-12-18T18:05:05+00:00",
-        "text": "Trump set to deliver pot reform dream — but rescheduling stops short of full legalization \nPresident Trump's move to reclassify marijuana from a \"Schedule I” to \"Schedule III\" drug stops short of full legalization. \nWASHINGTON President Trump on Thursday is expected to deliver the biggest federal policy win yet for marijuana reform advocates ending 55 years of pots categorization as a Schedule I drug alongside h… [+7026 chars]",
-        "positive": 0.30944177508354187,
-        "negative": 0.002746881451457739,
-        "neutral": 0.6878113746643066
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-chat/4358003/posts",
-        "timestamp": "2025-12-18T18:05:03+00:00",
-        "text": "Merit, Marriage, and Systemic Discrimination Against White Men \nThere is an old American promise that has always been more fragile than we like to admit, and today it is being broken in plain sight. The promise was never that everyone would succeed. It was that everyone would be allowed to compete under one set of rules, … \nSkip to comments.\r\nMerit, Marriage, and Systemic Discrimination Against White MenAMUSE on X ^\r\n | 17 Dec, 2025\r\n | @AMUSE (Alexander Muse)\r\nPosted on 12/18/2025 10:05:03 AM PST by MtnClimber\r\nThere i… [+15102 chars]",
-        "positive": 0.838738739490509,
-        "negative": 0.002520483685657382,
-        "neutral": 0.15874065458774567
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbc.ca/news/canada/montreal/pablo-rodriguez-resignation-next-quebec-liberal-leader-9.7020441",
-        "timestamp": "2025-12-18T18:04:49+00:00",
-        "text": "Now that Pablo Rodriguez is out, who would want to be Quebec Liberal leader? \nIt took only six months for political veteran Pablo Rodriguez’s hopes of advancing a vision for a “ more humane ” Quebec as the province's premier to come crashing down. \nA day before Pablo Rodriguez announced his intention to run for leadership of the Quebec Liberal Party, early supporter Désirée McGraw MNA for Notre-Dame-de-Grâce called the former federal cabinet mi… [+6545 chars]",
-        "positive": 3.293868212494999e-05,
-        "negative": 0.0001740926381899044,
-        "neutral": 0.9997929930686951
-      },
-      {
-        "source": "news",
-        "id": "https://www.boredpanda.com/swimwear-model-receives-backlash-after-bondi-beach-attack-posts/",
-        "timestamp": "2025-12-18T18:04:45+00:00",
-        "text": "Swimwear Model Sparks Outrage With ‘Tone Deaf’ Posts Shortly After Bondi Beach Attack \nSo 'tone deaf,’ critics say as swimwear model’s Bondi Beach posts spark backlash. \nA swimwear model and business owner is being dragged online for what many described as “tone deaf” social media posts. She shared the posts shortly after the deadly Bondi Beach attack.\r\nThe controver… [+6933 chars]",
-        "positive": 2.876656935768551e-06,
-        "negative": 6.129448593128473e-05,
-        "neutral": 0.9999358654022217
       },
       {
         "source": "news",
@@ -968,39 +1292,12 @@
       },
       {
         "source": "news",
-        "id": "https://truthout.org/articles/trump-administration-sets-goal-to-denaturalize-thousands-of-us-citizens-in-2026/",
-        "timestamp": "2025-12-18T18:04:25+00:00",
-        "text": "Trump Administration Sets Goal to Denaturalize Thousands of US Citizens in 2026 \nImmigration officials have reportedly issued guidance setting a quota of 100 to 200 denaturalization cases a month. \nAs we produce journalism that combats authoritarianism, censorship, injustice, and misinformation, your support is urgently needed. Please make a year-end gift to Truthout today.\r\nThe Trump administr… [+4462 chars]",
-        "positive": 0.0022231554612517357,
-        "negative": 0.00030537767452187836,
-        "neutral": 0.9974715709686279
-      },
-      {
-        "source": "news",
         "id": "https://www.thestar.com.my/news/world/2025/12/19/belarus-prepares-039big-deal039-with-us-but-not-at-russia039s-expense-lukashenko-says",
         "timestamp": "2025-12-18T18:04:00+00:00",
         "text": "Belarus prepares 'big deal' with US but not at Russia's expense, Lukashenko says \nDec 18 (Reuters) - Belarus is nearing a major deal to restore relations with the United States but will not give up its close ties to Russia, President Alexander Lukashenko said on Thursday. Read full story \nDec 18 (Reuters) - Belarus is nearing a major deal to restore relations with the United States but will not give up its close ties to Russia, President Alexander Lukashenko said on Thursday.\r\nSpeakin… [+2532 chars]",
         "positive": 0.00017712214321363717,
         "negative": 9.852034418145195e-05,
         "neutral": 0.9997243285179138
-      },
-      {
-        "source": "news",
-        "id": "https://pagesix.com/2025/12/18/style/ice-spice-wears-sheer-blumarine-dress-and-thong-to-spongebob-movie-screening/",
-        "timestamp": "2025-12-18T18:03:43+00:00",
-        "text": "Ice Spice shows off her bikini bottom in see-through lace dress at ‘SpongeBob Movie’ screening \nThe Bronx rapper put her ivory underpinnings on full display beneath a sheer white Blumarine number. \nIce Spice arrived at “The SpongeBob Movie: Search for SquarePants” screening in NYC on Tuesday in a sheer white Blumarine dress. GC Images\r\nIce Spice left her SquarePants at home.\r\nThe 25-year-old ra… [+2217 chars]",
-        "positive": 5.959746886219364e-06,
-        "negative": 6.637732440140098e-06,
-        "neutral": 0.9999873638153076
-      },
-      {
-        "source": "news",
-        "id": "https://blogdoandroid.com/sportsurge-your-go-to-platform-for-live-sports-streaming/",
-        "timestamp": "2025-12-18T18:02:56+00:00",
-        "text": "Sportsurge: Your Go-To Platform for Live Sports Streaming \nThe way audiences consume live sports has transformed rapidly over the last decade. Traditional broadcasting models are no longer…\nThe post   Sportsurge: Your Go-To Platform for Live Sports Streaming appeared first on Blog do Android. \nThe way audiences consume live sports has transformed rapidly over the last decade. Traditional broadcasting models are no longer the sole option, as digital platforms now play a major role in how fa… [+9359 chars]",
-        "positive": 0.029265161603689194,
-        "negative": 0.00017581271822564304,
-        "neutral": 0.9705589413642883
       },
       {
         "source": "news",
@@ -1013,318 +1310,12 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/opinion/et-commentary/surge-pricing-isnt-and-shouldnt-be-outlawed-unfair-trade-practices-should-so-regulate-smartly/articleshow/126062933.cms",
-        "timestamp": "2025-12-18T18:01:42+00:00",
-        "text": "Surge pricing isn’t — and shouldn’t — be outlawed, unfair trade practices should — so regulate smartly \nIndia's travel industry is under scrutiny as the framework for consumer protection is put to the test by recent airline cancellations. The Competition Commission of India is launching an investigation into IndiGo, examining the potential for antitrust breache… \nCompetition Commission of India has decided to launch an inquiry into IndiGo, to investigate if the airline broke antitrust rules. But the recent cancellation of hundreds of IndiGo flights was not me… [+5840 chars]",
-        "positive": 0.00016697355022188276,
-        "negative": 0.9023781418800354,
-        "neutral": 0.09745488315820694
-      },
-      {
-        "source": "news",
         "id": "https://www.usatoday.com/story/sports/boxing/2025/12/18/jake-paul-anthony-joshua-weigh-in-time-streaming/87828286007/",
         "timestamp": "2025-12-18T18:01:01+00:00",
         "text": "Jake Paul vs Anthony Joshua weigh-in: How to watch Netflix fight event \nJake Paul and Anthony Joshua are set to weigh in tonight for their much-anticipated fight Friday in Miami. Tune in for the pagentry, mayhem and more. \nThe war of words has been steadily escalating. Now it's almost time for war to be waged in the ring.\r\nHeavyweights Jake Paul and Anthony Joshua will have their official weigh-in Thursday night in Mia… [+1790 chars]",
         "positive": 7.071915661072126e-06,
         "negative": 2.5710343834361993e-05,
         "neutral": 0.9999672174453735
-      },
-      {
-        "source": "news",
-        "id": "https://siliconangle.com/2025/12/18/university-develops-ai-training-groupd-googlecloud/",
-        "timestamp": "2025-12-18T18:00:49+00:00",
-        "text": "University of Michigan partners with Google Cloud to prepare students for an AI-driven workforce \nUniversity of Michigan is turning its campus into a real-world AI proving ground, where emerging technology meets the next generation of workers before they even graduate. That experiment took center stage during Google LLC’s recent “GCP Goes to School” immer… \nUniversity of Michigan is turning its campus into a real-world AI proving ground, where emerging technology meets the next generation of workers before they even graduate.\r\nThat experiment took cente… [+6810 chars]",
-        "positive": 0.00011822189844679087,
-        "negative": 5.127871645527193e-06,
-        "neutral": 0.9998766183853149
-      },
-      {
-        "source": "news",
-        "id": "https://siliconangle.com/2025/12/18/university-develops-ai-training-ground-googlecloud/",
-        "timestamp": "2025-12-18T18:00:49+00:00",
-        "text": "University of Michigan partners with Google Cloud to prepare students for an AI-driven workforce \nUniversity of Michigan is turning its campus into a real-world AI proving ground, where emerging technology meets the next generation of workers before they even graduate. That experiment took center stage during Google LLC’s recent “GCP Goes to School” immer… \nUniversity of Michigan is turning its campus into a real-world AI proving ground, where emerging technology meets the next generation of workers before they even graduate.\r\nThat experiment took cente… [+6810 chars]",
-        "positive": 0.00011822189844679087,
-        "negative": 5.127871645527193e-06,
-        "neutral": 0.9998766183853149
-      },
-      {
-        "source": "news",
-        "id": "https://kevinmd.com/2025/12/how-to-keep-the-soul-of-medicine-alive-in-a-scaling-system.html",
-        "timestamp": "2025-12-18T18:00:47+00:00",
-        "text": "How to keep the soul of medicine alive in a scaling system \nMedicine is getting faster, louder, and more efficient, and many of us feel something quietly slipping away. We talk about burnout, moral injury, and depersonalized care, but the deeper question is often left untouched: How do we keep the soul of medicine ali… \nMedicine is getting faster, louder, and more efficient, and many of us feel something quietly slipping away. We talk about burnout, moral injury, and depersonalized care, but the deeper question is o… [+6426 chars]",
-        "positive": 0.39374586939811707,
-        "negative": 0.028713904321193695,
-        "neutral": 0.5775402188301086
-      },
-      {
-        "source": "news",
-        "id": "https://www.bluetracker.gg/wow/topic/eu-en/24245217-the-midnight-pre-expansion-content-update-goes-live-21-january/",
-        "timestamp": "2025-12-18T18:00:00+00:00",
-        "text": "[EU] The Midnight Pre-Expansion Content Update Goes Live 21 January! \n[Blue Topic] The first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live 21 January. Players can explore the new User Interface (UI) updates, experiment with new combat design changes across all classes, walk the pat… \nThe first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live 21 January. Players can explore the new User Interface (UI) updates, experiment with new combat … [+5419 chars]",
-        "positive": 8.509594044880942e-05,
-        "negative": 3.94542257708963e-06,
-        "neutral": 0.9999109506607056
-      },
-      {
-        "source": "news",
-        "id": "https://www.wowhead.com/blue-tracker/news/eu/the-midnight-pre-expansion-content-update-goes-live-21-january-content-news-24245217",
-        "timestamp": "2025-12-18T18:00:00+00:00",
-        "text": "The Midnight Pre-Expansion Content Update Goes Live 21 January! — content-news.community.world-of-warcraft-beta — Blizzard News \nThe first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live 21 January. Players can explore the new User Interface (UI) updates, experiment with new combat...By Blizzard Entertainment on 2025/12/18 at 12:00 PM \nThe first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live 21 January. Players can explore the new User Interface (UI) updates, experiment with new combat … [+5419 chars]",
-        "positive": 1.2069850527041126e-05,
-        "negative": 2.642251729412237e-06,
-        "neutral": 0.9999853372573853
-      },
-      {
-        "source": "news",
-        "id": "https://www.bluetracker.gg/wow/topic/us-en/24245217-the-midnight-pre-expansion-content-update-goes-live-january-20/",
-        "timestamp": "2025-12-18T18:00:00+00:00",
-        "text": "[US] The Midnight Pre-Expansion Content Update Goes Live January 20! \n[Blue Topic] The first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live January 20. Players can explore the new User Interface (UI) updates, experiment with new combat design changes across all classes, walk the pat… \nThe first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live January 20. Players can explore the new User Interface (UI) updates, experiment with new combat … [+5423 chars]",
-        "positive": 0.00012923087342642248,
-        "negative": 5.465014055516804e-06,
-        "neutral": 0.9998652935028076
-      },
-      {
-        "source": "news",
-        "id": "https://www.wowhead.com/blue-tracker/news/us/the-midnight-pre-expansion-content-update-goes-live-january-20-content-news-24245217",
-        "timestamp": "2025-12-18T18:00:00+00:00",
-        "text": "The Midnight Pre-Expansion Content Update Goes Live January 20! — content-news.community.world-of-warcraft-beta — Blizzard News \nThe first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live January 20. Players can explore the new User Interface (UI) updates, experiment with new combat...By Blizzard Entertainment on 2025/12/18 at 12:00 PM \nThe first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live January 20. Players can explore the new User Interface (UI) updates, experiment with new combat … [+5423 chars]",
-        "positive": 1.414304551872192e-05,
-        "negative": 3.08668222714914e-06,
-        "neutral": 0.9999827146530151
-      },
-      {
-        "source": "news",
-        "id": "https://pagesix.com/2025/12/18/style/lauren-sanchez-dons-designer-outfit-worth-over-30k-for-girls-night-with-brooks-nader/",
-        "timestamp": "2025-12-18T17:59:48+00:00",
-        "text": "Lauren Sánchez dons designer outfit worth over $30K for girls’ night with Brooks Nader \nHer crystal-covered Chanel sphere bag, while no longer available, reportedly retailed for $20,900. \nLauren Sánchez and Brooks Nader enjoyed a girls’ night out in LA Wednesday. ShotbyNYP / BACKGRID\r\nLauren Sánchez has never been afraid of a fashion splurge.\r\nAnd on Wednesday, she stepped out in a he… [+2814 chars]",
-        "positive": 6.223419859452406e-06,
-        "negative": 3.079437374253757e-05,
-        "neutral": 0.9999630451202393
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b7cde42d5831b7d2",
-        "timestamp": "2025-12-18T17:59:22+00:00",
-        "text": "Small plane crashes on landing in North Carolina \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+743 chars]",
-        "positive": 0.0002179620205424726,
-        "negative": 0.00016643050184939057,
-        "neutral": 0.9996155500411987
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/256b277e674d866f",
-        "timestamp": "2025-12-18T17:59:18+00:00",
-        "text": "Chevron Continues to Load Oil Tankers in Venezuela Amid Tensions \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+756 chars]",
-        "positive": 0.0003988942480646074,
-        "negative": 0.00016893690917640924,
-        "neutral": 0.9994321465492249
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/c20785f39047ee7a",
-        "timestamp": "2025-12-18T17:59:16+00:00",
-        "text": "Lawyers Hogan Lovells and Cadwalader set to merge in record $3.6bn deal \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+697 chars]",
-        "positive": 0.00019514421001076698,
-        "negative": 1.454951870982768e-05,
-        "neutral": 0.999790370464325
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/08813c9e50b3c439",
-        "timestamp": "2025-12-18T17:59:12+00:00",
-        "text": "How the Warner Bros. Takeover Saga Could Play Out From Here \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+753 chars]",
-        "positive": 0.00016060601046774536,
-        "negative": 5.799714563181624e-05,
-        "neutral": 0.9997813105583191
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/d9a54637a02c9fca",
-        "timestamp": "2025-12-18T17:59:10+00:00",
-        "text": "Netflix hires ESPN anchor Elle Duncan as its first on-air host for live sports and cultural events; she has appeared on SportsCenter, College GameDay, and more \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+731 chars]",
-        "positive": 1.635988701309543e-05,
-        "negative": 1.2732001550830319e-06,
-        "neutral": 0.9999823570251465
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/2326336944cea77b",
-        "timestamp": "2025-12-18T17:59:10+00:00",
-        "text": "MSCI delisting of crypto stocks could trigger $15B sell-off \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+722 chars]",
-        "positive": 0.0023153938818722963,
-        "negative": 0.0017049669986590743,
-        "neutral": 0.9959796667098999
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ec9177e863d701b6",
-        "timestamp": "2025-12-18T17:59:09+00:00",
-        "text": "This Bank Stock May Be Small, But It Has Big Potential \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+731 chars]",
-        "positive": 0.013912085443735123,
-        "negative": 0.00010563397518126294,
-        "neutral": 0.9859822988510132
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/2296c1f5191c7858",
-        "timestamp": "2025-12-18T17:59:06+00:00",
-        "text": "Oil edges up after reports of possible U.S. sanctions on Russia, Venezuela blockade \nOil prices edged marginally higher on Thursday as investors assessed the likelihood of further U.S. sanctions against Russia and the supply risks posed by a blockade of Venezuelan oil tankers.\nBrent crude was up 44 cents, or 0.74%, to $60.12 per barrel at 12:… \nOil prices edged marginally higher on Thursday as investors assessed the likelihood of further U.S. sanctions against Russia and the supply risks posed by a blockade of Venezuelan oil tankers.Brent c… [+147 chars]",
-        "positive": 0.9880797266960144,
-        "negative": 0.0015367991290986538,
-        "neutral": 0.010383461602032185
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b03569d2e786a696",
-        "timestamp": "2025-12-18T17:59:03+00:00",
-        "text": "Can Trump Succeed in Foiling the US Wind Industry He Loathes? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+743 chars]",
-        "positive": 0.04001134634017944,
-        "negative": 0.0002155925176339224,
-        "neutral": 0.9597731232643127
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/511fd6d17fc76b5f",
-        "timestamp": "2025-12-18T17:58:58+00:00",
-        "text": "ECB policymakers see steady rates next year but cut not off table, sources say \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Hogan Lovells and Cadwalader merging? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump Media's fusi… [+763 chars]",
-        "positive": 0.005422919522970915,
-        "negative": 0.00011189092765562236,
-        "neutral": 0.994465172290802
-      },
-      {
-        "source": "news",
-        "id": "https://worldsoccertalk.com/news/landon-donovan-claims-pulisic-is-an-exception-to-coach-pochettinos-approach-with-usmnt-players/",
-        "timestamp": "2025-12-18T17:58:28+00:00",
-        "text": "Landon Donovan claims Pulisic is an exception to coach Pochettino’s approach with USMNT players \nMauricio Pochettino’s method for working with USMNT players was praised by Landon Donovan, who emphasized that Christian Pulisic should be considered an exception.\n After some moments of criticism and disappointing results, Mauricio Pochettino seems to have s… \nAfter some moments of criticism and disappointing results, Mauricio Pochettino seems to have set the USMNT on the right path ahead of the 2026 FIFA World Cup. On the coachs approach, Landon Donovan e… [+3157 chars]",
-        "positive": 8.231020910898224e-05,
-        "negative": 0.9757629632949829,
-        "neutral": 0.02415473386645317
-      },
-      {
-        "source": "news",
-        "id": "https://www.mediaite.com/opinion/kooky-tucker-carlsons-embarrassing-misfire-shows-trump-has-kicked-him-out-of-the-maga-club/",
-        "timestamp": "2025-12-18T17:58:01+00:00",
-        "text": "‘Kooky’ Tucker Carlson’s Embarrassing Misfire Shows Trump Has Kicked Him Out of the MAGA Club \nCarlson is a clown performing tricks for an immature audience, albeit with a pedigree that renders his descent all the more degrading.\nThe post ‘Kooky’ Tucker Carlson’s Embarrassing Misfire Shows Trump Has Kicked Him Out of the MAGA Club first appeared on Med… \n(AP Photo/Julia Demaree Nikhinson)\r\nYou’ve heard of the reverse Jim Cramer, but in the Kalshi Era, perhaps it’s Fox News host-turned-House Hunters: Qatar star Tucker Carlson whose intuitions shrewd b… [+5095 chars]",
-        "positive": 0.00011881551472470164,
-        "negative": 0.0631997138261795,
-        "neutral": 0.9366814494132996
-      },
-      {
-        "source": "news",
-        "id": "https://pypi.org/project/gold-dlp/",
-        "timestamp": "2025-12-18T17:57:40+00:00",
-        "text": "gold-dlp added to PyPI \nHigh performance CLI YouTube downloader (video / audio / shorts / playlists) with smart caching and auto quality handling \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
-        "positive": 1.11461467895424e-05,
-        "negative": 0.0005262446356937289,
-        "neutral": 0.9994625449180603
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/boxing/article/against-anthony-joshua-jake-paul-finds-himself-on-the-other-side-of-the-extreme-175711622.html",
-        "timestamp": "2025-12-18T17:57:11+00:00",
-        "text": "Against Anthony Joshua, Jake Paul finds himself on the other side of the extreme \nNot sure if this is the most courageous act Paul has done, or the most foolish, but the answer is yes. It’s all those things. \nHonestly, youd expect there to be a little more buzz for Friday night, given the set up.\r\nJake Paul, who has feasted on a steady diet of off-center beatables for the length of his boxing career, is f… [+5011 chars]",
-        "positive": 0.00012944699847139418,
-        "negative": 0.0016837205039337277,
-        "neutral": 0.9981867671012878
-      },
-      {
-        "source": "news",
-        "id": "https://www.nasa.gov/missions/spherex/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/",
-        "timestamp": "2025-12-18T17:56:48+00:00",
-        "text": "NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other \nLaunched in March, NASA’s SPHEREx space telescope has completed its first infrared map of the entire sky in 102 colors. While not visible to the human eye, these 102 infrared wavelengths of light are prevalent in the cosmos, and observing the entire sky this … \nThis panoramic view of SPHERExs first all-sky map simulates how the sky looks to the telescope. It transitions between observations of colors emitted by hot hydrogen gas (blue) and cosmic dust (red),… [+6183 chars]",
-        "positive": 1.9142407836625353e-06,
-        "negative": 2.1534297047764994e-06,
-        "neutral": 0.9999959468841553
-      },
-      {
-        "source": "news",
-        "id": "https://abcnews.go.com/US/video/newport-beach-christmas-boat-parade-kicks-off-dazzling-128525849",
-        "timestamp": "2025-12-18T17:56:44+00:00",
-        "text": "WATCH: Newport Beach Christmas Boat Parade kicks off with dazzling lights and decorations \nThe parade celebrated its 117th anniversary, according to the event. \n<ul><li>Inflation drops to lowest level in months, defying expectations of uptick\r\n</li><li>Fact-checking Trump's claim that he's brought prices down\r\n</li><li>Brian Walshe sentenced to life in priso… [+4430 chars]",
-        "positive": 0.006823367439210415,
-        "negative": 0.05553778260946274,
-        "neutral": 0.9376388788223267
-      },
-      {
-        "source": "news",
-        "id": "https://247wallst.com/investing/2025/12/18/sgov-is-a-popular-cash-alternative-option-for-retirees-that-actually-pays-monthly-income/",
-        "timestamp": "2025-12-18T17:56:16+00:00",
-        "text": "SGOV Is A Popular ‘Cash Alternative’ Option For Retirees That Actually Pays Monthly Income \nWhen interest rates rise, retirees face a pleasant problem: where to park cash reserves while earning more than near-zero yields. iShares 0-3 Month Treasury ... \n24/7 Wall St.\r\n<ul><li>SGOV holds $64.7B in assets and yields approximately 3.85% annually as of mid-December 2025.\r\n</li><li>The Fed cut rates to 3.5%-3.75% in December 2025. Further cuts to 3%-3.5%… [+4610 chars]",
-        "positive": 0.0012851969804614782,
-        "negative": 0.192686527967453,
-        "neutral": 0.8060283660888672
-      },
-      {
-        "source": "news",
-        "id": "https://www.southernsavers.com/lowes-foods-unadvertised-deals-1217-1224-2/",
-        "timestamp": "2025-12-18T17:55:58+00:00",
-        "text": "Lowes Foods Unadvertised Deals: 12/17-12/24 \nHead to your store to find these Lowes Foods unadvertised deals! Get good deals on Nature's Bounty vitamins, Boston Market meals, and more. Clearance deals will vary by store. Look through the full Lowes Foods weekly ad to see all the current deals. Clearance… \nHead to your store to find these Lowes Foods unadvertised deals! Get good deals on Nature’s Bounty vitamins, Boston Market meals, and more.\r\nClearance deals will vary by store. Look through the full … [+40921 chars]",
-        "positive": 3.871564331348054e-06,
-        "negative": 3.658908326542587e-06,
-        "neutral": 0.9999924898147583
-      },
-      {
-        "source": "news",
-        "id": "https://www.gov.uk/government/speeches/the-un-has-a-vital-role-to-play-in-supporting-syria-as-it-enters-the-second-year-of-its-political-transition-uk-statement-at-the-un-security-council",
-        "timestamp": "2025-12-18T17:54:46+00:00",
-        "text": "The UN has a vital role to play in supporting Syria as it enters the second year of its political transition: UK statement at the UN Security Council \nStatement by Ambassador James Kariuki, UK Chargé d’Affaires to the UN, at the UN Security Council meeting on Syria. \nThis month we marked a year since the end of the Assad regimes brutal rule and the start of a brighter chapter for Syria.\r\nDuring the Security Councils historic visit to Damascus to mark this anniver… [+2603 chars]",
-        "positive": 0.00014335193554870784,
-        "negative": 4.216983506921679e-05,
-        "neutral": 0.9998144507408142
-      },
-      {
-        "source": "news",
-        "id": "https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle",
-        "timestamp": "2025-12-18T17:53:54+00:00",
-        "text": "Bitcoin's 'realized cap' holds at record high over $1 trillion, casting doubt on four-year cycle \nA very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch. \nBitcoins \"realized capitalization\" is at an all-time high of $1.125 trillion, suggesting that BTC remains in a bull market despite the near-40% plunge in prices over the past 10 weeks.\r\nThis on-chain… [+1335 chars]",
-        "positive": 0.8830058574676514,
-        "negative": 0.039872296154499054,
-        "neutral": 0.077121801674366
-      },
-      {
-        "source": "news",
-        "id": "https://www.commondreams.org/opinion/something-wrong-donald-trump",
-        "timestamp": "2025-12-18T17:53:17+00:00",
-        "text": "There Is Something Deeply Wrong With Donald Trump—We Must Act Like It \nLet me take off my psychotherapist hat and simply speak as a parent, an adult, a businessman, a citizen, and a human being.There is something deeply and fundamentally wrong with Donald Trump.Wednesday night’s speech demonstrated it. He didn’t need to trash-ta… \nLet me take off my psychotherapist hat and simply speak as a parent, an adult, a businessman, a citizen, and a human being.\r\nThere is something deeply and fundamentally wrong with Donald Trump.\r\nWedn… [+5814 chars]",
-        "positive": 0.0008725684019736946,
-        "negative": 0.06705714017152786,
-        "neutral": 0.932070255279541
-      },
-      {
-        "source": "news",
-        "id": "https://www.rte.ie/sport/racing/2025/1218/1549712-mullins-looking-for-limerick-christmas-present/",
-        "timestamp": "2025-12-18T17:52:58+00:00",
-        "text": "Mullins looking for Limerick Christmas present \nLimerick's Guinness 00 Faugheen Novice Steeplechase may deliver the ideal Christmas gift for Patrick Mullins, as the Grand National-winning jockey looks to further strengthen his impressive record in the Grade One contest. \nLimerick's Guinness 00 Faugheen Novice Steeplechase may deliver the ideal Christmas gift for Patrick Mullins, as the Grand National-winning jockey looks to further strengthen his impressive record in… [+1752 chars]",
-        "positive": 0.9999995231628418,
-        "negative": 2.2156648071813834e-08,
-        "neutral": 5.074360842627357e-07
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180417617",
-        "timestamp": "2025-12-18T17:52:38+00:00",
-        "text": "Stocks rise on cooler-than-expected inflation data, strong Micron earnings: Live updates - CNBC \nStocks rise on cooler-than-expected inflation data, strong Micron earnings: Live updatesCNBC Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation eases in November, Micron boosts techYahoo Finance Wall St gains as markets take easing inflation in st… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.9999808073043823,
-        "negative": 1.3540805809952872e-07,
-        "neutral": 1.9040478946408257e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.pcgamer.com/roblox/the-forge-goblin-king-quests/",
-        "timestamp": "2025-12-18T17:51:20+00:00",
-        "text": "How to complete the Goblin King quests in The Forge \nThe Goblin King has five painfully expensive quests on his to-do list. \nThe Forge certainly isn't lacking when it comes to RPG-inspired sidequests, as the mining sim is chock full of lengthy NPC chores and requests with valuable rewards distracting from the main path. Th… [+3942 chars]",
-        "positive": 6.396358458005125e-06,
-        "negative": 0.9999359846115112,
-        "neutral": 5.755696111009456e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.sportingnews.com/us/mlb/chicago-cubs/news/alex-bregman-free-agency-saga-red-sox-cubs/ae2054c85a0a28ca4567b828",
-        "timestamp": "2025-12-18T17:50:59+00:00",
-        "text": "Alex Bregman's free agency saga has one clear answer in this team \nAlex Bregman looks like a perfect free-agent fit for the Chicago Cubs, but uncertainty lingers over his long-term commitment. \nAlex Bregman's free agency saga has one clear answer in this team originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nA quiet offseason for the Ch… [+2607 chars]",
-        "positive": 0.00026252164389006793,
-        "negative": 7.084668322931975e-05,
-        "neutral": 0.9996665716171265
       },
       {
         "source": "news",
@@ -19147,9 +19138,9 @@
         "neutral": 0.9720665812492371
       }
     ],
-    "nw": 0.37987582272461456,
-    "nw_norm": 68.99379113623073
+    "nw": 0.4384246380122502,
+    "nw_norm": 71.9212319006125
   },
-  "gsi": 68.99379113623073,
+  "gsi": 71.9212319006125,
   "classification": "Bullish"
 }
