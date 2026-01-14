@@ -1,4 +1,3 @@
-import hashlib
 import json
 import os
 from datetime import datetime, timezone, timedelta
@@ -312,19 +311,6 @@ def _load_existing_news(path: Path = NEWS_JSON_PATH) -> List[Dict[str, Any]]:
         return []
 
 
-def _article_key(article: Dict[str, Any]) -> str:
-    url = str(article.get("url") or "").strip()
-    if url:
-        return f"url:{url}"
-
-    title = str(article.get("title") or "").strip()
-    description = str(article.get("description") or "").strip()
-    timestamp = str(article.get("timestamp") or "").strip()
-    fingerprint = f"{title}|{description}|{timestamp}"
-    digest = hashlib.sha1(fingerprint.encode("utf-8")).hexdigest()
-    return f"hash:{digest}"
-
-
 def save_news_to_json(articles: List[Dict[str, Any]], path: Path = NEWS_JSON_PATH) -> None:
     # Sort newest first by timestamp if available.
     def _key(a: Dict[str, Any]) -> str:
@@ -336,20 +322,23 @@ def save_news_to_json(articles: List[Dict[str, Any]], path: Path = NEWS_JSON_PAT
 
 def run_cli() -> None:
     existing = _load_existing_news(NEWS_JSON_PATH)
-    existing_by_key: Dict[str, Dict[str, Any]] = {}
+    existing_by_url: Dict[str, Dict[str, Any]] = {}
     for art in existing:
-        key = _article_key(art)
-        existing_by_key[key] = art
+        url = art.get("url")
+        if url:
+            existing_by_url[url] = art
 
     fetched = fetch_news()
     new_count = 0
     for art in fetched:
-        key = _article_key(art)
-        if key not in existing_by_key:
+        url = art.get("url")
+        if not url:
+            continue
+        if url not in existing_by_url:
             new_count += 1
-        existing_by_key[key] = art
+        existing_by_url[url] = art
 
-    merged = list(existing_by_key.values())
+    merged = list(existing_by_url.values())
     save_news_to_json(merged, NEWS_JSON_PATH)
 
     # Log a short summary for this run.
@@ -379,20 +368,23 @@ def run_backfill_cli(total_days: int = 30, window_days: int = 3) -> None:
     """CLI helper: backfill news.json with historical news (last 30 days)."""
 
     existing = _load_existing_news(NEWS_JSON_PATH)
-    existing_by_key: Dict[str, Dict[str, Any]] = {}
+    existing_by_url: Dict[str, Dict[str, Any]] = {}
     for art in existing:
-        key = _article_key(art)
-        existing_by_key[key] = art
+        url = art.get("url")
+        if url:
+            existing_by_url[url] = art
 
     fetched = backfill_last_days(total_days=total_days, window_days=window_days)
     new_count = 0
     for art in fetched:
-        key = _article_key(art)
-        if key not in existing_by_key:
+        url = art.get("url")
+        if not url:
+            continue
+        if url not in existing_by_url:
             new_count += 1
-        existing_by_key[key] = art
+        existing_by_url[url] = art
 
-    merged = list(existing_by_key.values())
+    merged = list(existing_by_url.values())
     save_news_to_json(merged, NEWS_JSON_PATH)
     print(f"NewsAPI backfill: {len(fetched)} fetched, {new_count} new, {len(merged)} total stored.")
 
