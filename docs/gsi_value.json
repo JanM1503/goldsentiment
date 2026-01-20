@@ -1,6 +1,19 @@
 {
-  "timestamp": "2026-01-20T23:01:28.844172+00:00",
-  "gsi": 42.808847882470126,
-  "classification": "Bearish",
-  "nw_norm": 42.808847882470126
+  "timestamp": "2026-01-20T23:26:38.024419+00:00",
+  "gsi": 53.01877080901613,
+  "classification": "Neutral",
+  "change_from_previous": 3.0187708090161323,
+  "components": {
+    "raw_sentiment": 46.50844885191639,
+    "dampened_sentiment": 47.90506931114984,
+    "price_momentum": 94.05452881979153,
+    "consistency_score": 0.07701080982716624,
+    "previous_gsi": 50.0
+  },
+  "price_data": {
+    "current_price": 4763.37,
+    "change_1d_pct": 1.9929147944615977,
+    "change_7d_pct": 5.625923018586776,
+    "change_30d_pct": 13.449091798979907
+  }
 }
