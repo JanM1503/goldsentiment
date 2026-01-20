@@ -8,6 +8,7 @@ from typing import Any, Dict, List
 
 from models.finbert_gold import SentimentScores, analyze_batch
 from processing.index_calc import IndexComponents, compute_index
+from processing.stable_index import convert_legacy_sentiment_to_stabilized
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -83,17 +84,22 @@ def _extract_news_text(article: Dict[str, Any]) -> str:
 
 
 def _recency_weight(ts_str: str) -> float:
-    """Return a recency weight in [0, 1] based on how old the item is.
-
-    Heuristic rules (days old → weight):
-      0–1   → 1.0   (very fresh)
-      1–3   → 0.8
-      3–7   → 0.6
-      7–14  → 0.3
-      14–30 → 0.1
-      >30   → 0.0  (ignored for current sentiment)
+    """Return exponential decay weight based on article age.
+    
+    Uses continuous exponential decay instead of step function:
+    weight = 2^(-age_days / half_life_days)
+    
+    Parameters:
+    - half_life_days = 7.0 (weight drops to 50% after 7 days)
+    - max_age_days = 90 (articles older than 90 days get 0 weight)
+    
+    Examples:
+    - 0 days old:  weight = 1.000
+    - 7 days old:  weight = 0.500 (half-life)
+    - 14 days old: weight = 0.250
+    - 30 days old: weight = 0.062
+    - 90 days old: weight = 0.002
     """
-
     if not ts_str:
         return 0.0
 
@@ -104,18 +110,19 @@ def _recency_weight(ts_str: str) -> float:
 
     now = datetime.now(timezone.utc)
     age_days = max(0.0, (now - ts).total_seconds() / 86400.0)
-
-    if age_days <= 1:
-        return 1.0
-    if age_days <= 3:
-        return 0.8
-    if age_days <= 7:
-        return 0.6
-    if age_days <= 14:
-        return 0.3
-    if age_days <= 30:
-        return 0.1
-    return 0.0
+    
+    # Configuration
+    half_life_days = 7.0
+    max_age_days = 90
+    
+    # Return 0 if too old
+    if age_days > max_age_days:
+        return 0.0
+    
+    # Exponential decay: 2^(-age / half_life)
+    weight = 2.0 ** (-age_days / half_life_days)
+    
+    return weight
 
 
 def _impact_weight(score: SentimentScores, text: str) -> float:
@@ -209,18 +216,26 @@ def analyze_documents() -> Dict[str, Any]:
 
 
 def save_results(result: Dict[str, Any]) -> None:
+    """Save analysis results with stabilized GSI calculation.
+    
+    This function:
+    1. Applies 6-layer stabilization to raw sentiment
+    2. Integrates gold price momentum data
+    3. Writes both legacy sentiment_results.json and new stabilized gsi_value.json
+    """
+    # Write legacy sentiment_results.json (unchanged)
     SENTIMENT_RESULTS_PATH.write_text(
         json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8"
     )
 
-    gsi_payload = {
-        "timestamp": result["timestamp"],
-        "gsi": result["gsi"],
-        "classification": result["classification"],
-        "nw_norm": result["news"]["nw_norm"],
-    }
+    # Convert to stabilized format with price anchoring
+    raw_gsi = result["gsi"]
+    timestamp = result["timestamp"]
+    stabilized = convert_legacy_sentiment_to_stabilized(raw_gsi, timestamp)
+    
+    # Write new stabilized gsi_value.json
     GSI_VALUE_PATH.write_text(
-        json.dumps(gsi_payload, indent=2, ensure_ascii=False), encoding="utf-8"
+        json.dumps(stabilized, indent=2, ensure_ascii=False), encoding="utf-8"
     )
 
 

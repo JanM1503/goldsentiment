@@ -6,6 +6,7 @@ from pathlib import Path
 from scraping.newsapi import run_cli as news_cli
 from processing.sentiment import run_analysis_only
 from processing.dashboard import generate_dashboard
+from processing.gold_price import display_gold_price
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
@@ -16,6 +17,7 @@ USAGE = """Usage:
   python run.py sentiment news       # fetch NewsAPI only
   python run.py sentiment analyze    # run FinBERT on existing news.json + update dashboard
   python run.py sentiment dashboard  # regenerate dashboard.html from existing sentiment_results.json
+  python run.py gold price           # show current gold price and % changes (1d, 7d, 30d)
 """
 
 
@@ -48,6 +50,15 @@ def cmd_dashboard_only() -> None:
 def main(argv: list[str] | None = None) -> None:
     if argv is None:
         argv = sys.argv[1:]
+
+    if len(argv) < 1:
+        print(USAGE)
+        return
+    
+    # Handle 'gold price' command
+    if argv[0] == "gold" and len(argv) >= 2 and argv[1] == "price":
+        display_gold_price()
+        return
 
     if len(argv) < 2 or argv[0] != "sentiment":
         print(USAGE)
