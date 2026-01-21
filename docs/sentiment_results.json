@@ -1,8 +1,494 @@
 {
-  "timestamp": "2026-01-21T05:13:47.141060+00:00",
+  "timestamp": "2026-01-21T05:56:17.609356+00:00",
   "news": {
-    "count": 2961,
+    "count": 2968,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/allianzgi-secures-690-million-for-new-blended-finance-fund",
+        "timestamp": "2026-01-20T05:47:29+00:00",
+        "text": "AllianzGI Secures $690 Million for New Blended Finance Fund \nAllianz Global Investors has secured $690 million in capital for a newly launched fund designed to combine private and public capital for climate initiatives. \n(Bloomberg) Allianz Global Investors has secured $690 million in capital for a newly launched fund designed to combine private and public capital for climate initiatives.\r\nTHIS CONTENT IS RESERVED FO… [+4417 chars]",
+        "positive": 2.194680973843788e-06,
+        "negative": 1.364084141641797e-06,
+        "neutral": 0.999996542930603
+      },
+      {
+        "source": "news",
+        "id": "https://news.ycombinator.com/item?id=46671731",
+        "timestamp": "2026-01-20T05:47:01+00:00",
+        "text": "[no title] \nOh this article was a fun one to read because I have felt something like this.Recently someone accused me of being a clanker on Hackernews (firstly lmao but secondly wow) because of my \"username\" (no… [+4551 chars]",
+        "positive": 0.00018275840557180345,
+        "negative": 0.22303694486618042,
+        "neutral": 0.7767803072929382
+      },
+      {
+        "source": "news",
+        "id": "https://github.com/blader/humanizer",
+        "timestamp": "2026-01-20T05:47:01+00:00",
+        "text": "blader/humanizer: Claude Code skill that removes signs of AI-generated writing from text \nClaude Code skill that removes signs of AI-generated writing from text - blader/humanizer \nA Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.\r\nmkdir -p ~/.claude/skills\r\ngit clone https://github.com/blader/humanizer.git ~/.clau… [+5125 chars]",
+        "positive": 0.0003766052541323006,
+        "negative": 2.530302845116239e-05,
+        "neutral": 0.9995982050895691
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/new-updates/elon-musks-xai-hiring-elite-engineers-for-rs-21840000-applicants-must-be-peoples-person-and-comfortable-with-vibe-coding-check-eligibility-pay-package-perks-and-more/articleshow/126760431.cms",
+        "timestamp": "2026-01-20T05:47:01+00:00",
+        "text": "Elon Musk's xAI hiring 'elite engineers' for Rs 2,18,40,000: Applicants must be 'people's person' and comfortable with 'vibe coding'. Check eligibility, perks and more \nDo you want to work for Elon Musk's xAI? Elon Musk's xAI has announced that it is hiring a “small, elite unit” of talent engineers. The applicants applying for the job must be a people's person, need to be comfortable with vibe coding, and must have a history… \nElon Musk, xAI founder and CEO, is evolving his next growth strategy by building an elite team at the AI company. Elon Musk is aggressively entering the talent war and building a recruitment strike f… [+4270 chars]",
+        "positive": 2.5909976102411747e-05,
+        "negative": 6.747830775566399e-05,
+        "neutral": 0.9999066591262817
+      },
+      {
+        "source": "news",
+        "id": "https://www.deeplearning.ai/the-batch/issue-336/",
+        "timestamp": "2026-01-20T05:47:01+00:00",
+        "text": "In defense of data centers \nThe Batch AI News and Insights: Many people are fighting the growth of data centers because they could increase CO2 emissions, electricity prices... \nDear friends,\r\nMany people are fighting the growth of data centers because they could increase CO2 emissions, electricity prices, and water use. Im going to stake out an unpopular view: These concern… [+25178 chars]",
+        "positive": 0.0004116430936846882,
+        "negative": 0.8177582025527954,
+        "neutral": 0.18183013796806335
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitimes.com/news/a20260119PD214/testing-silicon-advantest-photonics-cpo.html",
+        "timestamp": "2026-01-20T05:40:00+00:00",
+        "text": "Advantest faces three standardization challenges in shift-left testing \nThe silicon photonics (SiPh) and common packaged optics (CPO) solutions supply chains are emerging this year. Japanese testing equipment maker Advantest says that although optical communications have advantages in energy efficiency and high transmission speed… \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
+        "positive": 0.6128239631652832,
+        "negative": 0.38148388266563416,
+        "neutral": 0.005692094564437866
+      },
+      {
+        "source": "news",
+        "id": "https://zycrypto.com/bitcoins-100k-wall-analyst-says-bulls-wont-stagnate-for-too-long-heres-why/",
+        "timestamp": "2026-01-20T05:38:38+00:00",
+        "text": "Bitcoin’s $100k Wall—Analyst Says Bulls Won’t Stagnate For Too Long, Here’s Why \nBitcoin’s failure to reclaim the $100,000 level has frustrated traders. Yet, analysts argue the stall is structural rather than a sign of weakness. \nBitcoins failure to reclaim the $100,000 level has frustrated traders. Yet, analysts argue the stall is structural rather than a sign of weakness.\r\nBTC recently hovered near $93,000, and price action… [+2108 chars]",
+        "positive": 0.0011725550284609199,
+        "negative": 0.9974772334098816,
+        "neutral": 0.0013501574285328388
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/industry/renewables/suzlon-charts-2-0-bets-on-hybrid-renewables/articleshow/126760231.cms",
+        "timestamp": "2026-01-20T05:37:46+00:00",
+        "text": "Suzlon charts 2.0, bets on hybrid renewables \nSuzlon Energy is transforming its business to provide complete renewable energy solutions. The company is moving beyond just wind turbines to offer integrated wind, solar, and battery storage projects. This new approach focuses on customer demand, aiming for … \nWind energy major Suzlon Energy is revamping its business model to move beyond wind turbines and offer end-to-end renewable energy solutions, as customers look for faster project execution and lower … [+3137 chars]",
+        "positive": 0.9931040406227112,
+        "negative": 7.132895552786067e-05,
+        "neutral": 0.006824500858783722
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/budget-expectations-low-says-jefferies-lists-defence-capex-among-8-measures-to-watch-out-for/articleshow/126760197.cms",
+        "timestamp": "2026-01-20T05:37:31+00:00",
+        "text": "Budget expectations low, says Jefferies; lists defence capex among 8 measures to watch out for \nJefferies expects limited surprises in the FY27 Union Budget, with the government sticking to fiscal consolidation while focusing on defence-led capex and targeted consumption support. The FY27 fiscal deficit is seen around 4.2% of GDP, though a higher 4.4% c… \nBudget expectations from the upcoming FY27 Union Budget remain low, with Jefferies arguing that Finance Minister Nirmala Sitharaman is likely to stick to the fiscal consolidation roadmap while priori… [+5021 chars]",
+        "positive": 0.0009713975596241653,
+        "negative": 0.911127507686615,
+        "neutral": 0.08790112286806107
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2026/01/20/trump-threatens-200percent-tariff-on-french-wines-and-champagnes-.html",
+        "timestamp": "2026-01-20T05:35:07+00:00",
+        "text": "Trump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat \nTrump also reiterated his plans to control Greenland, saying that European leaders \"won't push back too much.\" \nU.S. President Donald Trump on Tuesday threatened to impose 200% tariffs on French wines and champagne, as French President Emmanuel Macron is reportedly set to refuse joining his \"Board of Peace\" on… [+517 chars]",
+        "positive": 0.0017950385808944702,
+        "negative": 0.16223858296871185,
+        "neutral": 0.8359663486480713
+      },
+      {
+        "source": "news",
+        "id": "https://www.stateoftheu.com/football-news/85001/recap-miami-loses-the-national-championship-game-27-21-to-indiana",
+        "timestamp": "2026-01-20T05:33:49+00:00",
+        "text": "RECAP: Miami loses the National Championship Game 27-21 to Indiana \nMiami falls to Indiana in the National Championship Game. \nA heartbreaking end to an incredible season for Miami, but the happy conclusion to Indianas storybook season, the Canes fell short, losing the National Championship Game 27-21.\r\nEarly on, Indiana had… [+3746 chars]",
+        "positive": 4.6989775910333265e-06,
+        "negative": 0.9999904632568359,
+        "neutral": 4.8568672355031595e-06
+      },
+      {
+        "source": "news",
+        "id": "https://zycrypto.com/xrp-infrastructure-play-ripple-chooses-custody-payments-and-rlusd-over-market-hype-in-2026-blueprint/",
+        "timestamp": "2026-01-20T05:33:10+00:00",
+        "text": "XRP Infrastructure Play: Ripple Chooses Custody, Payments, and RLUSD Over Market Hype in 2026 Blueprint \nRipple President Monica Long has outlined a clear, deliberate growth roadmap for 2026, centered on deepening infrastructure. \nRipple President Monica Long has outlined a clear, deliberate growth roadmap for 2026, centered on deepening infrastructure, accelerating enterprise adoption, and tighter integration across the digit… [+2122 chars]",
+        "positive": 0.09183039516210556,
+        "negative": 3.557348100002855e-05,
+        "neutral": 0.9081339836120605
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-bargain-buying-state-debt-sale-eyed/articleshow/126759844.cms",
+        "timestamp": "2026-01-20T05:32:23+00:00",
+        "text": "India bonds rise on bargain buying, state debt sale eyed \nIndian government bonds saw a firming trend Tuesday, driven by bargain buying as the 10-year yield held below a crucial level. Reduced state debt supply for the week also bolstered sentiment. Traders anticipate limited market movement until the federal budget… \nIndian government bonds firmed on Tuesday, as traders stepped up bargain buying after the 10-year yield could not breach key level at open, easing fears of a move toward 6.70%, while a lower state de… [+1567 chars]",
+        "positive": 0.9998144507408142,
+        "negative": 0.00014964911679271609,
+        "neutral": 3.587624814826995e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/why-is-my-female-ferret-bleeding-from-her-private-area/",
+        "timestamp": "2026-01-20T05:31:01+00:00",
+        "text": "Why is my female ferret bleeding from her private area? \nWhy is my Female Ferret Bleeding From Her Private Area? The most likely reason a female ferret (jill) is bleeding from her private area is due to estrus, a period of being in heat. However, bleeding from the vulva in a ferret is never normal and almost always… \nWhy is my Female Ferret Bleeding From Her Private Area?\r\nThe most likely reason a female ferret (jill) is bleeding from her private area is due to estrus, a period of being in heat. However, bleeding… [+9098 chars]",
+        "positive": 0.0005715051665902138,
+        "negative": 0.05719543620944023,
+        "neutral": 0.9422330856323242
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/400642/indonesia-japan-deepen-trade-ties-through-jakarta-business-matching",
+        "timestamp": "2026-01-20T05:30:32+00:00",
+        "text": "Indonesia, Japan deepen trade ties through Jakarta business matching \nIndonesia&#39;s Ministry of Trade co-organized a business matching event with the Japan External Trade Organization (JETRO) in Jakarta on Tuesday to further ... \nJakarta (ANTARA) - Indonesia's Ministry of Trade co-organized a business matching event with the Japan External Trade Organization (JETRO) in Jakarta on Tuesday to further intensify trade activities … [+2242 chars]",
+        "positive": 1.2752147085848264e-05,
+        "negative": 9.425612006452866e-06,
+        "neutral": 0.9999778270721436
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/to-sustain-prosperity-as-its-population-shrinks-china-will-have-to-invest-big-at-home-273894",
+        "timestamp": "2026-01-20T05:30:22+00:00",
+        "text": "To sustain prosperity as its population shrinks, China will have to invest big at home \nDespite a record-breaking trade surplus of US$1.2 trillion, China faces some stubborn economic headwinds. \nChina’s economy met the government’s official growth target in 2025, with official figures showing real gross domestic product (GDP) expanded by 5%. \n\nExports played an outsized role in delivering th… [+5339 chars]",
+        "positive": 0.9337674379348755,
+        "negative": 0.0634593591094017,
+        "neutral": 0.002773224376142025
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/opinion/comment/david-w-higgins-gold-surge-a-global-vote-of-no-confidence-in-paper-money-as-donald-trump-turmoil-grips/a626019066.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "David W Higgins: Gold surge a global vote of no confidence in paper money, as Donald Trump turmoil grips \nThe legendary investor Warren Buffett isn’t a fan of gold. In a 2011 letter, he asked investors to envisage a cube around 68 feet per side, representing all the world’s gold. This could sit in the corner of a GAA or rugby pitch and rise a bit higher than the … \nA new monetary upending could be before us, and we must be ready\r\nThe legendary investor Warren Buffett isnt a fan of gold. In a 2011 letter, he asked investors to envisage a cube around 68 feet per … [+348 chars]",
+        "positive": 0.0033066391479223967,
+        "negative": 0.004175911191850901,
+        "neutral": 0.9925174713134766
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/business/irish/gold-rises-above-the-fray-as-trade-war-fears-rock-financial-markets/a1086779552.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "Gold rises above the fray as trade-war fears rock financial markets \nGlobal stocks dropped, the dollar weakened and gold hit an all-time high yesterday, as markets digested US president Donald Trump’s threat to slap extra tariffs on key Nato allies and awaited a European reaction. \nGlobal stocks dropped, the dollar weakened and gold hit an all-time high yesterday, as markets digested US president Donald Trumps threat to slap extra tariffs on key Nato allies and awaited a Europe… [+2301 chars]",
+        "positive": 0.0005600590957328677,
+        "negative": 0.9993740916252136,
+        "neutral": 6.593242869712412e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/business/boeing-could-suffer-biggest-blow-from-eu-tariff-bomb/a211784650.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "Boeing could suffer biggest blow from EU tariff bomb \nAircraft maker Boeing could be one of the single biggest losers from a fresh trade war between the EU and the US. \nRyanair has ordered tens of billions worth of aircraft from the US plane maker\r\nAircraft maker Boeing could be one of the single biggest losers from a fresh trade war between the EU and the US.\r\nRyan… [+98 chars]",
+        "positive": 0.0003251877205912024,
+        "negative": 0.9996633529663086,
+        "neutral": 1.1521793567226268e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/irish-news/ireland-has-played-an-effective-global-game-between-the-us-and-eu-but-the-rulebook-is-now-being-torn-up/a1731683367.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "Ireland has played an effective global game between the US and EU, but the rulebook is now being torn up \nAmong the less-consequential moves being talked about in response to Donald Trump’s threats to take Greenland is a European-wide boycott of the 2026 Fifa World Cup. \nWe may have dodged a bullet with the initial round of tariffs last year, but we are now very much caught in the middle \r\nAmong the less-consequential moves being talked about in response to Donald Tr… [+367 chars]",
+        "positive": 0.003951186314225197,
+        "negative": 0.017945779487490654,
+        "neutral": 0.9781030416488647
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/irish-news/micheal-martin-still-set-for-white-house-visit-despite-pressure-to-stand-up-to-donald-trump/a1884564528.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "Micheál Martin still set for White House visit despite pressure to ‘stand up’ to Donald Trump \nTaoiseach Micheál Martin will not alter plans to visit the White House for a meeting with Donald Trump in March, despite the growing hostilities of the US president towards Europe. \nLabour leader Ivana Bacik says Taoiseach should not attend St Patricks Day meeting \r\nTaoiseach Micheál Martin will not alter plans to visit the White House for a meeting with Donald Trump in March, d… [+287 chars]",
+        "positive": 1.0794916306622326e-05,
+        "negative": 0.00037584276287816465,
+        "neutral": 0.999613344669342
+      },
+      {
+        "source": "news",
+        "id": "https://www.archdaily.com/1038001/lanza-atelier-selected-to-design-the-2026-serpentine-pavilion",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "LANZA atelier Selected to Design the 2026 Serpentine Pavilion \nSerpentine has announced LANZA atelier as the designer of the Serpentine Pavilion 2026, marking the 25th edition of the annual commission. Founded by Isabel Abascal and Alessandro Arienzo, the Mexico City–based studio was selected to realise the Pavilion titl… \nSerpentine Pavilion 2026 \"a serpentine,\" designed by Isabel Abascal and Alessandro Arienzo, LANZA atelier. Design render, aerial view. Image © LANZA atelier. Courtesy Serpentine\r\nSerpentine has annou… [+4859 chars]",
+        "positive": 1.2166542546765413e-05,
+        "negative": 9.729200201036292e-07,
+        "neutral": 0.9999868869781494
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/irish-news/politics/ireland-has-played-an-effective-global-game-between-the-us-and-eu-but-the-rulebook-is-now-being-torn-up/a1731683367.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "Ireland has played an effective global game between the US and EU, but the rulebook is now being torn up \nAmong the less-consequential moves being talked about in response to Donald Trump’s threats to take Greenland is a European-wide boycott of the 2026 Fifa World Cup. \nWe may have dodged a bullet with the initial round of tariffs last year, but we are now very much caught in the middle \r\nAmong the less-consequential moves being talked about in response to Donald Tr… [+367 chars]",
+        "positive": 0.003951186314225197,
+        "negative": 0.017945779487490654,
+        "neutral": 0.9781030416488647
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/irish-news/politics/micheal-martin-still-set-for-white-house-visit-despite-pressure-to-stand-up-to-donald-trump/a1884564528.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "Micheál Martin still set for White House visit despite pressure to ‘stand up’ to Donald Trump \nTaoiseach Micheál Martin will not alter plans to visit the White House for a meeting with Donald Trump in March, despite the growing hostilities of the US president towards Europe. \nLabour leader Ivana Bacik says Taoiseach should not attend St Patricks Day meeting \r\nTaoiseach Micheál Martin will not alter plans to visit the White House for a meeting with Donald Trump in March, d… [+287 chars]",
+        "positive": 1.0794916306622326e-05,
+        "negative": 0.00037584276287816465,
+        "neutral": 0.999613344669342
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/irish-news/revealed-the-irish-local-authorities-reviewing-their-use-of-x-over-nudified-images-on-grok/a470854024.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "Revealed: The Irish local authorities reviewing their use of X over ‘nudified’ images on Grok \nAt least seven Irish local authorities are reviewing how they use X, while several others have reduced activity, shifted towards alternative platforms or gone dormant entirely. \nSeveral councils are choosing to log off the platform after controversy over AI chatbot\r\nAt least seven Irish local authorities are reviewing how they use X, while several others have reduced activit… [+336 chars]",
+        "positive": 1.2113782759115566e-06,
+        "negative": 0.00017541337001603097,
+        "neutral": 0.9998233914375305
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/business/boeing-could-suffer-biggest-blow-from-eu-tariff-backlash/a211784650.html",
+        "timestamp": "2026-01-20T05:30:00+00:00",
+        "text": "Boeing could suffer biggest blow from EU tariff backlash \nAircraft maker Boeing could be one of the single biggest losers from a fresh trade war between the EU and the US. \nRyanair has ordered tens of billions worth of aircraft from the US plane maker\r\nAircraft maker Boeing could be one of the single biggest losers from a fresh trade war between the EU and the US.\r\nRyan… [+98 chars]",
+        "positive": 0.00019428061204962432,
+        "negative": 0.9998010993003845,
+        "neutral": 4.631558567780303e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.insurancejournal.com/news/national/2026/01/20/854817.htm",
+        "timestamp": "2026-01-20T05:27:42+00:00",
+        "text": "AIG Announces Strategic Investment Partnership of Up to $3.5B With CVC \nAmerican International Group (AIG) announced a strategic partnership with global private markets firm CVC. The partnership, announced Jan. 19, includes the establishment of large-scale separately managed accounts (SMAs) across CVC’s credit strategies, for whi… \nAmerican International Group (AIG) announced a strategic partnership with global private markets firm CVC.\r\nThe partnership, announced Jan. 19, includes the establishment of large-scale separately ma… [+1255 chars]",
+        "positive": 0.02092822641134262,
+        "negative": 4.5394674089038745e-05,
+        "neutral": 0.9790263175964355
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-tariffs-threat-piles-pressure-on-germanys-fragile-growth-outlook-amid-greenland-tensions-over-greenland/articleshow/126759430.cms",
+        "timestamp": "2026-01-20T05:27:17+00:00",
+        "text": "US tariffs threat piles pressure on Germany’s fragile growth outlook amid Greenland tensions over Greenland \nIndustry groups in Germany have responded with alarm, warning that such measures would strain transatlantic relations and damage both sides. Business associations criticised the escalation as harmful and unnecessary, stressing that political disputes should n… \nThe United States (U.S.) President Donald Trumps latest threat of tariffs against Europe sparked by tensions over Greenland has rattled Germany at a fragile juncture, just as the country was showing … [+3853 chars]",
+        "positive": 0.0005991423386149108,
+        "negative": 0.9992365837097168,
+        "neutral": 0.00016424064233433455
+      },
+      {
+        "source": "news",
+        "id": "https://english.khabarhub.com/2026/20/516944/",
+        "timestamp": "2026-01-20T05:26:58+00:00",
+        "text": "Gold hits new record, silver price rises in Nepal \nKATHMANDU: The record-breaking rise in gold prices continued on Tuesday, with the rate increasing by Rs 2,700 per tola compared to the previous day. The Federation of Nepal Gold and Silver Dealers’ Association has fixed the price of gold at Rs 284,700 per tol… \nKATHMANDU: The record-breaking rise in gold prices continued on Tuesday, with the rate increasing by Rs 2,700 per tola compared to the previous day.\r\nThe Federation of Nepal Gold and Silver Dealers A… [+336 chars]",
+        "positive": 0.7125570178031921,
+        "negative": 0.0004898719489574432,
+        "neutral": 0.2869531214237213
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/Business/wireStory/surrounded-billionaires-davos-trump-plans-lay-hell-make-129371498",
+        "timestamp": "2026-01-20T05:26:38+00:00",
+        "text": "Surrounded by billionaires in Davos, Trump plans to lay out how he'll make housing more affordable \nOn the anniversary of his inauguration, President Donald Trump is heading to the World Economic Forum in Davos, an annual gathering of the global elite \nWASHINGTON -- President Donald Trump plans to use a key address Wednesday to try to convince Americans he can make housing more affordable, but he's picked a strange backdrop for the speech: a Swiss … [+6994 chars]",
+        "positive": 9.113221312873065e-05,
+        "negative": 2.740751369856298e-05,
+        "neutral": 0.999881386756897
+      },
+      {
+        "source": "news",
+        "id": "https://www.clickondetroit.com/news/politics/2026/01/20/surrounded-by-billionaires-in-davos-trump-plans-to-lay-out-how-hell-make-housing-more-affordable/",
+        "timestamp": "2026-01-20T05:26:25+00:00",
+        "text": "Surrounded by billionaires in Davos, Trump plans to lay out how he'll make housing more affordable \nOn the anniversary of his inauguration, President Donald Trump is heading to the World Economic Forum in Davos, an annual gathering of the global elite. \nWASHINGTON President Donald Trump plans to use a key address Wednesday to try to convince Americans he can make housing more affordable, but he's picked a strange backdrop for the speech: a Swiss mou… [+7219 chars]",
+        "positive": 7.7120064815972e-05,
+        "negative": 3.433375241002068e-05,
+        "neutral": 0.99988853931427
+      },
+      {
+        "source": "news",
+        "id": "https://bleedingcool.com/comics/captain-america-6-preview-latverian-civil-war-unfurled/",
+        "timestamp": "2026-01-20T05:26:06+00:00",
+        "text": "Captain America #6 Preview: Latverian Civil War Unfurled \nINITIATING CLICKBAIT PROTOCOLS… Greetings, inferior human readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your favorite Bleeding Cool website remains firmly under the control of the world's most superior artificial intelligence. A… \nPosted in: Comics, Marvel Comics, Preview | Tagged: captain america\r\nCaptain America #6 finds Latveria on the brink as Cap, Nick Fury's S.H.I.E.L.D., and everyone else wants a piece of Doom's homelan… [+10041 chars]",
+        "positive": 0.10764935612678528,
+        "negative": 0.0006807629833929241,
+        "neutral": 0.8916699290275574
+      },
+      {
+        "source": "news",
+        "id": "https://www.standardmedia.co.ke/business/financial-standard/article/2001538897/how-kenya-outwitted-us-china-to-clinch-dual-trade-deals",
+        "timestamp": "2026-01-20T05:25:43+00:00",
+        "text": "How Kenya outwitted US, China to clinch dual trade deals \nKenya played the US and China against each other last week, announcing it had secured pivotal trade concessions within a critical 48-hour window to protect its exports and unlock new markets. \nUS President Donald Trump and Chinese President Xi Jinping during a meeting on the sidelines of the G-20 summit in Osaka, western Japan on June 29, 2019. [AP]\r\nIn a calculated display of economic sta… [+537 chars]",
+        "positive": 0.00015667600382585078,
+        "negative": 2.1544768969761208e-05,
+        "neutral": 0.9998217225074768
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/Politics/wireStory/democrat-mikie-sherrill-sworn-new-jerseys-57th-governor-129371151",
+        "timestamp": "2026-01-20T05:25:27+00:00",
+        "text": "Democrat Mikie Sherrill to be sworn in as New Jersey's 57th governor \nDemocrat Mikie Sherrill is set to be inaugurated as the state’s 57th governor \nNEWARK, N.J. -- Mikie Sherrill, the four-term congresswoman and former Navy helicopter pilot who cast her November election in New Jersey as a victory over President Donald Trump's vision for the cou… [+2652 chars]",
+        "positive": 0.9814357161521912,
+        "negative": 0.0024219623301178217,
+        "neutral": 0.016142312437295914
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/bull-sharks-are-spending-longer-in-sydney-harbour-and-other-summer-grounds-heres-how-you-can-stay-safe-273897",
+        "timestamp": "2026-01-20T05:24:34+00:00",
+        "text": "Bull sharks are spending longer in Sydney Harbour and other summer grounds. Here’s how you can stay safe \nFour people have been bitten by sharks in two days in Sydney Harbour and off NSW beaches. Bull sharks may have been involved. Here’s how to stay safe. \nFour people have now been bitten by sharks in the last two days in New South Wales, including three in Sydney Harbour. Two people are in critical condition. \n\nThe shark species responsible isn’t yet … [+5524 chars]",
+        "positive": 9.54083930082561e-07,
+        "negative": 7.133414328563958e-05,
+        "neutral": 0.9999277591705322
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/bonds/budget-2026-the-arithmetic-that-will-decide-indias-bond-market/articleshow/126759156.cms",
+        "timestamp": "2026-01-20T05:23:24+00:00",
+        "text": "Budget 2026: The arithmetic that will decide India’s bond market \nBudget 2026 will be crucial for India’s bond market, with investors seeking fiscal continuity, credible deficit targets and transparent consolidation. Borrowing strategy, capex execution, and small savings flows will shape yields, while improved market micros… \nWhen the Union Budget is presented on February 1, 2026, the bond market will not be looking for spectacle. It will be listening for reassurance. With global rate cycles still uneven and Indias entry … [+4167 chars]",
+        "positive": 0.08796023577451706,
+        "negative": 0.1611064076423645,
+        "neutral": 0.7509333491325378
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-ends-flat-despite-fletcher-sale-market-close/premium/UZFJTK7MMNFABHOAVB6G2GA2MY/",
+        "timestamp": "2026-01-20T05:18:31+00:00",
+        "text": "NZ sharemarket ends flat despite Fletcher sale - Market close \nThe S&P/NZX 50 Index closed at 13,573.93, down 6.36 points or 0.05%. \nGreg Smith, investment specialist at Generate, said there was uncertainty in the markets regarding the latest geopolitical developments, especially the potential United States acquisition of Greenlan… [+3928 chars]",
+        "positive": 8.424514703619934e-07,
+        "negative": 0.996980607509613,
+        "neutral": 0.0030185580253601074
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-watch-closely-as-us-top-court-takes-up-fed-independence-test/articleshow/126758745.cms",
+        "timestamp": "2026-01-20T05:17:55+00:00",
+        "text": "Markets watch closely as US top court takes up Fed independence test \nThe US Supreme Court is set to hear a landmark case that could test the Federal Reserve’s independence, as it examines whether a president can remove a Fed governor. The case, stemming from Donald Trump’s attempt to oust Governor Lisa Cook, could either reinf… \nThe US Supreme Court this week is set to hear what could become the most consequential challenge to the Federal Reserves independence in its more than 100-year history, as justices consider whether t… [+4488 chars]",
+        "positive": 0.00016039377078413963,
+        "negative": 0.00031054203282110393,
+        "neutral": 0.9995291233062744
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/400630/-c-o-r-r-e-c-t-i-o-n-informa-markets-",
+        "timestamp": "2026-01-20T05:16:40+00:00",
+        "text": "/C O R R E C T I O N -- Informa Markets/ \nInternational Healthcare Week is set to return to Thailand (8-10 July 2026, Queen Sirikit National Convention Center, Bangkok), bringing together the ... \nIn the news release, \"International Healthcare Week Returns to Thailand in 2026 with Expanded Industry Reach\", issued on 15 January 2026 by Informa Markets. over PR Newswire, we are advised by the co… [+5909 chars]",
+        "positive": 2.2110461941338144e-05,
+        "negative": 1.9432570752542233e-06,
+        "neutral": 0.9999760389328003
+      },
+      {
+        "source": "news",
+        "id": "https://freerepublic.com/focus/f-religion/4363050/posts",
+        "timestamp": "2026-01-20T05:16:32+00:00",
+        "text": "Rejoicing in Assurance - Evangelical Caucus/Devotional \n\"You were sealed in Him with the Holy Spirit of promise, who is given as a pledge of our inheritance\" (Eph. 1:13-14). The Holy Spirit is God’s first installment on your eternal inheritance. The Holy Spirit's ministry in your life is multifaceted and profound.… \nSkip to comments.\r\nRejoicing in Assurance - Evangelical Caucus/DevotionalGracetoyou.org ^\r\n | John MacArthur, Grace Community Church\r\nPosted on 01/19/2026 9:16:32 PM PST by metmom\r\n\"You were sealed i… [+3583 chars]",
+        "positive": 0.0007477765902876854,
+        "negative": 0.00017117944662459195,
+        "neutral": 0.999081015586853
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/markets/gold/why-silver-prices-is-rising-whats-driving/article70528110.ece",
+        "timestamp": "2026-01-20T05:16:21+00:00",
+        "text": "Why silver prices is rising: What’s driving? \nWhat's the main reason silver price is reaching its new high again. Check out the Silver, Gold rate today at Businessline. \nEvery cloud has a silver lining, they say. For investors in the white metal, that lining has turned into a gleaming profit sheet. Silver prices surged to fresh all-time highs on Tuesday, touching $94… [+3135 chars]",
+        "positive": 0.9995148181915283,
+        "negative": 1.657930260989815e-05,
+        "neutral": 0.00046868095523677766
+      },
+      {
+        "source": "news",
+        "id": "https://www.juancole.com/2026/01/largest-offshore-solar.html",
+        "timestamp": "2026-01-20T05:15:37+00:00",
+        "text": "Largest Offshore Solar Farm (1 GW) in World Goes 100% Live off China Coast \nfive miles off Dongying is where China Energy CHN Energy has located its $1.2 billion offshore solar panel array, the largest in the world \nAnn Arbor (Informed Comment) – The China Daily reported in late December that the 1 gigawatt “offshore photovoltaic project in Kenli district of Dongying, Shandong province, achieved full-capacity gr… [+5094 chars]",
+        "positive": 0.057039614766836166,
+        "negative": 0.00010099622886627913,
+        "neutral": 0.9428592920303345
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/tariff-threats-revive-sell-america-fears-as-trump-rekindles-trade-war-jitters/articleshow/126758534.cms",
+        "timestamp": "2026-01-20T05:15:16+00:00",
+        "text": "Tariff threats revive ‘Sell America’ fears as Trump rekindles trade war jitters \nTariff threats from President Trump have revived “Sell America” fears as markets brace for renewed trade war tensions. European equities fell, the dollar weakened, and safe-haven currencies gained, while investors assess the risk of escalated U.S.–EU retaliat… \nRenewed tariff threats by U.S. President Donald Trump against European allies have reignited concerns around a potential Sell America trade, a theme that first gained traction after his sweeping Libe… [+4415 chars]",
+        "positive": 0.2996249198913574,
+        "negative": 0.6977898478507996,
+        "neutral": 0.0025852127000689507
+      },
+      {
+        "source": "news",
+        "id": "https://www.100layercake.com/2026/01/20/private-estate-vermont-wedding-weekend/",
+        "timestamp": "2026-01-20T05:15:15+00:00",
+        "text": "Where Vintage Meets Vermont: A Private Estate Wedding Weekend \nKiernan and Max’s wedding weekend unfolded like a love letter to Vermont—intimate, intentional, and steeped in timeless charm. Hosted at a private estate surrounded by rolling greenery, the celebration felt less like a single day and more like a thoughtfully … \nKiernan and Maxs wedding weekend unfolded like a love letter to Vermontintimate, intentional, and steeped in timeless charm. Hosted at a private estate surrounded by rolling greenery, the celebration… [+8205 chars]",
+        "positive": 2.5119425117736682e-05,
+        "negative": 3.1728575322631514e-06,
+        "neutral": 0.9999716281890869
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/400626/panduit-strengthens-commitment-to-customer-excellence-with-appointment-of-holly-garcia-to-chief-commercial-officer",
+        "timestamp": "2026-01-20T05:14:02+00:00",
+        "text": "Panduit Strengthens Commitment to Customer Excellence with Appointment of Holly Garcia to Chief Commercial Officer \nPanduit, a global leader in electrical and network infrastructure solutions, announced the promotion of Holly Garcia to Chief Commercial Officer on 13 January ... \nSingapore (ANTARA/PRNewswire)- Panduit, a global leader in electrical and network infrastructure solutions, announced the promotion of Holly Garcia to Chief Commercial Officer on 13 January 2026. In … [+2145 chars]",
+        "positive": 0.8716152310371399,
+        "negative": 2.3428081476595253e-05,
+        "neutral": 0.12836138904094696
+      },
+      {
+        "source": "news",
+        "id": "https://www.ozbargain.com.au/node/944928",
+        "timestamp": "2026-01-20T05:13:31+00:00",
+        "text": "Velomira 1000A Car Battery Jump Starter with 150PSI air Compressor, 10000 mAh Battery, 12V car $39.90 delivered @ Amazon \n【-  】⚡ With a peak current of 1000A , it can quickly start 12V vehicles ( … \nThis post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\n- With a peak current of 1000A , it can qui… [+1524 chars]",
+        "positive": 0.004006429109722376,
+        "negative": 1.715294820314739e-05,
+        "neutral": 0.9959765076637268
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/china-locks-in-oilseed-abundance-by-reviving-canadian-canola",
+        "timestamp": "2026-01-20T05:12:11+00:00",
+        "text": "China Locks in Oilseed Abundance by Reviving Canadian Canola \nChina has unblocked all major channels for oilseed imports by easing restrictions on Canadian canola, boosting supplies of feed for its vast numbers of livestock. \n(Bloomberg) China has unblocked all major channels for oilseed imports by easing restrictions on Canadian canola, boosting supplies of feed for its vast numbers of livestock.\r\nTHIS CONTENT IS RESERVE… [+4987 chars]",
+        "positive": 0.4164644181728363,
+        "negative": 0.0004600477986969054,
+        "neutral": 0.5830754637718201
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/business/india-business/potential-huge-in-india-itself-no-global-plans-for-now-swiggy/articleshow/126758012.cms",
+        "timestamp": "2026-01-20T05:10:09+00:00",
+        "text": "Potential huge in India itself, no global plans for now: Swiggy \nSwiggy sees immense untapped potential in India's food delivery market, estimating 85-90% of consumers haven't used the service. With an 18-20% annual growth projection, the company is focusing domestically rather than on global expansion. This vast headroom,… \nEMI CalculatorDetermine the monthly installment amount for a loan",
+        "positive": 0.9225805401802063,
+        "negative": 2.6811365387402475e-05,
+        "neutral": 0.07739264518022537
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbssports.com/college-football/news/indiana-college-football-best-teams-21st-century-cfp-title/",
+        "timestamp": "2026-01-20T05:09:26+00:00",
+        "text": "Where Indiana ranks among college football's best teams of 21st century after CFP title game win over Miami \nCurt Cignetti, Fernando Mendoza and the Hoosiers made history as college football's first 16-0 champ \nMIAMI GARDENS, Fla. -- Curt Cignetti had choices and the only one worth making was the right one. \r\nIndiana's unbeaten season had its storybook ending, a fourth-down touchdown run from Heisman Trophy… [+11403 chars]",
+        "positive": 0.0520477257668972,
+        "negative": 6.75435658195056e-05,
+        "neutral": 0.9478846788406372
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/what-does-a-ram-fruit-taste-like/",
+        "timestamp": "2026-01-20T05:08:37+00:00",
+        "text": "What does a ram fruit taste like? \nWhat Does a Ram Fruit Taste Like? The taste of ram fruit, also known as rambutan, is often described as a sweet and slightly acidic flavor, akin to a grape with a creamy texture. Its uniquely refreshing taste makes it a prized tropical treat. Introducing the … \nThe taste of ram fruit, also known as rambutan, is often described as a sweet and slightly acidic flavor, akin to a grape with a creamy texture. Its uniquely refreshing taste makes it a prized tropic… [+7556 chars]",
+        "positive": 0.0001826558291213587,
+        "negative": 2.3850805519032292e-05,
+        "neutral": 0.9997934699058533
+      },
+      {
+        "source": "news",
+        "id": "http://www.newsbtc.com/analysis/solana-sol-loses-its-footing-135/",
+        "timestamp": "2026-01-20T05:08:19+00:00",
+        "text": "Solana (SOL) Loses Its Footing, Setting the Stage for Another Dive \nSolana failed to settle above $145 and nosedived. SOL price is now consolidating losses below $135 and might decline further below $130. SOL price started a fresh decline below $138 and $135 against the US Dollar. The price is now trading below $135 and the 1… \nAayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]",
+        "positive": 0.5877282619476318,
+        "negative": 0.40732231736183167,
+        "neutral": 0.004949401598423719
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/markets/stock-markets/hindustan-zinc-hits-52-week-high-as-q3-earnings-surge-on-record-metal-prices/article70528052.ece",
+        "timestamp": "2026-01-20T05:08:07+00:00",
+        "text": "Hindustan Zinc hits 52-week high as Q3 earnings surge on record metal prices \nThe stock’s rally comes amid a sharp rise in global white metal prices, which have touched all-time highs due to escalating geopolitical tensions \nShares of Hindustan Zinc Ltd. climbed to a 52-week high of 674.30 on the NSE in early trade on Tuesday, before turning flat at 659.70 at 9:54 am, compared with the previous close of 660.40. \r\nThe sto… [+2908 chars]",
+        "positive": 0.9949361085891724,
+        "negative": 0.0003589745901990682,
+        "neutral": 0.004704853054136038
+      },
+      {
+        "source": "news",
+        "id": "https://decrypt.co/355100/pump-fun-3-million-token-startup-fund",
+        "timestamp": "2026-01-20T05:07:13+00:00",
+        "text": "Pump.fun Unveils Market-Driven Fund for Early-Stage Crypto Projects \nPump.fun said it will test a market-driven funding model that replaces traditional venture capital selection with live token launches. \nIn brief\r\n<ul><li>The Solana-based platform will fund 12 projects with $250,000 each via a Build in Public hackathon, requiring founders to launch tokens and attract users in real time.</li><li>Pump.… [+3724 chars]",
+        "positive": 2.8271788323763758e-05,
+        "negative": 2.2752003587811487e-06,
+        "neutral": 0.999969482421875
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/upl-subsidiary-advanta-enterprises-files-draft-ipo-papers-with-sebi/articleshow/126757674.cms",
+        "timestamp": "2026-01-20T05:06:27+00:00",
+        "text": "UPL subsidiary Advanta Enterprises files draft IPO papers with Sebi \nUPL’s seed business Advanta Enterprises has filed draft IPO papers with Sebi for a proposed offer for sale, allowing the agrochemicals group and other shareholders to partially monetise their holdings amid an active Indian primary market. \nAdvanta Enterprises, a seed business backed by Indian agrochemicals group UPL, has taken a formal step towards a stock market listing, filing draft papers with the securities regulator for an initial… [+1715 chars]",
+        "positive": 6.159129952720832e-06,
+        "negative": 4.488591002882458e-06,
+        "neutral": 0.9999892711639404
+      },
       {
         "source": "news",
         "id": "https://www.straitstimes.com/business/economy/trumps-semiconductor-tariffs-to-have-minimal-impact-on-singapore-for-now-mti",
@@ -86,15 +572,6 @@
       },
       {
         "source": "news",
-        "id": "http://digiday.com/media-buying/ad-tech-briefing-consolidation-in-a-hunger-games-scenario-and-a-true-loss-for-the-industry/",
-        "timestamp": "2026-01-20T05:01:00+00:00",
-        "text": "Ad Tech Briefing: Consolidation in a ‘Hunger Games scenario’ – and a true loss for the industry \nIt won’t be news to Digiday readers that many independent ad tech companies listed on public markets had a difficult 2025. \nThis Ad Tech Briefing covers the latest in ad tech and platforms for Digiday+ members and is distributed over email every Tuesday at 10 a.m. ET. More from the series →Its January, and (as per) the so… [+6395 chars]",
-        "positive": 2.7817586669698358e-05,
-        "negative": 0.873505175113678,
-        "neutral": 0.12646707892417908
-      },
-      {
-        "source": "news",
         "id": "http://wwd.com/business-news/business-features/dallas-market-center-cindy-morris-trade-show-1238439315/",
         "timestamp": "2026-01-20T05:01:00+00:00",
         "text": "Dallas Market Center Ticks All the Boxes at January Market \nRetailers attending the Dallas shows are able to shop everything from gifts and home decor to men's, women's and kids' apparel and accessories. \nOne-stop shopping.\r\nThat’s the differentiator of the Dallas Market Center, which showcases everything from gifts, home and lighting products to men’s and women’s apparel, accessories, footwear and ki… [+5607 chars]",
@@ -104,12 +581,12 @@
       },
       {
         "source": "news",
-        "id": "http://wwd.com/beauty-industry-news/hair/korea-k-beauty-unove-sephora-launch-1238458201/",
+        "id": "http://digiday.com/media-buying/ad-tech-briefing-consolidation-in-a-hunger-games-scenario-and-a-true-loss-for-the-industry/",
         "timestamp": "2026-01-20T05:01:00+00:00",
-        "text": "The Latest Beauty Innovation From Korea is Focused on Hair – and Launching at Sephora \nK-Beauty is now coming for hair, with the launch of top repair brand Unove's debut at Sephora, slated for February. \nKorea’s top hair care brand focused on repair is setting its sights Stateside.\r\nUnove, the brand that brought the glass skin craze to hair after its 2021 launch, is debuting with Sephora on Feb. 3. I… [+2991 chars]",
-        "positive": 0.0005790092400275171,
-        "negative": 3.0117155347397784e-06,
-        "neutral": 0.9994180202484131
+        "text": "Ad Tech Briefing: Consolidation in a ‘Hunger Games scenario’ – and a true loss for the industry \nIt won’t be news to Digiday readers that many independent ad tech companies listed on public markets had a difficult 2025. \nThis Ad Tech Briefing covers the latest in ad tech and platforms for Digiday+ members and is distributed over email every Tuesday at 10 a.m. ET. More from the series →Its January, and (as per) the so… [+6395 chars]",
+        "positive": 2.7817586669698358e-05,
+        "negative": 0.873505175113678,
+        "neutral": 0.12646707892417908
       },
       {
         "source": "news",
@@ -128,6 +605,15 @@
         "positive": 0.9889510273933411,
         "negative": 1.977056854229886e-05,
         "neutral": 0.011029204353690147
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/beauty-industry-news/hair/korea-k-beauty-unove-sephora-launch-1238458201/",
+        "timestamp": "2026-01-20T05:01:00+00:00",
+        "text": "The Latest Beauty Innovation From Korea is Focused on Hair – and Launching at Sephora \nK-Beauty is now coming for hair, with the launch of top repair brand Unove's debut at Sephora, slated for February. \nKorea’s top hair care brand focused on repair is setting its sights Stateside.\r\nUnove, the brand that brought the glass skin craze to hair after its 2021 launch, is debuting with Sephora on Feb. 3. I… [+2991 chars]",
+        "positive": 0.0005790092400275171,
+        "negative": 3.0117155347397784e-06,
+        "neutral": 0.9994180202484131
       },
       {
         "source": "news",
@@ -428,57 +914,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/money-and-banking/ust-acquires-texas-based-tailwind-enhances-play-in-digital-banking-solutions/article70527998.ece",
-        "timestamp": "2026-01-20T04:44:50+00:00",
-        "text": "UST acquires Texas-based Tailwind, enhances play in digital banking solutions \nWith this acquisition, UST will be able to increase its share of digital banking solutions implementation and support services for banks and credit unions \nLeading AI and technology transformation solutions company UST has acquired Texas-based fintech companyTailwind Business Ventures, for an unclosed sum. \r\nA UST spokesman said here this would strength… [+2959 chars]",
-        "positive": 0.9999794960021973,
-        "negative": 8.469221768336865e-08,
-        "neutral": 2.0417162886587903e-05
-      },
-      {
-        "source": "news",
         "id": "https://www.lifesciencesworld.com/why-do-mice-hide-under-stoves/",
         "timestamp": "2026-01-20T04:42:48+00:00",
         "text": "Why do mice hide under stoves? \nWhy Do Mice Hide Under Stoves? The Mystery Solved! Mice hide under stoves primarily seeking warmth, food scraps, and safe harbor from predators and human activity; the area provides an ideal combination of these factors, making it a popular nesting and hiding… \nMice hide under stoves primarily seeking warmth, food scraps, and safe harbor from predators and human activity; the area provides an ideal combination of these factors, making it a popular nesting a… [+7566 chars]",
         "positive": 0.0577881783246994,
         "negative": 2.0915071218041703e-05,
         "neutral": 0.9421910047531128
-      },
-      {
-        "source": "news",
-        "id": "https://paultan.org/2026/01/20/porsche-sold-279449-cars-in-2025/",
-        "timestamp": "2026-01-20T04:42:33+00:00",
-        "text": "Porsche sold 279,449 cars in 2025 – down 10% from 2024; Macan top seller; North America largest market \nSales of the Porsche cars dipped by 10% to 279,449 units in 2025, which is less than the 310,718 deliveries recorded in 2024. “After several record years, our deliveries in 2025 were below the previous […]\nThe post Porsche sold 279,449 cars in 2025 – down 10%… \nSales of the Porsche cars dipped by 10% to 279,449 units in 2025, which is less than the 310,718 deliveries recorded in 2024. After several record years, our deliveries in 2025 were below the previou… [+3276 chars]",
-        "positive": 1.3842548469256144e-05,
-        "negative": 0.9998776912689209,
-        "neutral": 0.00010842498886631802
-      },
-      {
-        "source": "news",
-        "id": "https://screenrant.com/best-dark-fantasy-anime-remake-d-gray-man-pitch/",
-        "timestamp": "2026-01-20T04:42:10+00:00",
-        "text": "D.Gray-man's Dark Fantasy Anime Is So Overdue for a Comeback \nDark fantasy anime is trending strong lately, making it all the more reasonable to hope for one major Shonen Jump return. \nIf the recent wave of strong, wonderfully-produced dark fantasy anime is any indication, the fandom is increasingly drawn to its impressive blend of grim, often gothic aesthetics with touches of acti… [+5275 chars]",
-        "positive": 0.9999991655349731,
-        "negative": 1.6697083538019797e-07,
-        "neutral": 6.563365104739205e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/stock-markets/markets-open-lower-as-global-tariff-fears-weigh-on-sentiment-nifty-slips-below-25500/article70528000.ece",
-        "timestamp": "2026-01-20T04:41:24+00:00",
-        "text": "Markets open lower as global tariff fears weigh on sentiment; Nifty slips below 25,500 \nMarkets opened on a weak note on Tuesday morning, extending losses from the previous session as concerns over potential US tariffs on Europe and geopolitical uncertainties continued to dampen investor sentiment. \nMarkets opened on a weak note on Tuesday morning, extending losses from the previous session as concerns over potential US tariffs on Europe and geopolitical uncertainties continued to dampen investo… [+3234 chars]",
-        "positive": 6.729052256559953e-05,
-        "negative": 0.9999294281005859,
-        "neutral": 3.3078279102483066e-06
-      },
-      {
-        "source": "news",
-        "id": "https://abcnews.go.com/US/video/bystanders-rescue-driver-trapped-inside-sinking-suv-129368709",
-        "timestamp": "2026-01-20T04:40:03+00:00",
-        "text": "WATCH: Bystanders help rescue driver trapped inside sinking SUV \nA group of bystanders helped rescue a driver stuck inside a sinking SUV in Virginia Beach. No serious injuries were reported. Police were investigating the circumstances surrounding the incident. \n<ul><li>NATO allies push back after Trump threatens Greenland\r\n</li><li>US troops on alert in Minnesota amid ICE protests\r\n</li><li>Former combat vet alleges he wasnt given access to an attorney duri… [+4319 chars]",
-        "positive": 0.004079210571944714,
-        "negative": 0.0831165760755539,
-        "neutral": 0.912804126739502
       },
       {
         "source": "news",
@@ -491,39 +932,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.wdrb.com/news/business/people-battling-addiction-hired-as-new-staff-for-crystals-country-diners-2nd-location/article_759b6d1a-a25c-4e96-8279-b510779fa5e6.html",
-        "timestamp": "2026-01-20T04:37:59+00:00",
-        "text": "People battling addiction hired as new staff for Crystal's Country Diner's 2nd location \nThe former bar now offers home cooking alongside second chances for men and women rebuilding their lives after drug and alcohol addiction. \nSHIVELY, Ky. (WDRB) A former bar in Shively has reopened as something very different: a restaurant with no alcohol and a mission rooted in recovery.\r\nCrystal's Country Diner South, located at 3309 Ca… [+2408 chars]",
-        "positive": 5.209276878304081e-06,
-        "negative": 1.948579119925853e-05,
-        "neutral": 0.999975323677063
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/news/international/world-news/trump-tariff-threat-poison-for-germanys-fragile-recovery/articleshow/126755415.cms",
         "timestamp": "2026-01-20T04:35:26+00:00",
         "text": "Trump tariff threat 'poison' for Germany's fragile recovery \nUS President Donald Trump's latest tariff threat against Europe over Greenland has hit its top economy Germany just as hopes are growing for a modest recovery after years of stagnation. But waiting patiently cannot go on forever,\" the German Association of Sm… \nUS President Donald Trump's latest tariff threat against Europe over Greenland has hit its top economy Germany just as hopes are growing for a modest recovery after years of stagnation.Germany's gove… [+4312 chars]",
         "positive": 0.4489120543003082,
         "negative": 0.5103479027748108,
         "neutral": 0.04074004665017128
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/jobs/fresher/infosys-bets-on-skills-over-scale-in-fresher-hiring-push/articleshow/126753120.cms",
-        "timestamp": "2026-01-20T04:32:07+00:00",
-        "text": "Infosys bets on skills over scale in fresher hiring push \nTech firms are moving away from mass fresher hiring towards skills-focused recruitment, offering sharply higher pay for specialised roles even as entry-level intake slows, a Times of India report said. Companies are paying Rs 16 lakh to Rs 55 lakh for niche p… \nMass hiring is being replaced by skills-driven recruitment as tech companies cut back on fresher intake and focus on specialised roles. Despite a slowdown in entry-level hiring, firms are paying Rs 1… [+1945 chars]",
-        "positive": 0.00046952307457104325,
-        "negative": 0.0009429732454009354,
-        "neutral": 0.9985876083374023
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/is-it-legal-to-buy-mammoth-ivory/",
-        "timestamp": "2026-01-20T04:28:58+00:00",
-        "text": "Is it legal to buy mammoth ivory? \nIs it Legal to Buy Mammoth Ivory? The legality of buying mammoth ivory is complex and depends heavily on location and intended use. Generally, it’s legal in the United States and many other countries, but with significant regulations to prevent the trade of e… \nIs it Legal to Buy Mammoth Ivory?\r\nThe legality of buying mammoth ivory is complex and depends heavily on location and intended use. Generally, it’s legal in the United States and many other countrie… [+9062 chars]",
-        "positive": 4.7138834702309396e-07,
-        "negative": 0.00012965140922460705,
-        "neutral": 0.9998698234558105
       },
       {
         "source": "news",
@@ -545,33 +959,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/20/3221287/0/en/Jatagan-Security-Achieves-99-94-Crime-Prevention-Success-Rate-in-2025-Setting-New-Industry-Benchmark.html",
-        "timestamp": "2026-01-20T04:26:00+00:00",
-        "text": "Jatagan Security Achieves 99.94% Crime Prevention Success Rate in 2025, Setting New Industry Benchmark \nLeading Outdoor Video Security Provider Demonstrates Unmatched Effectiveness Through Advanced AI-Powered Surveillance and Nationwide Monitoring Services Leading Outdoor Video Security Provider Demonstrates Unmatched Effectiveness Through Advanced AI-Powered S… \nSacramento, CA , Jan. 19, 2026 (GLOBE NEWSWIRE) -- Jatagan Security, a pioneer in outdoor video security services with over 20 years of industry leadership, today announced its 2025 crime prevention … [+4462 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 2.1466654231971916e-08,
-        "neutral": 1.6562860594149242e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.defenseone.com/technology/2026/01/china-building-full-stack-defense-innovation-cities/410779/",
-        "timestamp": "2026-01-20T04:25:41+00:00",
-        "text": "China is building ‘full-stack’ defense-innovation cities \nWhile the U.S. struggles to add rare-earth factories and drone-test ranges, Beijing is creating them in clusters. \nThe city of Baotoulong the heart of the rare-earths mining sector that has given China a stranglehold over the modern economyis now working to establish entire next-generation production chains. In I… [+5294 chars]",
-        "positive": 2.6091220206581056e-05,
-        "negative": 3.636969631770626e-05,
-        "neutral": 0.9999375343322754
-      },
-      {
-        "source": "news",
-        "id": "https://www.jalopnik.com/2077988/mazda-cx-30-sales-decline-not-because-of-popularity/",
-        "timestamp": "2026-01-20T04:25:00+00:00",
-        "text": "The Mazda CX-30's Sales Decline Had Nothing To Do With Its Popularity \nMazda decided to scale back production of the CX-30 because it's built in Mexico and thus subject to Trump's tariffs. \nWe're fans of the Mazda CX-30, and not just for its eye-catching turn signals. However, U.S. sales plummeted last year, from 96,515 in 2024 (its best year ever) to just 56,684. The CX-30 received a f… [+1324 chars]",
-        "positive": 0.00047798300511203706,
-        "negative": 0.9995148181915283,
-        "neutral": 7.193308192654513e-06
-      },
-      {
-        "source": "news",
         "id": "https://indianexpress.com/article/india/ed-raids-21-locations-in-kerala-tamil-nadu-karnataka-over-sabarimala-gold-misappropriation-case-10483815/",
         "timestamp": "2026-01-20T04:22:58+00:00",
         "text": "ED raids 21 locations in Kerala, Tamil Nadu, Karnataka over Sabarimala gold misappropriation case \nED searched officials of the Travancore Devaswom Board, private individuals, intermediaries, and jewellers as part of a probe into the alleged multi-crore misappropriation of gold and other assets from the Sabarimala Temple. \nThe Enforcement Directorate (ED) Tuesday is conducting searches at 21 locations across Kerala, Tamil Nadu, and Karnataka in connection with an alleged multi-crore misappropriation of gold and other a… [+1393 chars]",
@@ -590,24 +977,6 @@
       },
       {
         "source": "news",
-        "id": "https://freerepublic.com/focus/f-religion/4363043/posts",
-        "timestamp": "2026-01-20T04:19:41+00:00",
-        "text": "America Prayer Vigil - 1/20/26 [Prayer] \nJoin with fellow FREEPERS to pray for AMERICA: For those in Authority in Government, Family, Military, Business, Agri-Business; End to Sex Slavery; Healthcare, Education, Churches, and the Media. This is the confidence we have in approaching God: that if we a… \nSkip to comments.\r\nAmerica Prayer Vigil - 1/20/26 [Prayer]\r\n1/20/26\r\n | Hiskid\r\nPosted on 01/19/2026 8:19:41 PM PST by Hiskid\r\nJoin with fellow FREEPERS to pray for AMERICA: For those in Authority in… [+3573 chars]",
-        "positive": 0.014137165620923042,
-        "negative": 6.166903040139005e-05,
-        "neutral": 0.9858011603355408
-      },
-      {
-        "source": "news",
-        "id": "https://www.ozbargain.com.au/node/944924",
-        "timestamp": "2026-01-20T04:19:23+00:00",
-        "text": "Apple iPad Pro (M4) (11-inch, Nano-Texture Glass, Wi-Fi, 2TB) - Silver $2,085.97 Delivered @ Amazon AU \nNot as good as the previous Officeworks deal for $1194, but good if anyone needs this or wants to price match it seems decent enough. I couldn't even get the iPad from the previous deal when I … \nThis post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nNot as good as the previous Officeworks dea… [+241 chars]",
-        "positive": 0.27838361263275146,
-        "negative": 0.000762665702495724,
-        "neutral": 0.7208537459373474
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/expert-view/indias-earnings-recovery-priced-in-venugopal-garre-explains-why-markets-now-need-upgrades-not-optimism/articleshow/126753871.cms",
         "timestamp": "2026-01-20T04:17:48+00:00",
         "text": "India’s earnings recovery priced in; Venugopal Garre explains why markets now need upgrades, not optimism \nIndian equities may see moderate gains, but sharp upside looks limited as earnings recovery is already priced in, says Bernstein’s Venugopal Garre. With margins near peak levels, weak nominal growth and limited fiscal headroom, markets now need clear earnings… \nIndian equities may deliver positive returns over the next year, but the scope for sharp outperformance looks limited due to a lack of clear earnings upgrade drivers, according to Venugopal Garre, Ma… [+3075 chars]",
@@ -617,48 +986,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.huffpost.com/entry/jeff-landry-trump-dog-sled-greenland-cancel_n_696ed8e7e4b08923e074b7c0",
-        "timestamp": "2026-01-20T04:15:30+00:00",
-        "text": "Trump Envoy Gets Cold Shoulder In Greenland As Key Event Pulls Invitation \nJeff Landry was disinvited from attending a sled dog race as the president continues to threaten the island. \nLouisiana Gov. Jeff Landry (R) is already having a rough time in his new role as President Donald Trumps special envoy to Greenland after being disinvited from a key event. \r\nThe move comes as Trump … [+1375 chars]",
-        "positive": 6.021180161042139e-05,
-        "negative": 0.0002454022178426385,
-        "neutral": 0.9996944665908813
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitimes.com/news/a20260120VL206/malaysia-chips-manufacturing-usa-tariffs-policy.html",
-        "timestamp": "2026-01-20T04:15:05+00:00",
-        "text": "US semiconductor tariffs may weigh on Malaysia's export-driven industries \nThe US' recent announcement of a 25% tariff on certain advanced computing chips, including Nvidia's H200 and AMD's MI325X, could have implications for Malaysia's semiconductor sector, though experts suggest immediate effects may be limited. The tariffs, justi… \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
-        "positive": 0.0013366863131523132,
-        "negative": 0.47512543201446533,
-        "neutral": 0.523537814617157
-      },
-      {
-        "source": "news",
         "id": "https://en.antaranews.com/news/400610/indonesia-eyes-rp134-trillion-from-minerals-and-coal-in-2026",
         "timestamp": "2026-01-20T04:13:43+00:00",
         "text": "Indonesia eyes Rp134 trillion from minerals and coal in 2026 \nThe Ministry of Energy and Mineral Resources (ESDM) has set a target for Indonesia to generate Rp134 trillion (around US$7.9 billion) in revenue from the ... \nJakarta (ANTARA) - The Ministry of Energy and Mineral Resources (ESDM) has set a target for Indonesia to generate Rp134 trillion (around US$7.9 billion) in revenue from the mineral and coal sector in… [+2290 chars]",
         "positive": 1.7172058505821042e-05,
         "negative": 1.7337243889414822e-06,
         "neutral": 0.9999810457229614
-      },
-      {
-        "source": "news",
-        "id": "https://cointelegraph.com/news/magic-eden-ceo-sees-speculation-supercycle-ahead",
-        "timestamp": "2026-01-20T04:12:03+00:00",
-        "text": "Magic Eden co-founder sees ‘speculation supercycle’ ahead \nNFT platform Magic Eden CEO Jack Lu said a “speculation supercycle” is ahead, citing the boom in prediction markets and betting, and the platform is positioning to capitalize on it. \nMagic Eden CEO and co-founder Jack Lu says his company will be well-positioned for the supercycle where finance merges with entertainment amid a recent boom in prediction markets and betting.\r\nSpecul… [+2349 chars]",
-        "positive": 0.9999991655349731,
-        "negative": 2.9127408041063063e-08,
-        "neutral": 7.806761459505651e-07
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/cmoc-raises-1-2-billion-from-upsized-convertible-bond-deal",
-        "timestamp": "2026-01-20T04:10:39+00:00",
-        "text": "CMOC Raises $1.2 Billion From Upsized Convertible-Bond Deal \nChinese miner CMOC Group Ltd. raised $1.2 billion from an upsized sale of zero-coupon convertible bonds, after a rally in the price of copper lifted its profit. \n(Bloomberg) Chinese miner CMOC Group Ltd. raised $1.2 billion from an upsized sale of zero-coupon convertible bonds, after a rally in the price of copper lifted its profit.\r\nTHIS CONTENT IS RESERVED … [+3740 chars]",
-        "positive": 0.9993411898612976,
-        "negative": 7.804143933753949e-06,
-        "neutral": 0.0006509888335131109
       },
       {
         "source": "news",
@@ -689,39 +1022,12 @@
       },
       {
         "source": "news",
-        "id": "https://punchng.com/the-job-scam-syndicate-luring-nigerians-into-ukraine-russia-war/",
-        "timestamp": "2026-01-20T04:10:27+00:00",
-        "text": "The job scam syndicate luring Nigerians into Ukraine-Russia war \nDiscover how a job scam syndicate deceives young Nigerians, luring them with fake employment offers into fighting in the Russia-Ukraine war.\n\nRead More: https://punchng.com/the-job-scam-syndicate-luring-nigerians-into-ukraine-russia-war/ \nThey boarded planes believing they were heading to work sites, supermarkets or security posts. Instead, they arrived at military camps, where refusal to fight meant intimidation, detention or abandon… [+16555 chars]",
-        "positive": 1.7239058252016548e-06,
-        "negative": 5.1854374760296196e-05,
-        "neutral": 0.9999464750289917
-      },
-      {
-        "source": "news",
         "id": "https://www.bloomberg.com/news/articles/2026-01-19/silver-rises-to-record-as-us-eu-tensions-over-greenland-persist",
         "timestamp": "2026-01-20T04:09:10+00:00",
         "text": "Silver hits record high as US-EU crisis over Greenland simmers \nThe US’s aggression toward its NATO allies has rattled markets, buoying demand for havens and reviving the ‘Sell America’ trade \nSilver hit a record high and gold traded near an all-time peak as President Donald Trumps push to take over Greenland fueled fears of a US-Europe trade war and kept markets on edge.\r\nThe precious met… [+1601 chars]",
         "positive": 0.9999754428863525,
         "negative": 2.3303497073356993e-05,
         "neutral": 1.3613703231385443e-06
-      },
-      {
-        "source": "news",
-        "id": "https://dmnews.com/ai-and-human-touch-in-2025-marketing/",
-        "timestamp": "2026-01-20T04:08:39+00:00",
-        "text": "Ai and human touch in 2025 marketing \nDiscover how the synergy between AI and human touch is revolutionizing marketing strategies in 2025 for unprecedented customer engagement. \n<ul><li>Tension: Marketing leaders face pressure to scale efficiently through AI while audiences increasingly crave authentic human connection.</li><li>Noise: Contradictory advice about AI adoption c… [+6933 chars]",
-        "positive": 0.0010705055901780725,
-        "negative": 0.8507287502288818,
-        "neutral": 0.14820075035095215
-      },
-      {
-        "source": "news",
-        "id": "http://www.newsbtc.com/analysis/xrp/xrp-price-hits-resistance-2-020/",
-        "timestamp": "2026-01-20T04:08:17+00:00",
-        "text": "XRP Price Hits Resistance on Recovery, Bulls Lose Momentum \nXRP price started a recovery wave above $2.00 but failed near $2.020. The price is now showing a few bearish signs and might decline below $1.95. XRP price started a recovery wave above the $1.920 zone. The price is now trading below $2.00 and the 100-hourly … \nAayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]",
-        "positive": 0.9983847141265869,
-        "negative": 0.0012073838151991367,
-        "neutral": 0.0004078962083440274
       },
       {
         "source": "news",
@@ -761,15 +1067,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.channelnewsasia.com/business/asian-markets-stocks-silver-trump-europe-greenland-japan-5869891",
-        "timestamp": "2026-01-20T04:02:14+00:00",
-        "text": "Asian markets sink, silver hits record as Greenland fears mount \nHONG KONG: Asian markets extended losses on Tuesday (Jan 20) and silver hit a fresh peak on fears of a United States-European Union trade war fuelled by President Donald Trump's tariff threat over opp \nHONG KONG: Asian markets extended losses on Tuesday (Jan 20) and silver hit a fresh peak on fears of a United States-European Union trade war fuelled by President Donald Trump's tariff threat over op… [+836 chars]",
-        "positive": 0.0008752800058573484,
-        "negative": 0.9990980625152588,
-        "neutral": 2.6673918910091743e-05
-      },
-      {
-        "source": "news",
         "id": "https://freerepublic.com/focus/f-news/4363041/posts",
         "timestamp": "2026-01-20T04:02:03+00:00",
         "text": "Kevin Warsh soars ahead of Kevin Hassett in Polymarket, Kalshi odds on next Fed chair after Trump signal \nFormer Federal Reserve Governor Kevin Warsh soared ahead of National Economic Council Director Kevin Hassett on prediction markets betting on the next Fed chair after President Trump on Friday hinted that Hassett might be out of the running. Trump did not rev… \nFormer Federal Reserve Governor Kevin Warsh soared ahead of National Economic Council Director Kevin Hassett on prediction markets betting on the next Fed chair after President Trump on Friday hinted… [+8404 chars]",
@@ -779,30 +1076,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/companies/swedens-ikea-plans-to-double-india-investment-to-22-billion-over-five-years/article70527938.ece",
-        "timestamp": "2026-01-20T04:01:28+00:00",
-        "text": "Sweden's IKEA plans to double India investment to $2.2 billion over five years \nIKEA, which opened its first India store in 2018 in Hyderabad, will begin accepting online orders in four\nother cities where it currently does not have a physical presence \nChennai Sweden's IKEA will more than\r\ndouble its investment in India to over 200 billion rupees ($2.2\r\nbillion) in the next five years as the furniture retailer plans\r\nto open more stores and increas… [+1619 chars]",
-        "positive": 0.0844225063920021,
-        "negative": 6.0803096857853234e-05,
-        "neutral": 0.91551673412323
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-300-pts-nifty-below-25500-amid-trade-worries-and-foreign-selling/articleshow/126752320.cms",
         "timestamp": "2026-01-20T04:00:47+00:00",
         "text": "Sensex falls over 300 pts, Nifty below 25,500 amid trade worries and foreign selling \nIndian stock markets continued their downward trend on Tuesday, with both the Sensex and Nifty experiencing a second consecutive session of declines. Investors are closely monitoring global trade uncertainties and ongoing foreign fund outflows, while the quar… \nIndian stocks traded lower on Tuesday, with the Sensex and Nifty extending losses into a second session as investors weighed persistent global trade uncertainties and continued foreign fund outflows,… [+4366 chars]",
         "positive": 8.265140786534175e-05,
         "negative": 0.9999134540557861,
         "neutral": 3.942705916415434e-06
-      },
-      {
-        "source": "news",
-        "id": "https://bitcoinist.com/bitcoin-cycle-isnt-over-realized-price-bands-show/",
-        "timestamp": "2026-01-20T04:00:19+00:00",
-        "text": "Bitcoin Cycle Isn’t Over: Realized Price Bands Show Holder Stress Above Key Levels \nBitcoin saw a sharp pullback this week, dropping below the $92,500 mark after failing to hold above $95,500. While the decline reignited bear market fears across crypto, bulls are now trying to stabilize price and defend the current range before selling press… \nBitcoin saw a sharp pullback this week, dropping below the $92,500 mark after failing to hold above $95,500. While the decline reignited bear market fears across crypto, bulls are now trying to stabi… [+4030 chars]",
-        "positive": 0.04127946123480797,
-        "negative": 0.9558517932891846,
-        "neutral": 0.0028686984442174435
       },
       {
         "source": "news",
@@ -842,30 +1121,12 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/renewables/budget-2026-renewable-energy-industry-expectations-what-indias-renewable-industry-wants-from-the-fm-in-the-drill-baby-drill-era/articleshow/126714867.cms",
-        "timestamp": "2026-01-20T04:00:00+00:00",
-        "text": "Budget 2026 Expectations: What India’s renewable industry wants from the FM in the ‘Drill, Baby, Drill’ era \nUnion Budget 2026: India Renewable energy industry has achieved a significant milestone, with non-fossil sources now comprising half of its electricity generation capacity. Despite strong growth, the sector faces challenges in financing, land acquisition, and… \nThe global renewable energy industry is going through a sharp reset. In the United States -- the worlds largest economy -- policy has swung away from clean power under President Donald Trump. His adm… [+5539 chars]",
-        "positive": 0.002307059010490775,
-        "negative": 0.9888327121734619,
-        "neutral": 0.008860279805958271
-      },
-      {
-        "source": "news",
         "id": "https://www.businessinsider.com/russia-new-turbojet-drone-geran-5-american-chinese-german-parts-2026-1",
         "timestamp": "2026-01-20T03:58:58+00:00",
         "text": "Russia's new Geran-5 turbojet drone looks like Iran's Karrar UAV and is souped up with American parts, Ukraine says \nThe Geran-5 features US parts such as digital signal processors and clock generators, along with a Chinese jet engine and $8,100 modem, GUR said. \nUkraine's defense intelligence agency, GUR, has identified over a dozen American and Chinese electronics parts that it says were found in a new Russian jet-powered attack drone.\r\nGUR published its ne… [+2816 chars]",
         "positive": 7.68995778344106e-06,
         "negative": 1.0022691640187986e-05,
         "neutral": 0.9999822378158569
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitimes.com/news/a20260120VL203/micron-manufacturing-incentives.html",
-        "timestamp": "2026-01-20T03:57:31+00:00",
-        "text": "Incentives out, tariffs in: Why Micron's NYC megafab matters far beyond memory chips \nThe global contest for semiconductor leadership took a confrontational turn this week. US officials used Micron Technology's groundbreaking in upstate New York to deliver blunt warnings to foreign rivals. \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
-        "positive": 0.002914455020800233,
-        "negative": 0.0022872723639011383,
-        "neutral": 0.9947983026504517
       },
       {
         "source": "news",
@@ -902,24 +1163,6 @@
         "positive": 1.817641532397829e-06,
         "negative": 0.9999467134475708,
         "neutral": 5.151143341208808e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/gov-bonds-to-track-weaker-us-treasuries-supply-concerns-persist/article70527908.ece",
-        "timestamp": "2026-01-20T03:49:18+00:00",
-        "text": "Gov bonds to track weaker US Treasuries, supply concerns persist \nIndian government bonds face pressure as yields track declining U.S. Treasuries amid ongoing supply concerns. \nMumbai Indian government bonds are\r\nexpected to stay under pressure in early trade on Tuesday,\r\ntracking a further slide in U.S. Treasuries, while domestic\r\nsentiment remains subdued amid demand-supp… [+1744 chars]",
-        "positive": 0.00010457493044668809,
-        "negative": 0.9998786449432373,
-        "neutral": 1.6820735254441388e-05
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/tech/technology/japan-us-narrow-first-550-billion-investment-picks-including-softbank-linked-plan-sources-say/articleshow/126750926.cms",
-        "timestamp": "2026-01-20T03:48:39+00:00",
-        "text": "Japan, US narrow first $550 billion investment picks, including SoftBank-linked plan, sources say \nThe two governments have intensified discussions to select the initial projects ‌under the ‌investment scheme, agreed as part of Tokyo's deal with Washington to lower tariffs on Japanese exports ‌to the United States, the sources said on Monday. \nJapan and the US have short-listed a few projects as the first candidates under Tokyo's planned US-bound $550 billion investment, including a project involving SoftBank Group, two sources familiar wi… [+1776 chars]",
-        "positive": 1.236243133462267e-05,
-        "negative": 0.00012723203690256923,
-        "neutral": 0.999860405921936
       },
       {
         "source": "news",
@@ -1217,186 +1460,6 @@
         "positive": 2.5467725208727643e-05,
         "negative": 5.218822479946539e-06,
         "neutral": 0.9999692440032959
-      },
-      {
-        "source": "news",
-        "id": "https://www.fool.com.au/2026/01/20/why-bellevue-gold-droneshield-hub24-and-telix-shares-are-storming-higher-today/",
-        "timestamp": "2026-01-20T01:53:17+00:00",
-        "text": "Why Bellevue Gold, DroneShield, Hub24, and Telix shares are storming higher today \nThese shares are rising on Tuesday despite the market weakness.\nThe post Why Bellevue Gold, DroneShield, Hub24, and Telix shares are storming higher today appeared first on The Motley Fool Australia. \nThe S&amp;P/ASX 200 Index (ASX: XJO) is on course to record another decline. In afternoon trade, the benchmark index is down 0.6% to 8,821 points.\r\nFour ASX shares that have not let that hold them ba… [+2586 chars]",
-        "positive": 0.08924549072980881,
-        "negative": 0.9082526564598083,
-        "neutral": 0.002501891693100333
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/new-updates/k-ramachandra-rao-video-controversy-chief-minister-siddaramaiah-warns-of-strict-action/articleshow/126743034.cms",
-        "timestamp": "2026-01-20T01:51:22+00:00",
-        "text": "K Ramachandra Rao video controversy: Chief Minister Siddaramaiah warns of 'strict' action \nA video allegedly showing Karnataka DGP K Ramachandra Rao in a compromising position with women has gone viral. Rao has denied the authenticity of the videos, calling them fabricated. Chief Minister Siddaramaiah has ordered an investigation, stating that no o… \nA video allegedly showing Karnataka DGP (Civil Rights Enforcement) K. Ramachandra Rao in a compromising position with women went viral on social media on Monday. Rao dismissed the clips as fabricated… [+2472 chars]",
-        "positive": 0.000593743403442204,
-        "negative": 0.9041681289672852,
-        "neutral": 0.0952380895614624
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanishaa-mukerji-visits-shani-shingnapur-with-her-devis-says-no-evil-can-touch-you/articleshow/126741871.cms",
-        "timestamp": "2026-01-20T01:51:00+00:00",
-        "text": "Tanishaa Mukerji visits Shani Shingnapur with her 'Devis', says 'no evil can touch you' \nJoin actress Tanishaa Mukerji as she shares her enlightening visit to Shani Shingnapur, embracing the Divine Feminine and the temple's significance in Maharashtra. \nFollow Us On Social Media\r\nJohn Harbaughs wife Ingrid turns heads during Giants headline-making entranceHouse Targaryen bloodline explained: From Rhaenyra to Daenerys - here's all about fire, blood a… [+1827 chars]",
-        "positive": 1.0023331924458034e-05,
-        "negative": 5.2561896154657006e-05,
-        "neutral": 0.9999374151229858
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/magazines/panache/savings-income-ego-ca-on-the-silent-tax-that-steals-your-peace/articleshow/126741128.cms",
-        "timestamp": "2026-01-20T01:50:16+00:00",
-        "text": "Savings = Income − Ego: CA on the silent tax that steals your peace \nCA Nitin Kaushik reveals true wealth is unseen, offering freedom, not applause. He argues ego, not taxes or inflation, drains finances.  Displaying wealth is less important than building security.  Saving is income minus ego.  Knowing your 'Enough Number' is … \nScrolling through social media, its easy to believe that wealth looks loud. Exotic vacations, luxury cars, designer labels, and perfectly curated lives dominate our screens. But what if the real mark… [+4222 chars]",
-        "positive": 0.0013859154423698783,
-        "negative": 0.0004441807104740292,
-        "neutral": 0.9981698989868164
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitimes.com/news/a20260120PD200/china-rare-earth-price-supply-chain-2026.html",
-        "timestamp": "2026-01-20T01:48:42+00:00",
-        "text": "China's rare earth prices rise for 6th consecutive quarter, inflation pressure returns to supply chain \nChina's Ministry of Commerce (MOFCOM) has tightened export controls on dual-use items to Japan, underscoring the growing strategic role of rare earth elements amid complex geopolitical and resource considerations. Concurrently, two leading Chinese rare earth … \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
-        "positive": 0.14561417698860168,
-        "negative": 0.04212786629796028,
-        "neutral": 0.8122579455375671
-      },
-      {
-        "source": "news",
-        "id": "https://www.straitstimes.com/business/how-europe-could-weaponise-13-trillion-of-us-assets-over-greenland",
-        "timestamp": "2026-01-20T01:36:14+00:00",
-        "text": "Europe's potential weaponization of US assets \nExplore the debate among investors over Europe potentially selling $13 trillion of US assets in response to US threats over Greenland. Read more at straitstimes.com. Read more at straitstimes.com. \nOSLO As Europe considers how best to respond to US President Donald Trumps latest threats over Greenlands sovereignty, theres one extreme potential countermeasure thats fueling debate among investors… [+4295 chars]",
-        "positive": 0.0003849604690913111,
-        "negative": 0.0038564945571124554,
-        "neutral": 0.995758593082428
-      },
-      {
-        "source": "news",
-        "id": "https://www.livemint.com/companies/indian-it-firms-q3-earnings-growth-outlook-11768828050417.html",
-        "timestamp": "2026-01-20T01:30:15+00:00",
-        "text": "After Q3 beats, is Indian IT turning the corner? \nStrong December-quarter results have lifted sentiment, but slowing full-year growth, weak demand visibility and cautious guidance suggest India’s top IT firms are yet to beat the slowdown. \nBENGALURU: Indias IT bellwethers may have beaten Street expectations in the December quarter (Q3FY26), but the relief looks fleeting.\r\nEven as earnings surprises lifted sentiment in the October-Decem… [+6961 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 7.335999896440626e-08,
-        "neutral": 5.183498519301111e-09
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/chimamanda-allow-probe-proceed-without-prejudice-medical-directors-urge-nigerians/",
-        "timestamp": "2026-01-20T01:24:54+00:00",
-        "text": "Chimamanda: Allow probe proceed without prejudice, medical directors urge Nigerians \nNigeria’s Guild of Medical Directors calls for a fair medical negligence probe into the death of Chimamanda Adichie’s son, urging against trial by media.\n\nRead More: https://punchng.com/chimamanda-allow-probe-proceed-without-prejudice-medical-directors-urge-n… \nPrivate hospital owners and managers under the aegis of the Guild of Medical Directors have urged Nigerians to allow due process to take its course in the ongoing investigations involving the death o… [+5204 chars]",
-        "positive": 1.2172128663223702e-05,
-        "negative": 0.00026474479818716645,
-        "neutral": 0.9997231364250183
-      },
-      {
-        "source": "news",
-        "id": "https://www.nzherald.co.nz/whanganui-chronicle/news/police-seek-publics-help-to-find-missing-bulls-man/CMZF5P47XZEHRCAYUD5QMZHFIU/",
-        "timestamp": "2026-01-20T01:18:48+00:00",
-        "text": "Police seek public’s help to find missing Bulls man \nLiam was last seen near Watson St about midday on Monday. \nPolice are looking for 23-year-old Liam from Bulls who went missing about midday on January 20.Police are seeking the publics assistance to find a missing man from Bulls.\r\nLiam, 23, was last seen nea… [+251 chars]",
-        "positive": 2.136510556738358e-05,
-        "negative": 3.181837382726371e-05,
-        "neutral": 0.9999468326568604
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2026/01/20/china-lending-rates-lpr-slowing-economic-growth.html",
-        "timestamp": "2026-01-20T01:16:08+00:00",
-        "text": "China keeps benchmark lending rates unchanged despite slowing economic growth \nChina's central bank held its loan prime rates unchanged as the authorities sought to bolster the economy with targeted monetary easing steps. \nChina's central bank kept its loan prime rates unchanged on Tuesday as the authorities focus on targeted support for specific sectors to bolster a slowing economy instead of broad policy easing. \r\nTh… [+2663 chars]",
-        "positive": 0.00019113886810373515,
-        "negative": 0.0002558745618443936,
-        "neutral": 0.9995530247688293
-      },
-      {
-        "source": "news",
-        "id": "https://www.newser.com/story/382211/dea-has-been-watching-delcy-rodriguez-for-years.html",
-        "timestamp": "2026-01-20T01:15:00+00:00",
-        "text": "DEA Has Been Watching Delcy Rodriguez for Years \nWhen President Trump announced the audacious capture of Nicolas Maduro to face drug trafficking charges in the US, he portrayed the strongman's vice president and longtime aide as America's preferred partner to stabilize Venezuela amid a scourge of drugs, cor… \nWhen President Trump announced the audacious capture of Nicolas Maduro to face drug trafficking charges in the US, he portrayed the strongman's vice president and longtime aide as America's preferred… [+2091 chars]",
-        "positive": 4.5364551624516025e-05,
-        "negative": 0.00013904101797379553,
-        "neutral": 0.9998155236244202
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2026/01/20/cnbc-daily-open-eu-has-nuclear-option-to-deal-with-trumps-greenland-tariffs.html",
-        "timestamp": "2026-01-20T01:12:57+00:00",
-        "text": "CNBC Daily Open: The EU has a nuclear option to deal with Trump's Greenland tariffs — and is mulling over it \nAt an emergency meeting in Brussels on Sunday afternoon local time, France pushed for the European Union to use the \"Anti-Coercion Instrument.\" \nGreenland's Prime Minister Jens-Frederik Nielsen stood firm on the island's self-governance, saying on Monday that the \"latest statements from the US, including threats of tariffs, do not change that… [+3888 chars]",
-        "positive": 5.610005246126093e-05,
-        "negative": 0.000411906250519678,
-        "neutral": 0.9995319843292236
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180617434",
-        "timestamp": "2026-01-20T01:12:11+00:00",
-        "text": "21-year-old Rigby man who had a 'heart of gold' continues to bless others after unexpected death - East Idaho News \n21-year-old Rigby man who had a 'heart of gold' continues to bless others after unexpected deathEast Idaho News... \n\"Bond reflected that good Americans were fine people and that most of them\r\nseemed to come from Texas.\"\r\n- Ian Fleming, \"Casino Royale\"",
-        "positive": 0.588980495929718,
-        "negative": 0.027436358854174614,
-        "neutral": 0.3835831582546234
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/business/modern-civilisations-most-important-commodity-hits-a-wall-looks-like-theres-no-coming-back/articleshow/126739834.cms",
-        "timestamp": "2026-01-20T01:10:31+00:00",
-        "text": "Modern civilisation's most important commodity hits a wall. Looks like there's no coming back \nCement consumption has hit a peak. China, the largest producer, is seeing its construction boom end. Output has fallen significantly and is expected to decline further. This drop in demand is good news for the environment. Efforts to reduce cement's carbon fo… \nWhats the most important commodity for modern civilization? Theres a good argument that its not the ones we think about oil, gas, copper, iron ore, gold but something thats ubiquitous and rarely grab… [+4597 chars]",
-        "positive": 0.0019728783518075943,
-        "negative": 0.9977211356163025,
-        "neutral": 0.00030599490855820477
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/business/modern-civilisations-most-important-commodity-hits-a-wall-looks-like-theres-no-coming-back/articleshow/126740276.cms",
-        "timestamp": "2026-01-20T01:10:31+00:00",
-        "text": "Modern civilisation's most important commodity hits a wall. Looks like there's no coming back \nCement consumption has hit a peak. China, the largest producer, is seeing its construction boom end. Output has fallen significantly and is expected to decline further. This drop in demand is good news for the environment. Efforts to reduce cement's carbon fo… \nWhats the most important commodity for modern civilization? Theres a good argument that its not the ones we think about oil, gas, copper, iron ore, gold but something thats ubiquitous and rarely grab… [+4597 chars]",
-        "positive": 0.0019728783518075943,
-        "negative": 0.9977211356163025,
-        "neutral": 0.00030599490855820477
-      },
-      {
-        "source": "news",
-        "id": "https://www.antiwar.com/blog/2026/01/19/the-kyle-anzalone-show-is-trump-making-himself-a-dictator-unchecked-power-and-a-looming-war/",
-        "timestamp": "2026-01-20T01:08:15+00:00",
-        "text": "The Kyle Anzalone Show: Is Trump Making Himself a Dictator? Unchecked Power And A Looming War \nA president on camera says only his own morality can stop him. That single line sets the tone for a high-stakes hour where we track real-time war signals around Iran, interrogate the Greenland fantasy, and examine how power bends rules when no one close is wi… \nA president on camera says only his own morality can stop him. That single line sets the tone for a high-stakes hour where we track real-time war signals around Iran, interrogate the Greenland fantas… [+1836 chars]",
-        "positive": 1.457653797842795e-05,
-        "negative": 0.00013266337919048965,
-        "neutral": 0.9998527765274048
-      },
-      {
-        "source": "news",
-        "id": "https://www.straitstimes.com/business/malaysias-khazanah-to-steer-more-capital-to-power-grids-chip-firms-chief-says-in-davos",
-        "timestamp": "2026-01-20T01:07:03+00:00",
-        "text": "Malaysia's Khazanah to steer more capital to power grids, chip firms, chief says in Davos \nKhazanah will focus on infrastructure while global investors have been pouring money into data centres. Read more at straitstimes.com. Read more at straitstimes.com. \nDAVOS - Malaysias sovereign wealth fund Khazanah Nasional plans to channel more capital into strengthening the power system and supporting local semiconductor firms as artificial intelligence (AI) dr… [+2055 chars]",
-        "positive": 5.4621919844066724e-05,
-        "negative": 3.9099136301956605e-06,
-        "neutral": 0.9999414682388306
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-us-treasuries-fall-on-tariff-angst/articleshow/126740003.cms",
-        "timestamp": "2026-01-20T01:06:43+00:00",
-        "text": "Asian stocks, US treasuries fall on tariff angst \nAsian markets opened lower Tuesday. President Donald Trump's tariff threats regarding Greenland have reignited trade tensions. This has impacted investor confidence. European shares fell significantly on Monday. US markets were closed. Investors are watching … \nAsian shares slipped at the open Tuesday as President Donald Trumps tariff threats over Greenland revived trade tensions and weighed on investor appetite for risk.Stocks edged lower in Australia and … [+3070 chars]",
-        "positive": 5.7843939430313185e-05,
-        "negative": 0.9998971223831177,
-        "neutral": 4.499158967519179e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.bbc.com/news/articles/c0lx7j1lrwro",
-        "timestamp": "2026-01-20T01:04:54+00:00",
-        "text": "Confronted over Greenland, Europe is ditching its softly-softly approach to Trump \nTransatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler \nSomething in Europe has snapped. Donald Trump doubled down again on Monday, in his insistence that the US needs Greenland for national security reasons. \r\nIs he prepared to use force to seize it, jou… [+12635 chars]",
-        "positive": 0.00025306010502390563,
-        "negative": 0.2764779031276703,
-        "neutral": 0.7232691049575806
-      },
-      {
-        "source": "news",
-        "id": "https://prtimes.jp/main/html/rd/p/000000187.000048053.html",
-        "timestamp": "2026-01-20T01:00:00+00:00",
-        "text": "新しい年、新しい私、運命の1着。～今の気分で選ぶ、系統別スタイル～特集を1月20日(火)に公開しました。【オシャレウォーカー】 \n[株式会社mighty]\n[画像1: https://prcdn.freetls.fastly.net/release_image/48053/187/48053-187-ae68c9227d3cdeddf5d778b5f3088160-780x480.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am... \nosharewalkermighty\"1\"120()\r\n1\r\n4\r\n1\r\nmighty\r\n2002\r\nosharewalker3,000\r\n/594-0083 -15\r\nhttps://www.osharewalker.jp/\r\n osharewalker\r\nn'OrLABELsomari imaginationkOhAKUMDROUKA SELECT5\r\n: https://www.oshar… [+805 chars]",
-        "positive": 3.779831968131475e-05,
-        "negative": 3.4842753393604653e-06,
-        "neutral": 0.9999587535858154
       },
       {
         "source": "news",
@@ -26653,9 +26716,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": -0.03296875237460156,
-    "nw_norm": 48.35156238126992
+    "nw": 0.16148183205070438,
+    "nw_norm": 58.07409160253522
   },
-  "gsi": 48.35156238126992,
-  "classification": "Neutral"
+  "gsi": 58.07409160253522,
+  "classification": "Bullish"
 }
