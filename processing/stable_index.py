@@ -24,7 +24,7 @@ import requests
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-GSI_HISTORY_PATH = PROJECT_ROOT / "gsi_history.json"
+GSI_HISTORY_PATH = PROJECT_ROOT / "docs" / "gsi_history.json"
 
 
 # ============================================================================
