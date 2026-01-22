@@ -1,8 +1,890 @@
 {
-  "timestamp": "2026-01-22T22:01:07.209182+00:00",
+  "timestamp": "2026-01-22T22:41:05.757972+00:00",
   "news": {
-    "count": 2962,
+    "count": 2960,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/01/21/opinion/trump-can-learn-a-lot-from-this-forgotten-president-as-he-sizes-up-greenland/",
+        "timestamp": "2026-01-21T22:33:29+00:00",
+        "text": "Trump can learn a lot from this forgotten president as he sizes up Greenland \nLike Trump, James K. Polk was a cold-eyed American expansionist — but even he compromised with allies to add to US territory. \nPresident Donald Trump has a painting of Andrew Jackson in the Oval Office, but as he tries to browbeat Denmark into coughing up Greenland, maybe he should add a portrait of a Jackson acolyte James K… [+4013 chars]",
+        "positive": 3.5789801131613785e-06,
+        "negative": 1.234753381140763e-05,
+        "neutral": 0.9999840259552002
+      },
+      {
+        "source": "news",
+        "id": "https://www.theatlantic.com/national-security/2026/01/social-media-trump-administration-dhs/685659/",
+        "timestamp": "2026-01-21T22:33:11+00:00",
+        "text": "The Government’s Posts Just Took a Sharp Far-Right Turn \nGovernment social-media managers have turned official feeds into streams of xenophobia. \nThe U.S. Labor Department is embracing Nazi slogans and tropes, the Pentagon’s research office is deploying neo-Nazi graphic elements in its social-media feeds, and the Department of Homeland Securit… [+10426 chars]",
+        "positive": 1.0878176908590831e-05,
+        "negative": 2.5441926482017152e-05,
+        "neutral": 0.9999637603759766
+      },
+      {
+        "source": "news",
+        "id": "https://www.motorsport.com/autosport-awards/news/mclaren-f1-team-wins-inaugural-autosport-team-of-the-year-award/10791807/",
+        "timestamp": "2026-01-21T22:32:49+00:00",
+        "text": "McLaren F1 team wins inaugural Autosport Team of the Year Award \nThe McLaren Formula 1 Team is the first winner of the Autosport Team of the Year Award \nThe McLaren Formula 1 Team has become the first winner of the Autosport Team of the Year Award.\r\nMcLaren took an F1 title double in 2025, wrapping up its 10th constructors crown and 13th drivers cham… [+1310 chars]",
+        "positive": 0.9999650716781616,
+        "negative": 1.9743671941796492e-07,
+        "neutral": 3.4656015486689284e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.theatlantic.com/newsletters/2026/01/trump-greenland-iceland-plan-confusion/685701/",
+        "timestamp": "2026-01-21T22:32:00+00:00",
+        "text": "America Needs Greenland. No—Iceland. Actually, Never Mind! \nThis is definitely all going to plan. \nAfter several marathon sessions in Room 101 of the Ministry of Trump, the Republican member of Congress was beginning to see the strategic necessity of destroying NATO to add Greenland to the United … [+4497 chars]",
+        "positive": 0.0008667127694934607,
+        "negative": 0.001721340580843389,
+        "neutral": 0.9974120259284973
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2026-01-22/tahmoor-coal-sale-gupta-administrators/106254968",
+        "timestamp": "2026-01-21T22:31:44+00:00",
+        "text": "Administrators seek buyers for Sanjeev Gupta's Tahmoor Coal mine \nAdministrators have put Sanjeev Gupta's Tahmoor Coal mine up for sale, seeking buyers to recover value for creditors and potentially restart operations. \nAdministrators are seeking buyers for Tahmoor Coal as Sanjeev Gupta's GFG Alliance grapples with financial turmoil, with the hope of restarting the mine and maximising returns for creditors.\r\nThe Tah… [+3347 chars]",
+        "positive": 0.012207807041704655,
+        "negative": 0.003545258892700076,
+        "neutral": 0.9842468500137329
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/01/21/us-news/gen-z-republicans-reveal-hopes-for-partys-future/",
+        "timestamp": "2026-01-21T22:30:53+00:00",
+        "text": "Gen Z conservatives reveal hopes — and frustrations — for future of Republican party: ‘There was a cultural shift in 2024, but the fight isn’t over’ \nThe Post spoke to six young people on the Right about what they believe, where they turn to for news and how they really feel about the Trump presidency. \nDonald Trump made major inroads with young people in 2024, with 47% of voters under 30 casting their ballot for him.\r\nBut, recent polls show his approval rating with Gen Z has fallen by 42 points sin… [+8676 chars]",
+        "positive": 0.0029897750355303288,
+        "negative": 0.43139147758483887,
+        "neutral": 0.5656186938285828
+      },
+      {
+        "source": "news",
+        "id": "https://thepointsguy.com/news/qantas-emirates-first-class-awards/",
+        "timestamp": "2026-01-21T22:30:27+00:00",
+        "text": "End of the golden age: Qantas restricts Emirates first-class award seats and raises prices \nQantas is restricting Emirates first-class awards, adding a status requirement and raising Qantas points prices. Here’s what’s changing and when. \nThe Qantas Frequent Flyer loyalty program is making several changes to how members can book Emirates first-class award seats with Qantas points, and for anyone who aspires to fly one of the world's b… [+4453 chars]",
+        "positive": 0.008769011124968529,
+        "negative": 0.00012097050785087049,
+        "neutral": 0.9911099672317505
+      },
+      {
+        "source": "news",
+        "id": "https://9to5mac.com/2026/01/21/sensor-towers-state-of-mobile-2026-tiktok-dominates-ai-apps-surge-games-lose-ground/",
+        "timestamp": "2026-01-21T22:30:13+00:00",
+        "text": "Sensor Tower’s State of Mobile 2026: TikTok dominates, AI apps surge, games lose ground \nSensor Tower has published its annual report, offering insights, trends, and data on the global mobile app market. Here are the main takeaways.\n\n\n\n more… \nSensor Tower has published its annual report, offering insights, trends, and data on the global mobile app market. Here are the main takeaways.\r\nSensor Towers State of Mobile 2026 offers a comprehens… [+2557 chars]",
+        "positive": 0.0008664396591484547,
+        "negative": 2.5861804715532344e-06,
+        "neutral": 0.99913090467453
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223303/19601/en/SOUTHERN-MISSOURI-BANCORP-REPORTS-PRELIMINARY-RESULTS-FOR-SECOND-QUARTER-OF-FISCAL-2026-DECLARES-QUARTERLY-DIVIDEND-OF-0-25-PER-COMMON-SHARE-CONFERENCE-CALL-SCHEDULED-FOR-THURSDAY-.html",
+        "timestamp": "2026-01-21T22:30:00+00:00",
+        "text": "SOUTHERN MISSOURI BANCORP REPORTS PRELIMINARY RESULTS FOR SECOND QUARTER OF FISCAL 2026; DECLARES QUARTERLY DIVIDEND OF $0.25 PER COMMON SHARE; CONFERENCE CALL SCHEDULED FOR THURSDAY, JANUARY 22, AT 9:30 AM CENTRAL TIME \nPoplar Bluff, Missouri, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Southern Missouri Bancorp, Inc. (“Company”) (NASDAQ: SMBC), the parent corporation of Southern Bank (“Bank”), today announced preliminary net income for the second quarter of fiscal 2026 of $18.2 milli… \nPoplar Bluff, Missouri, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Southern Missouri Bancorp, Inc. (Company) (NASDAQ: SMBC), the parent corporation of Southern Bank (Bank), today announced preliminary net inc… [+61638 chars]",
+        "positive": 2.3836012132960605e-06,
+        "negative": 1.6116806023092067e-07,
+        "neutral": 0.9999974966049194
+      },
+      {
+        "source": "news",
+        "id": "https://www.eonline.com/news/1427571/valentines-day-jewelry-that-will-wow-your-girlfriend",
+        "timestamp": "2026-01-21T22:30:00+00:00",
+        "text": "Jewelry Gifts Your Girlfriend Will Actually Love This Valentine’s Day \nI know what you're thinking, \"Isn't jewelry the most basic and boring thing you can gift your partner for Valentine's Day?\"\nI see where you're coming from, but you're wrong. But there's a reason... \nI know what you're thinking, \"Isn't jewelry the most basic and boring thing you can gift your partner for Valentine's Day?\"\r\nI see where you're coming from, but you're wrong. But there's a reason why… [+686 chars]",
+        "positive": 0.00013105427206028253,
+        "negative": 0.02054109424352646,
+        "neutral": 0.9793278574943542
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223302/0/en/BioStem-Technologies-Advances-Entry-into-the-Acute-Wound-Care-Market-with-Acquisition-of-BioTissue-Holdings-Surgical-and-Wound-Care-Business.html",
+        "timestamp": "2026-01-21T22:30:00+00:00",
+        "text": "BioStem Technologies Advances Entry into the Acute Wound Care Market with Acquisition of BioTissue Holdings’ Surgical and Wound Care Business \nBioStem Technologies Advances Entry into the Acute Wound Care Market with Acquisition of BioTissue Holdings’ Surgical and Wound Care Business... \nAccelerates expansion of BioStems commercial organization through integration of an experienced national sales force\r\nExpands access to major GPO networks, strengthening BioStems position across hosp… [+13783 chars]",
+        "positive": 1.0,
+        "negative": 1.616202638388131e-08,
+        "neutral": 5.671038749710533e-08
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/01/21/betting/kalshi-promo-code-nypmax-earn-a-10-bonus-for-thunder-vs-bucks/",
+        "timestamp": "2026-01-21T22:30:00+00:00",
+        "text": "Kalshi promo code NYPMAX: Earn a $10 bonus for Thunder vs. Bucks \nKalshi is offering new users an instant $10 bonus upon sign up. \nGambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nTwo of the NBA’s premier stars face o… [+2357 chars]",
+        "positive": 6.319133262877585e-06,
+        "negative": 3.146167045997572e-06,
+        "neutral": 0.9999905824661255
+      },
+      {
+        "source": "news",
+        "id": "https://www.thesportingtribune.com/2026/01/21/dodgers-kyle-tucker-says-first-class-organization-led-to-decision",
+        "timestamp": "2026-01-21T22:27:11+00:00",
+        "text": "Dodgers' Kyle Tucker says 'first class' organization led to decision \nKyle Tucker’s introductory press conference felt less like the unveiling of a new piece and more like the continuation of a machine that keeps finding ways... \nLOS ANGELES The Dodgers made it official on Wednesday morning and, depending on where you sit, ruined baseball yet again.\r\nKyle Tucker walked into Dodger Stadium flanked by manager Dave Roberts and g… [+3876 chars]",
+        "positive": 3.2323691812052857e-07,
+        "negative": 1.4776165926377871e-06,
+        "neutral": 0.9999982118606567
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223300/36211/en/IHT-DECLARES-56TH-CONSECUTIVE-ANNUAL-DIVIDEND-AS-HOTEL-REVENUES-SURGE.html",
+        "timestamp": "2026-01-21T22:27:00+00:00",
+        "text": "IHT DECLARES 56TH CONSECUTIVE ANNUAL DIVIDEND AS HOTEL REVENUES SURGE \nPhoenix, AZ, Jan. 21, 2026 (GLOBE NEWSWIRE) -- InnSuites Hospitality Trust (NYSE American: IHT) On January 12, 2026, the Board of Trustees of InnSuites Hospitality Trust (NYSE Am: IHT), announced a semi-annual dividend of $0.01 per share payable on February 9… \nPhoenix, AZ, Jan. 21, 2026 (GLOBE NEWSWIRE) -- InnSuites Hospitality Trust (NYSE American: IHT) On January 12, 2026, the Board of Trustees of InnSuites Hospitality Trust (NYSE Am: IHT), announced a s… [+2616 chars]",
+        "positive": 0.000747151265386492,
+        "negative": 2.159398718504235e-05,
+        "neutral": 0.9992313385009766
+      },
+      {
+        "source": "news",
+        "id": "https://www.aljazeera.com/economy/2026/1/21/jpmorgans-dimon-calls-credit-card-interest-rate-caps-a-economic-disaster",
+        "timestamp": "2026-01-21T22:26:16+00:00",
+        "text": "JPMorgan’s Dimon calls credit card interest rate caps a ‘economic disaster’ \nJPMorgan CEO Dimon said that Trump's push to cap rates at 10 percent would result in consumers losing access to credit. \nJPMorgan Chase CEO Jamie Dimon pushed back on calls by the administration of United States President Donald Trump to cap credit card interest rates, claiming that if Congress follows through, it woul… [+4333 chars]",
+        "positive": 5.7759953051572666e-05,
+        "negative": 0.9858648777008057,
+        "neutral": 0.014077367261052132
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/india/vaishnaw-india-in-1st-league-of-ai-nations-not-a-follower/articleshow/127060699.cms",
+        "timestamp": "2026-01-21T22:25:46+00:00",
+        "text": "Vaishnaw: India in 1st league of AI nations, not a follower \nIndia's IT Minister Ashwini Vaishnaw challenged the notion of India being a secondary AI power, asserting its front-rank status by emphasizing large-scale deployment over massive models. He highlighted the country's focus on practical AI applications and a sh… \n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Vaishnaw: India in 1st league of AI nations, not a follower</li></ul>\r\nFollow Us On Social Media\r\nCandace Owens fires back as Dave Rubin accuses her of ran… [+1774 chars]",
+        "positive": 3.0207099825929618e-06,
+        "negative": 3.657938214018941e-05,
+        "neutral": 0.9999604225158691
+      },
+      {
+        "source": "news",
+        "id": "https://www.smallbusinessbranding.com/101812/ten-better-on-bonus-code-casino-planet-the-internet-pokies-and-you-can-gambling-enterprise-websites-around-australia-2026/",
+        "timestamp": "2026-01-21T22:25:04+00:00",
+        "text": "ten Better On bonus code casino Planet the internet Pokies and you can Gambling enterprise Websites around australia 2026 \nPosts Opting for Registered Casinos – bonus code casino Planet Canada, Australian continent Playing The new gambling establishment along with […] \nThe new gambling establishment along with aids Bitcoin, Ethereum, or any other significant electronic gold coins to possess quicker deals, generally canned within occasions. Not in the acceptance bon… [+9985 chars]",
+        "positive": 6.21887693341705e-06,
+        "negative": 1.9318240447319113e-06,
+        "neutral": 0.9999918937683105
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223299/1924/en/Toll-Brothers-Named-1-Home-Builder-on-Fortune-Magazine-s-2026-World-s-Most-Admired-Companies-List.html",
+        "timestamp": "2026-01-21T22:25:00+00:00",
+        "text": "Toll Brothers Named #1 Home Builder on Fortune Magazine’s 2026 World’s Most Admired Companies® List \nFORT WASHINGTON, Pa., Jan. 21, 2026 (GLOBE NEWSWIRE) -- Toll Brothers, Inc. (NYSE:TOL), the nation’s leading builder of luxury homes, has been named the #1 Most Admired Home Builder in the 2026 Fortune magazine list of the World’s Most Admired Companies, the … \nFORT WASHINGTON, Pa., Jan. 21, 2026 (GLOBE NEWSWIRE) -- Toll Brothers, Inc. (NYSE:TOL), the nations leading builder of luxury homes, has been named the #1 Most Admired Home Builder in the 2026 Fortun… [+3030 chars]",
+        "positive": 0.19304022192955017,
+        "negative": 1.6683652575011365e-05,
+        "neutral": 0.8069431185722351
+      },
+      {
+        "source": "news",
+        "id": "https://www.itsnicethat.com/articles/laura-mccluskey-close-to-home-photography-project-220126",
+        "timestamp": "2026-01-21T22:24:48+00:00",
+        "text": "Laura McCluskey’s ode to her grandparents and The Isle of Sheppey is a golden document filled with healing \nSimultaneously capturing the stark realities of seaside towns and a hopeful tribute to family, loss and love, this photographer’s new photo book is simply profound. \nEach time Laura visited, she documented the living, breathing routines of life, the way wallpapers change and decay, the way some streets stay the same, the eternal cyclicality of nature. In one phot… [+2106 chars]",
+        "positive": 8.2899723565788e-06,
+        "negative": 3.9054946682881564e-05,
+        "neutral": 0.9999525547027588
+      },
+      {
+        "source": "news",
+        "id": "https://www.smallbusinessbranding.com/101810/best-gambling-establishment-no-deposit-added-bonus-codes-and-will-be-offering-play-dark-knight-real-money-for-january-2026/",
+        "timestamp": "2026-01-21T22:24:37+00:00",
+        "text": "Best Gambling establishment No deposit Added bonus Codes and will be offering play Dark Knight real money for January 2026 \nBlogs Can there be one game you to will pay real cash instead of deposit? | play Dark Knight real […] \nWith the amount of networks and make bold promises, its extremely difficult to research these, and you may unfortuitously, thats how many on-line casino participants become losing to have misleading … [+8671 chars]",
+        "positive": 5.4580013966187835e-05,
+        "negative": 0.2973586320877075,
+        "neutral": 0.7025867104530334
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/us/why-is-silver-price-falling-now-and-will-it-drop-more-than-91-17-precious-metals-market-reaction-explained-heres-what-investors-should-do-now-greenland-invasion-europe-tariff-threats/articleshow/127059441.cms",
+        "timestamp": "2026-01-21T22:22:34+00:00",
+        "text": "Why is silver price falling now and will it drop more than $91.17? Precious metals market reaction explained. Here's what investors should do now \nWhy is silver price falling now and will it drop more than $91.17? Silver prices dropped after hitting record highs as investors reacted to easing tariff threats, rising equity markets, and profit booking. Gold trimmed gains, while platinum and palladium also… \nWhy is silver price falling now and will it drop more than $91.17? Silver prices dropped after hitting record highs as investors reacted to easing tariff threats, rising equity markets, and profit bo… [+101 chars]",
+        "positive": 0.09050918370485306,
+        "negative": 0.8956319689750671,
+        "neutral": 0.013858873397111893
+      },
+      {
+        "source": "news",
+        "id": "https://www.vox.com/the-logoff-newsletter-trump/476000/donald-trump-taco-greenland-stock-market-explained",
+        "timestamp": "2026-01-21T22:22:22+00:00",
+        "text": "“Trump always chickens out,” briefly explained \nThis story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: Donald Trump is once again moving markets — and being … \nPresident Donald Trump disembarks Air Force One as he arrives at Zurich Airport before attending the World Economic Forum in Davos, Switzerland, on January 21, 2026. | Chip Somodevilla/Getty Images\r\n… [+2672 chars]",
+        "positive": 0.0032143034040927887,
+        "negative": 1.7556791135575622e-05,
+        "neutral": 0.9967681169509888
+      },
+      {
+        "source": "news",
+        "id": "https://zycrypto.com/billionaire-investor-tim-draper-tips-bitcoin-will-hit-the-mythical-250000-mark-within-six-months/",
+        "timestamp": "2026-01-21T22:22:17+00:00",
+        "text": "Billionaire Investor Tim Draper Tips Bitcoin Will Hit The Mythical $250,000 Mark Within Six Months \nBillionaire VC and Bitcoin bull Tim Draper is more confident that crypto markets , especially Bitcoin will boom in 2026. \nBillionaire VC and Bitcoin bull Tim Draper is more confident that crypto markets will boom in 2026. Specifically, he believes that Bitcoin (BTC) could record a major upward swing, reaching his long-s… [+2536 chars]",
+        "positive": 0.9999995231628418,
+        "negative": 1.7309056943304313e-07,
+        "neutral": 4.0758084196568234e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.usatoday.com/story/sports/2026/01/21/president-trump-sports-commissioners-meet-america-250/88288357007/",
+        "timestamp": "2026-01-21T22:22:02+00:00",
+        "text": "Trump to reportedly meet with sports commissioners about America 250 plans \nPresident Donald Trump is planning to meet with NBA, NFL, MLB and NHL commissioners about the country's 250th anniversary celebration. \nPresident Donald Trump and the four major U.S. sports leagues' commissioners are in conversations to meet at the Oval Office next week, according to a report, as he shares his latest ideas to celebra… [+9423 chars]",
+        "positive": 2.7247258913121186e-05,
+        "negative": 3.6772084968106356e-06,
+        "neutral": 0.9999690055847168
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/venezuelan-crude-is-europe-bound-for-first-time-in-almost-a-year",
+        "timestamp": "2026-01-21T22:21:50+00:00",
+        "text": "Venezuelan Crude Is Europe-Bound for First Time in Almost a Year \nEurope is set to receive some of its first shipments of Venezuelan oil in nearly a year after traders rolled out offers worldwide to sell cargoes at the behest of the Trump administration. \n(Bloomberg) Europe is set to receive some of its first shipments of Venezuelan oil in nearly a year after traders rolled out offers worldwide to sell cargoes at the behest of the Trump administration… [+4347 chars]",
+        "positive": 0.00010045926319435239,
+        "negative": 3.696320709423162e-05,
+        "neutral": 0.999862551689148
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/video/trump-backs-off-europe-tariffs-framework-future-deal-greenland/",
+        "timestamp": "2026-01-21T22:21:00+00:00",
+        "text": "Trump backs off on Europe tariffs after reaching \"framework of a future deal\" on Greenland \nAfter days of vague and not-so-vague military threats to overtake Greenland, President Trump announced on Wednesday that he reached a \"framework of a future deal\" on the arctic territory. CBS News senior White House and political correspondent Ed O'Keefe repo… \nCopyright ©2026 CBS Interactive Inc. All rights reserved.",
+        "positive": 0.0006253644241951406,
+        "negative": 0.00021192050189711154,
+        "neutral": 0.9991627931594849
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/india/sc-asks-panel-to-decide-fate-of-aravali-zoo-safari-plan/articleshow/127060183.cms",
+        "timestamp": "2026-01-21T22:20:46+00:00",
+        "text": "SC asks panel to decide fate of ‘Aravali Zoo Safari’ plan \nThe Supreme Court has directed the Central Empowered Committee (CEC) to decide the fate of Haryana's proposed mega Aravali Zoo Safari Project. The court will await the CEC's report on the project's environmental and ecological feasibility, continuing the inte… \nFollow Us On Social Media\r\nCandace Owens fires back as Dave Rubin accuses her of ranting against Charlie Kirk during tense 2022 meetingActivist in jail for 7 years sans trial, SC steps in to hasten p… [+1659 chars]",
+        "positive": 9.322260666522197e-06,
+        "negative": 0.0004124815168324858,
+        "neutral": 0.9995781779289246
+      },
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/entertainment/richard-pryor-strangled-wife-during-cocaine-fueled-psychosis-episode-widow-claims",
+        "timestamp": "2026-01-21T22:20:17+00:00",
+        "text": "Richard Pryor strangled wife during cocaine-fueled psychosis episode, widow claims \nRichard Pryor's widow Jennifer reveals on podcast that the legendary comedian allegedly threatened to kill her during drug-fueled psychosis episodes. \nRichard Pryor's widow, Jennifer Pryor, claimed that he once threatened to kill her during a drug-fueled psychosis.\r\nJennifer appeared on Howie Mandel's podcast, \"Howie Mandel Does Stuff,\" in an episo… [+3872 chars]",
+        "positive": 0.0007194782956503332,
+        "negative": 0.004358235746622086,
+        "neutral": 0.9949223399162292
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/video/dow-jumps-trump-calls-off-europe-tariffs-greenland/",
+        "timestamp": "2026-01-21T22:19:00+00:00",
+        "text": "Stocks jump after Trump calls off Europe tariffs over Greenland \nStocks jumped on Wednesday after President Trump said he reached a framework for a deal on Greenland and backed off his tariff threat against European allies. CBS News senior business and technology correspondent Jo Ling Kent reports. \nCopyright ©2026 CBS Interactive Inc. All rights reserved.",
+        "positive": 6.502773612737656e-05,
+        "negative": 0.00016305246390402317,
+        "neutral": 0.9997718930244446
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/canada/british-columbia/bc-canola-farmers-react-canada-china-tariff-deal-9.7055162",
+        "timestamp": "2026-01-21T22:18:25+00:00",
+        "text": "Northern B.C. canola farmers remain cautious as Chinese tariffs set to ease \nCanola farmers and business leaders in northeast B.C. are welcoming the expected relief from Chinese tariffs, but they say the industry still faces uncertainty going into this year’s growing season. \nCanola farmers and business leaders in northeast B.C. are welcoming the expected relief from easing Chinese tariffs, but say the industry still faces uncertainty going into this years growing season.… [+4939 chars]",
+        "positive": 3.0450077247223817e-05,
+        "negative": 0.999916672706604,
+        "neutral": 5.291528577799909e-05
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/india/ews-flat-fraud-sc-notices-to-haryana-govt-builder/articleshow/127059598.cms",
+        "timestamp": "2026-01-21T22:18:18+00:00",
+        "text": "EWS flat 'fraud': SC notices to Haryana govt, builder \nThe Supreme Court has summoned responses from the Haryana government and Mahira Buildwell concerning allegations of cheating homebuyers in an affordable housing project under the Pradhan Mantri Awas Yojana. Homebuyers claim the developer used fraudulent means… \nFollow Us On Social Media\r\nCandace Owens fires back as Dave Rubin accuses her of ranting against Charlie Kirk during tense 2022 meetingActivist in jail for 7 years sans trial, SC steps in to hasten p… [+1659 chars]",
+        "positive": 0.000406373554142192,
+        "negative": 0.011271077208220959,
+        "neutral": 0.9883225560188293
+      },
+      {
+        "source": "news",
+        "id": "https://www.breitbart.com/economy/2026/01/21/trump-tells-davos-big-migration-is-bad-economics/",
+        "timestamp": "2026-01-21T22:17:23+00:00",
+        "text": "Trump Tells Davos: Big Migration Is Bad Economics \nMass migration is terrible economics, President Donald Trump told an audience of Europeans at the World Economic Forum on Wednesday.\nThe post Trump Tells Davos: Big Migration Is Bad Economics appeared first on Breitbart. \nMass migration is bad economics, President Donald Trump told an audience of Europeans at the World Economic Forum on Wednesday.\r\n“Our previously open and dangerous border is closed and virtually impe… [+5679 chars]",
+        "positive": 5.121884896652773e-05,
+        "negative": 0.0004052154254168272,
+        "neutral": 0.9995434880256653
+      },
+      {
+        "source": "news",
+        "id": "https://freerepublic.com/focus/f-news/4363317/posts",
+        "timestamp": "2026-01-21T22:16:47+00:00",
+        "text": "Trump says agreed ‘framework’ for US deal over Greenland \nUS President Donald Trump says he has reached a framework for a deal over Greenland following a meeting with NATO chief Mark Rutte, and that he will therefore waive tariffs scheduled to hit European allies. “We have formed the framework of a future deal with … \nSkip to comments.\r\nTrump says agreed framework for US deal over GreenlandAFP via Times of Israel ^\r\n | Jan 21, 2026\r\nPosted on 01/21/2026 2:16:47 PM PST by Mr. Mojo\r\nUS President Donald Trump says he… [+1495 chars]",
+        "positive": 5.9159970987821e-05,
+        "negative": 5.312650500854943e-06,
+        "neutral": 0.999935507774353
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/01/21/opinion/trumps-second-first-year-a-review/",
+        "timestamp": "2026-01-21T22:16:24+00:00",
+        "text": "Trump’s (second) first year: a review \nPresident Donald Trump had an extraordinary first year in his second term in office. The question is whether he can turn the economy around in time to keep control of Congress. \nPresident Donald Trump had an extraordinary first year in his second term in office. The question is whether he can turn the economy around in time to keep control of Congress.\r\nIt has not been an ea… [+6363 chars]",
+        "positive": 6.367723926814506e-06,
+        "negative": 0.001509590889327228,
+        "neutral": 0.9984840750694275
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/footwear-news/sneaker-news/nike-kobe-1-city-champions-release-date-im0541-400-1238468780/",
+        "timestamp": "2026-01-21T22:16:22+00:00",
+        "text": "Kobe Bryant’s First Nike Sneaker Gets New Treatment Celebrating the Lakers’ Old Home \nKobe Bryant's first Nike sneaker is getting a brand-new colorway commemorating The Forum and expected around NBA All-Star Weekend. Find out how to buy it here. \nAs part of a series of releases for NBA All-Star Weekend in Los Angeles, Nike is throwing it back to its first signature sneaker with Kobe Bryant and the previous home for the Lakers. \r\nThe Nike Kobe… [+1379 chars]",
+        "positive": 2.2098811314208433e-05,
+        "negative": 8.213497494580224e-06,
+        "neutral": 0.9999697208404541
+      },
+      {
+        "source": "news",
+        "id": "https://www.pcgamer.com/games/world-of-warcraft/wows-pre-midnight-patch-slams-players-with-massive-fashion-costs-as-the-overhauled-transmog-system-makes-outfitting-your-alts-absurdly-expensive-feels-like-they-hired-a-mobile-game-monetization-consultant/",
+        "timestamp": "2026-01-21T22:15:53+00:00",
+        "text": "WoW's pre-Midnight patch slams players with massive fashion costs as the overhauled transmog system makes outfitting your alts absurdly expensive: 'Feels like they hired a mobile game monetization consultant' \nFashion demands a high price—but maybe it shouldn't be this high. \nAs anyone would tell you, fashion isn't free—but in World of Warcraft, it's suddenly feeling less free than ever. WoW's latest pre-expansion patch introduces a sweeping set of reworked systems ahead … [+3934 chars]",
+        "positive": 0.16535845398902893,
+        "negative": 0.44221729040145874,
+        "neutral": 0.39242425560951233
+      },
+      {
+        "source": "news",
+        "id": "https://www.fool.com.au/2026/01/22/regis-resources-posts-record-cash-resumes-dividend-extends-production-outlook/",
+        "timestamp": "2026-01-21T22:15:53+00:00",
+        "text": "Regis Resources posts record cash, resumes dividend, extends production outlook \nRegis Resources posts record cash generation, resumes dividends, and extends production with new reserves at Duketon North.\nThe post Regis Resources posts record cash, resumes dividend, extends production outlook appeared first on The Motley Fool Australia. \nThe Regis Resources Ltd (ASX: RRL) share price is in focus as the company reported record quarterly operating cash flow, resumed dividend payments, and extended the production outlook at Duketon Nort… [+2606 chars]",
+        "positive": 0.9999992847442627,
+        "negative": 1.17366568019861e-07,
+        "neutral": 6.25697509804013e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.co.uk/programmes/w172zssjx14z4mn",
+        "timestamp": "2026-01-21T22:15:00+00:00",
+        "text": "Trump drops threat of tariffs over Greenland after Nato talks in Davos \nPresident Trump says he will not initiate tariffs on those countries opposed to his acquiring Greenland. He was speaking after talks with Nato leaders meeting at Davos. Also in the programme: The Nigerian government plans to restart drilling for oil in the Ni… \nPresident Trump says he will not initiate tariffs on those countries opposed to his acquiring Greenland. He was speaking after talks with Nato leaders meeting at Davos. Also in the programme: The Nig… [+465 chars]",
+        "positive": 1.5566653019050136e-05,
+        "negative": 0.00017928893794305623,
+        "neutral": 0.9998051524162292
+      },
+      {
+        "source": "news",
+        "id": "https://www.memeorandum.com/260121/p126",
+        "timestamp": "2026-01-21T22:15:00+00:00",
+        "text": "House passes bill to undo Biden mining ban in Minnesota (Maydeen Merino/Washington Examiner) \nMaydeen Merino / Washington Examiner:\nHouse passes bill to undo Biden mining ban in Minnesota  —  The House passed a measure that would overturn a Biden administration ban on mining in northern Minnesota and bar future administrations from imposing a similar … \nmemeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
+        "positive": 3.448561255936511e-05,
+        "negative": 0.00010022193600889295,
+        "neutral": 0.9998652935028076
+      },
+      {
+        "source": "news",
+        "id": "https://www.usatoday.com/story/sports/ncaab/bigten/2026/01/21/alijah-arenas-debut-usc-basketball-gilbert-father-age-height-injury/88289209007/",
+        "timestamp": "2026-01-21T22:14:51+00:00",
+        "text": "Alijah Arenas making long-awaited debut for USC basketball tonight \nUSC 5-star freshman Alijah Arenas is making his college basketball tonight vs. Northwestern. Here's what you need to know about him \nThe freshman class during the 2025-26 mens college basketball season has been one of the best in years, headlined by projected NBA lottery picks who are making enormous impacts for NCAA Tournament-bo… [+5115 chars]",
+        "positive": 0.9999473094940186,
+        "negative": 2.630234348544036e-06,
+        "neutral": 5.0014838052447885e-05
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/beneath-antarcticas-largest-ice-shelf-a-hidden-ocean-is-revealing-its-secrets-273219",
+        "timestamp": "2026-01-21T22:13:59+00:00",
+        "text": "Beneath Antarctica’s largest ice shelf, a hidden ocean is revealing its secrets \nA four-year record from the heart of the Ross Ice Shelf shows how subtle changes could shape future sea level rise, ocean ecosystems – and even our weather. \nStevens/NIWA/K061, CC BY-NC-ND\r\nBeneath Antarctica’s Ross Ice Shelf lies one of the least measured oceans on Earth – a vast, dark cavity roughly twice the volume of the North Sea.\n\nThis hidden ocean … [+6525 chars]",
+        "positive": 5.4236752475844696e-05,
+        "negative": 1.0233704415441025e-05,
+        "neutral": 0.999935507774353
+      },
+      {
+        "source": "news",
+        "id": "https://www.autosport.com/autosport-awards/news/brawn-receives-prestigious-autosport-gold-medal/10791717/",
+        "timestamp": "2026-01-21T22:13:20+00:00",
+        "text": "Brawn receives prestigious Autosport Gold Medal Award \nRoss Brawn has received the prestigious Autosport Gold Medal at the 38th Autosport Awards.The multiple-championship winning engineer, strategist and team boss was presented with his award by ex-commentator James Allen at London’s Roundhouse on 21 January.Braw… \nRoss Brawn has received the prestigious Autosport Gold Medal at the 38th Autosport Awards.\r\nThe multiple-championship winning engineer, strategist and team boss was presented with his award by ex-com… [+2903 chars]",
+        "positive": 0.23304663598537445,
+        "negative": 7.528596324846148e-05,
+        "neutral": 0.7668780088424683
+      },
+      {
+        "source": "news",
+        "id": "https://loudwire.com/jack-white-mocks-trump-accomplishments/",
+        "timestamp": "2026-01-21T22:13:19+00:00",
+        "text": "Jack White Mocks Trump's 'Accomplishments' in Scathing IG Post \nHe also advised MAGA supporters to listen to Ted Nugent and Kid Rock instead. Continue reading… \nJack White once again lambasted President Donald Trump on Instagram, mocking the president's Tuesday press conference in which he read from a stack of papers labeled \"accomplishments\" to summarize th… [+3286 chars]",
+        "positive": 0.037432003766298294,
+        "negative": 0.0001919876376632601,
+        "neutral": 0.9623761177062988
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/footwear-news/shoe-trends/tiffany-haddish-satin-slingbacks-paris-hilton-los-angeles-1238469222/",
+        "timestamp": "2026-01-21T22:13:12+00:00",
+        "text": "Tiffany Haddish Piles on Texture in Faux-fur and Plum Satin Slingbacks at Paris Hilton’s ‘Infinite Icon’ Premiere \nTiffany Haddish joined the slingback heel revival in plum satin pumps and faux fur at Paris Hilton’s “Infinite Icon” premiere in Los Angeles. \nTiffany Haddish stacked rich textures on the pink carpet at the Los Angeles premiere of Paris Hilton’s “Infinite Icon: A Visual Memoir” on Tuesday, arriving in a faux-fur coat, satin minidress and pl… [+2014 chars]",
+        "positive": 0.00015086831990629435,
+        "negative": 1.251477897312725e-05,
+        "neutral": 0.9998365640640259
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/canada/edmonton/former-alberta-justice-ministers-open-letter-9.7055104",
+        "timestamp": "2026-01-21T22:13:08+00:00",
+        "text": "2 former Alberta justice ministers criticize province's recent actions in open letter \nA group of 30 Alberta lawyers – including two former provincial justice ministers – is speaking about recent actions by the Alberta government that they say are weakening the democratic safeguards and rule of law. \nA group of Alberta lawyers including two former provincial justice ministers is speaking about recent actions by the Alberta government that they say are weakening the democratic safeguards and rule … [+3098 chars]",
+        "positive": 7.652900967514142e-05,
+        "negative": 0.0012808102183043957,
+        "neutral": 0.99864262342453
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223296/0/en/IPC-Partners-with-Taiwan-Based-Vsense-to-Deliver-Next-Generation-FPGA-Trading-Infrastructure-to-Global-Markets.html",
+        "timestamp": "2026-01-21T22:12:00+00:00",
+        "text": "IPC Partners with Taiwan-Based Vsense to Deliver Next-Generation FPGA Trading Infrastructure to Global Markets \nTAIPEI CITY, Taiwan, Jan. 21, 2026 (GLOBE NEWSWIRE) -- IPC Systems (“‘IPC”), a leading global provider of secure, compliant communications and multi-cloud connectivity solutions, announced its role as the exclusive global distributor for Vsense FinTech, Inc. … \nTAIPEI CITY, Taiwan, Jan. 21, 2026 (GLOBE NEWSWIRE) -- IPC Systems (IPC), a leading global provider of secure, compliant communications and multi-cloud connectivity solutions, announced its role as t… [+4360 chars]",
+        "positive": 0.000245522940531373,
+        "negative": 5.967228389636148e-06,
+        "neutral": 0.9997485280036926
+      },
+      {
+        "source": "news",
+        "id": "https://www.rawstory.com/trump-greenland-2674957915/",
+        "timestamp": "2026-01-21T22:11:37+00:00",
+        "text": "New details trickle out in Trump's mysterious Greenland deal \nNew details emerged Wednesday afternoon in President Donald Trump's mysterious Greenland deal. The deal reportedly involves the United States having \"small pockets of land\" on the Arctic island, according to The New York Times. Trump said that he had reached … \nNew details emerged Wednesday afternoon in President Donald Trump's mysterious Greenland deal. \r\nThe deal reportedly involves the United States having \"small pockets of land\" on the Arctic island, ac… [+1415 chars]",
+        "positive": 8.493304630974308e-05,
+        "negative": 1.0963603017444257e-05,
+        "neutral": 0.9999040365219116
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/01/21/business/maine-factory-that-makes-lincoln-logs-to-close-setting-off-frantic-search-for-new-manufacturer/",
+        "timestamp": "2026-01-21T22:10:46+00:00",
+        "text": "Maine factory that makes Lincoln Logs to close, setting off frantic search for new manufacturer \n“We are desperately looking for a vendor here that manufactures custom wood parts,” Jay Foreman, CEO of Basic Fun, told The Post. \nLincoln Logs are among a handful of classic toys made in the USA with American trees, but thats likely to change in a matter of weeks.\r\nPride Manufacturing — the Maine factory that makes Lincoln Logs… [+3860 chars]",
+        "positive": 5.842911718900723e-07,
+        "negative": 2.5434037524973974e-05,
+        "neutral": 0.9999740123748779
+      },
+      {
+        "source": "news",
+        "id": "https://gizmodo.com/trump-claims-concept-of-a-deal-reached-for-greenland-says-hell-cancel-new-tariffs-2000712673",
+        "timestamp": "2026-01-21T22:10:11+00:00",
+        "text": "Trump Claims ‘Concept of a Deal’ Reached for Greenland, Says He’ll Cancel New Tariffs \nThe president says he \"assumes\" Denmark knows about the deal. \nPresident Donald Trump, a perpetual threat to the safety and security of every democratic country on the planet, announced Wednesday that he has a “concept of a deal” with European countries involvin… [+5703 chars]",
+        "positive": 0.0008295211591757834,
+        "negative": 0.0019040459301322699,
+        "neutral": 0.997266411781311
+      },
+      {
+        "source": "news",
+        "id": "https://cryptobriefing.com/trump-halts-greenland-tariffs/",
+        "timestamp": "2026-01-21T22:09:42+00:00",
+        "text": "Bitcoin, stocks rally after Trump halts Greenland tariffs \nThe halt in tariffs alleviates trade tension fears, boosting investor confidence and market stability, highlighting global economic interdependence.\nThe post Bitcoin, stocks rally after Trump halts Greenland tariffs appeared first on Crypto Briefing. \nThe halt in tariffs alleviates trade tension fears, boosting investor confidence and market stability, highlighting global economic interdependence. Bitcoin reclaimed $90,000 on Wednesday afternoon a… [+1996 chars]",
+        "positive": 0.9999704360961914,
+        "negative": 4.7141893446678296e-06,
+        "neutral": 2.4746210328885354e-05
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/fp-finance/cryptocurrency/bitcoin-briefly-erases-gains",
+        "timestamp": "2026-01-21T22:08:56+00:00",
+        "text": "Bitcoin briefly erases gains posted since the start of the year \nBitcoin briefly erased all of its gains registered since the start of the year, with investors remaining on the defensive. Read more here \nBitcoin briefly erased all of its gains registered since the start of the year, with investors remaining on the defensive following only the third year of negative annual returns posted over the past… [+4561 chars]",
+        "positive": 0.9640176892280579,
+        "negative": 0.0009630857966840267,
+        "neutral": 0.03501935675740242
+      },
+      {
+        "source": "news",
+        "id": "https://www.mediaite.com/media/news/his-life-wont-be-very-happy-trump-threatens-powell-if-he-refuses-to-quit-the-fed/",
+        "timestamp": "2026-01-21T22:08:55+00:00",
+        "text": "‘His Life Won’t Be Very Happy’: Trump Threatens Powell If He Refuses to Quit the Fed \nPresident Donald Trump seemed to suggest he'd make things difficult for Jerome Powell if he doesn't leave the Federal Reserve once his time as Fed chair is up.\nThe post ‘His Life Won’t Be Very Happy’: Trump Threatens Powell If He Refuses to Quit the Fed first… \nPresident Donald Trump seemed to suggest he’d make things difficult for Jerome Powell if he doesn’t leave the Federal Reserve once his time as Fed chair is up.\r\nHours after his Wednesday speech at th… [+1733 chars]",
+        "positive": 0.0015744763659313321,
+        "negative": 0.9177685379981995,
+        "neutral": 0.0806569904088974
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223294/6819/en/Shareholders-who-lost-money-in-shares-of-Endeavor-Group-Holdings-Inc-NYSE-EDR-Should-Contact-Wolf-Haldenstein-Immediately.html",
+        "timestamp": "2026-01-21T22:07:00+00:00",
+        "text": "Shareholders who lost money in shares of Endeavor Group Holdings, Inc. (NYSE: EDR) Should Contact Wolf Haldenstein Immediately \nLead Plaintiff Deadline is March 18, 2026 Lead Plaintiff Deadline is March 18, 2026 \nNEW YORK, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Wolf Haldenstein Adler Freeman &amp; Herz LLP\r\n reminds investors in Endeavor Group Holdings, Inc. (NYSE: EDR) (Endeavor) that a federal securities class a… [+2228 chars]",
+        "positive": 8.800373507256154e-06,
+        "negative": 7.979898509802297e-05,
+        "neutral": 0.9999114274978638
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/exgen-updates-silver-stream-agreement-on-past-producing-gold-mine",
+        "timestamp": "2026-01-21T22:05:50+00:00",
+        "text": "ExGen Updates Silver Stream Agreement on Past-Producing Gold Mine \nNOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, Jan. 21, 2026 (GLOBE NEWSWIRE) — ExGen Resources Inc. (TSX.V: EXG; OTC: BXXRF) (“ExGen” or the “Company”) is pleased to provide an u… \nTERMS OF THE SILVER STREAM AGREEMENT\r\nThe key terms of the Silver Stream Agreement are as follows:\r\n<ul><li>ExGen has provided cash payments totaling US$1,000,000.</li><li>ExGen will pay to Sol a del… [+9059 chars]",
+        "positive": 2.6546549634076655e-06,
+        "negative": 1.7027739886543714e-05,
+        "neutral": 0.9999803304672241
+      },
+      {
+        "source": "news",
+        "id": "https://crooksandliars.com/2026/01/time-25th-amendment-trump-will-cause-wwiii",
+        "timestamp": "2026-01-21T22:05:44+00:00",
+        "text": "Time For 25th Amendment: Trump Will Cause WWIII And Economic Ruin \nIt's way past time for the 25th Amendment. Trump must go or the United States faces economic ruin and WWIII. The picture above was posted by the White House. In the year of our Lord 2026. \nEric Swalwell and other Democrats are calling for Trump to be removed … \nIt's way past time for the 25th Amendment. Trump must go or the United States faces economic ruin and WWIII. The picture above was posted by the White House. In the year of our Lord 2026. \r\nEric Swal… [+2926 chars]",
+        "positive": 4.627217549568741e-06,
+        "negative": 1.9058177713304758e-05,
+        "neutral": 0.9999762773513794
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2026/01/21/trump-cnbc-greenland-fed-iran-credit-cards-homes.html",
+        "timestamp": "2026-01-21T22:05:42+00:00",
+        "text": "Top five takeaways from Trump's interview with CNBC \nTrump earlier in the day said he reached a framework with NATO Secretary Mark Rutte that appears to stave off Trump's threats to Greenland. \nU.S. President Donald Trump reacts as he leaves the congress centre during the World Economic Forum (WEF) annual meeting in Davos on Jan. 21, 2026. \r\nPresident Donald Trump on Wednesday gave an inter… [+5213 chars]",
+        "positive": 3.990140248788521e-05,
+        "negative": 8.887788862921298e-05,
+        "neutral": 0.9998711347579956
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/india/sc-to-set-up-expert-panel-on-aravalis-tells-states-to-stop-illegal-mining-at-all-costs/articleshow/127058080.cms",
+        "timestamp": "2026-01-21T22:05:05+00:00",
+        "text": "SC to set up expert panel on Aravalis, tells states to stop illegal mining 'at all costs' \nThe Supreme Court has ordered Delhi, Haryana, and Rajasthan to halt illegal mining in the Aravali hills, citing irreversible ecological damage. A new expert body will be formed to conduct a scientific examination of the ranges to ensure their structural and e… \n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>SC to set up expert panel on Aravalis, tells states to stop illegal mining 'at all costs'</li></ul>\r\nFollow Us On Social Media\r\nLeo Horoscope Today, Januar… [+1664 chars]",
+        "positive": 0.0018303458346053958,
+        "negative": 0.10948733985424042,
+        "neutral": 0.8886823654174805
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223293/0/en/ExGen-Updates-Silver-Stream-Agreement-on-Past-Producing-Gold-Mine.html",
+        "timestamp": "2026-01-21T22:05:00+00:00",
+        "text": "ExGen Updates Silver Stream Agreement on Past-Producing Gold Mine \nNOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES  VANCOUVER, British Columbia, Jan.  21, 2026  (GLOBE... \nNOTFORDISTRIBUTIONTOUNITEDSTATESNEWSWIRESERVICESORFOR DISSEMINATION IN THE UNITED STATES\r\nVANCOUVER, British Columbia, Jan. 21, 2026 (GLOBE NEWSWIRE) -- ExGen Resources Inc. (TSX.V: EXG; OTC: BXXRF) … [+17085 chars]",
+        "positive": 1.935947921083425e-06,
+        "negative": 5.501656232809182e-07,
+        "neutral": 0.9999974966049194
+      },
+      {
+        "source": "news",
+        "id": "https://www.ozbargain.com.au/node/945127",
+        "timestamp": "2026-01-21T22:05:00+00:00",
+        "text": "[Targeted] $30 off $250 Spend Door Buster Voucher for in-Store Use Only @ The Good Guys \nTargeted offer Received an SMS with a unique code that gives $30 off a $200 spend in-Store between now and 31/01/2026. Full terms and conditions in the link. Exclusions List Brands where The Good … \nTargeted offer\r\nReceived an SMS with a unique code that gives $30 off a $200 spend in-Store between now and 31/01/2026.\r\nFull terms and conditions in the link.\r\nExclusions List\r\nBrands where The Good… [+355 chars]",
+        "positive": 0.0004796385474037379,
+        "negative": 1.6088984011730645e-06,
+        "neutral": 0.9995187520980835
+      },
+      {
+        "source": "news",
+        "id": "http://www.vulture.com/article/the-beauty-fx-hulu-series-premiere-review.html",
+        "timestamp": "2026-01-21T22:04:47+00:00",
+        "text": "The Beauty Is in the Eye of the Beholder \n‘The Beauty’s flamboyant approach to its Ozempic-meets-HIV premise is impossible to forget and is also, for better and for worse, some of the most stimulating work out of the Ryan Murphy machine in years. \nRyan Murphys TV empire is not explicitly female-coded, but given how often he casts older actresses to offer up camp and cattiness, its taken on a certain (if often incoherent) feminine mystique. The… [+8581 chars]",
+        "positive": 0.00011290151451248676,
+        "negative": 0.00011383672244846821,
+        "neutral": 0.9997733235359192
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/world/trump-announces-greenland-framework-backing-force-and-tariffs-5874951",
+        "timestamp": "2026-01-21T22:03:39+00:00",
+        "text": "Trump announces Greenland 'framework', backing off force and tariffs \nDAVOS: US President Donald Trump said Wednesday he had reached a framework of a deal that satisfies him on Greenland, as he backed down both on threats to seize the island by force from Den \nDAVOS: US President Donald Trump said Wednesday he had reached a framework of a deal that satisfies him on Greenland, as he backed down both on threats to seize the island by force from Denmark and o… [+4226 chars]",
+        "positive": 0.0003154709411319345,
+        "negative": 7.155571802286431e-05,
+        "neutral": 0.9996131062507629
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/world/trump-greenland-framework-tariffs-european-allies-force-5874951",
+        "timestamp": "2026-01-21T22:03:00+00:00",
+        "text": "Trump announces Greenland 'framework', backing off force and tariffs \nThe Greenland deal \"gets everything we wanted\" and will be in force \"forever\", says US President Donald Trump. \nDAVOS: US President Donald Trump said Wednesday (Jan 21) he had reached a framework of a deal that satisfies him on Greenland, as he backed down both on threats to seize the island by force from Denm… [+4235 chars]",
+        "positive": 4.5578493882203475e-05,
+        "negative": 2.7727846827474423e-05,
+        "neutral": 0.9999266862869263
+      },
+      {
+        "source": "news",
+        "id": "https://kotaku.com/christopher-judge-kratos-actor-ryan-hurst-2000661932",
+        "timestamp": "2026-01-21T22:02:54+00:00",
+        "text": "Video Game God Of War Congratulates Live Action God Of War \nAlso: is Unreal Engine really to blame for modern VFX?\nThe post Video Game God Of War Congratulates Live Action God Of War appeared first on Kotaku. \nChristopher Judge comments on his fellow Kratos. A new Kickstarter will transform your Switch 2 dock into an old-school GameCube. And two people who worked on Pirates of the Caribbean argue about wha… [+4337 chars]",
+        "positive": 1.7693600966595113e-06,
+        "negative": 4.070133945788257e-05,
+        "neutral": 0.9999575614929199
+      },
+      {
+        "source": "news",
+        "id": "http://www.newsbtc.com/breaking-news-ticker/crypto-boom-ahead-pantera-capital-pinpoints-major-catalysts-for-2026-success/",
+        "timestamp": "2026-01-21T22:02:45+00:00",
+        "text": "Crypto Boom Ahead? Pantera Capital Pinpoints Major Catalysts For 2026 Success \nOn Wednesday, Pantera Capital, one of the largest venture capital firms in the crypto industry, released its latest blockchain letter. In this edition, the firm reflects on the challenges faced in 2025 while projecting optimism for the remaining months of 202… \nOn Wednesday, Pantera Capital, one of the largest venture capital firms in the crypto industry, released its latest blockchain letter. In this edition, the firm reflects on the challenges faced in 20… [+2917 chars]",
+        "positive": 0.99998939037323,
+        "negative": 6.377527483891754e-07,
+        "neutral": 1.0030815246864222e-05
+      },
+      {
+        "source": "news",
+        "id": "https://comicbookmovie.com/video-games/return-to-silent-hill-rotten-tomatoes-score-revealed-as-first-reviews-declare-it-the-worst-silent-hill-film-a226049",
+        "timestamp": "2026-01-21T22:02:00+00:00",
+        "text": "RETURN TO SILENT HILL Rotten Tomatoes Score Revealed As First Reviews Declare It The Worst SILENT HILL Film \nThe first reviews are in for Return to Silent Hill, and with that comes a Rotten Tomatoes score that doesn't bode well for the movie's chances of box office success. \nAs we first reported on FearHQ.com, the review embargo has lifted for Return to Silent Hill. Unfortunately for fans of the games, it doesn't sound like this movie will make up for its underwhelming p… [+2880 chars]",
+        "positive": 6.966791988816112e-05,
+        "negative": 0.9932301044464111,
+        "neutral": 0.00670021865516901
+      },
+      {
+        "source": "news",
+        "id": "https://www.fool.com.au/2026/01/22/fortescue-record-iron-ore-shipments-and-strong-cash-flow-in-h1-fy26/",
+        "timestamp": "2026-01-21T22:01:34+00:00",
+        "text": "Fortescue: Record iron ore shipments and strong cash flow in H1 FY26 \nFortescue delivered a record first half for iron ore shipments and maintained a strong financial position in its December 2025 update.\nThe post Fortescue: Record iron ore shipments and strong cash flow in H1 FY26 appeared first on The Motley Fool Australia. \nThe Fortescue Ltd (ASX: FMG) share price is in focus after the company reported record half-year iron ore shipments, up 3% year-on-year to 100.2 million tonnes, and maintained strong cash generation … [+2762 chars]",
+        "positive": 1.0,
+        "negative": 3.2250215831197693e-09,
+        "neutral": 1.6977466099632466e-09
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/dundee-corporation-announces-the-closing-of-the-sale-of-its-royalty-on-the-borborema-gold-project",
+        "timestamp": "2026-01-21T22:01:04+00:00",
+        "text": "Dundee Corporation Announces the Closing of the Sale of Its Royalty on the Borborema Gold Project \nTORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) — Dundee Corporation (TSX: DC.A) (“Dundee” or the “Corporation”) is pleased to announce that it has now closed the previously announced sale of its royalty on the Borborema Gold Project to Gold Royalty Corp. (“GROY”) fo… \nTORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) Dundee Corporation (TSX: DC.A) (Dundee or the Corporation) is pleased to announce that it has now closed the previously announced sale of its royalty on the Bo… [+6819 chars]",
+        "positive": 0.046871256083250046,
+        "negative": 1.0579066838545259e-05,
+        "neutral": 0.9531182050704956
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223292/32716/en/CoreWeave-Inc-CRWV-Slapped-With-Securities-Class-Action-Amid-Questions-Over-Denton-Data-Center-Completion-Transparency-14-Billion-Market-Cap-Loss-Hagens-Berman.html",
+        "timestamp": "2026-01-21T22:01:00+00:00",
+        "text": "CoreWeave, Inc. (CRWV) Slapped With Securities Class Action Amid Questions Over Denton Data Center Completion Transparency, $14 Billion Market Cap Loss - Hagens Berman \nSAN FRANCISCO, Jan. 21, 2026 (GLOBE NEWSWIRE) -- A securities class action lawsuit has been filed against CoreWeave, Inc. (NASDAQ: CRWV) and certain of its executives seeking to represent investors who purchased or otherwise acquired CoreWeave securities betw… \nSAN FRANCISCO, Jan. 21, 2026 (GLOBE NEWSWIRE) -- A securities class action lawsuit has been filed against CoreWeave, Inc. (NASDAQ: CRWV) and certain of its executives seeking to represent investors w… [+4243 chars]",
+        "positive": 0.010328915901482105,
+        "negative": 0.44006964564323425,
+        "neutral": 0.5496014356613159
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/apollo-silver-closes-first-tranche-of-27-5-million-private-placement-offering-including-2-355-million-investment-from-insiders",
+        "timestamp": "2026-01-21T22:00:57+00:00",
+        "text": "Apollo Silver Closes First Tranche of $27.5 Million Private Placement Offering Including $2.355 Million Investment from Insiders \nVANCOUVER, British Columbia, Jan. 21, 2026 (GLOBE NEWSWIRE) — Apollo Silver Corp. (“Apollo Silver” or the “Company”) (TSX.V:APGO, OTCQB:APGOF, Frankfurt:6ZF0) is pleased to announce that it has closed the first tranche of its previously announced upsized non-… \nThe participation of a key shareholder and Apollo Silver insiders reflects strong alignment around the strategic value of primary silver assets in tightening silver markets, said Ross McElroy, Presid… [+4103 chars]",
+        "positive": 0.9999996423721313,
+        "negative": 1.7915985139893564e-08,
+        "neutral": 3.147247298329603e-07
+      },
+      {
+        "source": "news",
+        "id": "https://dramabeans.com/2026/01/i-dol-i-episodes-9-10/",
+        "timestamp": "2026-01-21T22:00:56+00:00",
+        "text": "I Dol I: Episodes 9-10 \nAfter weeks of a slowburn romance and a slowburn mystery, it’s all cranking up to an eleven. Our idol-lawyer duo are having to sort out their feelings and decide what they really mean to each other, all while dealing with an already stressful case. Something’… \nI Dol I: Episodes 9-10\r\nAfter weeks of a slowburn romance and a slowburn mystery, its all cranking up to an eleven. Our idol-lawyer duo are having to sort out their feelings and decide what they real… [+9131 chars]",
+        "positive": 0.00021161547920200974,
+        "negative": 0.015901615843176842,
+        "neutral": 0.9838867783546448
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/pimco-canada-corp-announces-monthly-distributions-for-pimco-canada-closed-end-funds-59",
+        "timestamp": "2026-01-21T22:00:51+00:00",
+        "text": "PIMCO Canada Corp. Announces Monthly Distributions for PIMCO Canada Closed End Funds \nNot for distribution to United States newswire services or for dissemination in the United States TORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) — PIMCO Canada Corp. (“PIMCO Canada”) is pleased to announce today that it has declared monthly distributions on its Clas… \nNot for distribution to United States newswire services or for dissemination in the United States\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city an… [+5725 chars]",
+        "positive": 0.005566259380429983,
+        "negative": 4.40524127043318e-06,
+        "neutral": 0.994429349899292
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/maxus-mining-investors-exercise-1105952-cdn-in-warrants",
+        "timestamp": "2026-01-21T22:00:45+00:00",
+        "text": "Maxus Mining Investors Exercise $1,105,952 CDN in Warrants \nVANCOUVER, British Columbia, Jan. 21, 2026 (GLOBE NEWSWIRE) — Maxus Mining Inc. (“Maxus” or the “Company”) (CSE: MAXM | FRA: R7V), is pleased to announce investors have exercised 2,408,200 common share purchase warrants of the Company (the “Warrants”) for gro… \nAbout Maxus Mining Inc. \r\nMaxus Mining Inc. (CSE: MAXM | FRA: R7V) is a mineral exploration company focused on locating, acquiring, and, if warranted, advancing economic mineral properties in premier… [+3965 chars]",
+        "positive": 8.460670869681053e-06,
+        "negative": 2.7656742531689815e-06,
+        "neutral": 0.9999887943267822
+      },
+      {
+        "source": "news",
+        "id": "https://mobilesyrup.com/2026/01/21/doug-ford-canada-boycott-chinese-evs/",
+        "timestamp": "2026-01-21T22:00:43+00:00",
+        "text": "Doug Ford now wants Canadians to boycott Chinese EVs \nIf you couldn’t tell, Doug Ford is really upset about Canada’s recent agreement to import nearly 50,000 Chinese electric vehicles (EVs). Over the past few days, the Ontario premier has said the deal will not only hurt domestic production, but also allow China… \nIf you couldn’t tell, Doug Ford is really upset about Canada’s recent agreement to import nearly 50,000 Chinese electric vehicles (EVs).\r\nOver the past few days, the Ontario premier has said the deal… [+2334 chars]",
+        "positive": 0.4115826189517975,
+        "negative": 0.04238904267549515,
+        "neutral": 0.5460283160209656
+      },
+      {
+        "source": "news",
+        "id": "https://www.pymnts.com/apple/2026/apple-prepares-to-bring-apple-pay-to-india/",
+        "timestamp": "2026-01-21T22:00:21+00:00",
+        "text": "Apple Prepares to Bring Apple Pay to India \nApple is reportedly working on bringing Apple Pay to India sometime this year. That’s according to a report Wednesday (Jan. 21) from the website Moneycontrol, citing sources familiar with the matter. They say the tech giant is holding talks with card networks… \nThats according to a report Wednesday (Jan. 21) from the website Moneycontrol, citing sources familiar with the matter.\r\nThey say the tech giant is holding talks with card networks including Masterca… [+2081 chars]",
+        "positive": 2.9885009098507e-06,
+        "negative": 1.3434404536383227e-05,
+        "neutral": 0.999983549118042
+      },
+      {
+        "source": "news",
+        "id": "http://www.newsbtc.com/analysis/xrp/xrp-drops-below-2-as-etf-outflows-spike-and-stablecoin-settlement-debate-clouds-outlook/",
+        "timestamp": "2026-01-21T22:00:17+00:00",
+        "text": "XRP Drops Below $2 as ETF Outflows Spike and Stablecoin Settlement Debate Clouds Outlook \nXRP has slipped below the $2 mark, extending a week-long decline that has unsettled traders and renewed questions about the token’s short-term outlook. Related Reading: What the Triple-Tap At $1.80 Means For The XRP Price The drop comes amid heavy outflows fr… \nXRP has slipped below the $2 mark, extending a week-long decline that has unsettled traders and renewed questions about the tokens short-term outlook.\r\nThe drop comes amid heavy outflows from XRP exc… [+2568 chars]",
+        "positive": 0.00025080537307076156,
+        "negative": 0.9996005892753601,
+        "neutral": 0.00014860024384688586
+      },
+      {
+        "source": "news",
+        "id": "https://www.gov.uk/government/news/government-announces-bumper-15-billion-package-to-restore-national-pride",
+        "timestamp": "2026-01-21T22:00:04+00:00",
+        "text": "Government announces bumper £1.5 billion package to restore national pride \n£1.5 billion will be invested in cultural organisations over a five-year period – turning the corner on underfunding over the last decade and more \n<ul><li>Investment will tackle the need for capital investment to help save 1,000 local cultural venues across the country, restoring pride in place and national renewal </li><li>Funding is a recogni… [+24890 chars]",
+        "positive": 0.001640418660826981,
+        "negative": 3.055770503124222e-05,
+        "neutral": 0.9983289837837219
+      },
+      {
+        "source": "news",
+        "id": "https://bitcoinist.com/white-house-pushes-for-fast-crypto-deal-as-senate/",
+        "timestamp": "2026-01-21T22:00:01+00:00",
+        "text": "White House Pushes for Fast Crypto Deal as Senate Window Narrows and $1B Liquidations Rock Markets \nThe White House is urging U.S. lawmakers to move quickly on legislation to reform the crypto market structure as political timelines tighten and digital asset markets face renewed volatility. Related Reading: Ripple President Long Unveils Her 2026 Crypto Pred… \nThe White House is urging U.S. lawmakers to move quickly on legislation to reform the crypto market structure as political timelines tighten and digital asset markets face renewed volatility.\r\nWith t… [+2917 chars]",
+        "positive": 0.009713011793792248,
+        "negative": 0.048449207097291946,
+        "neutral": 0.9418377876281738
+      },
+      {
+        "source": "news",
+        "id": "https://oilprice.com/Energy/Crude-Oil/How-Venezuela-Went-from-US-Ally-to-National-Security-Threat.html",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "How Venezuela Went from U.S. Ally to National Security Threat \nPresident Donald Trump’s crusade to topple Venezuela’s illegitimate President Nicolas Maduro, which culminated with his capture in a daring night raid by U.S. troops, started with a massive August 2025 naval buildup in the Caribbean. That escalated to airstri… \nThe Strait of Hormuz risk…\r\nAmerican Petroleum Institute (API) CEO,…\r\nDespite holding the worlds largest…\r\nSet us as your preferred Google source\r\nBy Matthew Smith - Jan 21, 2026, 4:00 PM CSTPresiden… [+13168 chars]",
+        "positive": 0.00014437195204664022,
+        "negative": 5.865301864105277e-05,
+        "neutral": 0.9997970461845398
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/sport/julia-yeo-backstroke-sea-games-gold-national-record-5870516",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "Swimmer Julia Yeo, 15, not getting carried away despite SEA Games gold and national record \nYeo has set her sights on qualifying for the Asian Games later this year, but said that day-to-day training is still top of her mind. \nAsked what sets Yeo apart from her peers, Teo said she ticked most boxes of a good swimmer.\r\nThere were many things like her work ethic, her feel of the water, her awareness of how her body is in the… [+1384 chars]",
+        "positive": 0.0007956029730848968,
+        "negative": 5.7507808378431946e-05,
+        "neutral": 0.9991468191146851
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223288/0/en/Apollo-Silver-Closes-First-Tranche-of-27-5-Million-Private-Placement-Offering-Including-2-355-Million-Investment-from-Insiders.html",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "Apollo Silver Closes First Tranche of $27.5 Million Private Placement Offering Including $2.355 Million Investment from Insiders \nVANCOUVER, British Columbia, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Apollo Silver Corp. (“Apollo Silver” or the “Company”) (TSX.V:APGO, OTCQB:APGOF, Frankfurt:6ZF0) is pleased to announce that it has closed the first tranche of its previously announced upsized non… \nVANCOUVER, British Columbia, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Apollo Silver Corp. (Apollo Silver or the Company) (TSX.V:APGO, OTCQB:APGOF, Frankfurt:6ZF0) is pleased to announce that it has closed t… [+10566 chars]",
+        "positive": 0.030674729496240616,
+        "negative": 9.663106538937427e-06,
+        "neutral": 0.9693155288696289
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223290/27734/en/Kimco-Realty-Appoints-David-Jamieson-to-its-Board-of-Directors.html",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "Kimco Realty Appoints David Jamieson to its Board of Directors \nJERICHO, N.Y., Jan. 21, 2026 (GLOBE NEWSWIRE) -- Kimco Realty® (NYSE: KIM) (the “Company”) today announced that David Jamieson has been appointed to the Company’s Board of Directors. Mr. Jamieson is Executive Vice President and Chief Operating Officer of the … \nJERICHO, N.Y., Jan. 21, 2026 (GLOBE NEWSWIRE) -- Kimco Realty® (NYSE: KIM) (the Company) today announced that David Jamieson has been appointed to the Companys Board of Directors. Mr. Jamieson is Exe… [+9300 chars]",
+        "positive": 6.5694212025846355e-06,
+        "negative": 1.0969525646942202e-05,
+        "neutral": 0.999982476234436
+      },
+      {
+        "source": "news",
+        "id": "https://www.theblaze.com/columns/opinion/the-fastest-way-to-stop-irans-killers-without-firing-a-single-shot",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "The fastest way to stop Iran’s killers ... without firing a single shot \nThe mullahs of Iran have resumed the familiar work of slaughtering their own people. (Again!) The United States can respond without firing a shot — and without waiting months for a traditional embargo to bite.It can impose an electronic embargo.An electro-emb… \nThe mullahs of Iran have resumed the familiar work of slaughtering their own people. (Again!) The United States can respond without firing a shot and without waiting months for a traditional embargo … [+5042 chars]",
+        "positive": 0.051659248769283295,
+        "negative": 0.001241827616468072,
+        "neutral": 0.947098970413208
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223289/0/en/Dundee-Corporation-Announces-the-Closing-of-the-Sale-of-Its-Royalty-on-the-Borborema-Gold-Project.html",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "Dundee Corporation Announces the Closing of the Sale of Its Royalty on the Borborema Gold Project \nTORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Dundee Corporation (TSX: DC.A) (“Dundee” or the “Corporation”) is pleased to announce that it has now closed the previously announced sale of its royalty on the Borborema Gold Project to Gold Royalty Corp. (“GROY”) f… \nTORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Dundee Corporation (TSX: DC.A) (Dundee or the Corporation) is pleased to announce that it has now closed the previously announced sale of its royalty on the… [+8737 chars]",
+        "positive": 0.0340614914894104,
+        "negative": 1.9724358935491182e-05,
+        "neutral": 0.9659188389778137
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223287/0/en/Maxus-Mining-Investors-Exercise-1-105-952-CDN-in-Warrants.html",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "Maxus Mining Investors Exercise $1,105,952 CDN in Warrants \nVANCOUVER, British Columbia, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Maxus Mining Inc. (“Maxus” or the “Company”) (CSE: MAXM | FRA: R7V), is pleased to announce investors have exercised 2,408,200 common share purchase warrants of the Company (the “Warrants”) for gr… \nVANCOUVER, British Columbia, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Maxus Mining Inc. (Maxus or the Company) (CSE: MAXM | FRA: R7V), is pleased to announce investors have exercised 2,408,200 common share … [+9628 chars]",
+        "positive": 1.7272672266699374e-05,
+        "negative": 1.8974434397023288e-06,
+        "neutral": 0.9999808073043823
+      },
+      {
+        "source": "news",
+        "id": "https://www.indiewire.com/features/interviews/jon-watts-clown-4k-eli-roth-harvey-weinstein-1235172721/",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "The Weinsteins Buried Jon Watts’ First Feature in 2014 — It Now Has a New Life on Physical Media \nThe \"Spider-Man: Homecoming\" director tells IndieWire about his hilarious and disturbing debut feature \"Clown,\" which is finally getting the release it deserves on 4K UHD and Blu-ray from Turbine Media. \nIn 2010, future “Spider-Man” auteur Jon Watts was a music video and commercial director struggling to get his first feature or television series off the ground. “ My friends and I spent most of our t… [+8110 chars]",
+        "positive": 8.152688678819686e-05,
+        "negative": 9.029712236952037e-05,
+        "neutral": 0.9998281002044678
+      },
+      {
+        "source": "news",
+        "id": "https://www.space.com/astronomy/galaxies/eye-of-god-nebula-looks-like-a-cosmic-lava-lamp-in-new-james-webb-space-telescope-image",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "'Eye of God' nebula looks like a cosmic lava lamp in new James Webb Space Telescope image \nIt may be one of the most iconic sights in the night sky, but astronomers have never seen the Helix Nebula like this before. \nAstronomers have been given a new and incredibly detailed look at a very familiar astronomical object thanks to the James Webb Space Telescope (JWST). The new JWST image shows the Helix Nebula, the r… [+3123 chars]",
+        "positive": 0.033163756132125854,
+        "negative": 2.3850334400776774e-05,
+        "neutral": 0.9668124318122864
+      },
+      {
+        "source": "news",
+        "id": "https://www.goldenstateofmind.com/general/107465/warriors-kings-jimmy-butler-iii-injury-jonathan-kuminga-trade",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "How Jimmy Butler’s injury can force the Warriors and Kings into a trade \nMarc Delucchi argues that Jimmy Butler III’s injury will force the Warriors and Kings into a trade. \nThe Golden State Warriors are reeling after Jimmy Butler III suffered a season-ending injury in Monday nights victory over the Miami Heat. Things had finally been coming together for the Dubs, who we… [+12011 chars]",
+        "positive": 0.0031833346001803875,
+        "negative": 0.8109039068222046,
+        "neutral": 0.18591272830963135
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223286/220/en/PIMCO-Canada-Corp-Announces-Monthly-Distributions-for-PIMCO-Canada-Closed-End-Funds.html",
+        "timestamp": "2026-01-21T22:00:00+00:00",
+        "text": "PIMCO Canada Corp. Announces Monthly Distributions for PIMCO Canada Closed End Funds \nNot for distribution to United States newswire services or for dissemination in the United States  TORONTO, Jan.  21, 2026  (GLOBE NEWSWIRE) --  PIMCO... \nNot for distribution to United States newswire services or for dissemination in the United States\r\nTORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) -- PIMCO Canada Corp. (PIMCO Canada) is pleased to announce … [+6645 chars]",
+        "positive": 0.006954339798539877,
+        "negative": 2.1025734895374626e-06,
+        "neutral": 0.9930435419082642
+      },
+      {
+        "source": "news",
+        "id": "http://foreignpolicy.com/2026/01/21/donald-trump-world-economic-forum-davos-speech-greenland/",
+        "timestamp": "2026-01-21T21:57:53+00:00",
+        "text": "Trump Talks Greenland at Davos, Announces ‘Framework’ Deal \nThe U.S. president said he and the NATO secretary-general “formed the framework of a future deal” but provided few details. \nWelcome back to World Brief, where were looking at Trumps efforts to acquire Greenland at the World Economic Forum in Davos, a fragile cease-fire in Syria, and the United States latest seizure of a V… [+8480 chars]",
+        "positive": 0.0001084484247257933,
+        "negative": 9.467175004829187e-06,
+        "neutral": 0.9998821020126343
+      },
+      {
+        "source": "news",
+        "id": "https://www.bostonherald.com/2026/01/21/stocks-recover-on-tariff-walk-back/",
+        "timestamp": "2026-01-21T21:57:47+00:00",
+        "text": "Stocks recover on tariff walk-back \nNEW YORK — The U.S. stock market bounced back from its worst day since October on Wednesday after President Donald Trump said he reached the framework for a deal about Greenland, an island he’s long coveted, and won’t impose tariffs he had threatened on sever… \nNEW YORK The U.S. stock market bounced back from its worst day since October on Wednesday after President Donald Trump said he reached the framework for a deal about Greenland, an island he’s long co… [+3489 chars]",
+        "positive": 0.04848985746502876,
+        "negative": 0.3261581361293793,
+        "neutral": 0.6253520250320435
+      },
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/sports/trump-host-major-sports-commissioners-oval-office-america-250-planning-report",
+        "timestamp": "2026-01-21T21:57:08+00:00",
+        "text": "Trump to host major sports commissioners in Oval Office for America 250 planning: report \nSports commissioners from the NFL, NBA, MLB and NHL are reportedly meeting with President Donald Trump at the White House to discuss America's 250th anniversary plans. \nThe commissioners of the four major sports leagues the NFL, NBA, NHL and MLB are reportedly set to meet with President Donald Trump in the Oval Office next week as he unveils plans for the celebratio… [+2091 chars]",
+        "positive": 8.229018931160681e-06,
+        "negative": 6.1280552472453564e-06,
+        "neutral": 0.9999856948852539
+      },
+      {
+        "source": "news",
+        "id": "https://beincrypto.com/cathie-wood-ark-invest-bitcoin-prediction/",
+        "timestamp": "2026-01-21T21:56:22+00:00",
+        "text": "Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction \nCathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead. \nCathie Woods ARK Invest has laid out one of its clearest long-term views yet on Bitcoin and Nvidia, two assets that defined the 20242025 market cycle. The firms latest Big Ideas 2026 report predicts … [+3365 chars]",
+        "positive": 5.923607386648655e-05,
+        "negative": 4.241505666868761e-05,
+        "neutral": 0.9998983144760132
+      },
+      {
+        "source": "news",
+        "id": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/110719/slavia-prague-barcelona-champions-league-final-score-match-report-recap-reactions",
+        "timestamp": "2026-01-21T21:55:35+00:00",
+        "text": "Slavia Prague 2-4 Barcelona, Champions League: Recap \nA hard-fought win and three massive points \nBarcelona will finish Matchday 7 in ninth place in the Champions League standings and have a realistic shot at clinching a Top 8 finish in the league phase thanks to a hard-fought 4-2 win away to Sla… [+3837 chars]",
+        "positive": 0.4225403070449829,
+        "negative": 5.602405872195959e-05,
+        "neutral": 0.5774036645889282
+      },
+      {
+        "source": "news",
+        "id": "https://www.mediaite.com/media/news/trump-greenland-deals-reportedly-includes-u-s-sovereignty-over-small-pockets-of-territory/",
+        "timestamp": "2026-01-21T21:55:12+00:00",
+        "text": "Trump-Greenland Deals Reportedly Includes U.S. ‘Sovereignty Over Small Pockets’ of Territory \nThe NATO statement came amid new reporting from the New York Times that deal may include the U.S. being given “sovereignty over small pockets” of land in Greenland.\nThe post Trump-Greenland Deals Reportedly Includes U.S. ‘Sovereignty Over Small Pockets’ of Te… \nSergi Reboredo/VWPics via AP Images &amp; Andrea Renault/STAR MAX/IPx\r\nNATO released a statement on Wednesday shortly after President Donald Trump announced he and NATO Secretary Secretary General Ma… [+2096 chars]",
+        "positive": 2.3653561584069394e-05,
+        "negative": 1.4737002857145853e-05,
+        "neutral": 0.9999616146087646
+      },
+      {
+        "source": "news",
+        "id": "https://www.nextbigfuture.com/2026/01/greenland-framework-pauses-tariffs.html",
+        "timestamp": "2026-01-21T21:54:59+00:00",
+        "text": "Greenland Framework Pauses Tariffs \nGreenland framework, announced by President Trump on January 21, 2026, following a meeting with NATO Secretary General Mark Rutte at the World Economic Forum in Davos, Switzerland, is described as a preliminary outline or concept of a deal for future negotiat… \nGreenland framework, announced by President Trump on January 21, 2026, following a meeting with NATO Secretary General Mark Rutte at the World Economic Forum in Davos, Switzerland, is described as a … [+4144 chars]",
+        "positive": 1.7055122043529991e-06,
+        "negative": 6.255710559344152e-06,
+        "neutral": 0.9999921321868896
+      },
+      {
+        "source": "news",
+        "id": "https://decrypt.co/355323/ethereum-price-sentiment-bearish-myriad-traders",
+        "timestamp": "2026-01-21T21:54:30+00:00",
+        "text": "Ethereum Sentiment Flips Bearish as Traders Brace for Drop to $2.5K \nBears dominate Ethereum outlook as prediction markets signal 62.5% chance of drop to $2,500, though validator sentiment remains steady long-term. \nIn brief\r\n<ul><li>Prediction market shows 62.5% chance ETH hits $2,500 before $4,000.</li><li>Ethereum validator exit queue dropped to zero on Jan. 19.</li><li>ETH currently trading at $3,008 after 1… [+2921 chars]",
+        "positive": 0.02681635320186615,
+        "negative": 0.0676710456609726,
+        "neutral": 0.9055125713348389
+      },
+      {
+        "source": "news",
+        "id": "https://www.rawstory.com/trump-greenland-2674952509/",
+        "timestamp": "2026-01-21T21:54:01+00:00",
+        "text": "Mockery as Trump swings U-turn on Greenland threats: 'TACO Tuesdays are back!' \nThe internet mocked President Donald Trump on Wednesday after he backed down on his demands to seize Greenland. Trump reversed his plot to seize the Arctic island country and Danish territory — after major pushback from NATO allies, world leaders and a plumme… \nThe internet mocked President Donald Trump on Wednesday after he backed down on his demands to seize Greenland. \r\nTrump reversed his plot to seize the Arctic island country and Danish territory after… [+1714 chars]",
+        "positive": 0.014998062513768673,
+        "negative": 0.06657898426055908,
+        "neutral": 0.9184229373931885
+      },
+      {
+        "source": "news",
+        "id": "https://thisisglamorous.com/2026/01/style-file-neutrals-by-day-and-black-by-night.html/",
+        "timestamp": "2026-01-21T21:54:00+00:00",
+        "text": "Style File: Neutrals by Day, and Black by Night \nJanuary has a way of slowing everything down; the light slips across walls, disappears early, leaving rooms and hours to fold inward. It wraps itself around us, those short days fading to long evenings, the world outside reduced to silhouettes and candlelight… \nJanuary has a way of slowing everything down; the light slips across walls, disappears early, leaving rooms and hours to fold inward. It wraps itself around us, those short days fading to long evenin… [+772 chars]",
+        "positive": 0.0008197160204872489,
+        "negative": 0.026130331680178642,
+        "neutral": 0.9730499386787415
+      },
       {
         "source": "news",
         "id": "https://pagesix.com/2026/01/21/style/kim-kardashian-addresses-alls-fair-elephant-birkin-bag-controversy/",
@@ -41,39 +923,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.irishtimes.com/opinion/editorials/2026/01/21/the-irish-times-view-on-trump-at-davos-the-us-president-climbs-down/",
-        "timestamp": "2026-01-21T21:52:00+00:00",
-        "text": "The Irish Times view on Trump at Davos: the US president climbs down \nA withdrawal of the tariff threats due to progress on the future of Greenland ended an extraordinary day \nAn extraordinary day in Davos ended last night with the surprise announcement from US president Donald Trump that he had withdrawn his threat of new tariffs against eight European countries. This was… [+2520 chars]",
-        "positive": 0.27183908224105835,
-        "negative": 0.1324763149023056,
-        "neutral": 0.5956846475601196
-      },
-      {
-        "source": "news",
         "id": "https://www.newser.com/story/382356/stocks-bounce-back-after-trump-drops-tariff-threat.html",
         "timestamp": "2026-01-21T21:51:40+00:00",
         "text": "Stocks Bounce Back After Trump Drops Tariff Threat \nThe US stock market bounced back from its worst day since October on Wednesday after President Trump said he reached the framework for a deal about Greenland and won't impose tariffs he had threatened on several European countries. The S&P 500 rose 78.76 poin… \nThe de-escalation in tensions, which had ramped up earlier with talk of tariffs crossing the Atlantic, helped the S&amp;P 500 recover much of its 2.1% drop from the day before and pull closer to its … [+1622 chars]",
         "positive": 0.9844692349433899,
         "negative": 0.013305234722793102,
         "neutral": 0.0022255380172282457
-      },
-      {
-        "source": "news",
-        "id": "https://www.linkedin.com/pulse/spain-consumer-goods-cpg-marketing-solutions-market-4fwjf",
-        "timestamp": "2026-01-21T21:51:39+00:00",
-        "text": "Spain Consumer Goods (CPG) Marketing Solutions Market Size, AI Integration & Challenges 2026-2033: Strategy \n Download Sample  Get Special Discount Spain Consumer Goods (CPG) Marketing Solutions Market Size, Strategic Opportunities & Forecast (2026-2033) Market size (2024): XX billion USD · Forecast (2033): · CAGR: ZZ% Spain Consumer Goods (CPG) Marketing Soluti… \nDownload SampleGet Special Discount\r\nSpain Consumer Goods (CPG) Marketing Solutions Market Size, Strategic Opportunities &amp; Forecast (2026-2033) Market size (2024): XX billion USD · Forecast (2033… [+19758 chars]",
-        "positive": 0.0001536541385576129,
-        "negative": 1.3956367183709517e-05,
-        "neutral": 0.9998323917388916
-      },
-      {
-        "source": "news",
-        "id": "https://www.eonline.com/news/1427580/vanna-white-married-wheel-of-fortune-star-weds-john-donaldson",
-        "timestamp": "2026-01-21T21:50:56+00:00",
-        "text": "Wheel of Fortune’s Vanna White Marries John Donaldson After 16 Years \nVanna White hit the jackpot on her wheel of love. \nThe Wheel of Fortune co-host and her longtime partner John Donaldson privately tied the knot, the couple shared on social media. \n\"Surprise! We... \nVanna White hit the jackpot on her wheel of love. \r\nThe Wheel of Fortune co-host and her longtime partner John Donaldson privately tied the knot, the couple shared on social media. \r\n\"Surprise! We go… [+713 chars]",
-        "positive": 0.001414975617080927,
-        "negative": 0.0002660614554770291,
-        "neutral": 0.9983188509941101
       },
       {
         "source": "news",
@@ -86,39 +941,12 @@
       },
       {
         "source": "news",
-        "id": "https://bringatrailer.com/listing/2017-audi-s6-13/",
-        "timestamp": "2026-01-21T21:50:15+00:00",
-        "text": "49k-Mile 2017 Audi S6 Quattro Premium Plus \nThis 2017 Audi S6 Premium Plus was ordered new with over $12k in optional equipment including the S6 Sport, Driver Assistance, Black Optic, and Cold Weather packages, which together provided a Quattro Sport rear differential, a sport exhaust system, Audi Dyna… \nThis 2017 Audi S6 Premium Plus was ordered new with over $12k in optional equipment including the S6 Sport, Driver Assistance, Black Optic, and Cold Weather packages, which together provided a Quattr… [+3311 chars]",
-        "positive": 0.0003738306404557079,
-        "negative": 1.4483145605481695e-05,
-        "neutral": 0.9996116757392883
-      },
-      {
-        "source": "news",
         "id": "https://www.dailysignal.com/2026/01/21/how-the-american-dream-of-homeownership-became-unaffordable/",
         "timestamp": "2026-01-21T21:50:00+00:00",
         "text": "How the American Dream of Homeownership Became Unaffordable \nThe following is a preview of Daily Signal Politics Editor Bradley Devlin’s interview with Rep. Pat Harrigan, R-N.C., on “The Signal Sitdown.” The full interview... Read More\nThe post How the American Dream of Homeownership Became Unaffordable appeared first … \nThe following is a preview of Daily Signal Politics Editor Bradley Devlins interview with Rep. Pat Harrigan, R-N.C., on The Signal Sitdown. The full interview premieres on The Daily Signals YouTube p… [+4309 chars]",
         "positive": 5.610493644780945e-06,
         "negative": 2.922225803558831e-06,
         "neutral": 0.9999914169311523
-      },
-      {
-        "source": "news",
-        "id": "https://news.sky.com/story/defect-now-if-youre-thinking-about-leaving-badenoch-warns-backbenchers-13497346",
-        "timestamp": "2026-01-21T21:49:00+00:00",
-        "text": "Defect now if you're thinking about leaving, Badenoch warns backbenchers \nIt was billed as an emergency meeting of Tory MPs after a trio of defections to Reform UK, but judging by the noise that greeted Kemi Badenoch it could have been a victory rally. \nIt was billed as an emergency meeting of Tory MPs after a trio of defections to Reform UK, but judging by the noise that greeted Kemi Badenoch it could have been a victory rally.\r\nWhen the Tory leade… [+3529 chars]",
-        "positive": 0.5817752480506897,
-        "negative": 0.2884795069694519,
-        "neutral": 0.1297452598810196
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/city/bengaluru/vice-president-calls-on-students-to-say-no-to-drugs-exercise-caution-online/articleshow/127034678.cms",
-        "timestamp": "2026-01-21T21:49:00+00:00",
-        "text": "Vice-President calls on students to say no to drugs, exercise caution online \nBengaluru: Vice President CP Radhakrishnan urged students to avoid drugs and to be cautious about their social media activities.During the silver jubi. \nFollow Us On Social Media\r\nMan pronounced dead shocked family after waking up in a body bag while waiting to be embalmedPower ministry's draft policy moots automatic revisions of tariffI left Democra… [+1381 chars]",
-        "positive": 1.586515827511903e-05,
-        "negative": 0.14894819259643555,
-        "neutral": 0.8510359525680542
       },
       {
         "source": "news",
@@ -167,87 +995,6 @@
       },
       {
         "source": "news",
-        "id": "https://japantoday.com/category/world/iran-says-3-117-killed-during-protests-activists-fear-%27far-higher%27-toll",
-        "timestamp": "2026-01-21T21:46:59+00:00",
-        "text": "Iran says 3,117 killed in protests \nIranian authorities on Wednesday said 3,117 people were killed during protests that first erupted in late December, but activists said the actual toll risked being many times higher due to a crackdown that suppressed the demonstrations. Demonstrations and str… \nIranian authorities on Wednesday said 3,117 people were killed during protests that first erupted in late December, but activists said the actual toll risked being many times higher due to a crackdow… [+4422 chars]",
-        "positive": 0.017407063394784927,
-        "negative": 0.6809878349304199,
-        "neutral": 0.3016051650047302
-      },
-      {
-        "source": "news",
-        "id": "https://japantoday.com/category/world/%27who-can-say-no-%27-trump%27s-board-of-peace-tests-doubters%27-resolve-in-davos",
-        "timestamp": "2026-01-21T21:46:53+00:00",
-        "text": "'Who can say no?' Trump's Board of Peace tests doubters' resolve in Davos \nDonald Trump's Board of Peace, seen by some as a rival to the United Nations, has caught officials at some of the countries invited off guard, with several saying they felt compelled ‌to sign up rather than risk the U.S. president's wrath. Reuters canvassed 1… \nDonald Trump's Board of Peace, seen by some as a rival to the United Nations, has caught officials at some of the countries invited off guard, with several saying they felt compelled to sign up rathe… [+4700 chars]",
-        "positive": 0.00233458261936903,
-        "negative": 0.028969505801796913,
-        "neutral": 0.968695878982544
-      },
-      {
-        "source": "news",
-        "id": "https://japantoday.com/category/world/trump-rules-out-force-tariffs-says-greenland-deal-framework-reached1",
-        "timestamp": "2026-01-21T21:45:53+00:00",
-        "text": "Trump rules out force, tariffs; says Greenland deal framework in sight \nU.S. President Donald Trump abruptly stepped back on Wednesday from threats to impose tariffs as leverage to seize Greenland, ruled out the use ‌of force, and said a deal was in sight to end a dispute over the Danish territory that risked the deepest rupture … \nU.S. President Donald Trump abruptly stepped back on Wednesday from threats to impose tariffs as leverage to seize Greenland, ruled out the use of force, and said a deal was in sight to end a dispute… [+2952 chars]",
-        "positive": 0.0011198136489838362,
-        "negative": 0.00827251560986042,
-        "neutral": 0.9906076192855835
-      },
-      {
-        "source": "news",
-        "id": "https://nationalpost.com/news/politics/after-carneys-davos-speech-conservatives-ponder-how-poilievre-can-meet-the-foreign-policy-moment",
-        "timestamp": "2026-01-21T21:45:47+00:00",
-        "text": "After Carney's Davos speech, Conservatives ponder how Poilievre can meet the foreign policy moment \n'I think confronting that reality that (Trump's) not just going to go away, it's unpleasant, and it's less than ideal, but I think it is reality,' said Woodfinden \nOTTAWA Its weeks into a new year and U.S. President Donald Trump is everywhere, again.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS\r\nEnjoy the latest local, national and international news.\r\n<ul><li>Exc… [+4629 chars]",
-        "positive": 7.399699825327843e-05,
-        "negative": 1.7464148186263628e-05,
-        "neutral": 0.999908447265625
-      },
-      {
-        "source": "news",
-        "id": "https://www.gamesradar.com/games/rpg/hytale-mithril-doesnt-exist-yet-but-thanks-to-suggestions-in-dms-endgame-mining-is-going-to-get-a-bit-more-interesting/",
-        "timestamp": "2026-01-21T21:45:30+00:00",
-        "text": "Hytale mithril doesn't exist yet, but thanks to \"suggestions in DMs\" endgame mining is going to get \"a bit more interesting\" \n\"We are looking at options to make mining a bit more interesting\" \nHytale currently hints at endgame gear that you need to craft via mithril, but there's no way to actually get the ore in-game – aside from cheating and popping into creative mode. The devs at Hypixel… [+1565 chars]",
-        "positive": 1.3803449292026926e-05,
-        "negative": 1.6904050426092e-05,
-        "neutral": 0.9999692440032959
-      },
-      {
-        "source": "news",
-        "id": "https://gizmodo.com/washington-is-divided-on-ai-chips-exports-as-anthropic-ceo-deems-china-sales-a-mistake-2000712639",
-        "timestamp": "2026-01-21T21:45:21+00:00",
-        "text": "Washington Is Divided on AI Chip Exports as Anthropic CEO Deems China Sales a ‘Mistake’ \nCongress might seek more authority over AI chips exports. MAGA can't make up its mind. \nWashington is divided on AI, yet again.\r\nAt the center of the clash is AI chip exports. Last month, Trump finally allowed Nvidia to sell its H200 chips to China. The chips are less advanced than Nvid… [+3734 chars]",
-        "positive": 3.2067416668724036e-06,
-        "negative": 5.786589463241398e-05,
-        "neutral": 0.99993896484375
-      },
-      {
-        "source": "news",
-        "id": "https://www.abc.net.au/news/2026-01-22/keppel-data-centre-latrobe-valley/106123748",
-        "timestamp": "2026-01-21T21:45:17+00:00",
-        "text": "Victoria's coal country set to become home of $10 billion data centre \nVictoria's east is set to become home to a $10 billion data centre that will support the technology necessary for artificial intelligence systems. \nVictoria's Gippsland region will soon be home to one of the largest pieces of artificial intelligence infrastructure in Australia.\r\nSingaporean asset manager and operator Keppel Ltd plans to build a … [+4374 chars]",
-        "positive": 4.1382758354302496e-05,
-        "negative": 3.07245431940828e-06,
-        "neutral": 0.9999555349349976
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/etimes/trending/man-pronounced-dead-shocked-family-after-waking-up-in-a-body-bag-while-waiting-to-be-embalmed/articleshow/127046511.cms",
-        "timestamp": "2026-01-21T21:45:10+00:00",
-        "text": "Man pronounced dead shocked family after waking up in a body bag while waiting to be embalmed \nA Mississippi family was stunned when Walter Williams, declared dead and sent to a funeral home, was found alive moments before embalming. The rare medical error gave the 78-year-old farmer two unexpected weeks with his family before his final death, turning … \n<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Man pronounced dead shocked family after waking up in a body bag while waiting to be embalmed</li></ul>\r\nFollow Us On Social Media\r\nCance… [+1460 chars]",
-        "positive": 0.00015857788093853742,
-        "negative": 0.015861306339502335,
-        "neutral": 0.9839801788330078
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/1998-mercedes-benz-c43-amg-15-2/",
-        "timestamp": "2026-01-21T21:45:04+00:00",
-        "text": "22k-Mile 1998 Mercedes-Benz C43 AMG at No Reserve \nThis 1998 Mercedes-Benz C43 AMG sedan remained with its original owner until it was purchased by the current owner on BaT in October 2020. Powered by a 4.3-liter V8 mated to a five-speed automatic transmission, the car is finished in Obsidian Black Metallic o… \nThis 1998 Mercedes-Benz C43 AMG sedan remained with its original owner until it was purchased by the current owner on BaT in October 2020. Powered by a 4.3-liter V8 mated to a five-speed automatic tr… [+3135 chars]",
-        "positive": 4.451755103218602e-06,
-        "negative": 7.971967534103896e-06,
-        "neutral": 0.9999876022338867
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2026/01/21/3223282/0/en/CVB-Financial-Corp-Reports-Earnings-for-the-Fourth-Quarter-and-the-Year-Ended-2025.html",
         "timestamp": "2026-01-21T21:45:00+00:00",
         "text": "CVB Financial Corp. Reports Earnings for the Fourth Quarter and the Year Ended 2025 \nFourth Quarter 2025   Net Earnings of $55.0 million, or $0.40 per share Return on Average Assets of 1.40%Net Interest Margin of 3.49%  Full Year 2025   Net... \nFourth Quarter 2025 \r\n<ul><li>Net Earnings of $55.0 million, or $0.40 per share </li><li>Return on Average Assets of 1.40%</li><li>Net Interest Margin of 3.49%</li></ul>Full Year 2025 \r\n<ul><li>Net E… [+115286 chars]",
@@ -266,39 +1013,12 @@
       },
       {
         "source": "news",
-        "id": "https://cryptoslate.com/ripples-rlusd-just-got-binances-strongest-growth-lever-can-that-catapult-it-into-a-top-3-asset/",
-        "timestamp": "2026-01-21T21:45:00+00:00",
-        "text": "Ripple’s RLUSD just got Binance’s strongest growth lever, can that catapult it into a top 3 asset? \nBinance, the largest crypto exchange by trading volume, has listed Ripple's RLUSD stablecoin on its platform. On Jan. 21, the exchange announced that it would open spot trading pairs, including RLUSD/USDT, RLUSD/U, and XRP/RLUSD, on Jan. 22 by 8 AM UTC. Criti… \nBinance, the largest crypto exchange by trading volume, has listed Ripple's RLUSD stablecoin on its platform.\r\nOn Jan. 21, the exchange announced that it would open spot trading pairs, including RLUS… [+6784 chars]",
-        "positive": 0.2849694490432739,
-        "negative": 8.116834942484275e-05,
-        "neutral": 0.7149494290351868
-      },
-      {
-        "source": "news",
         "id": "https://japantoday.com/category/sports/ioc-president-says-no-contact-yet-with-trump%27s-white-house-will-meet-vance-at-winter-olympics",
         "timestamp": "2026-01-21T21:44:50+00:00",
         "text": "IOC president says no contact yet with Trump's White House, will meet Vance at Winter Olympics \nOlympic leader Kirsty Coventry said Wednesday she is yet to have formal contact with U.S. President Donald Trump’s administration but is looking forward to meeting Vice President JD Vance in Milan next month at the Winter Games opening ceremony. The Internati… \nOlympic leader Kirsty Coventry said Wednesday she is yet to have formal contact with U.S. President Donald Trumps administration but is looking forward to meeting Vice President JD Vance in Milan nex… [+4048 chars]",
         "positive": 2.552705154812429e-05,
         "negative": 8.329438969667535e-06,
         "neutral": 0.9999661445617676
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com/french-president-calls-more-chinese-investment-response-trump-threats-3795961",
-        "timestamp": "2026-01-21T21:44:32+00:00",
-        "text": "French President Calls For More Chinese Investment in Response to Trump Threats \nFrench President Emmanuel Macron called for more Chinese investments in France at the Davos International Summit in Switzerland. \nAt the World Economic Forum's Annual Meeting in Davos, French President Emmanuel Macron used his address before global leaders to call for more economic relations with Beijing, calling for increased … [+2641 chars]",
-        "positive": 0.0001338819565717131,
-        "negative": 1.4522157471219543e-05,
-        "neutral": 0.9998515844345093
-      },
-      {
-        "source": "news",
-        "id": "https://japantoday.com/category/business/burberry-sales-rise-as-china-demand-improves",
-        "timestamp": "2026-01-21T21:44:09+00:00",
-        "text": "Burberry sales rise as China demand improves \nBurberry posted a slight rise in sales on Wednesday, as the British luxury fashion label's turnaround plan showed signs of progress, helped by improving demand in its crucial China market. Revenue rose three percent to £665 million ($893 million) in the compa… \nBurberry posted a slight rise in sales on Wednesday, as the British luxury fashion label's turnaround plan showed signs of progress, helped by improving demand in its crucial China market.\r\nRevenue r… [+2005 chars]",
-        "positive": 1.0,
-        "negative": 5.263059321691799e-09,
-        "neutral": 2.9566871173614118e-09
       },
       {
         "source": "news",
@@ -419,30 +1139,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.rte.ie/news/ireland/2026/0121/1554402-taoiseach-tariffs/",
-        "timestamp": "2026-01-21T21:37:50+00:00",
-        "text": "Taoiseach and Tánaiste welcome Trump tariff climbdown \nTaoiseach Micheál Martin and Tánaiste Simon Harris have welcomed the withdrawal of tariff threats by US President Donald Trump against European countries over his desire to acquire Greenland. \nTaoiseach Micheál Martin and Tánaiste Simon Harris have welcomed the withdrawal of tariff threats by US President Donald Trump against European countries over his desire to acquire Greenland from Den… [+2850 chars]",
-        "positive": 0.4683772921562195,
-        "negative": 0.020777571946382523,
-        "neutral": 0.5108451247215271
-      },
-      {
-        "source": "news",
         "id": "https://www.cnbc.com/2026/01/21/trump-says-he-wants-people-to-be-able-to-a-buy-a-home.html",
         "timestamp": "2026-01-21T21:37:44+00:00",
         "text": "Trump says he wants 'people to be able to a buy a home'—but banning institutional investors may not improve affordability \nTrump says banning institutional investors will help families buy homes, but housing analysts say supply shortages remain the bigger problem. \nPresident Donald Trump on Wednesday reiterated his push to restrict large institutional investors from buying single-family homes, arguing that Wall Street firms have crowded out would-be homebuyers.… [+3016 chars]",
         "positive": 0.03190745785832405,
         "negative": 0.3128567934036255,
         "neutral": 0.6552357077598572
-      },
-      {
-        "source": "news",
-        "id": "https://reason.com/2026/01/21/mike-johnson-says-he-has-no-intention-of-letting-congress-vote-on-trumps-tariffs/",
-        "timestamp": "2026-01-21T21:37:25+00:00",
-        "text": "Mike Johnson Says He Has 'No Intention' of Letting Congress Vote on Trump's Tariffs \nA House rule prohibiting tariff resolutions from coming to the floor will expire at the end of the month and is unlikely to be renewed. \nEven as one significant hurdle to a congressional vote on President Donald Trump's tariffs is set to expire in the coming days, another major obstacle remains in place: Speaker of the House Mike John… [+3920 chars]",
-        "positive": 3.2854727578524034e-06,
-        "negative": 0.004165608901530504,
-        "neutral": 0.9958310723304749
       },
       {
         "source": "news",
@@ -455,48 +1157,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.boredpanda.com/meghan-trainor-explains-why-she-used-surrogate-for-her-baby/",
-        "timestamp": "2026-01-21T21:35:35+00:00",
-        "text": "Meghan Trainor Breaks Silence Amid Backlash, Explains Why She Used A Surrogate For Her Baby \nCritics called the singer out for not wanting to “get off” weight loss injections and “give up her new body.” \nMeghan Trainor has come forward to address the backlash surrounding her decision to welcome her third child via surrogate, laying out the medical and personal reasons behind the choice.\r\nThe 32-year-… [+9391 chars]",
-        "positive": 0.00020648697682190686,
-        "negative": 1.1684391211019829e-05,
-        "neutral": 0.9997817873954773
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/pmn/business-wire-news-releases-pmn/coeur-to-present-at-td-cowens-17th-annual-global-mining-conference",
         "timestamp": "2026-01-21T21:35:18+00:00",
         "text": "Coeur to Present at TD Cowen’s 17th Annual Global Mining Conference \nCHICAGO — Coeur Mining, Inc.’s (“Coeur” or the “Company”) (NYSE: CDE) Chairman, President and Chief Executive Officer, Mitchell J. Krebs, will present at TD Cowen’s 17th Annual Global Mining Conference in Toronto, Ontario on Thursday, January 29, 2026 at 2:20… \nCHICAGO Coeur Mining, Inc.s (Coeur or the Company) (NYSE: CDE) Chairman, President and Chief Executive Officer, Mitchell J. Krebs, will present at TD Cowens 17th Annual Global Mining Conference in To… [+3251 chars]",
         "positive": 9.933796718541998e-07,
         "negative": 7.728809237050882e-07,
         "neutral": 0.9999983310699463
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/2000-volkswagen-passat/",
-        "timestamp": "2026-01-21T21:35:12+00:00",
-        "text": "2000 Volkswagen Passat GLS 1.8T Sedan 5-Speed at No Reserve \nThis 2000 Volkswagen Passat GLS sedan remained under the care of its original owner until it was acquired by the selling dealer in 2025. Power is provided by a turbocharged 1.8-liter inline-four linked with a five-speed manual transaxle, and it is finished in… \nThis 2000 Volkswagen Passat GLS sedan remained under the care of its original owner until it was acquired by the selling dealer in 2025. Power is provided by a turbocharged 1.8-liter inline-four link… [+1798 chars]",
-        "positive": 3.91515595765668e-06,
-        "negative": 3.077412839047611e-05,
-        "neutral": 0.9999653100967407
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/india/5-traffic-offences-in-a-year-could-bar-you-from-driving/articleshow/127055072.cms",
-        "timestamp": "2026-01-21T21:35:01+00:00",
-        "text": "5 traffic offences in a year could bar you from driving \nHabitual traffic offenders face a new penalty as the road transport ministry has amended rules to disqualify driving licenses for five or more offenses in a year. This provision, effective January 1, aims to curb errant drivers, though experts raise concerns … \nFollow Us On Social Media\r\nCancer Horoscope Today, January 22, 2026: Slow down on roads and in conversationsAtlanta Hawks vs Memphis Grizzlies injury report: Injured and questionable players, head-to… [+1293 chars]",
-        "positive": 3.267879947088659e-05,
-        "negative": 0.9995546936988831,
-        "neutral": 0.00041266463813371956
-      },
-      {
-        "source": "news",
-        "id": "https://pagesix.com/2026/01/21/celebrity-news/vanna-white-marries-longtime-partner-john-donaldson-in-private-wedding-ceremony/",
-        "timestamp": "2026-01-21T21:34:54+00:00",
-        "text": "Vanna White marries longtime partner John Donaldson in private wedding ceremony \nThe \"Wheel of Fortune\" star and Donaldson have been together since 2012. \nVanna White just bought herself a vow(el). \r\nThe “Wheel of Fortune” star and her longtime partner, John Donaldson, secretly tied the knot after nearly 13 years together.\r\n“Surprise! We got married! ,… [+2409 chars]",
-        "positive": 0.0001395989820593968,
-        "negative": 8.278631867142394e-06,
-        "neutral": 0.999852180480957
       },
       {
         "source": "news",
@@ -518,39 +1184,12 @@
       },
       {
         "source": "news",
-        "id": "https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-1212026-129433640",
-        "timestamp": "2026-01-21T21:33:39+00:00",
-        "text": "How major US stock indexes fared Wednesday, 1/21/2026 \nThe U.S. stock market rebounded after President Donald Trump called off Greenland-related tariffs that he had threatened to impose on Europe \nThe U.S. stock market rebounded after President Donald Trump called off Greenland-related tariffs that he had threatened to impose on Europe. \r\nThe S&amp;P 500 rallied 1.2% Wednesday after Trump said… [+1102 chars]",
-        "positive": 0.31247758865356445,
-        "negative": 0.2450830191373825,
-        "neutral": 0.44243937730789185
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/india/65-student-suicides-at-iits-in-5-yrs-alumni-group-calls-for-accountability/articleshow/127054283.cms",
-        "timestamp": "2026-01-21T21:32:38+00:00",
-        "text": "65 student suicides at IITs in 5 yrs, alumni group calls for accountability \nA recent IIT-Kanpur student suicide highlights a disturbing mental health crisis across premier Indian technical institutes, with over a dozen student deaths annually for five years. Alumni and student bodies point to intense academic pressure, isolation, and… \n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>65 student suicides at IITs in 5 yrs, alumni group calls for accountability</li></ul>\r\nFollow Us On Social Media\r\nCancer Horoscope Today, January 22, 2026:… [+1424 chars]",
-        "positive": 0.00017090576875489205,
-        "negative": 0.030758289620280266,
-        "neutral": 0.9690708518028259
-      },
-      {
-        "source": "news",
         "id": "https://www.esquire.com/news-politics/politics/a70081620/trump-administration-365-wins/",
         "timestamp": "2026-01-21T21:32:00+00:00",
         "text": "Trump’s “Wins” List Is Comedy Gold. Too Bad It’s Real. \nIn a memo published on Tuesday, the president patted himself so hard on the back that I’m afraid he might break his hand. \nIn addition to the presidents weird appearance in the White House Briefing Room on Tuesday, the White House put out a totally adorable list of 365 accomplishments, one for every day of the first year… [+1220 chars]",
         "positive": 0.0005571994697675109,
         "negative": 0.0003543370112311095,
         "neutral": 0.9990885257720947
-      },
-      {
-        "source": "news",
-        "id": "https://cointelegraph.com/news/us-senate-agriculture-committee-market-structure-bill",
-        "timestamp": "2026-01-21T21:30:37+00:00",
-        "text": "US Senate Agriculture Committee to release updated market structure bill \nThe committee released a draft bill in November proposing a regulatory framework, but some lawmakers still have concerns about provisions on DeFi, ethics and stablecoins. \nThe US Senate Agriculture Committee, one of two committees in the chamber considering legislation to establish digital asset market structure, is expected to release its text of the bill by the close… [+2695 chars]",
-        "positive": 3.6228597309673205e-05,
-        "negative": 0.02815147303044796,
-        "neutral": 0.9718123078346252
       },
       {
         "source": "news",
@@ -590,42 +1229,6 @@
       },
       {
         "source": "news",
-        "id": "https://variety.com/2026/film/news/variety-adobe-host-expert-panels-sundance-1236637215/",
-        "timestamp": "2026-01-21T21:30:00+00:00",
-        "text": "Variety and Adobe to Host Six Expert Panels at Sundance \nVariety will moderate six panels, presented by Adobe, at the 2026 Sundance Film Festival. The panels will take place from Jan. 23-25 at the Adobe House. “Anatomy of a Doc: The AI Doc: Or How I Became an Apocaloptimist” will be held on Jan. 23 at 10:30 a.m. Th… \nVariety will moderate six panels, presented by Adobe, at the 2026 Sundance Film Festival. The panels will take place from Jan. 23-25 at the Adobe House.\r\n“Anatomy of a Doc: The AI Doc: Or How I Becam… [+4076 chars]",
-        "positive": 4.181555368631962e-07,
-        "negative": 6.543277208947984e-07,
-        "neutral": 0.999998927116394
-      },
-      {
-        "source": "news",
-        "id": "https://www.forrester.com/blogs/brand-safety-essentials-protection-meets-performance/",
-        "timestamp": "2026-01-21T21:29:11+00:00",
-        "text": "Brand Safety Essentials: Protection Meets Performance \n2025 was a year of disruption and debate - from tariffs and antitrust rulings to cultural shifts that reshaped the digital landscape. Merriam-Webster even crowned “slop” as the word of the year, highlighting the flood of low-quality AI-generated content. As t… \nWhen you look back on 2025, what stands out in your mental timeline? Tariffs, major acquisitions, landmark antitrust rulings? It was a year fraught with controversy and cultural shifts, and to top it… [+3001 chars]",
-        "positive": 0.00014805277169216424,
-        "negative": 0.9920247793197632,
-        "neutral": 0.007827200926840305
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223274/32716/en/CPNG-INVESTOR-ALERT-Hagens-Berman-Investigating-Claims-in-Pending-Coupang-Inc-CPNG-Suit-Over-Data-Breach.html",
-        "timestamp": "2026-01-21T21:29:00+00:00",
-        "text": "CPNG INVESTOR ALERT: Hagens Berman Investigating Claims in Pending Coupang, Inc. (CPNG) Suit Over Data Breach \nSAN FRANCISCO, Jan. 21, 2026 (GLOBE NEWSWIRE) -- National shareholder rights firm Hagens Berman is notifying investors in Coupang, Inc. (NYSE: CPNG) that the lead plaintiff deadline in pending securities class action litigation against the company and certain… \nSAN FRANCISCO, Jan. 21, 2026 (GLOBE NEWSWIRE) -- National shareholder rights firm Hagens Berman is notifying investors in Coupang, Inc. (NYSE: CPNG) that the lead plaintiff deadline in pending securi… [+5135 chars]",
-        "positive": 0.00042079132981598377,
-        "negative": 0.0009386030724272132,
-        "neutral": 0.9986405968666077
-      },
-      {
-        "source": "news",
-        "id": "http://deadline.com/2026/01/dog-day-afternoon-broadway-cast-1236692033/",
-        "timestamp": "2026-01-21T21:27:01+00:00",
-        "text": "‘Dog Day Afternoon’ Adds John Ortiz, Jessica Hecht and Spencer Garrett To Broadway Cast \nEXCLUSIVE: The upcoming Broadway adaptation of Sidney Lumet’s gritty classic Dog Day Afternoon has added three to its cast, with John Ortiz, three-time Tony Award nominee Jessica Hecht and Spencer Garrett joining the previously announced Jon Bernthal and Ebon… \nEXCLUSIVE: The upcoming Broadway adaptation of Sidney Lumet’s gritty classic Dog Day Afternoonhas added three to its cast, with John Ortiz, three-time Tony Award nominee Jessica Hecht and Spencer Gar… [+3168 chars]",
-        "positive": 6.543725612573326e-05,
-        "negative": 1.5733342024759622e-06,
-        "neutral": 0.9999330043792725
-      },
-      {
-        "source": "news",
         "id": "https://news.onmantel.com/your-cards-arent-just-cardboard-theyre-currency-introducing-mantels-slam-score/",
         "timestamp": "2026-01-21T21:25:52+00:00",
         "text": "Your cards aren’t just cardboard, they’re currency: Introducing Mantel’s SLAM Score \nWe have all been in this standoff. \nWe have all been in this standoff. You are at a card show, standing at a dealers table with a slab in your hand. You know the last eBay sale was $100. The dealer knows the last eBay sale was $100.\r\nB… [+4714 chars]",
@@ -644,30 +1247,12 @@
       },
       {
         "source": "news",
-        "id": "https://nypost.com/2026/01/21/business/silion-valley-elites-could-see-50-gdp-growth-while-unemployment-spikes-says-anthropic-ceo-dario-amodei/",
-        "timestamp": "2026-01-21T21:25:27+00:00",
-        "text": "Silion Valley elites could see 50% GDP growth while unemployment spikes, says Anthropic CEO Dario Amodei \nAnthropic CEO Dario Amodei warned of a potential “nightmare” future scenario where Silicon Valley generates so much wealth from the artificial intelligence boom that it becomes “decoupled” from the rest of society. \nDoes 50% GDP growth sound out of this world? Not necessarily, if you’re one of the AI masters of the universe.\r\nAnthropic CEO Dario Amodei said Silicon Valley’s elite could see eye-popping GDP growth… [+2492 chars]",
-        "positive": 0.0029880243819206953,
-        "negative": 0.25793758034706116,
-        "neutral": 0.7390743494033813
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/globe-newswire/lavras-gold-corp-announces-10-million-public-offering",
         "timestamp": "2026-01-21T21:25:09+00:00",
         "text": "Lavras Gold Corp. Announces $10 million Public Offering \nThe Base Shelf Prospectus is accessible, and the Prospectus Supplement will be accessible within two business days, through SEDAR+ TORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) — Lavras Gold Corp. (TSX-V:LGC, OTCQX:LGCFF) (“Lavras Gold” or the “Company”) is pleased… \nThis news release shall not constitute an offer to sell or the solicitation of an offer to buy nor shall there be any sale of the Shares in any jurisdiction in which such offer, solicitation, or sale… [+4420 chars]",
         "positive": 4.8531121137784794e-05,
         "negative": 1.5908441127976403e-05,
         "neutral": 0.9999356269836426
-      },
-      {
-        "source": "news",
-        "id": "http://www.vulture.com/article/oscars-2026-will-sinners-break-the-all-time-nomination-record.html",
-        "timestamp": "2026-01-21T21:24:55+00:00",
-        "text": "Will Sinners Break the All-Time Oscars Nomination Record? \nWill ‘Sinners’ break the all-time Oscars nomination record? How far has ‘Wicked’ fallen? Will the brand-new Casting branch do the coolest thing possible? And more burning questions. \nAfter months of guild nominations, box office returns, and Timothée Chalamet scaling largestructures, the nominations for the 98th Academy Awards are almost upon us. Every year, the days before the n… [+11490 chars]",
-        "positive": 8.699585305294022e-05,
-        "negative": 0.0005085888551548123,
-        "neutral": 0.9994044303894043
       },
       {
         "source": "news",
@@ -698,48 +1283,12 @@
       },
       {
         "source": "news",
-        "id": "https://finovate.com/alloy-unveils-perpetual-kyb-and-customer-risk-assessment/",
-        "timestamp": "2026-01-21T21:22:58+00:00",
-        "text": "Alloy Unveils Perpetual KYB and Customer Risk Assessment \nIdentity orchestration platform provider Alloy has introduced its first perpetual Know Your Business (pKYB) and Customer Risk Assessment (CRA) orchestration solution in the UK and across Europe. The launch follows the company’s introduction of its perpetual K… \n<ul><li>Identity orchestration platform company Alloy has launched its first perpetual Know Your Business (pKYB) and Customer Risk Assessment (CRA) orchestration solution in the UK and across Europe.… [+4760 chars]",
-        "positive": 0.009842888452112675,
-        "negative": 7.919216841401067e-06,
-        "neutral": 0.9901491403579712
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2026/01/21/3223266/0/en/Lavras-Gold-Corp-Announces-10-million-Public-Offering.html",
         "timestamp": "2026-01-21T21:22:00+00:00",
         "text": "Lavras Gold Corp. Announces $10 million Public Offering \nThe Base Shelf Prospectus is accessible, and the Prospectus Supplement will be accessible within two business days, through SEDAR+ The Base Shelf Prospectus is accessible, and the Prospectus Supplement will be accessible within two business days, through SEDA… \nTORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) -- Lavras Gold Corp. (TSX-V:LGC, OTCQX:LGCFF) (Lavras Gold or the Company) is pleased to announce that it has entered into an agreement with Canaccord Genuity … [+7518 chars]",
         "positive": 0.11342259496450424,
         "negative": 1.5854158846195787e-05,
         "neutral": 0.8865615129470825
-      },
-      {
-        "source": "news",
-        "id": "https://legalinsurrection.com/2026/01/trump-we-have-a-concept-of-a-deal-regarding-greenland-arctic/",
-        "timestamp": "2026-01-21T21:21:36+00:00",
-        "text": "Trump: ‘We Have a Concept of a Deal’ Regarding Greenland, Arctic \n\"And it has to do with the security, great security, strong security, and other things.\"\nThe post Trump: ‘We Have a Concept of a Deal’ Regarding Greenland, Arctic first appeared on Le·gal In·sur·rec·tion. \nPresident Donald Trump said America “has a concept of a deal” regarding Greenland and the Arctic.\r\nTrump did not offer many details on the deal or the talks:\r\nTRUMP: Well, we have a concept of a deal… [+6500 chars]",
-        "positive": 2.2510303097078577e-06,
-        "negative": 2.298600065842038e-06,
-        "neutral": 0.9999954700469971
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/fg-to-integrate-islamic-finance-standards-into-nigerias-reporting-system/",
-        "timestamp": "2026-01-21T21:21:18+00:00",
-        "text": "FG to integrate Islamic finance standards into Nigeria’s reporting system \nNigeria plans to integrate Islamic finance standards into its reporting system, aiming to enhance transparency, financial inclusion, and global alignment.\n\nRead More: https://punchng.com/fg-to-integrate-islamic-finance-standards-into-nigerias-reporting-system/ \nThe Federal Government has initiated steps to integrate Islamic finance accounting and auditing standards into Nigerias financial reporting system, as part of efforts to enhance transparency, deepen … [+1721 chars]",
-        "positive": 0.12552307546138763,
-        "negative": 0.00012796360533684492,
-        "neutral": 0.8743488788604736
-      },
-      {
-        "source": "news",
-        "id": "https://www.huffpost.com/entry/trump-greenland-retreat_n_697133d1e4b09c80d3058c8d",
-        "timestamp": "2026-01-21T21:21:08+00:00",
-        "text": "After Creating A Crisis Over Greenland, Trump Declares Victory And Ends It \nTrump boasted of a “framework of a future deal” regarding U.S. access to Greenland for military purposes — access it already under an existing agreement. \nPresident Donald Trump attends the World Economic Forum Annual Meeting in Davos, Switzerland, on Jan. 21.\r\nAfter first threatening another trade war and then hinting at an actual one to wrest control… [+4545 chars]",
-        "positive": 0.005071388557553291,
-        "negative": 0.00021371562615968287,
-        "neutral": 0.9947149157524109
       },
       {
         "source": "news",
@@ -752,111 +1301,12 @@
       },
       {
         "source": "news",
-        "id": "https://financialpost.com/globe-newswire/strive-announces-proposed-follow-on-offering-of-sata-stock",
-        "timestamp": "2026-01-21T21:20:06+00:00",
-        "text": "Strive Announces Proposed Follow-On Offering of SATA Stock \nDALLAS, Jan. 21, 2026 (GLOBE NEWSWIRE) — Strive, Inc. (Nasdaq: SATA) (“Strive” or the “Company”) today announced that, subject to market and other conditions, it intends to conduct a $150 million follow-on offering (the “offering”) registered under the Securi… \nIf an event that constitutes a fundamental change under the certificate of designation governing the SATA Stock occurs, then, subject to certain limitations, holders of the SATA Stock have the right … [+5446 chars]",
-        "positive": 0.00012768727901857346,
-        "negative": 1.652391983952839e-05,
-        "neutral": 0.9998557567596436
-      },
-      {
-        "source": "news",
-        "id": "https://www.livemint.com/companies/tiktok-gets-reprieve-in-canada-after-court-shelves-ban-order-11769030405326.html",
-        "timestamp": "2026-01-21T21:20:04+00:00",
-        "text": "TikTok Gets Reprieve in Canada After Court Shelves Ban Order \nTikTok will be able to continue operating its subsidiary in Canada for now, after a previous order for it to wind down its operations in the country was shelved by a judge. \n(Bloomberg) -- TikTok will be able to continue operating its subsidiary in Canada for now, after a previous order for it to wind down its operations in the country was shelved by a judge.\r\nIn Novembe… [+1607 chars]",
-        "positive": 0.0033072540536522865,
-        "negative": 0.00017092570487875491,
-        "neutral": 0.9965218305587769
-      },
-      {
-        "source": "news",
-        "id": "https://eplindex.com/141737/report-harry-maguire-set-to-make-man-united-decision-amid-recent-transfer-interest.html",
-        "timestamp": "2026-01-21T21:20:00+00:00",
-        "text": "Report: Harry Maguire set to make Man United decision amid recent transfer interest \nMaguire Future Uncertain as Manchester United Weigh OptionsManchester United are facing a critical decision regarding the future of centre-back Harry Maguire, whose contract enters its final five mont... \nManchester United are facing a critical decision regarding the future of centre-back Harry Maguire, whose contract enters its final five months. Sources close to the club have confirmed that two team… [+3927 chars]",
-        "positive": 4.548002470983192e-05,
-        "negative": 0.0057348343543708324,
-        "neutral": 0.9942196607589722
-      },
-      {
-        "source": "news",
-        "id": "https://www.memeorandum.com/260121/p115",
-        "timestamp": "2026-01-21T21:20:00+00:00",
-        "text": "Trump pauses Greenland-linked tariffs on 8 European countries (Steve Kopack/NBC News) \nSteve Kopack / NBC News:\nTrump pauses Greenland-linked tariffs on 8 European countries  —  He said he had agreed on “framework of a future deal with respect to Greenland” and the Arctic with NATO Secretary General Mark Rutte.  — Add NBC News to Google  —  Pre… \nmemeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
-        "positive": 2.054870265055797e-06,
-        "negative": 4.737010385724716e-06,
-        "neutral": 0.9999932050704956
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223264/0/en/Raymond-James-Financial-Announces-Fiscal-Year-2026-Quarterly-Earnings-Schedule.html",
-        "timestamp": "2026-01-21T21:20:00+00:00",
-        "text": "Raymond James Financial Announces Fiscal Year 2026 Quarterly Earnings Schedule \nSt. Petersburg, Fla., Jan. 21, 2026 (GLOBE NEWSWIRE) -- Raymond James Financial, Inc. (NYSE: RJF) announced today its expected earnings release dates and conference call information for the first, second, third and fourth quarters of fiscal year 2026. Financi… \nSt. Petersburg, Fla., Jan. 21, 2026 (GLOBE NEWSWIRE) -- Raymond James Financial, Inc. (NYSE: RJF) announced today its expected earnings release dates and conference call information for the first, se… [+1271 chars]",
-        "positive": 6.007037882227451e-06,
-        "negative": 1.2538638429759885e-06,
-        "neutral": 0.9999927282333374
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/01/21/opinion/trumps-greenland-gambit-letters/",
-        "timestamp": "2026-01-21T21:19:27+00:00",
-        "text": "Trump’s Greenland gambit: Letters to the Editor — Jan. 22, 2026 \nNY Post readers discuss concerns over President Trump’s persistence in demanding the US annex Greenland. \nBack off of Greenland, President Trump I like what you have done for our country, but whoever is advising you on the Greenland gambit ought to be fired immediately. (Trump blasts EU bigs, Jan. 21).\r\n… [+3314 chars]",
-        "positive": 3.385993477422744e-05,
-        "negative": 0.018848842009902,
-        "neutral": 0.9811171889305115
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223262/0/en/ONEOK-Increases-Quarterly-Dividend-4.html",
-        "timestamp": "2026-01-21T21:18:00+00:00",
-        "text": "ONEOK Increases Quarterly Dividend 4% \nTULSA, Jan. 21, 2026 (GLOBE NEWSWIRE) -- The board of directors of ONEOK, Inc. (NYSE: OKE) today increased its quarterly dividend to $1.07 per share, an increase of 4%. This increase results in an annualized dividend of $4.28 per share. \nTULSA, Jan. 21, 2026 (GLOBE NEWSWIRE) -- The board of directors of ONEOK, Inc. (NYSE: OKE) today increased its quarterly dividend to $1.07 per share, an increase of 4%. This increase results in an an… [+3452 chars]",
-        "positive": 0.9990635514259338,
-        "negative": 4.183636406196456e-07,
-        "neutral": 0.0009359478717669845
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbc.ca/news/health/ozempic-health-canada-counterfeit-9.7054857",
-        "timestamp": "2026-01-21T21:17:46+00:00",
-        "text": "Health Canada warns about fake or unauthorized versions of GLP-1 drugs \nHealth Canada is warning people not to buy or use fake or unauthorized versions of GLP-1 drugs such as semaglutide, the active ingredient in Ozempic and Wegovy. The health agency says it has found retailers in Canada selling unauthorized GLP-1 products — some… \nHealth Canada is warning people not to buy or use fake or unauthorized versions of GLP-1 drugs such as semaglutide, the active ingredient in Ozempic and Wegovy. \r\nIn a public advisory on Wednesday, H… [+3684 chars]",
-        "positive": 0.00861908309161663,
-        "negative": 0.09556613117456436,
-        "neutral": 0.895814836025238
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbsnews.com/news/us-wealth-gap-widest-in-three-decades-federal-reserve/",
-        "timestamp": "2026-01-21T21:17:20+00:00",
-        "text": "Wealth inequality in America just hit its widest gap in three decades. \nNearly one-third of U.S. household wealth was held by the top 1% in the third quarter of 2025. \nData from the Federal Reserve shows that the so-called K-shaped economy in America is alive and well, with low- and middle-income households falling further behind as the richest Americans pull away.… [+2532 chars]",
-        "positive": 0.9996126294136047,
-        "negative": 4.5045584556646645e-05,
-        "neutral": 0.00034240339300595224
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/tiktok-gets-reprieve-in-canada-after-court-shelves-ban-order",
-        "timestamp": "2026-01-21T21:15:17+00:00",
-        "text": "TikTok Gets Reprieve in Canada After Court Shelves Ban Order \nTikTok will be able to continue operating its subsidiary in Canada for now, after a previous order for it to wind down its operations in the country was shelved by a judge. \n(Bloomberg) TikTok will be able to continue operating its subsidiary in Canada for now, after a previous order for it to wind down its operations in the country was shelved by a judge.\r\nTHIS CONTENT … [+3739 chars]",
-        "positive": 0.007870912551879883,
-        "negative": 0.00020973630307707936,
-        "neutral": 0.9919192790985107
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/pmn/business-wire-news-releases-pmn/royal-gold-to-participate-in-the-renmark-financial-communications-virtual-non-deal-roadshow-series-on-wednesday-february-4-2026",
         "timestamp": "2026-01-21T21:15:09+00:00",
         "text": "Royal Gold to Participate in the Renmark Financial Communications Virtual Non-Deal Roadshow Series on Wednesday, February 4, 2026 \nDENVER — Royal Gold, Inc. (NASDAQ: RGLD) (together with its subsidiaries, “Royal Gold” or the “Company”) announced today that management will present in the live Virtual Non-Deal Roadshow Series hosted by Renmark Financial Communications Inc. Alistair Baker, … \nDENVER Royal Gold, Inc. (NASDAQ: RGLD) (together with its subsidiaries, Royal Gold or the Company) announced today that management will present in the live Virtual Non-Deal Roadshow Series hosted by … [+3420 chars]",
         "positive": 3.662279050331563e-05,
         "negative": 2.366039325352176e-06,
         "neutral": 0.9999610185623169
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-wire-news-releases-pmn/kinder-morgan-reports-fourth-quarter-2025-financial-results",
-        "timestamp": "2026-01-21T21:15:03+00:00",
-        "text": "Kinder Morgan Reports Fourth Quarter 2025 Financial Results \nAchieves Record Annual Net Income and Adjusted EBITDA 2025 Earnings per share (EPS) 17% greater than 2024; Adjusted EPS up 13% HOUSTON — Kinder Morgan, Inc.’s (NYSE: KMI) board of directors today approved a cash dividend of $0.2925 per share for the fourth qu… \nAchieves Record Annual Net Income and Adjusted EBITDA\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles… [+8018 chars]",
-        "positive": 0.9998676776885986,
-        "negative": 2.0286098134647546e-08,
-        "neutral": 0.00013229365868028253
       },
       {
         "source": "news",
@@ -878,60 +1328,6 @@
       },
       {
         "source": "news",
-        "id": "https://decider.com/2026/01/21/fallout-season-2-episode-6-recap/",
-        "timestamp": "2026-01-21T21:15:00+00:00",
-        "text": "‘Fallout’ Season 2 Episode 6 Recap: The Guy Behind the Guy Behind the Guy \nThe Enclave. Remember them? \nThe Enclave. Remember them? Totally fine if you dont, imo Fallout has given you precious little reason to do so. When this well-guarded community of ruthless mad scientists was first introduced back … [+8027 chars]",
-        "positive": 3.8378319004550576e-05,
-        "negative": 0.01474903617054224,
-        "neutral": 0.9852125644683838
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223250/36594/en/Live-Oak-Bancshares-Inc-Reports-Fourth-Quarter-2025-Results.html",
-        "timestamp": "2026-01-21T21:15:00+00:00",
-        "text": "Live Oak Bancshares, Inc. Reports Fourth Quarter 2025 Results \nWILMINGTON, N.C., Jan. 21, 2026 (GLOBE NEWSWIRE) -- Live Oak Bancshares, Inc. (NYSE: LOB) (“Live Oak” or “the Company”) today reported fourth quarter of 2025 net income attributable to common shareholders of $44.1 million, or $0.95 per diluted share. Net inco… \nWILMINGTON, N.C., Jan. 21, 2026 (GLOBE NEWSWIRE) -- Live Oak Bancshares, Inc. (NYSE: LOB) (Live Oak or the Company) today reported fourth quarter of 2025 net income attributable to common shareholder… [+68042 chars]",
-        "positive": 2.566777993706637e-06,
-        "negative": 3.039895659640024e-07,
-        "neutral": 0.9999970197677612
-      },
-      {
-        "source": "news",
-        "id": "https://www.nextbigfuture.com/2026/01/tesla-and-xais-digital-agent-strategy.html",
-        "timestamp": "2026-01-21T21:14:45+00:00",
-        "text": "Tesla and XAI’s Digital Agent Strategy \nXAI’s Digital Agent Strategy – Target markets: $100B opportunities (Microsoft Office suite, operating systems) – Implementation phases: 1. Internal XAI automation first 2. Expand to other Musk companies (SpaceX, Tesla, Neuralink) 3. External customer rollout … \nXAIs Digital Agent Strategy\r\n– Target markets: $100B opportunities (Microsoft Office suite, operating systems)– Implementation phases:1. Internal XAI automation first2. Expand to other Musk companies… [+3432 chars]",
-        "positive": 0.027775438502430916,
-        "negative": 1.8826678569894284e-05,
-        "neutral": 0.9722058176994324
-      },
-      {
-        "source": "news",
-        "id": "https://www.huffpost.com/entry/ms-now-host-comes-right-out-and-says-it-maybe-were-the-bad-guys_n_6970f439e4b00309eaf36fe8",
-        "timestamp": "2026-01-21T21:14:31+00:00",
-        "text": "MS NOW Host Gets Blunt About How The World Sees The U.S.: ‘Maybe We’re The Bad Guys’ \nChris Hayes said that under President Donald Trump, America is acting a lot “like an Axis power.” \nChris Hayes decided to verbalize a fear that many Americans have likely been thinking.\r\nOn Tuesdays episode of All In, the MS NOW host got candid about how the rest of the world is probably viewing t… [+3143 chars]",
-        "positive": 0.00014878743968438357,
-        "negative": 0.04672302305698395,
-        "neutral": 0.9531282782554626
-      },
-      {
-        "source": "news",
-        "id": "https://www.bmwblog.com/2026/01/21/bmw-ix3-long-wheelbase-neue-klasse-china-900-km-range/",
-        "timestamp": "2026-01-21T21:14:20+00:00",
-        "text": "BMW iX3 Long Wheelbase: 900 km Range, 400 kW Charging, Beijing 2026 Debut \nBMW is preparing to unveil the iX3 Long Wheelbase (NA6 codename) at the Beijing Auto Show 2026, marking the first long-wheelbase electric SAV built on the Neue Klasse architecture. Developed specifically for the Chinese market,...\nFirst published by https://w… \nBMW is preparing to unveil the iX3 Long Wheelbase (NA6 codename) at the Beijing Auto Show 2026, marking the first long-wheelbase electric SAV built on the Neue Klasse architecture. Developed specific… [+2765 chars]",
-        "positive": 1.1492367775645107e-05,
-        "negative": 1.1010872185579501e-05,
-        "neutral": 0.9999775886535645
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/business/fm-investments-seeks-sec-approval-tokenize-treasury-bill-etf-shares-5874891",
-        "timestamp": "2026-01-21T21:14:19+00:00",
-        "text": "F/m Investments seeks SEC approval to tokenize Treasury bill ETF shares \nJan 21 : F/m Investments said on Wednesday that the asset manager has filed with a regulator for approval to record ownership of tokenized shares in its U.S. Treasury 3-month bill (TBIL) ETF on a permissioned blockchain.The filing with the U.S. Securities and… \nJan 21 : F/m Investments said on Wednesday that the asset manager has filed with a regulator for approval to record ownership of tokenized shares in its U.S. Treasury 3-month bill (TBIL) ETF on a per… [+1826 chars]",
-        "positive": 0.09458453953266144,
-        "negative": 0.00024815622600726783,
-        "neutral": 0.905167281627655
-      },
-      {
-        "source": "news",
         "id": "https://timesofindia.indiatimes.com/business/india-business/gold-trades-near-4-9k/oz-silver-at-95/oz/articleshow/127052773.cms",
         "timestamp": "2026-01-21T21:14:15+00:00",
         "text": "Gold trades near $4.9k/oz, silver at $95/oz \nGold and silver prices are surging to all-time highs, driven by geopolitical uncertainties, trade disruptions, and a global supply-demand imbalance for silver. The weakening rupee further fuels these gains in the domestic market, with gold exceeding Rs 1.5 la… \nEMI CalculatorDetermine the monthly installment amount for a loan",
@@ -941,30 +1337,12 @@
       },
       {
         "source": "news",
-        "id": "https://amti.csis.org/missiles-over-fleets-how-a2-ad-is-redefining-maritime-power-in-southeast-asia/",
-        "timestamp": "2026-01-21T21:14:11+00:00",
-        "text": "Missiles Over Fleets: How A2/AD is Redefining Maritime Power in Southeast Asia \nSoutheast Asia is quietly entering a new strategic era, one defined not by the size of a navy’s fleet, but by the range of its missiles. Across the region, an emerging pattern is becoming visible. Vietnam, the Philippines, and Indonesia are each moving rapidl… \nSoutheast Asia is quietly entering a new strategic era, one defined not by the size of a navys fleet, but by the range of its missiles. Across the region, an emerging pattern is becoming visible. Vie… [+6793 chars]",
-        "positive": 0.14599274098873138,
-        "negative": 0.00034616622724570334,
-        "neutral": 0.853661060333252
-      },
-      {
-        "source": "news",
         "id": "https://truthout.org/articles/in-gaza-were-struggling-to-reintroduce-foods-to-bodies-adjusted-to-starvation/",
         "timestamp": "2026-01-21T21:13:36+00:00",
         "text": "In Gaza, We’re Struggling to Reintroduce Foods to Bodies Adjusted to Starvation \nA sudden influx of nutrients after famine can cause spikes in blood glucose and fatal electrolyte imbalances. \nPart of the Series\r\nTruthout is an indispensable resource for activists, movement leaders and workers everywhere. Please make this work possible with a quick donation.\r\nDeath in Gaza isnt limited onl… [+12230 chars]",
         "positive": 0.0006715500494465232,
         "negative": 0.006360343191772699,
         "neutral": 0.9929681420326233
-      },
-      {
-        "source": "news",
-        "id": "https://www.rigzone.com/news/wire/crude_gains_as_iea_lifts_demand_outlook-21-jan-2026-182821-article/?rss=true",
-        "timestamp": "2026-01-21T21:13:31+00:00",
-        "text": "Crude Gains as IEA Lifts Demand Outlook \nRIGZONE News - leading source for the latest news and information for the oil and gas industry \nOil edged higher as traders assessed US President Donald Trump’s statement that the US had reached a \"framework\" for a deal on Greenland.\r\nWest Texas Intermediate rose less than 1% to settle below $6… [+2219 chars]",
-        "positive": 0.9999305009841919,
-        "negative": 6.478297564171953e-06,
-        "neutral": 6.308953743427992e-05
       },
       {
         "source": "news",
@@ -1010,402 +1388,6 @@
         "positive": 0.0022845244966447353,
         "negative": 0.24935351312160492,
         "neutral": 0.7483620047569275
-      },
-      {
-        "source": "news",
-        "id": "https://www.federalbaseball.com/mlb-news/88473/trio-of-former-washington-nationals-shut-out-in-hall-of-fame-voting",
-        "timestamp": "2026-01-21T21:10:00+00:00",
-        "text": "Trio of former Washington Nationals shut out in Hall of Fame voting \nFormer Nats Howie Kendrick, Gio Gonzalez and Daniel Murphy all got 0 Hall of Fame votes and are off the ballot \nLast night, two players were inducted into the Baseball Hall of Fame. Center Fielders Carlos Beltran and Andruw Jones got the call to Cooperstown. However, the night was not as successful for former … [+3418 chars]",
-        "positive": 9.850213245954365e-05,
-        "negative": 0.35877129435539246,
-        "neutral": 0.6411301493644714
-      },
-      {
-        "source": "news",
-        "id": "https://ahouseinthehills.com/spec-home-vs-custom-home/",
-        "timestamp": "2026-01-21T21:09:01+00:00",
-        "text": "Spec Home Vs Custom Home: Which Option Fits Your Budget \nChoosing between a spec home and a custom home can feel overwhelming, especially when budget is a major concern. Many people struggle to figure out which option gives them the best value for their money. Some want the move-in-ready convenience of a spec home,… \nChoosing between a spec home and a custom home can feel overwhelming, especially when budget is a major concern.\r\nMany people struggle to figure out which option gives them the best value for their m… [+7392 chars]",
-        "positive": 0.0006310602184385061,
-        "negative": 0.8729648590087891,
-        "neutral": 0.1264040768146515
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223235/0/en/Horizon-Bancorp-Inc-Reports-Positive-Fourth-Quarter-2025-Results-Entering-2026-with-Peer-Leading-Performance-Metrics.html",
-        "timestamp": "2026-01-21T21:05:00+00:00",
-        "text": "Horizon Bancorp, Inc. Reports Positive Fourth Quarter 2025 Results, Entering 2026 with Peer Leading Performance Metrics \nHorizon Bancorp, Inc. announced its unaudited financial results for the three months ended December 31, 2025.... \nMICHIGAN CITY, Ind., Jan. 21, 2026 (GLOBE NEWSWIRE) -- (NASDAQ GS: HBNC) Horizon Bancorp, Inc. (Horizon or the Company), the parent company of Horizon Bank (the Bank), announced its unaudited financi… [+98532 chars]",
-        "positive": 0.9999972581863403,
-        "negative": 4.1728895894266316e-08,
-        "neutral": 2.7912462883250555e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/21/3223237/0/en/Oportun-Announces-CEO-Succession-Plan.html",
-        "timestamp": "2026-01-21T21:05:00+00:00",
-        "text": "Oportun Announces CEO Succession Plan \nRaul Vazquez to step down as CEO and Board member no later than April 3, 2026Board initiates CEO searchProvides preliminary fourth quarter and full year 2025 financial and operating results \nRaul Vazquez to step down as CEO and Board member no later than April 3, 2026Board initiates CEO searchProvides preliminary fourth quarter and full year 2025 financial and operating results\r\nSAN CARL… [+21719 chars]",
-        "positive": 9.987365956476424e-06,
-        "negative": 2.2596464077651035e-06,
-        "neutral": 0.9999877214431763
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/jushi-holdings-inc-announces-grand-opening-of-second-beyond-hello-in-cincinnati-ohio-expanding-its-statewide-retail-footprint",
-        "timestamp": "2026-01-21T21:04:53+00:00",
-        "text": "Jushi Holdings Inc. Announces Grand Opening of Second Beyond Hello™ in Cincinnati, Ohio, Expanding its Statewide Retail Footprint \nSeventh Retail Location in Ohio and 43rd Nationwide New Dispensary Opened January 8, 2026, in Northern Cincinnati Grand Opening Celebration January 23, 2026, Featuring Exclusive Promotions A Media Snippet accompanying this announcement is available by clickin… \nAbout Jushi Holdings Inc.\r\nWe are a vertically integrated cannabis company led by an industry-leading management team. Jushi is focused on building a multi-state portfolio of branded cannabis assets … [+7360 chars]",
-        "positive": 0.1891958862543106,
-        "negative": 5.305982995196246e-06,
-        "neutral": 0.8107988238334656
-      },
-      {
-        "source": "news",
-        "id": "https://www.silverscreenandroll.com/lakers-injury-report/105856/lakers-injury-report-jj-redick-left-calf-strain-status-update-return-austin-reaves",
-        "timestamp": "2026-01-21T21:04:46+00:00",
-        "text": "JJ Redick says Austin Reaves is ‘progressing well’ will return during road trip \nIt won’t be long until Austin Reaves is back playing for the Lakers. \nAustin Reaves hasnt played in 2026 due to this Grade 2 calf strain, but that will soon change.\r\nReaves four-week absence due to this injury will be up soon, and Lakers head coach JJ Redick gave a pos… [+1861 chars]",
-        "positive": 0.0002993181988131255,
-        "negative": 0.0006208053091540933,
-        "neutral": 0.9990799427032471
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/articles/ex-alabama-player-charles-bediako-210356637.html",
-        "timestamp": "2026-01-21T21:03:56+00:00",
-        "text": "Ex-Alabama player Charles Bediako, who played in NBA G League, gets temporary college eligibility \nEx-Alabama player Charles Bediako, who has spent the past 2 1/2 years competing in the NBA Summer League and G League, had his college eligibility temporarily reinstated Wednesday by a judge who blocked the NCAA from retaliating for his return to the 17th-ran… \nTUSCALOOSA, Ala. (AP) Ex-Alabama player Charles Bediako, who has spent the past 2 1/2 years competing in the NBA Summer League and G League, had his college eligibility temporarily reinstated Wednesd… [+2877 chars]",
-        "positive": 6.319072417682037e-05,
-        "negative": 0.0006924828630872071,
-        "neutral": 0.9992444515228271
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/politics/trump-unloads-biden-policies-from-davos-warns-europe-drop-old-playbook",
-        "timestamp": "2026-01-21T21:00:28+00:00",
-        "text": "Trump unloads on Biden policies from Davos, warns Europe to drop the old playbook \nPresident Donald Trump warns European leaders to abandon old political playbooks during World Economic Forum speech in Davos, saying he no longer recognizes Europe in negative way. \nPresident Donald Trump blasted his predecessor's policies from the dais in Davos, Switzerland, at the World Economic Forum in a warning to foreign leaders to buck old political playbooks and rally ar… [+3915 chars]",
-        "positive": 0.0015234717866405845,
-        "negative": 0.9138251543045044,
-        "neutral": 0.08465131372213364
-      },
-      {
-        "source": "news",
-        "id": "https://www.newyorker.com/books/book-currents/reading-for-the-new-year-part-four",
-        "timestamp": "2026-01-21T21:00:00+00:00",
-        "text": "Reading for the New Year: Part Four \nRecommendations from New Yorker writers. \nThis is Obomsawins take on Kaspar Hauser, a nineteenth-century German man who claimed to have grown up in a dark cellar, without any human contact. We meet him as a Gumby-like figure, asleep on a dir… [+5962 chars]",
-        "positive": 3.4475811844458804e-05,
-        "negative": 7.351382373599336e-05,
-        "neutral": 0.999891996383667
-      },
-      {
-        "source": "news",
-        "id": "https://oilprice.com/Energy/Energy-General/Why-Utility-Stocks-Are-No-Longer-the-Easy-AI-Trade.html",
-        "timestamp": "2026-01-21T21:00:00+00:00",
-        "text": "Why Utility Stocks Are No Longer the Easy AI Trade \nElectric utility stocks seem to have tapered off, after all the hoopla about how demand from AI would transform the business turned into concern that demand from AI would raise prices to consumers and rile the politicians who set the rates. Maybe it is time t… \nOil markets are trapped in…\r\nEnergy underperformed the broader market…\r\nAs electricity becomes scarce, AI…\r\nSet us as your preferred Google source\r\nBy Leonard Hyman &amp; William Tilles - Jan 21, 202… [+6259 chars]",
-        "positive": 2.208937621617224e-05,
-        "negative": 0.9998935461044312,
-        "neutral": 8.429468289250508e-05
-      },
-      {
-        "source": "news",
-        "id": "https://slate.com/news-and-politics/2026/01/trump-davos-speech-canada-new-world-order.html",
-        "timestamp": "2026-01-21T20:58:11+00:00",
-        "text": "At Davos, Trump’s Speech Stood Out—but Another One Mattered Much More \nThe Canadian prime minister started to outline what comes next. \nSign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nOn Tuesday, Canadian Prime Minister Mark Carney gave a speech on the need… [+7036 chars]",
-        "positive": 1.7283091438002884e-05,
-        "negative": 1.4847722923150286e-05,
-        "neutral": 0.9999678134918213
-      },
-      {
-        "source": "news",
-        "id": "https://www.theatlantic.com/ideas/2026/01/america-trump-authoritarianism-kleptocracy/685697/",
-        "timestamp": "2026-01-21T20:56:00+00:00",
-        "text": "How to Tell If Your President Is a Dictator \nA year into Donald Trump’s second term, labeling his governing style remains an elusive goal. \nPresident Trump prosecutes his political opponents; deports immigrants, including some here legally, to foreign prisons without due process; solicits tribute payments from corporations and foreign go… [+11323 chars]",
-        "positive": 1.859582516772207e-05,
-        "negative": 0.0003733977791853249,
-        "neutral": 0.9996079802513123
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/trump-affordability-davos-claims-vs-reality-housing-prices-gas-healthcare-2026-1",
-        "timestamp": "2026-01-21T20:55:21+00:00",
-        "text": "Trump's Davos speech put affordability front and center. Here's what the data says. \nFrom gasoline and housing, to healthcare and credit cards, Trump touted his affordability agenda at Davos. The numbers are a mixed bag. \nAmerica's economy has never been stronger.\r\nAt least that's what President Donald Trump told the Davos audience on Wednesday. From gasoline and housing, to healthcare and credit cards, Trump framed h… [+3853 chars]",
-        "positive": 0.00023006573610473424,
-        "negative": 0.03629997372627258,
-        "neutral": 0.963469922542572
-      },
-      {
-        "source": "news",
-        "id": "https://www.mediaite.com/media/podcasts/andrew-tate-tells-pbd-podcast-how-to-make-far-right-antisemitism-disappear-israel-doesnt-matter/",
-        "timestamp": "2026-01-21T20:55:08+00:00",
-        "text": "Andrew Tate Tells PBD Podcast How to Make Far-Right Antisemitism ‘Disappear’: Israel Doesn’t ‘Matter’ \nTate argued, \"If young men could get a girlfriend, and buy a house, antisemitism would disappear… it’s that simple.”\nThe post Andrew Tate Tells PBD Podcast How to Make Far-Right Antisemitism ‘Disappear’: Israel Doesn’t ‘Matter’ first appeared on Mediaite. \nAndrew Tate, the highly controversial MAGA influencer who has been investigated in three countries on allegations related to human trafficking, joined the popular The PBD Podcast, hosted by Patrick B… [+5110 chars]",
-        "positive": 6.66605546939536e-06,
-        "negative": 0.0005600497825071216,
-        "neutral": 0.9994332194328308
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/01/21/real-estate/many-americans-aimed-to-buy-a-home-in-2025-but-few-actually-did/",
-        "timestamp": "2026-01-21T20:45:47+00:00",
-        "text": "A number of Americans aimed to buy a home in 2025 — but few actually did for 1 reason \nA majority of would-be homebuyers remained on the white picket fence in 2025. Less than 30% of Americans who planned to purchase a home last year actually went through with it, according to NerdWallet’s annual home buying survey. The data, collected online by… \nA majority of would-be homebuyers remained on the white picket fence in 2025.\r\nLess than 30% of Americans who planned to purchase a home last year actually went through with it, according to NerdWall… [+2792 chars]",
-        "positive": 2.208692421845626e-06,
-        "negative": 1.1558403457456734e-05,
-        "neutral": 0.9999861717224121
-      },
-      {
-        "source": "news",
-        "id": "https://variety.com/2026/film/news/sydney-sweeney-custom-of-the-country-film-1236637089/",
-        "timestamp": "2026-01-21T20:45:00+00:00",
-        "text": "Sydney Sweeney to Star in Edith Wharton Adaptation ‘Custom of the Country’ as ‘Original Dangerous Woman’ \nSydney Sweeney will star in and produce a film adaptation of “Custom of the Country.” Josie Rourke (“Mary Queen of Scots”) is directing and writing the adaptation of the classic Edith Wharton novel. Sweeney plays Undine Spragg, an ambitious Midwest woman who … \nSydney Sweeney will star in and produce a film adaptation of “Custom of the Country.”\r\nJosie Rourke (“Mary Queen of Scots”) is directing and writing the adaptation of the classic Edith Wharton novel.… [+2562 chars]",
-        "positive": 2.111501316903741e-06,
-        "negative": 1.6989930600175285e-06,
-        "neutral": 0.9999961853027344
-      },
-      {
-        "source": "news",
-        "id": "http://deadline.com/2026/01/sydney-sweeney-custom-of-the-country-edith-wharton-1236691959/",
-        "timestamp": "2026-01-21T20:45:00+00:00",
-        "text": "Sydney Sweeney To Star And Produce ‘Custom Of The Country’ From Studiocanal And Rabbit’s Foot Films; Josie Rourke Directing \nSydney Sweeney is attached to star in an adaptation of Edith Wharton’s classic Custom of the Country for Studiocanal and Charles Finch’s Rabbit’s Foot Films. Principal photography begins imminently. Josie Rourke will direct and adapted the script from Wharton… \nSydney Sweeney is attached to star in an adaptation of Edith Wharton’s classic Custom of the Country for Studiocanal and Charles Finch’s Rabbit’s Foot Films. Principal photography begins imminently. … [+2278 chars]",
-        "positive": 9.87482664527306e-08,
-        "negative": 3.260653045344952e-07,
-        "neutral": 0.9999995231628418
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/economy/2026/01/21/atlanta-fed-biz-inflation-expectations/",
-        "timestamp": "2026-01-21T20:42:32+00:00",
-        "text": "Business Inflation Expectations Fall Again, Bolstering Trump's Case for Rate Cuts \nBusiness expectations have fallen all the way down to the Fed's two percent target.\nThe post Business Inflation Expectations Fall Again, Bolstering Trump’s Case for Rate Cuts appeared first on Breitbart. \nFederal Reserve officials face mounting pressure to reconsider their stance on interest rates after a closely watched survey showed businesses expecting the slowest pace of cost increases since the p… [+6838 chars]",
-        "positive": 0.00023714310373179615,
-        "negative": 0.9971923232078552,
-        "neutral": 0.002570578595623374
-      },
-      {
-        "source": "news",
-        "id": "https://www.zdnet.com/article/how-to-use-chatgpt-plus-codex-to-debug-code/",
-        "timestamp": "2026-01-21T20:40:00+00:00",
-        "text": "I used GPT-5.2-Codex to find a mystery bug and hosting nightmare - it was beyond fast \nThe $20-per-month ChatGPT plan is more than enough for occasional bug fixes and feature addition runs. Here's a prime example by yours truly. \ninkret/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A $20 ChatGPT Plus plan can handle real-world bug fixes.</li><li>Codex helped id… [+11365 chars]",
-        "positive": 0.0010567879071459174,
-        "negative": 4.059423736180179e-05,
-        "neutral": 0.9989025592803955
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/?p=2042334",
-        "timestamp": "2026-01-21T20:37:53+00:00",
-        "text": "Nigeria’s stabilisation efforts paying off, says IMF \nThe IMF reports that Nigeria’s macroeconomic stabilisation efforts are yielding results, improving the economic growth outlook for Sub-Saharan Africa.\n\nRead More: https://punchng.com/nigerias-stabilisation-efforts-paying-off-says-imf/ \nThe International Monetary Fund has said that Nigerias macroeconomic stabilisation efforts are beginning to yield results, contributing to an improved growth outlook for Sub-Saharan Africa.\r\nThe Fund… [+3686 chars]",
-        "positive": 0.9999977350234985,
-        "negative": 2.0189787619528943e-07,
-        "neutral": 2.0703837435576133e-06
-      },
-      {
-        "source": "news",
-        "id": "https://worldsoccertalk.com/news/another-kylian-mbappe-like-saga-brewing-psg-owner-nasser-al-khelaifi-sends-eight-word-warning-to-ousmane-dembele-regarding-contract-renewal/",
-        "timestamp": "2026-01-21T20:36:56+00:00",
-        "text": "Another Kylian Mbappe-like saga brewing? PSG owner Nasser Al-Khelaifi sends eight-word warning to Ousmane Dembele regarding contract renewal \nThe echoes of the Kylian Mbappe era still linger in Paris, and any major contract discussion at Paris Saint-Germain is inevitably framed by what came before.\n The echoes of the Kylian Mbappe era still linger in Paris, and any major contract discussion at Pari… \nThe echoes of the Kylian Mbappe era still linger in Paris, and any major contract discussion at Paris Saint-Germain is inevitably framed by what came before. Now, with Ousmane Dembele at the heart of… [+3448 chars]",
-        "positive": 2.4657949779793853e-06,
-        "negative": 8.523039286956191e-05,
-        "neutral": 0.9999122619628906
-      },
-      {
-        "source": "news",
-        "id": "http://foreignpolicy.com/2026/01/21/united-states-supreme-court-case-trump-lisa-cook-fed/",
-        "timestamp": "2026-01-21T20:35:05+00:00",
-        "text": "U.S. Supreme Court Hears Oral Arguments in Trump-Lisa Cook Case \nFiring central bank governors may prove to be a red line. \nWhile U.S. President Donald Trump was in Davos, Switzerland, making his casefor why Europe should give him control of Greenland, the U.S. Supreme Court heard another case that has a lot of importance… [+3097 chars]",
-        "positive": 0.0003485666529741138,
-        "negative": 0.004985013045370579,
-        "neutral": 0.994666337966919
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2026/01/21/trump-signals-he-has-a-favorite-for-fed-chair-down-to-maybe-one-in-my-mind.html",
-        "timestamp": "2026-01-21T20:32:44+00:00",
-        "text": "Trump signals he has a favorite for Fed chair: 'Down to maybe one, in my mind' \nThe president said a search that began in September and once included as many as 11 candidates is nearly over. \nPresident Donald Trump said Wednesday he is nearing the end of a search to replace Federal Reserve Chair Jerome Powell and hinted he has his candidate in mind.\r\nIn a CNBC interview at the World Econo… [+2517 chars]",
-        "positive": 1.4404705325432587e-05,
-        "negative": 3.5866287362296134e-05,
-        "neutral": 0.9999496936798096
-      },
-      {
-        "source": "news",
-        "id": "https://variety.com/2026/digital/news/adobe-film-tv-fund-2026-amelia-dimoldenberg-rideback-rise-1236637098/",
-        "timestamp": "2026-01-21T20:31:05+00:00",
-        "text": "Adobe Announces $10 Million Film & TV Fund This Year for Underrepresented Creators, Teams With Amelia Dimoldenberg and Rideback RISE \nAt this year’s Sundance Film Festival, Adobe’s Film & TV Fund announced that it is committing $10 million in grants and donated products in 2026 to help “unlock creative opportunities and career advancement for creators.” The software giant also announced new… \nAt this year’s Sundance Film Festival, Adobe’s Film &amp; TV Fund announced that it is committing $10 million in grants and donated products in 2026 to help “unlock creative opportunities and career … [+3190 chars]",
-        "positive": 0.01789116859436035,
-        "negative": 0.00014501565601676702,
-        "neutral": 0.9819637537002563
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/mlb/article/cardinals-bring-back-legendary-catcher-yadier-molina-as-a-member-of-the-front-office-202824081.html",
-        "timestamp": "2026-01-21T20:28:24+00:00",
-        "text": "Cardinals bring back legendary catcher Yadier Molina as a member of the front office \nYadier Molina owns a number of records with the Cardinals. \nLegendary St. Louis Cardinals catcher Yadier Molina is returning to the franchise ... as a member of the front office. Molina was announced as the team's special assistant to the president of basebal… [+1742 chars]",
-        "positive": 2.058713107544463e-05,
-        "negative": 2.6862858248932753e-06,
-        "neutral": 0.999976634979248
-      },
-      {
-        "source": "news",
-        "id": "https://www.mediaite.com/media/tv/joe-scarborough-drops-scathing-fact-check-on-trump-after-davos-speech-no-connection-to-reality/",
-        "timestamp": "2026-01-21T20:28:05+00:00",
-        "text": "Joe Scarborough Drops Scathing Fact Check On Trump After Davos Speech: ‘No Connection to Reality’ \nJoe Scarborough dropped multiple fact checks on President Donald Trump on Wednesday as the president gave his speech at the World Economic Forum in Davos.\nThe post Joe Scarborough Drops Scathing Fact Check On Trump After Davos Speech: ‘No Connection to Realit… \nMS NOW’s Joe Scarborough dropped multiple fact checks on President Donald Trump on Wednesday as the president gave his speech at the World Economic Forum in Davos, Switzerland.\r\nOn Morning Joe, Scarb… [+3597 chars]",
-        "positive": 0.00021552343969233334,
-        "negative": 0.00018673142767511308,
-        "neutral": 0.9995977282524109
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/tech/2026/01/21/palantir-ceo-ai-technology-reduces-the-need-for-skilled-migration/",
-        "timestamp": "2026-01-21T20:26:34+00:00",
-        "text": "Palantir CEO: AI Technology Reduces the Need for Skilled Migration \nThere is little need for large-scale migration into the U.S. economy while productivity is being turbocharged by artificial intelligence, according to Larry Karp, CEO of the fast-growing Palantir Technologies.\nThe post Palantir CEO: AI Technology Reduces the … \nThere is little need for large-scale migration into U.S. jobs while Americans’ productivity is being turbocharged by artificial intelligence, according to Alex Karp, CEO of the fast-growing Palantir … [+5410 chars]",
-        "positive": 0.8278055191040039,
-        "negative": 0.0005896145012229681,
-        "neutral": 0.17160488665103912
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/clips/2026/01/21/list-these-are-trumps-top-accomplishments-from-year-one-of-his-second-administration/",
-        "timestamp": "2026-01-21T20:23:50+00:00",
-        "text": "List: These Are Trump‘s Top Accomplishments from Year One of his Second Administration \nOn Tuesday’s “Alex Marlow Show,” host and Breitbart Editor-in-Chief Alex Marlow talked about Trump’s first term. Marlow said, I’ll start with tariffs with the liberation day tariffs. … Next up, most favored nation deals on drug prices.” He also mentioned inve… \nOn Tuesday’s “Alex Marlow Show,” host and Breitbart Editor-in-Chief Alex Marlow talked about Trump’s first term.\r\nMarlow said, I’ll start with tariffs with the liberation day tariffs. … Next up, most… [+769 chars]",
-        "positive": 0.005351518280804157,
-        "negative": 1.6676789527991787e-05,
-        "neutral": 0.9946317672729492
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com/manufactured-housing-solving-problem-california-cant-build-its-way-out-3795968",
-        "timestamp": "2026-01-21T20:23:16+00:00",
-        "text": "Manufactured Housing Is Solving a Problem California Can't Build Its Way Out Of \nBased in Southern California, MHI works with homeowners, developers, and municipalities to deploy manufactured housing across single-family lots, backyard ADUs, and small-scale multifamily communities. \nCalifornia is facing one of the most severe housing affordability crises in the country. Housing costs have risen far faster than incomes, pushing homeownership and stable rental housing out of reach… [+8147 chars]",
-        "positive": 0.03651007264852524,
-        "negative": 0.9461662769317627,
-        "neutral": 0.01732366532087326
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/davos-2026-trump-touts-policies-and-renews-greenland-ambitions-in-speech-at-wef/a-75598520",
-        "timestamp": "2026-01-21T20:23:00+00:00",
-        "text": "Davos 2026: Trump touts policies and renews Greenland ambitions in speech at WEF \nDonald Trump's appearance at the World Economic Forum has further alienated European allies. Business and political leaders were expecting the worst, but much of the Davos talk was for a domestic audience. \nAs US President Donald Trump took the stage on Wednesday at the World Economic Forum (WEF) in the Swiss Alpine resort of Davos he had the world's attention for well over an hour. \r\nHis address almost… [+4630 chars]",
-        "positive": 0.00023711683752480894,
-        "negative": 0.02557022124528885,
-        "neutral": 0.9741926193237305
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/davos-wef-trump-greenland-us-economy-nato-europe/a-75598520",
-        "timestamp": "2026-01-21T20:23:00+00:00",
-        "text": "Davos WEF: Trump touts policies, renews Greenland ambitions \nDonald Trump used his WEF speech to praise himself and lash out at Europe while offering little on the economy. Business and political leaders were expecting the worst, but much of it was for a domestic audience. \nAs US President Donald Trump took the stage on Wednesday at the World Economic Forum (WEF) in the Swiss Alpine resort of Davos he had the world's attention for well over an hour. \r\nHis address almost… [+4192 chars]",
-        "positive": 0.00011036864452762529,
-        "negative": 0.009503504261374474,
-        "neutral": 0.9903861284255981
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/articles/algerias-zidane-belghali-banned-over-202011960.html",
-        "timestamp": "2026-01-21T20:20:11+00:00",
-        "text": "Algeria's Zidane and Belghali banned over Nigeria AFCON scuffle \nAlgerian players Luca Zidane and Rafik Belghali have been banned for two and four matches respectively for their part in ugly scenes following a quarter-final defeat to Nigeria at the African Cup of Nations.Goalkeeper Zidane and defender Belghali will serve t… \nAlgerian players Luca Zidane and Rafik Belghali have been banned for two and four matches respectively for their part in ugly scenes following a quarter-final defeat to Nigeria at the African Cup of … [+770 chars]",
-        "positive": 9.43206214287784e-06,
-        "negative": 0.0012505194172263145,
-        "neutral": 0.9987401366233826
-      },
-      {
-        "source": "news",
-        "id": "https://cointelegraph.com/news/iran-central-bank-usdt-elliptic-rial",
-        "timestamp": "2026-01-21T20:19:22+00:00",
-        "text": "Iran‘s central bank acquired $507M in USDt to prop up rial: Elliptic \nElliptic said Iran’s central bank began acquiring USDt during “extreme economic volatility,“ when the country's rial was at a record low against the US dollar. \nBlockchain analytics platform Elliptic reported that the Central Bank of Iran (CBI) acquired more than half a billion dollars worth of Tethers USDt, with indications that the stablecoins were used to… [+1762 chars]",
-        "positive": 8.503168646711856e-05,
-        "negative": 0.00020904022676404566,
-        "neutral": 0.9997058510780334
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/politics/supreme-court-appears-ready-keep-lisa-cook-federal-reserve-board-despite-trump-efforts-fire-her",
-        "timestamp": "2026-01-21T20:15:46+00:00",
-        "text": "Supreme Court appears ready to keep Lisa Cook on Federal Reserve board despite Trump efforts to fire her \nSupreme Court appeared ready to deal Trump a major setback as justices showed strong support for keeping Federal Reserve Governor Lisa Cook in her position. \nThe Supreme Court appeared poised to give President Donald Trump one of his biggest legal setbacks in office, offering strong support Wednesday for Federal Reserve Governor Lisa Cook remaining in her… [+9207 chars]",
-        "positive": 0.9999995231628418,
-        "negative": 4.438251011151806e-08,
-        "neutral": 4.739487167171319e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.rt.com/news/631284-sheep-that-bites-finland-russia/",
-        "timestamp": "2026-01-21T20:13:58+00:00",
-        "text": "The sheep that bites: How Finland hides aggression behind victimhood \nFrom Eastern Karelia to NATO, Helsinki frames aggressive initiatives as defensive, repeating a pattern of blaming Russia for its own actions Read Full Article at RT.com \nFinland’s political leadership insists that its hardline stance toward Russia is forced upon it by history – a century of conflict, trauma, and unresolved grievances.\r\nBut history tells a more uncomf… [+12091 chars]",
-        "positive": 0.0004004188522230834,
-        "negative": 0.1879238784313202,
-        "neutral": 0.8116757273674011
-      },
-      {
-        "source": "news",
-        "id": "https://ftw.usatoday.com/story/sports/nba/2026/01/21/lebron-james-trade-rumors-jeanie-buss-los-angeles-lakers-klutch-rich-paul/88286957007/",
-        "timestamp": "2026-01-21T20:12:57+00:00",
-        "text": "Why Jeanie Buss reportedly floated a LeBron James trade in 2022 \nEven though they won a championship together in 2020, the Los Angeles Lakers have had an admittedly tumultuous time during the LeBron James era. \nEven though they won a championship together in 2020, the Los Angeles Lakers have had an admittedly tumultuous time during the LeBron James era.\r\nESPN's Baxter Holmes published a feature on Wednesday… [+2712 chars]",
-        "positive": 1.9365221305633895e-05,
-        "negative": 4.756687121698633e-05,
-        "neutral": 0.999933123588562
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbsnews.com/news/trump-davos-2026-world-economic-forum-housing-affordability/",
-        "timestamp": "2026-01-21T20:12:08+00:00",
-        "text": "Trump touts policies aimed at promoting homeownership in Davos speech \nPresident Trump said his plans for boosting home affordability are already helping, but stopped short of providing details. \nPresident Trump said in a speech in Davos, Switzerland, that he will promote homeownership in the U.S. by pushing for lower mortgage rates, restricting institutional investors from hoarding residenti… [+4682 chars]",
-        "positive": 0.001867795130237937,
-        "negative": 0.002526598982512951,
-        "neutral": 0.9956056475639343
-      },
-      {
-        "source": "news",
-        "id": "https://www.marca.com/en/golf/liv-golf/2026/01/21/69713302ca4741a10b8b4604.html",
-        "timestamp": "2026-01-21T20:12:07+00:00",
-        "text": "Rory McIlroy opens up on Jon Rahm's potential golf future amid LIV Golf drama \nRory McIlroy has spoken candidly about Jon Rahm&apos;s uncertain golf future, addressing how disciplinary fines and loyalty questions could shape eligibility for future Ryder Cups \nRory McIlroy has spoken candidly about Jon Rahm's uncertain golf future, addressing how disciplinary fines and loyalty questions could shape eligibility for future Ryder Cups and broader alignment wi… [+3372 chars]",
-        "positive": 4.654037911677733e-05,
-        "negative": 0.0003015530528500676,
-        "neutral": 0.9996519088745117
-      },
-      {
-        "source": "news",
-        "id": "https://www.laineygossip.com/ashton-kutcher-is-getting-eaten-up-for-reheating-demi-the-substance-nachos/",
-        "timestamp": "2026-01-21T20:07:19+00:00",
-        "text": "Celebrity Social Media, January 21, 2026 \nAshton Kutcher is getting eaten up for reheating Demi’s The Substance nachos but it’s also important to remember he can’t act for sh-t.\n\n\n\nView this post on Instagram\n\nA post shared by FX's The Beauty (@thebeautyfx)\n\n\n\n\nI mentioned Jessica Simpson promoting l… \nAshton Kutcher is getting eaten up for reheating Demis The Substance nachos but its also important to remember he cant act for sh-t.\r\nI mentioned Jessica Simpson promoting like its 2006 (for Chicken … [+2072 chars]",
-        "positive": 9.111075769396848e-07,
-        "negative": 7.901332537585404e-06,
-        "neutral": 0.9999911785125732
-      },
-      {
-        "source": "news",
-        "id": "https://www.aljazeera.com/economy/2026/1/21/us-supreme-court-appears-reluctant-to-let-trump-fire-feds-lisa-cook",
-        "timestamp": "2026-01-21T20:06:41+00:00",
-        "text": "US Supreme Court appears reluctant to let Trump fire Fed’s Lisa Cook \nDuring two hours of arguments, some justices pressed US lawyer on why Cook was not given a chance to formally respond. \nConservative and liberal United States Supreme Court justices have signalled scepticism towards US President Donald Trumps bid to fire US Federal Reserve Governor Lisa Cook in a case with the central… [+9296 chars]",
-        "positive": 0.00474242540076375,
-        "negative": 0.9717462062835693,
-        "neutral": 0.02351129613816738
-      },
-      {
-        "source": "news",
-        "id": "https://www.niemanlab.org/2026/01/does-this-channel-have-more-juice-in-it-youtuber-j-j-mccullough-on-a-sustainable-life-as-a-news-creator/",
-        "timestamp": "2026-01-21T20:06:19+00:00",
-        "text": "“Does this channel have more juice in it?” YouTuber J.J. McCullough on a “sustainable” life as a news creator \nWhen J.J. McCullough first started making YouTube videos in 2015, he was 31, and worried he was too old to break through on an already saturated platform. McCullough had lost his job as a political commentator on the conservative Canadian TV channel Sun News … \nThe data is in: News creators and influencers are a major source of news for Americans, especially people under 30. This is the first in an occasional series of interviews with popular creators about… [+21796 chars]",
-        "positive": 3.0146326025715098e-05,
-        "negative": 0.03294031322002411,
-        "neutral": 0.9670295119285583
-      },
-      {
-        "source": "news",
-        "id": "https://nationalenquirer.com/wwes-izzi-dame-flaunts-championship-gold-and-curve-hugging-heat-in-bold-locker-room-pics/",
-        "timestamp": "2026-01-21T20:04:43+00:00",
-        "text": "WWE’s Izzi Dame Flaunts Championship Gold and Curve-Hugging Heat in Bold Locker Room Pics \nIzzi Dame brought championship energy straight to Instagram on Tuesday, January 20, giving fans a behind-the-scenes look that blended confidence, fashion, and pure main-event attitude. The WWE star and rising women’s wrestling standout, 26, posted a series of… \nIzzi Dame brought championship energy straight to Instagram on Tuesday, January 20, giving fans a behind-the-scenes look that blended confidence, fashion, and pure main-event attitude.\r\nThe WWE star … [+1513 chars]",
-        "positive": 0.004749337211251259,
-        "negative": 7.243203435791656e-05,
-        "neutral": 0.99517822265625
-      },
-      {
-        "source": "news",
-        "id": "https://twit.tv/shows/windows-weekly/episodes/967",
-        "timestamp": "2026-01-21T20:03:22+00:00",
-        "text": "WW 967: 2nd-Generation Bonobos - Windows 11 Gets Emergency OOB Update! \nThis week, the hosts go deep on out-of-band updates, unwanted \"innovations,\" and the uneasy cost of tech's latest gold rush. Plus, securing a Microsoft account is not as hard as some think, and neither are passkeys once you get past the jargon. And for develo… \nThis week, the hosts go deep on out-of-band updates, unwanted innovations, and the uneasy cost of techs latest gold rush. Plus, securing a Microsoft account is not as hard as some think, and neither … [+2484 chars]",
-        "positive": 0.0023005770053714514,
-        "negative": 0.0001097886633942835,
-        "neutral": 0.9975897073745728
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/articles/ex-catcher-yadier-molina-returns-200107426.html",
-        "timestamp": "2026-01-21T20:01:07+00:00",
-        "text": "Ex-catcher Yadier Molina returns to the Cardinals as a special assistant to the front office \nYadier Molina is rejoining the St. Louis Cardinals as a special assistant to the front office, where the longtime catcher will provide his thoughts on the club's catching program, game strategy and day-to-day operations. The Cardinals announced Molina's role … \nST. LOUIS (AP) Yadier Molina is rejoining the St. Louis Cardinals as a special assistant to the front office, where the longtime catcher will provide his thoughts on the club's catching program, game… [+1274 chars]",
-        "positive": 5.630576561088674e-05,
-        "negative": 3.6636640743381577e-06,
-        "neutral": 0.999940037727356
       },
       {
         "source": "news",
@@ -26662,9 +26644,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": 0.05197484162855636,
-    "nw_norm": 52.598742081427815
+    "nw": 0.11656001211475708,
+    "nw_norm": 55.82800060573785
   },
-  "gsi": 52.598742081427815,
-  "classification": "Neutral"
+  "gsi": 55.82800060573785,
+  "classification": "Bullish"
 }
