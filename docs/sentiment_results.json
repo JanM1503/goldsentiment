@@ -1,8 +1,539 @@
 {
-  "timestamp": "2026-01-23T08:27:30.226241+00:00",
+  "timestamp": "2026-01-23T09:07:55.723070+00:00",
   "news": {
     "count": 2977,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.theregister.com/2026/01/22/ai-vibe-coding-intruder/",
+        "timestamp": "2026-01-22T09:00:15+00:00",
+        "text": "AI vibe coding: when automation convenience becomes security debt \nIntruder's AI-coded honeypot revealed the hidden risks of letting machines write production code\nPartner Content As AI-assisted coding tools creep into every corner of software development, teams are starting to discover a less comfortable side effect of all … \nPartner Content As AI-assisted coding tools creep into every corner of software development, teams are starting to discover a less comfortable side effect of all that efficiency: security flaws gener… [+4191 chars]",
+        "positive": 0.16573907434940338,
+        "negative": 0.05128788203001022,
+        "neutral": 0.7829731106758118
+      },
+      {
+        "source": "news",
+        "id": "https://www.rand.org/pubs/research_reports/RRA4316-1.html",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "How Artificial Intelligence Could Reshape Four Essential Competitions in Future Warfare \nAI could affect four essential competitions in military affairs: quantity versus quality, hiding versus finding, centralized versus decentralized command and control, and cyber offense versus defense. To exploit AI's potential, the U.S. military might need to… \nThis research was independently initiated and conducted by the Center for the Geopolitics of Artificial General Intelligence with RAND Global and Emerging Risks using income from operations and gifts… [+1071 chars]",
+        "positive": 4.8420156417705584e-06,
+        "negative": 0.0003528794914018363,
+        "neutral": 0.9996422529220581
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/world/iran-protests-dead-blackout-9.7055024",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "As protests in Iran are silenced, rights groups work to count the dead amid internet blackout \nThe Iranian regime says just over 3,000 people were killed in recent protests over the country's failed economy, while human rights groups put the number of protesters confirmed dead at more than 4,000 and rising. \nThere is a slow, steady death count going on outside of Iran and the veil its internet blackout has drawn over the extent of the regime's violent crackdown on anti-government protesters earlier this … [+7654 chars]",
+        "positive": 0.008075641468167305,
+        "negative": 0.9883483052253723,
+        "neutral": 0.0035760884638875723
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/politics/carney-cabinet-retreat-9.7055258",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Carney meets with cabinet fresh after forceful speech aimed at Trump administration \nPrime Minister Mark Carney is huddling with his cabinet in Quebec City to chart out the government's plan for the new year after using a closely watched moment on the world stage earlier this week to condemn the U.S. administration and signal a pivot for Cana… \nPrime Minister Mark Carney is huddling with his cabinet in Quebec City to chart out the government's plan for the new year after using a closely watched moment on the world stage earlier this week to… [+5935 chars]",
+        "positive": 4.170290776528418e-05,
+        "negative": 6.6230400079803076e-06,
+        "neutral": 0.9999516010284424
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/canada/windsor/brampton-windsor-stellantis-workers-uprooted-9.7053353",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Family of 18 uproots from Brampton to Windsor to keep Stellantis auto jobs in Ontario \nA family of 18, including eight autoworkers, have picked up their lives in Brampton and moved 350 kilometres southwest to Windsor, Ont. \nJoseph Jacildo helped assemble vehicles inside a Brampton, Ont., plant for 28 years. \r\nWorking on that assembly line became a family business, with his wife, three daughters and each of their partner… [+3674 chars]",
+        "positive": 3.4237907584611094e-06,
+        "negative": 6.678576937702019e-06,
+        "neutral": 0.9999898672103882
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/world/mexico-reaction-carney-davos-speech-9.7055585",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Carney's Davos speech strikes a chord in Mexico \nPrime Minister Mark Carney’s speech Tuesday at the World Economic Forum in Davos, Switzerland, resonated in Mexico, a country which, much like Canada, has also been forced to grapple with the mercurial temperament of its much larger and powerful U.S. neighbour \nPrime Minister Mark Carneys speech at the World Economic Forum in Davos, Switzerland, resonated in Mexico, a country which, much like Canada, has also been forced to grapple with the mercurial temper… [+5532 chars]",
+        "positive": 0.03765568882226944,
+        "negative": 0.0016566732665523887,
+        "neutral": 0.9606876373291016
+      },
+      {
+        "source": "news",
+        "id": "https://www.thelineofbestfit.com/features/articles/independent-venue-week-humble-stages-forging-sonic-future-wales",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Humble stages are forging the sonic future of Wales \nAhead of Independent Venue Week (IVW), Jen Long heads to Wales to meet some of the people cultivating spaces that nurture the nation's tapestry of diverse and tight-knit scenes, including musician and IVW Ambassador Eve Goodman. \nTravel anywhere around Wales and youll find music at the heart of the community, and its independent venues that keep those communities thriving. As tour routes rarely venture past Cardiff, its up to… [+10310 chars]",
+        "positive": 0.8781590461730957,
+        "negative": 0.0001547321444377303,
+        "neutral": 0.12168627232313156
+      },
+      {
+        "source": "news",
+        "id": "https://www.adweek.com/creativity/taco-bell-turns-the-drive-thru-into-a-luxury-tasting-experience/",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Taco Bell Turns the Drive-Thru Into a Luxury Tasting Experience \nTaco Bell launches its value menu with a chauffeured, multi-course tasting experience. \nTaco Bell is turning the drive-thru into haute cuisine.\r\nThe fast-food chain’s new “Laps of Luxury” campaign, created by agency Deutsch, celebrates the launch of its 10-item Luxe Value Menu by offeri… [+1947 chars]",
+        "positive": 0.00086846953490749,
+        "negative": 1.271565088245552e-05,
+        "neutral": 0.9991187453269958
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/beauty-industry-news/fragrance/elf-beauty-h-and-m-fragrance-1238464056/",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "EXCLUSIVE: E.l.f. Ventures Into Fragrance in Limited-edition Collaboration with H&M \nThe beauty brand and the apparel retailer have joined forces to create a trio of scents inspired by the three of E.l.f.'s hero products. \nAfter more than two decades of operation, E.l.f. is making its first foray into fragrance with H&amp;M.\r\nIn a new collaboration titled “Make It Make Scents,” the makeup and skin care brand is teaming… [+3787 chars]",
+        "positive": 0.0004934951430186629,
+        "negative": 1.3253506949695293e-05,
+        "neutral": 0.9994932413101196
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/22/3223435/0/en/Share-Buyback-Transaction-Details-January-15-January-21-2026.html",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Share Buyback Transaction Details January 15 – January 21, 2026 \nPRESS RELEASE                                          Share Buyback Transaction Details January 15 – January 21, 2026  Alphen aan den Rijn – January 22,... \nPRESS RELEASE                                        \r\nShare Buyback Transaction Details January 15 January 21, 2026\r\nAlphen aan den Rijn January 22, 2026 - Wolters Kluwer (Euronext: WKL), a global l… [+4481 chars]",
+        "positive": 2.6386610443296377e-06,
+        "negative": 4.813220471078239e-07,
+        "neutral": 0.9999969005584717
+      },
+      {
+        "source": "news",
+        "id": "https://www.autocar.co.uk/car-news/business/clarification-plea-car-makers-over-eus-2035-ev-climbdown",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Clarification plea from car makers over EU's 2035 EV climbdown \nThe proposals, announced in December, include allowing some ICE sales to remain after 2035\n\nEuropean carmakers are pleading for speedy clarification on proposals published in December designed to ease the path to full electrification, with specific focus on t… \nEuropean carmakers are pleading for speedy clarification on proposals published in December designed to ease the path to full electrification, with specific focus on the new small-car category.\r\nCarm… [+145 chars]",
+        "positive": 0.0005972230574116111,
+        "negative": 3.946680226363242e-05,
+        "neutral": 0.999363362789154
+      },
+      {
+        "source": "news",
+        "id": "https://acecomments.mu.nu/?post=418217",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Daily Tech News 22 January 2206 \nTop Story Anthropic - the company behind AI tool Claude - has updated its Claude Constitution, now a sprawling 57 page mess, five times the length of the actual Constitution, which has, for the most part successfully, guided the most... \n<li>Nvidia is expected to launch its consumer-oriented N1X processor this quarter. (Tom's Hardware)Nvidia hasn't said anything about this, but eagle-eyed observers have spotted the chip in shipping m… [+2914 chars]",
+        "positive": 0.030759623274207115,
+        "negative": 2.3734122805763036e-05,
+        "neutral": 0.9692166447639465
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/22/3223432/36591/en/Skyharbour-Announces-Major-2026-Exploration-Campaign-with-Denison-Mines-at-Russell-Lake-Uranium-Joint-Ventures.html",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Skyharbour Announces Major 2026 Exploration Campaign with Denison Mines at Russell Lake Uranium Joint Ventures \nVancouver, BC, Jan. 22, 2026 (GLOBE NEWSWIRE) -- Skyharbour Resources Ltd. (TSX-V:SYH\r\n)  (OTCQX:SYHBF\r\n) (Frankfurt:SC1P\r\n) (“Skyharbour”, “SYH” or the “Company”) is pleased to announce plans for a major 2026 exploration campaign spanning several of the newl… \nVancouver, BC, Jan. 22, 2026 (GLOBE NEWSWIRE) -- Skyharbour Resources Ltd. (TSX-V:SYH\r\n)  (OTCQX:SYHBF\r\n) (Frankfurt:SC1P\r\n) (Skyharbour, SYH or the Company) is pleased to announce plans for a major … [+28365 chars]",
+        "positive": 0.013425140641629696,
+        "negative": 8.52583434607368e-06,
+        "neutral": 0.9865663647651672
+      },
+      {
+        "source": "news",
+        "id": "https://www.prnewswire.co.uk/news-releases/strong-investor-demand-drives-first-close-for-flashpoints-second-direct-secondary-fund-targeting-us75-100m-302667739.html",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Strong Investor Demand Drives First Close for Flashpoint's second Direct Secondary Fund targeting US$75-100M \nFund II builds on a proven strategy of providing shareholder liquidity to high-growth tech companies founded by European and Israeli entrepreneurs, backed by a strong track record that includes Printify, Preply, and Chess.com. LONDON, Jan. 22, 2026 /PRNewswir… \nFund II builds on a proven strategy of providing shareholder liquidity to high-growth tech companies founded by European and Israeli entrepreneurs, backed by a strong track record that includes Print… [+2954 chars]",
+        "positive": 1.0,
+        "negative": 7.713836680522945e-09,
+        "neutral": 1.1011332290422615e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.rand.org/pubs/external_publications/EP71219.html",
+        "timestamp": "2026-01-22T09:00:00+00:00",
+        "text": "Bridging Traditions and Prevention \nThis study explores implementation and sustainability using virtual interviews with AI/AN service providers and administrators following a randomized control trial of the virtual TACUNA program for AI/AN emerging adults living outside Tribal lands. \nIntroduction\r\nSubstance use prevention programs tailored to American Indian and Alaska Native (AI/AN) populations in the U.S. have shown promise, particularly when they center on cultural relevance a… [+2206 chars]",
+        "positive": 0.9996707439422607,
+        "negative": 2.39560819181861e-07,
+        "neutral": 0.00032903527608141303
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/world/greenland-sovereignty-cannot-be-negotiated-denmark-trump-5875886",
+        "timestamp": "2026-01-22T08:59:13+00:00",
+        "text": "Greenland's sovereignty cannot be negotiated, says Denmark after Trump's about-turn \nDanish Prime Minister Mette Frederiksen wrote that NATO is fully aware of the kingdom of Denmark's position that anything political can be negotiated on, “but we cannot negotiate on our sovereignty”. \nCOPENHAGEN: Denmarks prime minister insisted that her country cannot negotiate on its sovereignty on Thursday (Jan 22) after US President Donald Trump said he agreed on a framework of a future deal o… [+2187 chars]",
+        "positive": 1.7033192989401869e-06,
+        "negative": 0.0002256168081657961,
+        "neutral": 0.9997727274894714
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/expert-view/global-markets-on-a-moving-chessboard-as-sentiment-overtakes-fundamentals-seth-r-freeman/articleshow/127130697.cms",
+        "timestamp": "2026-01-22T08:59:11+00:00",
+        "text": "Global markets on a moving chessboard as sentiment overtakes fundamentals: Seth R Freeman \nSeth R. Freeman observes that global markets are navigating persistent uncertainty driven by U.S. developments and a changing world order. He highlights risks stemming from shifting investor and consumer sentiment, potential policy impacts like credit card ra… \nThe global macro environment today resembles a constantly shifting chessboard, with geopolitics, policy uncertainty and investor sentiment intersecting in unpredictable ways. Speaking to ET Now, Seth… [+5162 chars]",
+        "positive": 1.3428221791400574e-05,
+        "negative": 0.005421913228929043,
+        "neutral": 0.9945646524429321
+      },
+      {
+        "source": "news",
+        "id": "https://www.forrester.com/blogs/when-metrics-divide-value-suffers-enter-value-aligned-measurement/",
+        "timestamp": "2026-01-22T08:58:38+00:00",
+        "text": "When Metrics Divide, Value Suffers: Enter Value-Aligned Measurement \nEffective alignment across functions, teams, and partners remains one of the most persistent barriers to value creation for organizations. Our latest research, “Design Metrics That Boost Organizational Alignment”, shows why even organizations who use framewor… \nEffective alignment across functions, teams, and partners remains one of the most persistent barriers to value creation for organizations. Our latest research, Design Metrics That Boost Organizationa… [+3833 chars]",
+        "positive": 0.9122180938720703,
+        "negative": 0.0008567554177716374,
+        "neutral": 0.08692514151334763
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/news/maharashtra-scripts-asias-largest-decentralised-solar-push-targets-16-gw-by-year-end/article70537070.ece",
+        "timestamp": "2026-01-22T08:57:22+00:00",
+        "text": "Maharashtra scripts Asia’s largest decentralised solar push, targets 16 GW by year-end \nThe shift has begun to reverse a long-standing trend of rising tariffs, with the state’s multi year electricity rates now declining instead of climbing by 9% annually \nMaharashtra has rolled out Asias largest decentralised solar power programme, with the State set to add 16 gigawatts of solar capacity by the end of this year, Chief Minister Devendra Fadnavis said a… [+2419 chars]",
+        "positive": 0.04399258643388748,
+        "negative": 0.002335358178243041,
+        "neutral": 0.9536720514297485
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/industry/energy/power/nara-lokesh-takes-andhra-pradeshs-energy-pitch-to-world-economic-forum/articleshow/127130092.cms",
+        "timestamp": "2026-01-22T08:57:05+00:00",
+        "text": "Nara Lokesh takes Andhra Pradesh’s energy pitch to World Economic Forum \nAt the World Economic Forum 2026, Andhra Pradesh's Minister Nara Lokesh engaged with international energy pioneers, advocating for Vestas to establish a wind turbine factory in the state. Conversations with RPSG Group revolved around advancing wind energy and… \nDavos: Andhra Pradesh Minister for IT, Electronics, Education and Skill Development Nara Lokesh held a series of high-level meetings with global energy and infrastructure leaders on the sidelines of … [+4586 chars]",
+        "positive": 2.7173084163223393e-05,
+        "negative": 3.56684104190208e-05,
+        "neutral": 0.9999371767044067
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/401046/pt-valbury-asia-futures-launches-us-stock-trading-with-alpaca-increasing-access-for-investors",
+        "timestamp": "2026-01-22T08:56:37+00:00",
+        "text": "PT Valbury Asia Futures Launches US Stock Trading with Alpaca, Increasing Access for Investors \n-PT Valbury Asia Futures (&ldquo;Valbury&rdquo;), a leading Indonesian brokerage company with 30 years of experience in forex and commodity trading, today ... \nNew York &amp; Jakarta, Indonesia--(ANTARA/Business Wire)--PT Valbury Asia Futures (“Valbury”), a leading Indonesian brokerage company with 30 years of experience in forex and commodity trading, toda… [+4525 chars]",
+        "positive": 0.00019114800670649856,
+        "negative": 2.3255809367128677e-07,
+        "neutral": 0.9998086094856262
+      },
+      {
+        "source": "news",
+        "id": "https://www.positivityblog.com/encouraging-quotes-for-workplace/",
+        "timestamp": "2026-01-22T08:54:46+00:00",
+        "text": "125 Encouraging Quotes for the Workplace: Motivational, Kind and Positive Sayings \nWe all have those days at work when things just feel tough. When we need some extra encouragement to keep moving forward. So in today’s post I want to share 125 of the most motivational, kind and encouraging quotes. To give you a boost of motivation if you’re… \nWe all have those days at work when things just feel tough.\r\nWhen we need some extra encouragement to keep moving forward.\r\nSo in todays post I want to share 125 of the most motivational, kind and en… [+13310 chars]",
+        "positive": 0.49265196919441223,
+        "negative": 0.0004302109591662884,
+        "neutral": 0.5069177746772766
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/world/2026/01/22/putin-says-who-owns-greenland-is-of-no-concern-to-russia-says-it-might-be-worth-1-billion",
+        "timestamp": "2026-01-22T08:54:00+00:00",
+        "text": "Putin says who owns Greenland is of no concern to Russia, says it might be worth $1 billion \nMOSCOW, Jan 21 (Reuters) - President ‌Vladimir Putin said on Wednesday that Greenland's ownership was not Russia's concern and that the ‌United States and Denmark - whose historical treatment of the island he criticised - should sort the ‌matter out between t… \nMOSCOW, Jan 21 (Reuters) - President Vladimir Putin said on Wednesday that Greenland's ownership was not Russia's concern and that the United States and Denmark - whose historical treatment of the is… [+2367 chars]",
+        "positive": 2.0400488210725598e-05,
+        "negative": 0.00022588401043321937,
+        "neutral": 0.9997537732124329
+      },
+      {
+        "source": "news",
+        "id": "https://www.rt.com/india/631323-india-indispensable-to-european-economic/",
+        "timestamp": "2026-01-22T08:53:48+00:00",
+        "text": "India ‘indispensable’ to European economic resilience – top EU diplomat \nIndia and the EU have agreed to move forward with a new security and defense partnership, Kaja Kallas has said Read Full Article at RT.com \nIndia is becoming “indispensable” for European economic resilience, the EU’s top diplomat, Kaja Kallas, has said.\r\nKallas made the remarks ahead of a visit to India by European Commission President U… [+2368 chars]",
+        "positive": 0.0001307964266743511,
+        "negative": 3.580986231099814e-05,
+        "neutral": 0.9998334646224976
+      },
+      {
+        "source": "news",
+        "id": "https://www.rigzone.com/news/santos_expects_to_exceed_100_mmboe_in_2026-22-jan-2026-182823-article/",
+        "timestamp": "2026-01-22T08:53:13+00:00",
+        "text": "Santos Expects to Exceed 100 MMboe in 2026 \nSantos expects to produce 101-111 million barrels of oil equivalent this year, compared to 87.7 MMboe in 2025. \nSantos Ltd expects to produce 101-111 million barrels of oil equivalent (MMboe) this year, compared to 87.7 MMboe in 2025, according to the Australian company's quarterly report Thursday.\r\nIn the las… [+2960 chars]",
+        "positive": 0.00011347115651005879,
+        "negative": 8.982537110568956e-06,
+        "neutral": 0.9998775720596313
+      },
+      {
+        "source": "news",
+        "id": "https://www.juxtapoz.com/news/painting/sayre-gomez-precious-moments-david-kordansky-gallery-los-angeles/",
+        "timestamp": "2026-01-22T08:52:29+00:00",
+        "text": "Sayre Gomez \"Precious Moments\" @ David Kordansky Gallery, Los Angeles \nDavid Kordansky Gallery is pleased to present Precious Moments, an exhibition of new paintings, sculpture, and videos by Sayre Gomez. On view through March 1, 2026, Precious Moments is the artist’s first solo exhibition with the gallery and will span all thre… \nDavid Kordansky Gallery is pleased to present Precious Moments, an exhibition of new paintings, sculpture, and videos by Sayre Gomez. On view through March 1, 2026, Precious Moments is the artist’s f… [+6252 chars]",
+        "positive": 0.9989544153213501,
+        "negative": 9.861087164608762e-07,
+        "neutral": 0.001044654636643827
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.co.uk/news/articles/cp9jj1j74ggo",
+        "timestamp": "2026-01-22T08:51:49+00:00",
+        "text": "UK holds off joining Trump's peace board over Putin concerns \nForeign Secretary Yvette Cooper says the Russian president has shown no commitment to peace in Ukraine. \nCountries including Saudi Arabia, Turkey, Egypt and Israel have said they will become members of the board, and at Davos, President Trump said Putin had accepted an invitation to join the initiative.… [+2230 chars]",
+        "positive": 0.0006802479038015008,
+        "negative": 0.0004493138112593442,
+        "neutral": 0.9988704323768616
+      },
+      {
+        "source": "news",
+        "id": "https://www.hurriyetdailynews.com/turkiyes-competition-watchdog-conducts-inspection-at-temu-office-218112",
+        "timestamp": "2026-01-22T08:50:37+00:00",
+        "text": "Türkiye's competition watchdog conducts inspection at Temu office \nTürkiye’s Competition Authority has carried out an on-site inspection at the Turkish office of Temu, the fast-growing Chinese e-commerce platform known for ultra-low-priced products, amid public speculation about a possible investigation. \nISTANBUL\r\nTürkiyes Competition Authority has carried out an on-site inspection at the Turkish office of Temu, the fast-growing Chinese e-commerce platform known for ultra-low-priced products, amid pu… [+1668 chars]",
+        "positive": 7.913578883744776e-05,
+        "negative": 0.0004546141717582941,
+        "neutral": 0.9994662404060364
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitimes.com/news/a20260122PD244/sas-12-inch-sic-price-expansion.html",
+        "timestamp": "2026-01-22T08:49:38+00:00",
+        "text": "SAS shifts SiC strategy with 12-inch wafers and AI glasses innovation \nFacing intense price wars triggered by China's rapid expansion in the global silicon carbide (SiC) wafer industry, Sino-American Silicon Products (SAS) chairwoman Doris Hsu has decisively reshaped the company's resource allocation. She revealed that standard … \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
+        "positive": 0.04678340628743172,
+        "negative": 0.0034446632489562035,
+        "neutral": 0.9497719407081604
+      },
+      {
+        "source": "news",
+        "id": "https://www.yahoo.com/news/articles/putin-says-owns-greenland-no-084834310.html",
+        "timestamp": "2026-01-22T08:48:34+00:00",
+        "text": "Putin says who owns Greenland is of no concern to Russia, says it might be worth $1 billion \nBy Andrew Osborn MOSCOW, Jan 21 (Reuters) - President Vladimir Putin said on Wednesday that Greenland's ownership was not Russia's concern and that the... \nBy Andrew Osborn\r\nMOSCOW, Jan 21 (Reuters) - President Vladimir Putin said on Wednesday that Greenland's ownership was not Russia's concern and that the United States and Denmark - whose historical t… [+2379 chars]",
+        "positive": 2.1126861611264758e-05,
+        "negative": 9.741544636199251e-05,
+        "neutral": 0.9998815059661865
+      },
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/industry/media/bollywood-blockbusters-earning-fewer-viewers-chhaava-dhurandhar-hindi-cinema-11769066833577.html",
+        "timestamp": "2026-01-22T08:47:31+00:00",
+        "text": "Why Bollywood blockbusters are earning more than ever—despite fewer viewers \nDhurandhar has crossed  ₹870 crore, setting a new post-pandemic high for Hindi cinema. Along with hits such as Chhaava and Jawan, it underscores a shift toward fewer but bigger films driving box office growth despite falling footfalls. \nWith the action blockbuster Dhurandhar officially crossing the 870 crore mark, it has cemented its place in history as the first original Hindi language film to breach the 800 crore threshold. This m… [+4424 chars]",
+        "positive": 0.9999790191650391,
+        "negative": 2.249276576549164e-06,
+        "neutral": 1.8696313418331556e-05
+      },
+      {
+        "source": "news",
+        "id": "https://en.protothema.gr/2026/01/22/farah-diba-pahlavi-the-story-of-irans-first-and-last-empress/",
+        "timestamp": "2026-01-22T08:46:10+00:00",
+        "text": "Farah Diba Pahlavi, the story of Iran’s first and last “empress” \nPart of modern Middle Eastern history, the exceptionally elegant widow of the Shah, who also developed ties with Greece, has returned to public attention amid the turbulent events in her homeland\nThe post Farah Diba Pahlavi, the story of Iran’s first and last… \nFarah Diba Pahlavi, with her once-happy and at times dramatic life, has always been a legendary figure. For some, she is the Grace Kelly of the East; for others, the Jackie of the East. She is a figu… [+4446 chars]",
+        "positive": 0.18938516080379486,
+        "negative": 0.04317503422498703,
+        "neutral": 0.7674397826194763
+      },
+      {
+        "source": "news",
+        "id": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/22/germany-s-merz-europe-must-not-rush-to-write-off-transatlantic-ties",
+        "timestamp": "2026-01-22T08:45:41+00:00",
+        "text": "Germany’s Merz: Europe must not rush to write off transatlantic ties \nBERLIN, Jan 22 (Reuters) - German Chancellor Friedrich Merz welcomed on Thursday U.S. President Donald Trump’s shift in rhetoric on Greenland and urged Europeans not to b… Leggi \nBERLIN, Jan 22 (Reuters) - German Chancellor Friedrich Merz welcomed on Thursday U.S. President Donald Trumps shift in rhetoric on Greenland and urged Europeans not to be too quick to write off the t… [+1159 chars]",
+        "positive": 0.0003895082918461412,
+        "negative": 0.00047457931214012206,
+        "neutral": 0.9991359114646912
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/entertainment/events/delhi/a-dialogue-around-light-art-shared-histories/articleshow/127123138.cms",
+        "timestamp": "2026-01-22T08:45:28+00:00",
+        "text": "A dialogue around light, art & shared histories \nAs dusk settled over Travancore Palace, light itself became the evening’s storyteller. The projection of Johannes Vermeer’s Girl With A Pearl Earring . \nFollow Us On Social Media\r\nVeteran singer S. Janakis son Murali Krishna passes away; the film fraternity is in shockInside the strange, sparkling world of billionaire price pain...When inflation hits… [+1626 chars]",
+        "positive": 0.00012452203372959048,
+        "negative": 0.9243778586387634,
+        "neutral": 0.07549763470888138
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/city/mumbai/hows-bmc-mayors-elected-reservation-lottery-voting-and-the-making-of-mumbais-next-first-citizen/articleshow/127125860.cms",
+        "timestamp": "2026-01-22T08:44:43+00:00",
+        "text": "Explained: How BMC mayor is elected; quota, lottery, voting and the power play behind Mumbai’s top civic post \nMumbai's BMC mayoral race is a high-stakes political battle for control of Asia's richest civic body, extending beyond the ceremonial post. A fractured 2026 election mandate has forced uneasy allies BJP and Eknath Shinde-led Shiv Sena into intense negotiation… \n<ul><li>News</li>\r\n<li>City News</li>\r\n<li>mumbai News</li>\r\n<li>Explained: How BMC mayor is elected; quota, lottery, voting and the power play behind Mumbais top civic post</li></ul>\r\nFollow Us On S… [+1591 chars]",
+        "positive": 7.755510159768164e-05,
+        "negative": 0.0005674309213645756,
+        "neutral": 0.9993550181388855
+      },
+      {
+        "source": "news",
+        "id": "https://cryptoslate.com/bitfinex-whale-buy-signals-bitcoin-price-battleground-at-90000/",
+        "timestamp": "2026-01-22T08:43:23+00:00",
+        "text": "How one Bitcoin whale is absorbing the world’s entire daily mining supply as Bitcoin price faces $90,000 friction \nBitcoin is struggling to build momentum around the $90,000 level, yet at least one headline-grabbing buyer appears to be leaning in the opposite direction. Adam Back, the CEO of Blockstream, said on X (formerly Twitter) that a “Bitfinex whale” is purchasing r… \nBitcoin is struggling to build momentum around the $90,000 level, yet at least one headline-grabbing buyer appears to be leaning in the opposite direction.\r\nAdam Back, the CEO of Blockstream, said on… [+7794 chars]",
+        "positive": 6.68066013531643e-06,
+        "negative": 0.9999850988388062,
+        "neutral": 8.216325113608036e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.prnewswire.co.uk/news-releases/private-equity-market-to-exceed-usd-37-trillion-by-2031-globally-led-by-buyout-strategies-and-large-cap-deals-reports-mordor-intelligence-302667863.html",
+        "timestamp": "2026-01-22T08:42:00+00:00",
+        "text": "Private Equity Market to Exceed USD 37 Trillion by 2031 Globally, Led by Buyout Strategies and Large-Cap Deals, Reports Mordor Intelligence \nHYDERABAD, India, Jan. 22, 2026 /PRNewswire/ -- According to Mordor Intelligence, the private equity market size stood at USD 19.96 trillion in 2026 and is projected to reach USD 37.85 trillion by 2031, reflecting a CAGR of 13.65%. This growth highlights the … \nHYDERABAD, India, Jan. 22, 2026 /PRNewswire/ -- According to Mordor Intelligence, the private equity market size stood at USD 19.96 trillion in 2026 and is projected to reach USD 37.85 trillion by 20… [+7910 chars]",
+        "positive": 0.9896961450576782,
+        "negative": 3.1396461963595357e-06,
+        "neutral": 0.0103006511926651
+      },
+      {
+        "source": "news",
+        "id": "https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/The-world-needs-more-plumbers-and-electricians",
+        "timestamp": "2026-01-22T08:40:35+00:00",
+        "text": "The world needs more plumbers and electricians \nIt may not have made the headlines when world leaders and CEOs met at the World Economic Forum at Davos, but the fireside chat between BlackRock CEO Larry Fink and Nvidia president Jensen Huang, ... \nIt may not have made the headlines when world leaders and CEOs met at the World Economic Forum at Davos, but the fireside chat between BlackRock CEO Larry Fink and Nvidia president Jensen Huang, shou… [+2594 chars]",
+        "positive": 0.0008113175863400102,
+        "negative": 0.03957007825374603,
+        "neutral": 0.9596186280250549
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f4fc1e76-4022-485f-8092-1d505f706a5a",
+        "timestamp": "2026-01-22T08:36:34+00:00",
+        "text": "Borealis Mining mobilises equipment to resume Nevada gold operations \nIf you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 2.4389255486312322e-05,
+        "negative": 1.691467514319811e-05,
+        "neutral": 0.9999586343765259
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2026/01/22/cnbcs-inside-india-newsletter-eu-india-deal-wont-be-a-substitute-to-a-us-india-pact.html",
+        "timestamp": "2026-01-22T08:36:00+00:00",
+        "text": "CNBC's Inside India newsletter: India and EU eye 'mother of all deals' amid U.S. tensions. But New Delhi needs a pact with Washington \nDeal with U.S. remains crucial for India's economy. \nThis report is from this week's CNBC's \"Inside India\" newsletter which brings you timely, insightful news and market commentary on the emerging powerhouse. Subscribe here.\r\nThe big story\r\nWhile tempe… [+8257 chars]",
+        "positive": 0.03784293681383133,
+        "negative": 0.010436095297336578,
+        "neutral": 0.9517210125923157
+      },
+      {
+        "source": "news",
+        "id": "https://www.thejournal.ie/trump-board-of-peace-davos-what-we-know-so-far-6934532-Jan2026/",
+        "timestamp": "2026-01-22T08:34:25+00:00",
+        "text": "Trump is unveiling his 'Board of Peace' in Davos today - here's what we know \nThe US President will chair the organisation, and countries who want to be permanent members will need to pay $1 billion. \nDONALD TRUMP IS set to unveil his new so-called Board of Peace in Davos today, after he rolled back on his threats to impose tariffs on several European countries if they opposed his plans to take ov… [+4958 chars]",
+        "positive": 3.777353185796528e-06,
+        "negative": 3.679114524857141e-05,
+        "neutral": 0.9999593496322632
+      },
+      {
+        "source": "news",
+        "id": "https://www.smashingapps.com/is-yahoo-down-what-about-aol/",
+        "timestamp": "2026-01-22T08:33:03+00:00",
+        "text": "Is Yahoo Down? (And What About AOL) – Current Status & What You Should Do \nYahoo and AOL suffered a brief nationwide outage on Jan 21, 2026. Services have been restored after Yahoo rolled back a traffic-management change. \nClick here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+5318 chars]",
+        "positive": 0.06995236128568649,
+        "negative": 0.901655912399292,
+        "neutral": 0.028391756117343903
+      },
+      {
+        "source": "news",
+        "id": "https://timesofmalta.com/article/now-time-tontines-return.1122842",
+        "timestamp": "2026-01-22T08:32:17+00:00",
+        "text": "Now is the time for tontines to return \nA fallen financial product could transform the lives of the elderly, says Charles Cronin \nNo, this is not about a fallen but loved football club and a much-anticipated match. This article is about a fallen financial product whose resurrection as a pension savings vehicle could transform t… [+4822 chars]",
+        "positive": 0.0033334968611598015,
+        "negative": 0.00046164621016941965,
+        "neutral": 0.9962049126625061
+      },
+      {
+        "source": "news",
+        "id": "https://www.ibtimes.com.au/bhp-accepts-lower-iron-ore-prices-amid-ongoing-negotiations-chinese-buyers-1861187",
+        "timestamp": "2026-01-22T08:32:01+00:00",
+        "text": "BHP Accepts Lower Iron Ore Prices Amid Ongoing Negotiations with Chinese Buyers \nMining giant BHP Group said it has accepted reduced prices for some iron ore shipments while locked in protracted contract talks with major Chinese buyers, a development that underscores tensions in the global steelmaking raw material market and could pressur… \nMELBOURNE, Australia — Mining giant BHP Group said it has accepted reduced prices for some iron ore shipments while locked in protracted contract talks with major Chinese buyers, a development that u… [+4841 chars]",
+        "positive": 0.7082931995391846,
+        "negative": 0.20974944531917572,
+        "neutral": 0.0819573923945427
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/textile-shrimp-stocks-rally-up-to-8-is-the-us-india-trade-deal-finally-happening/articleshow/127127709.cms",
+        "timestamp": "2026-01-22T08:31:12+00:00",
+        "text": "Textile, shrimp stocks rally up to 8%. Is the US-India trade deal finally happening? \nExport-focused textile and shrimp stocks rallied up to 8% as optimism grew around a possible India–US trade deal. Positive comments from US President Donald Trump at Davos, coupled with supportive signals from the newly appointed US Ambassador, lifted sentime… \nShares of export-reliant textile and shrimp companies on Thursday witnessed renewed buying, rallying up to 8%, on rising hopes of an India-US trade deal. On the sidelines of the World Economic Forum … [+2398 chars]",
+        "positive": 0.9999958276748657,
+        "negative": 3.230541551602073e-06,
+        "neutral": 9.283467647946964e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.designboom.com/art/venice-art-biennale-2026-guide-main-exhibition-national-pavilions-more/",
+        "timestamp": "2026-01-22T08:30:05+00:00",
+        "text": "venice art biennale 2026: guide to the main exhibition, national pavilions & more \nhere’s what we know so far about the 2026 venice art biennale, shaped by the late curator koyo kouoh’s vision.\nThe post venice art biennale 2026: guide to the main exhibition, national pavilions & more appeared first on designboom | architecture & design maga… \nVenice Art Biennale presents Its 61st Edition\r\nThe 61st International Art Exhibition of La Biennale di Venezia is scheduled to run from Saturday, May 9th to Sunday, November 22nd, 2026, under the the… [+25491 chars]",
+        "positive": 2.0895880936677713e-07,
+        "negative": 1.5651143314698857e-07,
+        "neutral": 0.9999996423721313
+      },
+      {
+        "source": "news",
+        "id": "https://fortune.com/2026/01/22/elon-musk-agonizingly-slow-cybercab-optimus-robot-rollout-tesla/",
+        "timestamp": "2026-01-22T08:30:00+00:00",
+        "text": "Elon Musk predicts ‘agonizingly slow’ Cybercab and Optimus rollout. But he’s not giving up on Tesla’s big bet on robots \nTesla’s production rate will “eventually end up being insanely fast,” Musk said. \nTeslas push to refocus on humanoid robots and autonomous vehicles may be headed for a slower start than CEO Elon Musks bullish timelines previously promised. Musk said Tuesday production for the comp… [+3998 chars]",
+        "positive": 0.00046040071174502373,
+        "negative": 0.5872018933296204,
+        "neutral": 0.4123377501964569
+      },
+      {
+        "source": "news",
+        "id": "https://www.hitc.com/dana-white-gets-real-on-if-he-is-going-to-sign-oleksandr-usyk-to-zuffa-boxing/",
+        "timestamp": "2026-01-22T08:30:00+00:00",
+        "text": "Dana White gets real on if he is going to sign Oleksandr Usyk to Zuffa Boxing \nDana White has responded to speculation linking Oleksandr Usyk with Zuffa Boxing, providing a clear update during the UFC 324 press conference. UFC CEO Dana White was asked whether Oleksandr Usyk could be the next major fighter to sign with his new boxing pro… \nDana White has responded to speculation linking Oleksandr Usyk with Zuffa Boxing, providing a clear update during the UFC 324 press conference.\r\nUFC CEO Dana White was asked whether Oleksandr Usyk co… [+1656 chars]",
+        "positive": 4.976036052539712e-06,
+        "negative": 2.9811377316946164e-05,
+        "neutral": 0.9999651908874512
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/ramaswamy-strive-150m-preferred-stock-debt-bitcoin",
+        "timestamp": "2026-01-22T08:27:24+00:00",
+        "text": "Strive plans to raise $150M to pay down debt and buy more Bitcoin \nAsset manager Strive plans to raise up to $150 million through a preferred stock offering to pay down debt at Semler Scientific and expand its Bitcoin treasury. \nStrive, an asset manager co-founded by former US presidential candidate Vivek Ramaswamy in 2022, plans to raise as much as $150 million through an offering of preferred stock, with proceeds earmarked… [+3176 chars]",
+        "positive": 0.0008203897159546614,
+        "negative": 7.114493655535625e-06,
+        "neutral": 0.9991724491119385
+      },
+      {
+        "source": "news",
+        "id": "https://www.aljazeera.com/video/counting-the-cost/2026/1/22/does-the-world-economic-forum-still-matter-in-a-fractured-global-economy",
+        "timestamp": "2026-01-22T08:25:29+00:00",
+        "text": "Does the World Economic Forum still matter in a fractured global economy? \nFor decades, the World Economic Forum in Davos was a symbol of global cooperation. Today, its relevance is questioned. \nFor decades, the World Economic Forum in Davos was a symbol of global cooperation. Today, its relevance is questioned.The annual pilgrimage of the worlds political and corporate elite to the World Ec… [+523 chars]",
+        "positive": 8.961554840425379e-07,
+        "negative": 0.015960806980729103,
+        "neutral": 0.984038233757019
+      },
+      {
+        "source": "news",
+        "id": "https://www.smallbusinessbranding.com/104975/cleopatra-ladylucks-casino-welcome-bonus-slots-gamble-real-local-casino-slot-machines-on-line/",
+        "timestamp": "2026-01-22T08:24:53+00:00",
+        "text": "Cleopatra LadyLucks casino welcome bonus Slots Gamble Real Local casino Slot machines On line \nPosts LadyLucks casino welcome bonus | What kind of Game Will we Offer? Who was simply Empress Matilda? The brand […] \nThe game is famous for the breathtaking ancient Egyptian image, amazing sound files, and you can a totally free twist extra round where the victories is tripled. The fresh Cleopatra position offers a… [+9603 chars]",
+        "positive": 0.0006673052557744086,
+        "negative": 9.513420081930235e-06,
+        "neutral": 0.9993231296539307
+      },
+      {
+        "source": "news",
+        "id": "https://www.smallbusinessbranding.com/104973/aztec-gifts-position-free-revolves-demonstration-and-casino-mega-fortune-dreams-2-info/",
+        "timestamp": "2026-01-22T08:24:22+00:00",
+        "text": "Aztec Gifts Position: Free Revolves, Demonstration and casino mega fortune dreams 2 Info \nPosts Tips Play Secrets out of Aztec Position? | casino mega fortune dreams 2 Gifts out of Aztec Cellular Being […] \nThese playing servers determined because of the strange old civilization from Aztecs could possibly offer professionals occasions from advanced entertainments. The minimum rates from the game makes i… [+9327 chars]",
+        "positive": 7.623147666890873e-06,
+        "negative": 1.1783025001932401e-05,
+        "neutral": 0.9999805688858032
+      },
+      {
+        "source": "news",
+        "id": "https://www.smallbusinessbranding.com/104971/gamble-free-helpful-link-slots-games-online/",
+        "timestamp": "2026-01-22T08:23:50+00:00",
+        "text": "Gamble Free helpful link Slots Games Online \nBlogs Helpful link – Gold rush With Johnny Dollars Finest Payouts and Icons to watch out for Blazing Lake Connect […] \nTo play 100 percent free harbors on the internet is among the best means view out titles and know how the fresh position work. As you can obviously come across, the options to possess ports to try ou… [+9637 chars]",
+        "positive": 0.1739877611398697,
+        "negative": 2.405794475635048e-05,
+        "neutral": 0.8259882926940918
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/news/articles/cx2ll9wr562o",
+        "timestamp": "2026-01-22T08:23:36+00:00",
+        "text": "South African police not yet able to defeat gangs, minister says \nPolice Minister Firoz Cachalia says organised crime is growing more complex, requiring new strategies. \nSouth Africa's Police Minister Firoz Cachalia has said that the security forces are not yet able to defeat deadly criminal gangs, in a stark admission that underscores the scale of the country's crim… [+2894 chars]",
+        "positive": 0.0002816127671394497,
+        "negative": 0.011162682436406612,
+        "neutral": 0.9885557293891907
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/life-style/fashion/luxury/billionaire-inflation-how-the-ultra-rich-navigate-rising-luxury-costs/articleshow/127122419.cms",
+        "timestamp": "2026-01-22T08:23:23+00:00",
+        "text": "Inside the strange, sparkling world of billionaire price pain...When inflation hits your yacht before your groceries \nInflation hit the ultra-wealthy harder in 2025, with billionaire costs rising 5.5% compared to a 2.7% global consumer increase. Despite this luxury inflation, the number of billionaires and their collective wealth grew, demonstrating their continued financial… \n<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>fashion</li>\r\n<li>Inside the strange, sparkling world of billionaire price pain...When inflation hits your yacht before your groceries</li></ul>\r\nFollow Us … [+1871 chars]",
+        "positive": 0.018563037738204002,
+        "negative": 0.9767540693283081,
+        "neutral": 0.004682880360633135
+      },
+      {
+        "source": "news",
+        "id": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-moves-from-GH-10-85-to-GH-10-87-to-a-dollar-on-the-interbank-market-2018331",
+        "timestamp": "2026-01-22T08:22:38+00:00",
+        "text": "Cedi moves from GH¢10.85 to GH¢10.87 to a dollar on the interbank market \nThe Ghana cedi, in the third week of January 2026, is trading at GH¢10.87 to the US dollar on the Bank of Ghana’s interbank foreign exchange market. \nThe Ghana cedi, in the third week of January 2026, is trading at GH¢10.87 to the US dollar on the Bank of Ghanas interbank foreign exchange market.\r\nData released by the central bank on Thursday, Jan… [+1547 chars]",
+        "positive": 1.0531452971918043e-06,
+        "negative": 1.0526713367653429e-06,
+        "neutral": 0.9999978542327881
+      },
+      {
+        "source": "news",
+        "id": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/22/new-trade-map-takes-shape-in-davos-as-world-adjusts-to-trump-tariffs",
+        "timestamp": "2026-01-22T08:22:37+00:00",
+        "text": "New trade map takes shape in Davos as world adjusts to Trump tariffs \nBy Dave GrahamDAVOS, Switzerland, Jan 22 (Reuters) - President Donald Trump’s use of tariffs as a foreign policy tool added fresh impetus in Davos this week to efforts to… Leggi \nBy Dave Graham\r\nDAVOS, Switzerland, Jan 22 (Reuters) - President Donald Trumps use of tariffs as a foreign policy tool added fresh impetus in Davos this week to efforts to boost global trade beyond t… [+4232 chars]",
+        "positive": 0.0031451198738068342,
+        "negative": 0.00016047852113842964,
+        "neutral": 0.9966943264007568
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/what-fish-can-eat-fruit/",
+        "timestamp": "2026-01-22T08:21:13+00:00",
+        "text": "What fish can eat fruit? \nWhat Fish Can Eat Fruit? A Comprehensive Guide While most fish primarily consume algae, insects, or other fish, some species are surprisingly fond of fruit. What fish can eat fruit? The answer is that a variety of freshwater and even some saltwater fish speci… \nWhile most fish primarily consume algae, insects, or other fish, some species are surprisingly fond of fruit. What fish can eat fruit? The answer is that a variety of freshwater and even some saltwat… [+9038 chars]",
+        "positive": 6.870659490232356e-07,
+        "negative": 6.6065063037967775e-06,
+        "neutral": 0.9999927282333374
+      },
+      {
+        "source": "news",
+        "id": "https://www.rte.ie/news/business/2026/0122/1554448-volkswagen-posts-stronger-cash-flow-despite-porsche-woes/",
+        "timestamp": "2026-01-22T08:20:56+00:00",
+        "text": "Volkswagen posts stronger cash flow despite Porsche woes \nVolkswagen has reported better-than-expected net cash flow in 2025 of €6 billion, despite Europe's largest carmaker struggling with weak China sales, US tariff worries and difficulties at luxury sports brand Porsche. \nVolkswagen has reported better-than-expected net cash flow in 2025 of 6 billion, despite Europe's largest carmaker struggling with weak China sales, US tariff worries and difficulties at luxury sport… [+851 chars]",
+        "positive": 1.0,
+        "negative": 3.817076787981932e-08,
+        "neutral": 1.327267407091881e-09
+      },
       {
         "source": "news",
         "id": "https://www.livemint.com/industry/d2c-pet-care-brands-subscriptions-fmcg-competition-india-market-11769059826927.html",
@@ -401,30 +932,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/brandhub/pr-release/avpns-ai-opportunity-fund-expands-regional-efforts-to-build-ai-skilling-infrastructure-for-a-future-ready-workforce-across-asia-pacific/article70536734.ece",
-        "timestamp": "2026-01-22T07:45:38+00:00",
-        "text": "AVPN’s AI Opportunity Fund Expands Regional Efforts to Build AI Skilling Infrastructure for a Future-Ready Workforce Across Asia-Pacific \nAVPN’s AI Opportunity Fund Expands Regional Efforts to Build AI Skilling Infrastructure for a Future-Ready Workforce Across Asia-Pacific \n18 Local Training Providers selected for Phase Two of the Fund\r\n AVPN developed an AI Skilling Policy Toolkit aimed at governments and policymakers\r\n AVPN is also launching an AI training content hub… [+8075 chars]",
-        "positive": 0.8052471876144409,
-        "negative": 9.389539627591148e-06,
-        "neutral": 0.19474337995052338
-      },
-      {
-        "source": "news",
-        "id": "https://www.aljazeera.com/video/newsfeed/2026/1/22/trump-praises-infinite-greenland-framework-deal",
-        "timestamp": "2026-01-22T07:45:11+00:00",
-        "text": "Trump praises ‘infinite’ Greenland framework deal \nUS President Donald Trump dropped his threat to impose tariffs on European countries over his bid to takeover Greenland. \nNewsFeed\r\nUS President Donald Trump dropped his threat to impose tariffs on European countries opposed to his bid to take control of Greenland on Wednesday, after he and NATO leader Mark Rutte agreed… [+72 chars]",
-        "positive": 0.001955615822225809,
-        "negative": 0.27832597494125366,
-        "neutral": 0.7197184562683105
-      },
-      {
-        "source": "news",
-        "id": "https://www.mirrorlessrumors.com/sg-image-35mm-f-2-2-pancake-lens-to-be-released-on-jan-31/",
-        "timestamp": "2026-01-22T07:45:06+00:00",
-        "text": "SG.image 35mm f/2.2 pancake lens to be released on Jan 31 \nSG-image announced the pricing and shipment time for the new 35mm f/2.2 Full Frame Autofocus lens: Black: 699 yuan (around $100) Silver: 749 yuan (around $110) Weight: 163 g Sony E-mount & Nikon Z-mount: Officially on sale January 31 (lenses released earlier … \nMirrorlessRumors is participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated… [+265 chars]",
-        "positive": 0.00012842404248658568,
-        "negative": 4.418714979692595e-06,
-        "neutral": 0.9998672008514404
+        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-rferl02.htm",
+        "timestamp": "2026-01-22T07:45:04+00:00",
+        "text": "Labor Disputes, Security Fears Test China's Economic Projects In Tajikistan \nAfter years of deepening engagement through mining operations, road construction, and industrial projects, Chinese companies operating in Tajikistan now face challenges from the communities that host their investments. \nBy RFE/RL's Tajik Service and Merhat Sharipzhan January 21, 2026\r\nSummary\r\n<ul><li>Tajik workers at the Chinese-run Zarafshon gold mine near Panjakent protested low wages and large pay gaps with thei… [+8429 chars]",
+        "positive": 2.0547222447930835e-06,
+        "negative": 0.999987006187439,
+        "neutral": 1.0910731361946091e-05
       },
       {
         "source": "news",
@@ -437,21 +950,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-rferl02.htm",
-        "timestamp": "2026-01-22T07:45:04+00:00",
-        "text": "Labor Disputes, Security Fears Test China's Economic Projects In Tajikistan \nAfter years of deepening engagement through mining operations, road construction, and industrial projects, Chinese companies operating in Tajikistan now face challenges from the communities that host their investments. \nBy RFE/RL's Tajik Service and Merhat Sharipzhan January 21, 2026\r\nSummary\r\n<ul><li>Tajik workers at the Chinese-run Zarafshon gold mine near Panjakent protested low wages and large pay gaps with thei… [+8429 chars]",
-        "positive": 2.0547222447930835e-06,
-        "negative": 0.999987006187439,
-        "neutral": 1.0910731361946091e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-rferl01.htm",
-        "timestamp": "2026-01-22T07:45:04+00:00",
-        "text": "Trump Rules Out Force In Greenland, Walks Back Tariffs Plan \nUS President Donald Trump has ruled out military action to take control of Greenland while also saying he wants to hold more talks on the United States acquiring the island, which he described as \"our territory\" during a keynote speech at the World Economic F… \nBy Ray Furlong January 21, 2026\r\nSummary\r\n<ul><li>US President Donald Trump ruled out using military force but demanded immediate talks on acquiring Greenland from Denmark.</li><li>Trump has linked U… [+7791 chars]",
-        "positive": 3.622317763074534e-06,
-        "negative": 1.6316440451191738e-05,
-        "neutral": 0.999980092048645
+        "id": "https://www.globalsecurity.org/wmd/library/news/iran/2026/01/iran-260121-rferl01.htm",
+        "timestamp": "2026-01-22T07:45:03+00:00",
+        "text": "US Blames Iranian Regime As Death Toll From Brutal Crackdown On Protesters Rises \nThe United States says recent protests across Iran were the result of the regime's \"mismanagement\" and not foreign influences, as claimed by Tehran, as the death toll continues to rise from a violent crackdown on the biggest threat to the Islamic republic in … \nBy RFE/RL's Radio Farda January 21, 2026\r\nThe United States says recent protests across Iran were the result of the regime's \"mismanagement\" and not foreign influences, as claimed by Tehran, as the d… [+3973 chars]",
+        "positive": 0.0010752107482403517,
+        "negative": 0.9431490302085876,
+        "neutral": 0.055775776505470276
       },
       {
         "source": "news",
@@ -464,39 +968,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/iran/2026/01/iran-260121-rferl01.htm",
-        "timestamp": "2026-01-22T07:45:03+00:00",
-        "text": "US Blames Iranian Regime As Death Toll From Brutal Crackdown On Protesters Rises \nThe United States says recent protests across Iran were the result of the regime's \"mismanagement\" and not foreign influences, as claimed by Tehran, as the death toll continues to rise from a violent crackdown on the biggest threat to the Islamic republic in … \nBy RFE/RL's Radio Farda January 21, 2026\r\nThe United States says recent protests across Iran were the result of the regime's \"mismanagement\" and not foreign influences, as claimed by Tehran, as the d… [+3973 chars]",
-        "positive": 0.0010752107482403517,
-        "negative": 0.9431490302085876,
-        "neutral": 0.055775776505470276
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/iran/2026/01/iran-260121-rferl02.htm",
-        "timestamp": "2026-01-22T07:45:03+00:00",
-        "text": "'Bodies Behind Every Car': Witnesses Recount No-Mercy Killings In Iran's Central Cities \nIn the industrial and residential suburbs of Iran's central Isfahan Province, three eyewitnesses have described scenes of extraordinary violence during the recent wave of anti-regime protests. \nBy RFE/RL's Radio Farda January 21, 2026\r\nIn the industrial and residential suburbs of Iran's central Isfahan Province, three eyewitnesses have described scenes of extraordinary violence during the r… [+5596 chars]",
-        "positive": 8.284895739052445e-05,
-        "negative": 0.007514307275414467,
-        "neutral": 0.9924029111862183
-      },
-      {
-        "source": "news",
         "id": "https://www.loudersound.com/bands-artists/iron-maiden-making-the-number-of-the-beast",
         "timestamp": "2026-01-22T07:45:00+00:00",
         "text": "\"We all had that feeling that nobody had ever heard anything like this before\": How Iron Maiden got their man and made the album that sent them stratospheric \nIron Maiden's second album Killers was a powerful statement of intent, but one cog in the momentum-gathering machine was a little loose and needed replacing \n“One of more enduring also-rans from the NWOBHM boom,” as Kerrang! magazine put it, Samson were spawned in 1977. They built a loyal live following and cracked the UK Top 40 in 1980 with Head On. Yet … [+10332 chars]",
         "positive": 0.7168335914611816,
         "negative": 0.006467071361839771,
         "neutral": 0.27669933438301086
-      },
-      {
-        "source": "news",
-        "id": "https://www.creativeboom.com/resources/the-best-new-typefaces-for-january-2026/",
-        "timestamp": "2026-01-22T07:45:00+00:00",
-        "text": "The best new typefaces for January 2026 \nThe decorations are packed away, we're halfway through the first month of the year, and normal life has resumed. Here's what the type world's been releasing in the meantime.\n\nRight now, no one's qu... \nRight now, no one's quite sure if we should still be saying 'Happy New Year' or not. But one thing's for certain, January's releases have properly impressed me. There's a refreshing lack of faff here… [+21342 chars]",
-        "positive": 0.999017596244812,
-        "negative": 0.00021873843797948211,
-        "neutral": 0.0007635864894837141
       },
       {
         "source": "news",
@@ -509,12 +986,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-treasury01.htm",
+        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260120-icc01.htm",
         "timestamp": "2026-01-22T07:44:49+00:00",
-        "text": "Treasury Exposes and Disrupts Hamas's Covert Support Network \nToday, the Department of the Treasury's Office of Foreign Assets Control (OFAC) is taking action against Hamas's covert links to nonprofit organizations. Hamas's insidious practice of operating behind civilian organizations endangers Palestinians and undermin… \nU.S. Department of the Treasury\r\nJanuary 21, 2026 \r\nWASHINGTON -- Today, the Department of the Treasury's Office of Foreign Assets Control (OFAC) is taking action against Hamas's covert links to nonp… [+12581 chars]",
-        "positive": 0.0020053035113960505,
-        "negative": 0.9671621918678284,
-        "neutral": 0.030832437798380852
+        "text": "Statement of Deputy Prosecutor Nazhat Shameem Khan to the United Nations Security Council on the Situation in Darfur, pursuant to Resolution 1593 (2005) \n(On 19 January 2026, ICC Deputy Prosecutor Nazhat Shameem Khan addressed the United Nations Security Council on the Situation in Darfur, Sudan, virtually from The Hague. Below is a transcript of her remarks.) \nInternational Criminal Court (ICC) / Cour pÃ©nale internationale (CPI)\r\nStatement: 20 January 2026\r\n(On 19 January 2026, ICC Deputy Prosecutor Nazhat Shameem Khan addressed the United Nations Securit… [+13765 chars]",
+        "positive": 2.3853161110309884e-05,
+        "negative": 0.00044244216405786574,
+        "neutral": 0.9995337724685669
       },
       {
         "source": "news",
@@ -527,12 +1004,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260120-icc01.htm",
+        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-treasury01.htm",
         "timestamp": "2026-01-22T07:44:49+00:00",
-        "text": "Statement of Deputy Prosecutor Nazhat Shameem Khan to the United Nations Security Council on the Situation in Darfur, pursuant to Resolution 1593 (2005) \n(On 19 January 2026, ICC Deputy Prosecutor Nazhat Shameem Khan addressed the United Nations Security Council on the Situation in Darfur, Sudan, virtually from The Hague. Below is a transcript of her remarks.) \nInternational Criminal Court (ICC) / Cour pÃ©nale internationale (CPI)\r\nStatement: 20 January 2026\r\n(On 19 January 2026, ICC Deputy Prosecutor Nazhat Shameem Khan addressed the United Nations Securit… [+13765 chars]",
-        "positive": 2.3853161110309884e-05,
-        "negative": 0.00044244216405786574,
-        "neutral": 0.9995337724685669
+        "text": "Treasury Exposes and Disrupts Hamas's Covert Support Network \nToday, the Department of the Treasury's Office of Foreign Assets Control (OFAC) is taking action against Hamas's covert links to nonprofit organizations. Hamas's insidious practice of operating behind civilian organizations endangers Palestinians and undermin… \nU.S. Department of the Treasury\r\nJanuary 21, 2026 \r\nWASHINGTON -- Today, the Department of the Treasury's Office of Foreign Assets Control (OFAC) is taking action against Hamas's covert links to nonp… [+12581 chars]",
+        "positive": 0.0020053035113960505,
+        "negative": 0.9671621918678284,
+        "neutral": 0.030832437798380852
       },
       {
         "source": "news",
@@ -542,15 +1019,6 @@
         "positive": 0.06692879647016525,
         "negative": 0.5617436766624451,
         "neutral": 0.37132757902145386
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-fta-to-unlock-global-markets-and-tech-sharing-says-bharti-enterprises-vice-chairman-rajan-bharti-mittal/articleshow/127121979.cms",
-        "timestamp": "2026-01-22T07:44:26+00:00",
-        "text": "India-EU FTA to unlock global markets and tech sharing, says Bharti Enterprises Vice-Chairman Rajan Bharti Mittal \nDavos: India and the European Union are close to signing a Free Trade Agreement. Industry leaders and diplomats expressed optimism at the World Economic Forum in Davos. The deal is expected to boost technology sharing and exports. European Commission Presiden… \nDavos: The long-awaited Free Trade Agreement (FTA) between India and the European Union appears to be entering its final stages, with industry leaders and diplomats expressing high optimism during th… [+2485 chars]",
-        "positive": 0.9529145956039429,
-        "negative": 0.00024810005561448634,
-        "neutral": 0.04683731496334076
       },
       {
         "source": "news",
@@ -572,15 +1040,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-unnews02.htm",
-        "timestamp": "2026-01-22T07:44:01+00:00",
-        "text": "Haiti crisis at breaking point as gangs tighten grip ahead of transition deadline \nHaiti's deepening crisis has reached a critical phase, senior UN officials warned the Security Council on Wednesday, as powerful gangs continue to expand their control across the country. \nBy Vibhu Mishra21 January 2026 - Haiti's deepening crisis has reached a critical phase, senior UN officials warned the Security Council on Wednesday, as powerful gangs continue to expand their contro… [+3568 chars]",
-        "positive": 0.00010697502875700593,
-        "negative": 0.9816151261329651,
-        "neutral": 0.018277950584888458
-      },
-      {
-        "source": "news",
         "id": "https://www.globalsecurity.org/wmd/library/news/russia/2026/01/russia-260121-estonia-mfa01.htm",
         "timestamp": "2026-01-22T07:43:54+00:00",
         "text": "Tsahkna: the EU oil ban now in force increases pressure on Russia \nToday, the ban introduced under the European Union's 18th sanctions package entered into force, prohibiting the import into the EU of petroleum products produced in third countries if they have been made using crude oil originating from Russia. \nRepublic of Estonia - Ministry of Foreign Affairs\r\n21.01.2026 | 17:52\r\nToday, the ban introduced under the European Union's 18th sanctions package entered into force, prohibiting the import into the … [+1360 chars]",
@@ -599,21 +1058,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260121-pdo05.htm",
-        "timestamp": "2026-01-22T07:43:54+00:00",
-        "text": "Mainland says DPP's so-called trade deal with U.S. sells out Taiwan's interests \nThe so-called \"consensus\" reached by Taiwan's Democratic Progressive Party (DPP) authorities in tariff talks with the United States amounts to a betrayal of the well-being of Taiwan people and the interests of its industrial development, a Chinese mainland sp… \nPeople's Daily Online\r\n(Xinhua) 14:22, January 21, 2026\r\nBEIJING, Jan. 21 (Xinhua) -- The so-called \"consensus\" reached by Taiwan's Democratic Progressive Party (DPP) authorities in tariff talks with… [+1438 chars]",
-        "positive": 3.0250188501668163e-05,
-        "negative": 6.327591108856723e-06,
-        "neutral": 0.9999634027481079
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260121-pdo03.htm",
-        "timestamp": "2026-01-22T07:43:54+00:00",
-        "text": "Mainland says DPP's so-called trade deal with U.S. sells out Taiwan's interests \nThe so-called \"consensus\" reached by Taiwan's Democratic Progressive Party (DPP) authorities in tariff talks with the United States amounts to a betrayal of the well-being of Taiwan people and the interests of its industrial development, a Chinese mainland sp… \nPeople's Daily Online\r\n(Xinhua) 14:22, January 21, 2026\r\nBEIJING, Jan. 21 (Xinhua) -- The so-called \"consensus\" reached by Taiwan's Democratic Progressive Party (DPP) authorities in tariff talks with… [+1438 chars]",
-        "positive": 3.0250188501668163e-05,
-        "negative": 6.327591108856723e-06,
-        "neutral": 0.9999634027481079
+        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-estonia-mfa01.htm",
+        "timestamp": "2026-01-22T07:43:53+00:00",
+        "text": "Undersecretary Roger after the NB8 political directors' meeting: supporting Ukraine and increasing pressure on Russia to achieve a just and lasting peace is a priority of our Nordic-Baltic chairmanship in 2026 \nYesterday and today, on 20 and 21 January, the Foreign Ministry's Undersecretary for Political Affairs, Martin Roger, hosted the political directors of the foreign ministries of the Nordic and Baltic countries (NB8) in Tallinn. \nRepublic of Estonia - Ministry of Foreign Affairs\r\n21.01.2026 | 17:04\r\nYesterday and today, on 20 and 21 January, the Foreign Ministry's Undersecretary for Political Affairs, Martin Roger, hosted the… [+1885 chars]",
+        "positive": 2.2355303372023627e-05,
+        "negative": 5.630744999507442e-05,
+        "neutral": 0.9999213218688965
       },
       {
         "source": "news",
@@ -626,24 +1076,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-estonia-mfa01.htm",
-        "timestamp": "2026-01-22T07:43:53+00:00",
-        "text": "Undersecretary Roger after the NB8 political directors' meeting: supporting Ukraine and increasing pressure on Russia to achieve a just and lasting peace is a priority of our Nordic-Baltic chairmanship in 2026 \nYesterday and today, on 20 and 21 January, the Foreign Ministry's Undersecretary for Political Affairs, Martin Roger, hosted the political directors of the foreign ministries of the Nordic and Baltic countries (NB8) in Tallinn. \nRepublic of Estonia - Ministry of Foreign Affairs\r\n21.01.2026 | 17:04\r\nYesterday and today, on 20 and 21 January, the Foreign Ministry's Undersecretary for Political Affairs, Martin Roger, hosted the… [+1885 chars]",
-        "positive": 2.2355303372023627e-05,
-        "negative": 5.630744999507442e-05,
-        "neutral": 0.9999213218688965
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-presstv01.htm",
-        "timestamp": "2026-01-22T07:43:53+00:00",
-        "text": "Hamas warns of 'systematic Israeli violations' as Gaza ceasefire teeters \nThe Palestinian resistance movement Hamas has reaffirmed its commitment to the Gaza ceasefire, warning that Israel's \"repeated systematic violations\" are undermining the agreement, which has now passed the 100-day mark. \nIran Press TV\r\nWednesday, 21 January 2026 7:16 PM\r\n The Palestinian resistance movement Hamas has reaffirmed its commitment to the Gaza ceasefire, warning that Israel's \"repeated systematic violation… [+1918 chars]",
-        "positive": 0.04358886182308197,
-        "negative": 0.2012958526611328,
-        "neutral": 0.7551152110099792
-      },
-      {
-        "source": "news",
         "id": "https://www.globalsecurity.org/wmd/library/news/iran/2026/01/iran-260121-presstv03.htm",
         "timestamp": "2026-01-22T07:43:53+00:00",
         "text": "US Treasury Secretary admits sanctions seek to destabilize Iran's economy, fuel unrest \nUS Treasury Secretary Scott Bessent has openly acknowledged the role of US sanctions in destabilizing Iran's economy and fueling public unrest. \nIran Press TV\r\nWednesday, 21 January 2026 9:02 AM\r\nUS Treasury Secretary Scott Bessent has openly acknowledged the role of US sanctions in destabilizing Iran's economy and fueling public unrest.\r\nSpe… [+1894 chars]",
@@ -653,147 +1085,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260122-pdo01.htm",
+        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-presstv01.htm",
         "timestamp": "2026-01-22T07:43:53+00:00",
-        "text": "Davos becomes political battleground after Trump's Greenland threats \nThe World Economic Forum (WEF) in Davos, traditionally a key platform for discussing global economic trends and promoting cooperative development, is evolving into a political battleground this year amid growing tensions over U.S. President Donald Trump's bid… \nPeople's Daily Online\r\n(Xinhua) 10:05, January 22, 2026\r\nBEIJING, Jan. 21 (Xinhua) -- The World Economic Forum (WEF) in Davos, traditionally a key platform for discussing global economic trends and p… [+4903 chars]",
-        "positive": 4.8131507355719805e-05,
-        "negative": 9.399354894412681e-06,
-        "neutral": 0.999942421913147
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/france/2026/france-260120-presstv01.htm",
-        "timestamp": "2026-01-22T07:43:53+00:00",
-        "text": "Trump threatens 200% wine tariffs on France to push Macron to join Gaza board \nUS President Donald Trump has lashed out at French President Emmanuel Macron over his refusal to join Washington's so-called \"Board of Peace\" for Gaza, as the initiative faces mounting criticism from international legal experts who describe it as an extension… \nIran Press TV\r\nTuesday, 20 January 2026 11:06 AM\r\nUS President Donald Trump has lashed out at French President Emmanuel Macron over his refusal to join Washington's so-called \"Board of Peace\" for Gaz… [+3123 chars]",
-        "positive": 0.004615394398570061,
-        "negative": 0.09000115096569061,
-        "neutral": 0.9053834080696106
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260122-globaltimes01.htm",
-        "timestamp": "2026-01-22T07:43:53+00:00",
-        "text": "Trump reportedly drops Greenland tariff threat with claim of 'framework'; ultimate outcome remains uncertain: Chinese expert \nUS President Donald Trump has announced that he would not impose tariffs he had threatened to impose on eight European nations that had been set to take effect on February 1 unless those nations allowed the US to take control of Greenland, according to multip… \nGlobal Times\r\nBy Feng Fan and Liu Caiyu Published: Jan 22, 2026 01:42 PM\r\nUS President Donald Trump has announced that he would not impose tariffs he had threatened to impose on eight European nation… [+5380 chars]",
-        "positive": 0.00020639026479329914,
-        "negative": 0.05645652860403061,
-        "neutral": 0.943337082862854
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-globaltimes01.htm",
-        "timestamp": "2026-01-22T07:43:53+00:00",
-        "text": "Trump claims not to use force to acquire Greenland, yet WEF speeches expose widening US-Europe divide \nThe US and its traditional allies in Europe and Canada appeared increasingly divided in Davos, Switzerland, as a string of Western leaders voiced direct or thinly veiled concerns over Washington's recent policies during the ongoing World Economic Forum's annu… \nGlobal Times\r\nBy Feng Fan Published: Jan 21, 2026 11:40 PM\r\nThe US and its traditional allies in Europe and Canada appeared increasingly divided in Davos, Switzerland, as a string of Western leaders … [+7712 chars]",
-        "positive": 0.0002341874351259321,
-        "negative": 0.02435813471674919,
-        "neutral": 0.975407600402832
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260121-sputnik02.htm",
-        "timestamp": "2026-01-22T07:43:53+00:00",
-        "text": "Trump Warns EU's 'Trade Bazooka' to Ricochet, Vows Response From US \nAnything Europe does against the United States will ricochet back, US President Donald Trump said. \nSputnik News\r\n20260121\r\nMOSCOW (Sputnik) - Anything Europe does against the United States will ricochet back, US President Donald Trump said.\r\nOn January 17, Trump announced that he would impose addi… [+1501 chars]",
-        "positive": 0.00015669431013520807,
-        "negative": 0.017542732879519463,
-        "neutral": 0.9823005795478821
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260120-presstv02.htm",
-        "timestamp": "2026-01-22T07:43:53+00:00",
-        "text": "Macron slams Trump's 'bullying' as US threatens tariffs, pushes Greenland grab \nFrench President Emmanuel Macron has denounced US President Donald Trump's threats to seize Greenland, calling the move an act of bullying and warning that Europe may be forced to counter Washington's escalating economic coercion. \nIran Press TV\r\nTuesday, 20 January 2026 7:00 PM\r\nFrench President Emmanuel Macron has denounced US President Donald Trump's threats to seize Greenland, calling the move an act of bullying and warning… [+2098 chars]",
-        "positive": 0.004605304915457964,
-        "negative": 0.9696540236473083,
-        "neutral": 0.025740649551153183
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/china/2026/01/china-260121-globaltimes07.htm",
-        "timestamp": "2026-01-22T07:43:52+00:00",
-        "text": "China will take necessary measures to safeguard Chinese firms' legitimate rights, interests: FM on EU plan to phase out 'high-risk' suppliers \nThe European Commission, disregarding the fundamental fact that Chinese companies provide safe and high-quality products, and ignoring the solid foundation and potential for cooperation between China and the EU in the field of digital networks, has engaged in… \nGlobal Times\r\nBy Global Times Published: Jan 21, 2026 04:56 PM\r\nThe European Commission, disregarding the fundamental fact that Chinese companies provide safe and high-quality products, and ignoring … [+2412 chars]",
-        "positive": 0.31970080733299255,
-        "negative": 0.0017099172109737992,
-        "neutral": 0.6785892844200134
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260121-pdo01.htm",
-        "timestamp": "2026-01-22T07:43:52+00:00",
-        "text": "Canadian PM voices support for Greenland, Denmark, opposing U.S. tariffs in Davos \nCanadian Prime Minister Mark Carney on Tuesday expressed strong support for Greenland and Denmark and opposition to tariffs proposed by the United States. \nPeople's Daily Online\r\n(Xinhua) 11:27, January 21, 2026\r\nDAVOS, Switzerland, Jan. 20 (Xinhua) -- Canadian Prime Minister Mark Carney on Tuesday expressed strong support for Greenland and Denmark and … [+980 chars]",
-        "positive": 0.9999680519104004,
-        "negative": 2.9238522074592765e-06,
-        "neutral": 2.8978400223422796e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260121-presstv01.htm",
-        "timestamp": "2026-01-22T07:43:52+00:00",
-        "text": "Canada PM: World order in 'midst of a rupture' from American hegemony \nCanadian Prime Minister Mark Carney warns that the so-called US-led global system of governance is breaking apart, driven by the expansionist posture and raw power politics of President Donald Trump's administration. \nIran Press TV\r\nWednesday, 21 January 2026 6:17 AM\r\nCanadian Prime Minister Mark Carney warns that the so-called US-led global system of governance is breaking apart, driven by the expansionist postur… [+2971 chars]",
-        "positive": 0.007216593716293573,
-        "negative": 0.7809892892837524,
-        "neutral": 0.21179412305355072
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/is-a-springtail-a-silverfish/",
-        "timestamp": "2026-01-22T07:43:36+00:00",
-        "text": "Is a springtail a silverfish? \nIs a Springtail a Silverfish? Separating Fact from Fiction No, a springtail is absolutely not a silverfish. They are distinct creatures belonging to different insect classes, possessing different characteristics and habits. Unraveling the Confusion: Understan… \nNo, a springtail is absolutely not a silverfish. They are distinct creatures belonging to different insect classes, possessing different characteristics and habits.\r\nUnraveling the Confusion: Underst… [+6293 chars]",
-        "positive": 5.448652518680319e-05,
-        "negative": 0.00016857347509358078,
-        "neutral": 0.9997770190238953
-      },
-      {
-        "source": "news",
-        "id": "https://www.geeky-gadgets.com/core-ai-basics/",
-        "timestamp": "2026-01-22T07:43:26+00:00",
-        "text": "Master AI Faster with These 5 Practical Building Blocks Today \nWhat if your approach to learning AI is setting you up for failure? Parker Prompts outlines how skipping the fundamentals of artificial intelligence can leave you overwhelmed, inefficient, and unable to fully use its fantastic power. Imagine trying to drive a… \nWhat if your approach to learning AI is setting you up for failure? Parker Prompts outlines how skipping the fundamentals of artificial intelligence can leave you overwhelmed, inefficient, and unable… [+8134 chars]",
-        "positive": 0.001889778533950448,
-        "negative": 0.0001806127984309569,
-        "neutral": 0.9979296922683716
-      },
-      {
-        "source": "news",
-        "id": "https://anfieldindex.com/90418/702m-windfall-revenue-sees-liverpool-top-money-league-for-first-time.html",
-        "timestamp": "2026-01-22T07:43:00+00:00",
-        "text": "£702m windfall revenue sees Liverpool top money league for first time \nLiverpool Rise to the Summit of the Deloitte Money League as England’s New Financial PowerhouseLiverpool’s ascent to the top of the Deloitte Money League is more than a balance-sheet victory. It i... \nLiverpools ascent to the top of the Deloitte Money League is more than a balance-sheet victory. It is a marker of cultural reach, competitive relevance, and institutional confidence in an era where f… [+4730 chars]",
-        "positive": 0.5722668170928955,
-        "negative": 0.00044815641012974083,
-        "neutral": 0.4272850751876831
-      },
-      {
-        "source": "news",
-        "id": "https://japantoday.com/category/business/japan-records-5th-straight-yearly-trade-deficit",
-        "timestamp": "2026-01-22T07:42:41+00:00",
-        "text": "Japan records 5th straight yearly trade deficit \nJapan posted a trade deficit for the fifth straight year in 2025, according to government data released Thursday, as concerns continued to grow over U.S. President Donald Trump’s tariffs and Japan's political rift with neighboring China. For the full year, Ja… \nJapan posted a trade deficit for the fifth straight year in 2025, according to government data released Thursday, as concerns continued to grow over U.S. President Donald Trumps tariffs and Japan's p… [+1734 chars]",
-        "positive": 0.005311108659952879,
-        "negative": 0.8840320110321045,
-        "neutral": 0.11065691709518433
-      },
-      {
-        "source": "news",
-        "id": "https://www.christiantoday.com/news/middle-east-christians-warn-rapid-growth-in-faith-is-outpacing-discipleship-support",
-        "timestamp": "2026-01-22T07:42:00+00:00",
-        "text": "Middle East Christians warn rapid growth in faith is outpacing discipleship support \nChristian leaders working across the Middle East say a surge in spiritual openness is leading thousands to explore faith in Jesus, but warn that a lack of local discipleship structures risks leaving many new believers unsupported. \nA CMS partner whose identity has been hidden for security reasons. (Photo: Church Mission Society)\r\nChristian leaders working across the Middle East say a surge in spiritual openness is leading thous… [+3798 chars]",
-        "positive": 0.7807750701904297,
-        "negative": 0.10226889699697495,
-        "neutral": 0.11695603281259537
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/brandhub/pr-release/am-group-signs-landmark-mou-with-uttar-pradesh-government-to-set-up-gw-scale-ai-compute-hub-enabling-democratization-of-ai-from-electron-agents-to-intelligent-tokens/article70536663.ece",
-        "timestamp": "2026-01-22T07:41:59+00:00",
-        "text": "AM Group Signs Landmark MoU with Uttar Pradesh Government to set up GW scale AI Compute Hub enabling Democratization of AI from Electron Agents to Intelligent Tokens \nAM Group Signs Landmark MoU with Uttar Pradesh Government to set up GW scale AI Compute Hub enabling Democratization of AI from Electron Agents to Intelligent Tokens \nDAVOS, Switzerland, Jan. 21, 2026 /PRNewswire/ -- AM Group, the leading energy transition platform backed by the founders of Greenko Group, today announced the signing of a Memorandum of Understandin… [+4954 chars]",
-        "positive": 0.029972823336720467,
-        "negative": 6.230887811398134e-05,
-        "neutral": 0.969964861869812
-      },
-      {
-        "source": "news",
-        "id": "https://www.christiantoday.com/news/young-adults-driving-renewed-interest-in-christianity-research-finds",
-        "timestamp": "2026-01-22T07:41:00+00:00",
-        "text": "Young adults driving renewed interest in Christianity, research finds \nA new set of supplemental reports from the Evangelical Alliance suggests that young adults are emerging as a significant group among those coming to Christian faith in the UK, with authenticity, Scripture and community proving decisive factors in their journe… \n(Photo: Getty/iStock)\r\nA new set of supplemental reports from the Evangelical Alliance suggests that young adults are emerging as a significant group among those coming to Christian faith in the UK, … [+7255 chars]",
-        "positive": 0.7367864847183228,
-        "negative": 0.00015943920880090445,
-        "neutral": 0.26305410265922546
+        "text": "Hamas warns of 'systematic Israeli violations' as Gaza ceasefire teeters \nThe Palestinian resistance movement Hamas has reaffirmed its commitment to the Gaza ceasefire, warning that Israel's \"repeated systematic violations\" are undermining the agreement, which has now passed the 100-day mark. \nIran Press TV\r\nWednesday, 21 January 2026 7:16 PM\r\n The Palestinian resistance movement Hamas has reaffirmed its commitment to the Gaza ceasefire, warning that Israel's \"repeated systematic violation… [+1918 chars]",
+        "positive": 0.04358886182308197,
+        "negative": 0.2012958526611328,
+        "neutral": 0.7551152110099792
       },
       {
         "source": "news",
@@ -833,30 +1130,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.computerweekly.com/microscope/news/366637486/Maintel-pipeline-remains-strong",
-        "timestamp": "2026-01-22T07:38:00+00:00",
-        "text": "Maintel pipeline remains strong \nChannel player shares an update on how its last fiscal year went with it clear there were challenges as well as positives \nManaged services player (MSP) Maintel has shared a trading update that indicates it will meet expectations for its fiscal year, with that resulting in a decline in both profits and revenues.\r\nThe fir… [+3227 chars]",
-        "positive": 0.0008604939212091267,
-        "negative": 0.9990924596786499,
-        "neutral": 4.700512727140449e-05
-      },
-      {
-        "source": "news",
         "id": "https://www.thelocal.de/20260122/today-in-germany-a-roundup-of-the-latest-news-on-thursday-103",
         "timestamp": "2026-01-22T07:37:20+00:00",
         "text": "Today in Germany: A roundup of the latest news on Thursday \nNursing home costs in Germany top €5,000 a month, experts urge return of German gold reserves from US, home delivery services for groceries experience rapid growth and more news on Thursday, January 22nd. \nNursing home costs in Germany top 5,000 a month, experts urge return of German gold reserves from US, home delivery services for groceries experience rapid growth and more news on Thursday, January 2… [+6289 chars]",
         "positive": 0.999982476234436,
         "negative": 3.20867388836632e-06,
         "neutral": 1.4312007806438487e-05
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/economy/policy/et-budget-2026-survey-nirmala-sitharaman-income-tax-expectations-jobs-industry-exports-tariffs/articleshow/127118336.cms",
-        "timestamp": "2026-01-22T07:36:50+00:00",
-        "text": "ET Budget 2026 Survey: No easy choices for India this year as policy space shrinks dramatically in tariffs' wake \nBudget 2026 Expectations Survey: With February 1 on the horizon, India finds itself grappling with uncertain global trade dynamics and various domestic challenges. ET's pre-budget survey indicates that citizens are overwhelmingly in favour of promoting local … \nBudget 2026 arrives amid a far more testing global and domestic environment than in recent years. The first year of Donald Trumps second presidential term has altered the contours of global trade in … [+5644 chars]",
-        "positive": 0.0012562561314553022,
-        "negative": 0.842586100101471,
-        "neutral": 0.15615762770175934
       },
       {
         "source": "news",
@@ -869,93 +1148,12 @@
       },
       {
         "source": "news",
-        "id": "https://indianexpress.com/article/explained/explained-global/davos-trump-greenland-deal-europe-10488407/",
-        "timestamp": "2026-01-22T07:32:59+00:00",
-        "text": "How Trump gets what he wants: Clues from Greenland deal announcement at Davos \nTrump’s manoeuvres to take control of Greenland, citing its strategic significance to the US, find an echo in his earlier gambits and send a clear message to the rest of the world. \nAfter days of threats of military intervention and tariffs, US President Donald Trump walked off the ledge by announcing that a framework had been reached for a deal with the North Atlantic Treaty Or… [+6197 chars]",
-        "positive": 0.000588109134696424,
-        "negative": 0.003446855815127492,
-        "neutral": 0.9959651231765747
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180636832",
-        "timestamp": "2026-01-22T07:32:14+00:00",
-        "text": "'We can handle any kind of difficult situation': Crew-11 astronauts say 1st medical evacuation from ISS had a silver lining - Space \n'We can handle any kind of difficult situation': Crew-11 astronauts say 1st medical evacuation from ISS had a silver liningSpace NASA’s SpaceX Crew-11 to Discuss Space Station Science MissionNASA (.gov) Scripps Memorial Hospital La Jolla received astronauts a… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 4.50630523118889e-06,
-        "negative": 4.228773104841821e-05,
-        "neutral": 0.9999531507492065
-      },
-      {
-        "source": "news",
         "id": "https://ahouseinthehills.com/what-colors-go-with-cream-easy-matching-ideas/",
         "timestamp": "2026-01-22T07:32:06+00:00",
         "text": "What Colors Go with Cream: 30 Easy Matching Ideas \nCream is one of those colors that feels calm, soft, and easy to live with. But when it comes time to style it, many people get stuck. Should you pair cream with dark colors, soft neutrals, or bold shades? The good news is that cream works with more colors tha… \nCream is one of those colors that feels calm, soft, and easy to live with. But when it comes time to style it, many people get stuck.\r\nShould you pair cream with dark colors, soft neutrals, or bold s… [+10863 chars]",
         "positive": 0.00012546320795081556,
         "negative": 0.00013901757483836263,
         "neutral": 0.9997355341911316
-      },
-      {
-        "source": "news",
-        "id": "https://paultan.org/2026/01/22/bmw-ix3-na5-long-wheelbase-to-debut-in-china-in-april-coming-to-malaysia/",
-        "timestamp": "2026-01-22T07:31:31+00:00",
-        "text": "BMW iX3 Long Wheelbase to debut in China in April – 900 km CLTC; stretched NA5 coming to Malaysia \nThe Neue Klasse-based (NA5) BMW iX3 will gain a long wheelbase version that is set to make its debut at this year’s Auto Beijing near the end of April. Officially called the iX3 Long Wheelbase […]\nThe post BMW iX3 Long Wheelbase to debut in China in April – 9… \nThe Neue Klasse-based (NA5) BMW iX3 will gain a long wheelbase version that is set to make its debut at this years Auto Beijing near the end of April. Officially called the iX3 Long Wheelbase as stat… [+2096 chars]",
-        "positive": 0.01722479984164238,
-        "negative": 3.470214505796321e-05,
-        "neutral": 0.9827405214309692
-      },
-      {
-        "source": "news",
-        "id": "https://www.holidaypirates.com/flights/return-flights-to-taipei-city-taiwan",
-        "timestamp": "2026-01-22T07:30:00+00:00",
-        "text": "Bonkers price  Return flights to Taipei City, Taiwan  \nPirates, we’ve spotted great-value flights to Taiwan this summer with China Eastern Airlines! Depart from London from just £383, with a short stopover in Shanghai, China. Baggage is included, so you can travel stress-free.Believe it or not, this price is the … \nPirates, weve spotted great-value flights to Taiwan this summer with China Eastern Airlines! Depart from London from just £383, with a short stopover in Shanghai, China. Baggage is included, so you c… [+334 chars]",
-        "positive": 5.267853794066468e-06,
-        "negative": 2.598473656689748e-05,
-        "neutral": 0.9999687671661377
-      },
-      {
-        "source": "news",
-        "id": "https://www.prnewswire.co.uk/news-releases/bekos-smart-living-index-finds-economic-pressure-drives-surge-in-sustainable-living-302666755.html",
-        "timestamp": "2026-01-22T07:30:00+00:00",
-        "text": "Beko's Smart Living Index finds Economic Pressure Drives Surge in Sustainable Living \nISTANBUL, Jan. 22, 2026 /PRNewswire/ -- Beko, the leading global home appliance company, today unveiled its proprietary Smart Living Index (SLI). The study revealed that financial pressures are now the biggest driver of adoption of sustainable household behav… \nISTANBUL, Jan. 22, 2026 /PRNewswire/ -- Beko, the leading global home appliance company, today unveiled its proprietary Smart Living Index (SLI). The study revealed that financial pressures are now t… [+7240 chars]",
-        "positive": 0.32377102971076965,
-        "negative": 0.001952695893123746,
-        "neutral": 0.6742763519287109
-      },
-      {
-        "source": "news",
-        "id": "https://www.thelocal.se/20260122/today-in-sweden-a-roundup-of-the-latest-news-on-thursday-229",
-        "timestamp": "2026-01-22T07:29:37+00:00",
-        "text": "Today in Sweden: A roundup of the latest news on Thursday \nSwedish stock market expected to rise after Trump drops tariff threat, more Christmas presents bought online, and other news from Sweden on Thursday. \nSwedish stock market expected to rise after Trump drops tariff threat, more Christmas presents bought online, and other news from Sweden on Thursday.\r\n Swedish stock market expected to rise after Tru… [+2790 chars]",
-        "positive": 0.7634587287902832,
-        "negative": 0.0003448081261012703,
-        "neutral": 0.23619647324085236
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2026/01/22/davos-wef-green-energy-climate-change-trump.html",
-        "timestamp": "2026-01-22T07:29:08+00:00",
-        "text": "Top business leaders issue an expletive-laced message on the green backlash \nTop business leaders at the World Economic Forum delivered an expletive-laden message on the green backlash. \nThia photograph shows a sign displayed by the World Economic Forum (WEF) on the eve of the WEF annual meeting in Davos on January 18, 2026.\r\nTop business leaders this week delivered an expletive-lade… [+6743 chars]",
-        "positive": 0.01539320033043623,
-        "negative": 0.0001228669862030074,
-        "neutral": 0.9844838976860046
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/expert-view/rupee-stability-key-market-trigger-as-earnings-hold-up-rahul-singh/articleshow/127119576.cms",
-        "timestamp": "2026-01-22T07:28:42+00:00",
-        "text": "Rupee stability key market trigger as earnings hold up: Rahul Singh \nIndian equities are seeking a decisive trigger amidst noisy global cues and improving domestic fundamentals. While earnings season has met expectations, macro concerns, particularly currency stability, are weighing on investor confidence. Valuations are norma… \nIndian equities are searching for their next decisive trigger at a time when global cues remain noisy and domestic fundamentals are gradually improving. While geopolitical developments including a re… [+4458 chars]",
-        "positive": 0.999896764755249,
-        "negative": 9.184777445625514e-05,
-        "neutral": 1.1266583896940574e-05
-      },
-      {
-        "source": "news",
-        "id": "https://m.economictimes.com/news/india/harvard-offers-7-free-data-science-courses-how-to-enroll-and-get-certified-from-the-worlds-top-university/harvard-offers-7-free-data-science-courses-learn-from-the-worlds-top-university/slideshow/127120616.cms",
-        "timestamp": "2026-01-22T07:28:29+00:00",
-        "text": "Harvard offers 7 free data science courses – How to enroll and get certified from the 'World’s top university' \nHarvard University is offering 7 free data science courses through its online platform, accessible globally. These self-paced programs cover essential topics like data visualization, statistical inference, probability, linear regression, causal diagrams, and … \nJan 22, 2026, 12:59:14 PM IST\r\nHarvard University is offering 7 free data science courses through its online platform, accessible globally. These self-paced programs cover essential topics like data … [+3023 chars]",
-        "positive": 4.4867494580103084e-05,
-        "negative": 9.183316365124483e-07,
-        "neutral": 0.9999542236328125
       },
       {
         "source": "news",
@@ -1301,21 +1499,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.irishtimes.com/opinion/2026/01/22/newton-emerson-sinn-feins-refusal-to-levy-a-charge-on-water-is-pathetic/",
-        "timestamp": "2026-01-22T06:00:01+00:00",
-        "text": "Newton Emerson: Sinn Féin’s refusal to levy a charge on water is pathetic \nIf well-off homeowners paid a wealth tax equivalent to a cup of coffee a month, there would be more houses, jobs and a cleaner environment \nThe futility of hoping Sinn Féin will fix Northern Irelands water system was laid bare in the Assembly on Monday.\r\nLiz Kimmins, the partys infrastructure minister, ruled out a proposal from a coaliti… [+4771 chars]",
-        "positive": 0.0001455814781365916,
-        "negative": 0.0019545634277164936,
-        "neutral": 0.9978997707366943
-      },
-      {
-        "source": "news",
         "id": "https://www.irishtimes.com/opinion/2026/01/22/daniel-geary-a-tired-resentful-trumps-claim-that-he-wont-take-greenland-by-force-is-not-reassuring/",
         "timestamp": "2026-01-22T06:00:01+00:00",
         "text": "Daniel Geary: Tired Trump’s claim that he won’t take Greenland by force is not reassuring \nAt Davos, the US president repeated his determination to possess what he keeps calling ‘that piece of ice’ \nDonald Trumps new years resolution for 2026 appears to have been to push everything to its breaking point. ICE thugs roam the streets of American cities, abducting people in unmarked vans, while the … [+6544 chars]",
         "positive": 3.126892261207104e-05,
         "negative": 0.000949686742387712,
         "neutral": 0.9990190267562866
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/opinion/2026/01/22/newton-emerson-sinn-feins-refusal-to-levy-a-charge-on-water-is-pathetic/",
+        "timestamp": "2026-01-22T06:00:01+00:00",
+        "text": "Newton Emerson: Sinn Féin’s refusal to levy a charge on water is pathetic \nIf well-off homeowners paid a wealth tax equivalent to a cup of coffee a month, there would be more houses, jobs and a cleaner environment \nThe futility of hoping Sinn Féin will fix Northern Irelands water system was laid bare in the Assembly on Monday.\r\nLiz Kimmins, the partys infrastructure minister, ruled out a proposal from a coaliti… [+4771 chars]",
+        "positive": 0.0001455814781365916,
+        "negative": 0.0019545634277164936,
+        "neutral": 0.9978997707366943
       },
       {
         "source": "news",
@@ -1328,15 +1526,6 @@
       },
       {
         "source": "news",
-        "id": "https://wattsupwiththat.com/2026/01/21/climate-change-is-no-longer-a-high-priority-for-the-attending-global-elites-at-the-world-economic-forum-meeting-in-davos/",
-        "timestamp": "2026-01-22T06:00:00+00:00",
-        "text": "‘Climate change is no longer a high priority for the attending global elites’ at the World Economic Forum meeting in Davos \nClimate Change News and the WEF should get with the program and realize that their concerns do not reflect the needs of the people they are supposed to represent. These business leaders and politicians have an outsized power over the rest of us, and it is wor… \nFrom CLIMATE DEPOT\r\nBy  Admin\r\nWorld Economic Forum Elites Should Focus on Economics, Not Climate Change or Climate News\r\nBy Linnea Lueken\r\nA recent article at Climate Change News discussing this wee… [+4672 chars]",
-        "positive": 0.011918348260223866,
-        "negative": 0.00066859379876405,
-        "neutral": 0.9874130487442017
-      },
-      {
-        "source": "news",
         "id": "https://www.naturalnews.com/2026-01-22-vibe-coding-reclaiming-programming-from-soulless-corporate-machine.html",
         "timestamp": "2026-01-22T06:00:00+00:00",
         "text": "Vibe Coding: Reclaiming Programming from the Soulless Corporate Machine \nIntroduction: A Rebellion in Binary The coding profession is in crisis. Once a vibrant frontier for problem-solvers and creators, it has been systematically hollowed out by corporate culture, turned into a joyless grind of chasing arbitrary metrics and meetin… \nIntroduction: A Rebellion in Binary\r\nThe coding profession is in crisis. Once a vibrant frontier for problem-solvers and creators, it has been systematically hollowed out by corporate culture, turned… [+8472 chars]",
@@ -1346,201 +1535,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.hrw.org/news/2026/01/22/children-affected-by-ethiopia-mine-pollution-need-justice",
+        "id": "https://wattsupwiththat.com/2026/01/21/climate-change-is-no-longer-a-high-priority-for-the-attending-global-elites-at-the-world-economic-forum-meeting-in-davos/",
         "timestamp": "2026-01-22T06:00:00+00:00",
-        "text": "Children Affected by Ethiopia Mine Pollution Need Justice \nClick to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n A 16-year-old boy collects water from a spring near Lega Dembi gold mine in the Oromia region of Ethiopia. \n © 2020 Tom Gardner\n \n \n\n\n \nPeople living near Lega Dembi gold mine in Ethiopia’s Oromia region have for yea… \nPeople living near Lega Dembi gold mine in Ethiopias Oromia region have for years complained about serious health impacts, including children born with long-term health conditions, miscarriages, and … [+2093 chars]",
-        "positive": 9.539021448290441e-06,
-        "negative": 0.0016523264348506927,
-        "neutral": 0.9983381032943726
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/property/residential/2026/01/20/rent-now-buy-later-the-new-model-looking-to-shake-up-how-we-purchase-our-homes/",
-        "timestamp": "2026-01-22T06:00:00+00:00",
-        "text": "Rent now, buy later: A new model for purchasing a home \nAimed at those who can’t afford to buy, or are without mortgage approval, scheme offers opportunity to move from renter to owner \nWhen Andrew Lynch came back from London with his family in 2021, the goal was to quickly buy a home in Dublin.\r\nHowever, things didnt quite go to plan, as, although the couple had good jobs and a goo… [+10941 chars]",
-        "positive": 0.0020536817610263824,
-        "negative": 0.0016855999128893018,
-        "neutral": 0.9962607026100159
-      },
-      {
-        "source": "news",
-        "id": "http://wwd.com/fashion-news/fashion-scoops/givenchy-sarah-burton-snatch-new-bag-1238466745/",
-        "timestamp": "2026-01-22T06:00:00+00:00",
-        "text": "EXCLUSIVE: Givenchy and Sarah Burton Hope to Snatch a Bestseller With New Bag Design \nThe Snatch is Sarah Burton’s first major handbag introduction for Givenchy, and launches Thursday with a campaign fronted by Emeline Hoareau and shot by David Sims. \nSNATCH IT UP:Givenchy is hoping customers will be raring to get hold of its new bag design, dubbed The Snatch, when it launches Thursday. The design is the first major handbag introduction since Sara… [+1493 chars]",
-        "positive": 0.01597953960299492,
-        "negative": 5.916180816711858e-05,
-        "neutral": 0.9839613437652588
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-01-22-washingtons-sanctions-gamble-backfires.html",
-        "timestamp": "2026-01-22T06:00:00+00:00",
-        "text": "Washington’s Sanctions Gamble Backfires, Leaving a Golden Russia and a Broken Dollar \nThe Unspoken Victory: How Russia’s Gold Wealth Defeats Western Economic Warfare In February 2022, the United States and its allies unleashed the most severe economic sanctions in modern history against Russia, aiming to cripple its financial system and isolat… \nThe Unspoken Victory: How Russias Gold Wealth Defeats Western Economic Warfare\r\nIn February 2022, the United States and its allies unleashed the most severe economic sanctions in modern history again… [+9666 chars]",
-        "positive": 0.004578155931085348,
-        "negative": 0.005503188818693161,
-        "neutral": 0.9899187088012695
-      },
-      {
-        "source": "news",
-        "id": "https://www.fool.com.au/2026/01/22/here-are-the-top-10-asx-200-shares-today-22-january-2026/",
-        "timestamp": "2026-01-22T05:51:31+00:00",
-        "text": "Here are the top 10 ASX 200 shares today \nThe ASX just snapped a three-day losing streak. \nThe post Here are the top 10 ASX 200 shares today appeared first on The Motley Fool Australia. \nThe S&amp;P/ASX 200 Index (ASX: XJO) snapped its three-day losing streak to push decisively upwards this Thursday, pushing many stocks to a gain. After remaining in green territory all day, the ASX 2… [+2550 chars]",
-        "positive": 0.9968259334564209,
-        "negative": 0.0020859295036643744,
-        "neutral": 0.0010881585767492652
-      },
-      {
-        "source": "news",
-        "id": "https://ahouseinthehills.com/what-is-a-deed-to-a-house/",
-        "timestamp": "2026-01-22T05:47:53+00:00",
-        "text": "What Is a Deed to a House and Why It Matters? \nMost people handle mortgage payments and property taxes with ease, but when someone asks, “what is a deed to a house,” things get foggy. This crucial document often gets overlooked until it’s urgently needed. Understanding house deeds isn’t just legal jargon;… \nMost people handle mortgage payments and property taxes with ease, but when someone asks, “what is a deed to a house,” things get foggy.\r\nThis crucial document often gets overlooked until it’s urgent… [+10722 chars]",
-        "positive": 5.6770466471789405e-05,
-        "negative": 0.00020583039440680295,
-        "neutral": 0.9997374415397644
-      },
-      {
-        "source": "news",
-        "id": "https://centuryofbio.com/p/sid",
-        "timestamp": "2026-01-22T05:47:01+00:00",
-        "text": "Going Founder Mode On Cancer - by Elliot Hershberg \n\"Cancer is a disease of information. Loss of genomic information threatens to destroy the self. It may have met its match with Sid.\"\n\nIn a massive Google Doc entitled “Sid Health Notes,” he and his team compile detailed entries for every medical interaction o… \nWelcome to The Century of Biology! This newsletter explores data, companies, and ideas from the frontier of biology. You can subscribe for free to have the next post delivered to your inbox:\r\nToday, … [+49294 chars]",
-        "positive": 0.00010620253306115046,
-        "negative": 8.051238182815723e-06,
-        "neutral": 0.9998856782913208
-      },
-      {
-        "source": "news",
-        "id": "https://english.khabarhub.com/2026/22/517277/",
-        "timestamp": "2026-01-22T05:45:33+00:00",
-        "text": "Gold price drops by Rs 2,900 per tola \nKATHMANDU: After reaching a record high the previous day, the price of gold in Nepal fell by Rs 2,900 per tola on Thursday. The Federation of Nepal Gold and Silver Dealers’ Association fixed the price at Rs 292,200 per tola, down from Rs 295,100 per tola the … \nKATHMANDU: After reaching a record high the previous day, the price of gold in Nepal fell by Rs 2,900 per tola on Thursday.\r\nThe Federation of Nepal Gold and Silver Dealers Association fixed the pric… [+295 chars]",
-        "positive": 0.00023999168479349464,
-        "negative": 0.0086889723315835,
-        "neutral": 0.9910711050033569
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/gold-price-today-goldman-sachs-upgrades-price-forecast-outlook-demand-2026-1",
-        "timestamp": "2026-01-22T05:44:01+00:00",
-        "text": "Why Goldman Sachs raised its gold price forecast 10% \nGoldman Sachs raises its December 2026 gold price forecast to $5,400 per ounce, citing strong private sector demand and central bank buying trends. \nGoldman Sachs has hiked its gold price forecast by 10% on the back of blistering private-sector demand for the precious metal.\r\nAnalysts at the Wall Street giant now expect gold prices to reach $5,40… [+2495 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 2.3375637425715468e-08,
-        "neutral": 1.4765294054086553e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.livemint.com/money/personal-finance/from-sips-to-safety-nets-how-parents-should-plan-for-soaring-education-costs-11769008368624.html",
-        "timestamp": "2026-01-22T05:42:24+00:00",
-        "text": "From SIPs to safety nets: How parents should plan for soaring education costs \nEducation costs in India are rising faster than inflation. Here's how parents can blend equity, debt and protection to build a resilient, goal-focused education plan for their children. \nAs education costs rise faster than inflation, many parents are starting to plan early for their childrens higher studies.\r\nKolkata-based Akash Samanta, 38, and Meghna Basu, 36, a homemaker, have not… [+6966 chars]",
-        "positive": 0.038807112723588943,
-        "negative": 0.0001813894632505253,
-        "neutral": 0.961011528968811
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/australia/australia-day-terror-plot-foiled-as-phd-candidate-sepehr-saryazdi-denied-bail-amid-heightened-security-after-bondi-terror-attack/articleshow/127107774.cms",
-        "timestamp": "2026-01-22T05:41:15+00:00",
-        "text": "Australia Day terror plot foiled as PhD candidate Sepehr Saryazdi denied bail amid heightened security after Bondi terror attack \nA Brisbane court has denied bail to Sepehr Saryazdi, a PhD candidate. He faces charges of preparing a terrorist act. Authorities allege Saryazdi planned a violent Australia Day attack on the Gold Coast. His plans reportedly involved Molotov cocktails. The cou… \nIn the wake of the Bondi Beach terrorist shooting, a Brisbane court has reinforced Australias heightened counterterrorism posture by denying bail to PhD candidate Sepehr Saryazdi, who is accused of p… [+3180 chars]",
-        "positive": 0.026324568316340446,
-        "negative": 0.11368118226528168,
-        "neutral": 0.8599942326545715
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/01/22/us-news/peta-wants-punxsutawney-phil-to-be-replaced-by-a-hologram/",
-        "timestamp": "2026-01-22T05:37:02+00:00",
-        "text": "PETA wants Punxsutawney Phil to be replaced by a hologram \n“PETA is urging the Punxsutawney Groundhog Club to chuck its tired tradition of harassing a shy animal and give Gobbler’s Knob a glow-up with a phantom prognosticator,\" said PETA Founder Ingrid Newkirk. \nIf it ain’t burrowed, don’t fix it. \r\nPETA is calling for Punxsutawney Phil, the world’s most famous groundhog, to be swapped out for a massive “state-of-the-art” hologram. \r\nThe animal rights organi… [+1820 chars]",
-        "positive": 1.5244239648382063e-06,
-        "negative": 5.794086973764934e-06,
-        "neutral": 0.9999926090240479
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/london-set-to-test-if-its-ipo-market-reforms-can-deliver-results",
-        "timestamp": "2026-01-22T05:35:07+00:00",
-        "text": "London Set to Test if its IPO Market Reforms Can Deliver Results \nFive years in the making, the City of London is set to find out if its equity market reforms can deliver results. \n(Bloomberg) Five years in the making, the City of London is set to find out if its equity market reforms can deliver results.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the… [+5079 chars]",
-        "positive": 3.129083324893145e-06,
-        "negative": 2.7927553674089722e-06,
-        "neutral": 0.999994158744812
-      },
-      {
-        "source": "news",
-        "id": "https://decrypt.co/355393/bitcoin-defi-tokenized-assets-cryptos-next-phase-ark",
-        "timestamp": "2026-01-22T05:30:40+00:00",
-        "text": "Bitcoin, DeFi and Tokenized Assets to Drive Crypto’s Next Phase, ARK Says \nBitcoin, DeFi, and tokenized assets are emerging as functional parts of global capital markets, ARK Invest wrote, though challenges persist. \nIn brief\r\n<ul><li>ARK Invest forecasts Bitcoin could account for roughly 70% of a projected $28 trillion digital-asset market by 2030, driven by ETF adoption and corporate treasuries.</li><li>DeFi va… [+4016 chars]",
-        "positive": 0.002350801834836602,
-        "negative": 3.649245627457276e-05,
-        "neutral": 0.997612714767456
-      },
-      {
-        "source": "news",
-        "id": "https://www.independent.ie/business/markets-stage-a-cautious-advance-as-donald-trump-rules-out-attack-on-greenland/a64014222.html",
-        "timestamp": "2026-01-22T05:30:00+00:00",
-        "text": "Markets stage a cautious advance as Donald Trump rules out attack on Greenland \nGlobal stock markets cautiously reacted to US president Donald Trump’s insistence that he won’t invade Greenland, as European leaders prepare to meet this evening in Brussels to co-ordinate a response to US threats. \nGlobal stock markets cautiously reacted to US president Donald Trumps insistence that he wont invade Greenland, as European leaders prepare to meet this evening in Brussels to co-ordinate a response … [+3042 chars]",
-        "positive": 0.002708722371608019,
-        "negative": 0.8401997685432434,
-        "neutral": 0.15709152817726135
-      },
-      {
-        "source": "news",
-        "id": "https://www.itnews.com.au/news/comms-department-queries-telstra-over-outback-leosat-outages-623086",
-        "timestamp": "2026-01-22T05:30:00+00:00",
-        "text": "Comms Department queries Telstra over outback LEOsat outages \nHarrowing roadhouse triple zero incident details revealed. \nThe federal government has started examining the performance of around 200 Telstra-supplied small cell mobile base stations providing service to remote communities using LEOsat services for connectiv… [+11737 chars]",
-        "positive": 6.871929940643895e-07,
-        "negative": 1.9023660570383072e-05,
-        "neutral": 0.9999802112579346
-      },
-      {
-        "source": "news",
-        "id": "https://www.trendir.com/small-bedroom-decor-ideas/",
-        "timestamp": "2026-01-22T05:26:41+00:00",
-        "text": "28 Small Bedroom Decor Ideas Born When Zero Tolerance Noticed the Room Was Doing Nothing \nSmall space, big style? Absolutely. These 28 small bedroom decor ideas are cozy, creative, and full of charm — ideal for making the most of every inch, adding personality, and turning even the tiniest room into a dreamy retreat. 28 Small Bedroom Decor Ideas T… \nSmall space, big style? Absolutely. These 28 small bedroom decor ideas are cozy, creative, and full of charm ideal for making the most of every inch, adding personality, and turning even the tiniest … [+11379 chars]",
-        "positive": 0.0011264034546911716,
-        "negative": 2.083262188534718e-05,
-        "neutral": 0.9988527297973633
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/afcon-2025-highlights-world-class-stadiums-var-drama-record-attendance/",
-        "timestamp": "2026-01-22T05:23:51+00:00",
-        "text": "AFCON 2025 highlights: World-class stadiums, VAR drama, record attendance \nExplore the AFCON 2025 highlights, from Morocco’s world-class stadiums to record revenue. We cover the VAR drama, officiating issues, and key takeaways.\n\nRead More: https://punchng.com/afcon-2025-highlights-world-class-stadiums-var-drama-record-attendance/ \nThe 2025 Africa Cup of Nations (AFCON) will long be remembered for the manner in which it ended.\r\nChaotic scenes unfolded at the end of regulation time in the final when the award of a penalty to Mor… [+6013 chars]",
-        "positive": 0.0008683621999807656,
-        "negative": 9.677242815087084e-06,
-        "neutral": 0.9991219639778137
-      },
-      {
-        "source": "news",
-        "id": "https://www.trendir.com/kitchen-rug-ideas/",
-        "timestamp": "2026-01-22T05:23:17+00:00",
-        "text": "30 Kitchen Rug Ideas Bold Enough to Make Bare Floors Look Like a Mistake \nLooking to soften your kitchen while adding a little personality underfoot? These 30 kitchen rug ideas are stylish, practical, and surprisingly transformative — blending color, texture, and durability into everyday spaces. From busy cooking zones to cozy brea… \nLooking to soften your kitchen while adding a little personality underfoot? These 30 kitchen rug ideas are stylish, practical, and surprisingly transformative blending color, texture, and durability … [+11527 chars]",
-        "positive": 0.00039984259638004005,
-        "negative": 7.267764158314094e-05,
-        "neutral": 0.9995274543762207
-      },
-      {
-        "source": "news",
-        "id": "https://www.trendir.com/kitchen-design-ideas/",
-        "timestamp": "2026-01-22T05:20:10+00:00",
-        "text": "29 Kitchen Design Ideas That Zero Tolerance Demands, Not Suggests \nThinking about giving your kitchen a glow-up? These 29 kitchen design ideas are modern, functional, and beautifully inviting — just right for upgrading your layout, enhancing everyday ease, and bringing fresh style to the heart of your home. 29 Kitchen Design… \nThinking about giving your kitchen a glow-up? These 29 kitchen design ideas are modern, functional, and beautifully inviting just right for upgrading your layout, enhancing everyday ease, and bringin… [+12000 chars]",
-        "positive": 0.00014069989265408367,
-        "negative": 4.4493431232695e-06,
-        "neutral": 0.9998549222946167
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-likely-to-stay-put-through-may-despite-rising-calls-for-cuts/articleshow/127105218.cms",
-        "timestamp": "2026-01-22T05:16:39+00:00",
-        "text": "Fed likely to stay put through May despite rising calls for cuts \nA majority of economists now expect the US Federal Reserve to keep interest rates unchanged through the current quarter, and possibly until Chair Jerome Powell’s term ends in May, marking a shift from earlier expectations of a near-term rate cut. \nThe US Federal Reserve is expected to keep its benchmark interest rate unchanged through the current quarter and potentially until Chair Jerome Powells term ends in May, according to a majority of ec… [+2981 chars]",
-        "positive": 1.005391914077336e-05,
-        "negative": 0.0001814143906813115,
-        "neutral": 0.9998086094856262
-      },
-      {
-        "source": "news",
-        "id": "https://www.straitstimes.com/business/companies-markets/gics-third-party-agent-pays-105000-fine-for-short-sale-violation-in-south-korea",
-        "timestamp": "2026-01-22T05:14:34+00:00",
-        "text": "GIC’s third-party agent pays $105,000 fine for short-sale violation in South Korea \nGIC's third-party agent received a S$105,000 fine for a naked short-selling violation in South Korea, prompting GIC to review its operational processes. Read more at straitstimes.com. Read more at straitstimes.com. \nSINGAPORE - The third-party agent of Singapores sovereign wealth fund GIC has paid a 120.6 million won (S$105,000) fine for naked short-selling, according to the documents filed by South Korean regul… [+2722 chars]",
-        "positive": 0.00011723399074980989,
-        "negative": 0.006504542659968138,
-        "neutral": 0.993378221988678
+        "text": "‘Climate change is no longer a high priority for the attending global elites’ at the World Economic Forum meeting in Davos \nClimate Change News and the WEF should get with the program and realize that their concerns do not reflect the needs of the people they are supposed to represent. These business leaders and politicians have an outsized power over the rest of us, and it is wor… \nFrom CLIMATE DEPOT\r\nBy  Admin\r\nWorld Economic Forum Elites Should Focus on Economics, Not Climate Change or Climate News\r\nBy Linnea Lueken\r\nA recent article at Climate Change News discussing this wee… [+4672 chars]",
+        "positive": 0.011918348260223866,
+        "negative": 0.00066859379876405,
+        "neutral": 0.9874130487442017
       },
       {
         "source": "news",
@@ -26797,9 +26797,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": 0.7815105128866289,
-    "nw_norm": 89.07552564433145
+    "nw": 0.8964506005823106,
+    "nw_norm": 94.82253002911554
   },
-  "gsi": 89.07552564433145,
+  "gsi": 94.82253002911554,
   "classification": "Extremely Bullish"
 }
