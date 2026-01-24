@@ -1,8 +1,728 @@
 {
-  "timestamp": "2026-01-24T15:22:10.371836+00:00",
+  "timestamp": "2026-01-24T15:44:48.901973+00:00",
   "news": {
-    "count": 2972,
+    "count": 2977,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://simonwillison.net/2026/Jan/22/qwen3-tts/",
+        "timestamp": "2026-01-23T15:37:00+00:00",
+        "text": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation \nSimon Willison, \nSimon Willison's Weblog, \nJan 23, 2026\n\n\n \n \r\n\"It's important,\" writes Simon Willison, \"that everyone understands that voice cloning is now something that's available to anyone with a GPU and a few GBs of VRAM... or in this case a web browser… \nQwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation (via) I haven't been paying much attention to the state-of-the-art in speech generation models other than noting that they've… [+1984 chars]",
+        "positive": 5.877971943846205e-06,
+        "negative": 8.134011295624077e-06,
+        "neutral": 0.9999860525131226
+      },
+      {
+        "source": "news",
+        "id": "https://www.foommagazine.org/language-models-resemble-more-than-just-language-cortex-show-neuroscientists/",
+        "timestamp": "2026-01-23T15:37:00+00:00",
+        "text": "Language models resemble more than just language cortex, show neuroscientists \nMordechai Rorvig, \nFoom, \nJan 23, 2026\n\n\n \n \r\nThis article highlights a really interesting paper (19 page PDF) that \"showed that language models, the engines of commercial AI chatbots, show strong signal correlations with the human language network, the regio… \nIn a paper\r\n presented in November 2025 at the Empirical Methods in Natural Language Processing (EMNLP) conference, researchers at the Swiss Federal Institute of Technology (EPFL), the Massachusetts … [+8870 chars]",
+        "positive": 0.2408747524023056,
+        "negative": 6.171783024910837e-05,
+        "neutral": 0.7590634822845459
+      },
+      {
+        "source": "news",
+        "id": "https://lists.w3.org/Archives/Public/public-semweb-lifesci/2026Jan/0005.html",
+        "timestamp": "2026-01-23T15:36:36+00:00",
+        "text": "[CfP] ESWC 2026: Calls for Posters & Demos \n(Apologies for cross-posting)\n\nThe European Semantic Web Conference (ESWC) is a major venue for academic\nresearch and developments in the area of the Semantic Web and Knowledge\nGraphs. The 23rd editi… [+878 chars]",
+        "positive": 9.257559213438071e-06,
+        "negative": 6.04514355018182e-07,
+        "neutral": 0.9999901056289673
+      },
+      {
+        "source": "news",
+        "id": "https://lists.w3.org/Archives/Public/public-lod/2026Jan/0010.html",
+        "timestamp": "2026-01-23T15:36:36+00:00",
+        "text": "[CfP] ESWC 2026: Calls for Posters & Demos \n(Apologies for cross-posting)\n\nThe European Semantic Web Conference (ESWC) is a major venue for academic\nresearch and developments in the area of the Semantic Web and Knowledge\nGraphs. The 23rd editi… [+878 chars]",
+        "positive": 9.257559213438071e-06,
+        "negative": 6.04514355018182e-07,
+        "neutral": 0.9999901056289673
+      },
+      {
+        "source": "news",
+        "id": "https://lists.w3.org/Archives/Public/semantic-web/2026Jan/0022.html",
+        "timestamp": "2026-01-23T15:36:36+00:00",
+        "text": "[CfP] ESWC 2026: Calls for Posters & Demos \n(Apologies for cross-posting)\n\nThe European Semantic Web Conference (ESWC) is a major venue for academic\nresearch and developments in the area of the Semantic Web and Knowledge\nGraphs. The 23rd editi… [+878 chars]",
+        "positive": 9.257559213438071e-06,
+        "negative": 6.04514355018182e-07,
+        "neutral": 0.9999901056289673
+      },
+      {
+        "source": "news",
+        "id": "https://science.nasa.gov/uncategorized/ams-2026-hyperwall-schedule/",
+        "timestamp": "2026-01-23T15:36:27+00:00",
+        "text": "AMS 2026 Hyperwall Schedule \n106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Scie… \n106thAmerican Meteorological Society (AMS) Meeting, January 25 - 29, 2026\r\nJoin NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below.\r\nMONDAY,… [+3400 chars]",
+        "positive": 8.870646524883341e-06,
+        "negative": 6.772231131435547e-07,
+        "neutral": 0.9999904632568359
+      },
+      {
+        "source": "news",
+        "id": "https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/",
+        "timestamp": "2026-01-23T15:36:27+00:00",
+        "text": "AMS 2025 Hyperwall Schedule \n106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Scie… \n106thAmerican Meteorological Society (AMS) Meeting, January 25 - 29, 2026\r\nJoin NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below.\r\nMONDAY,… [+3400 chars]",
+        "positive": 9.893598871713039e-06,
+        "negative": 7.254631100295228e-07,
+        "neutral": 0.99998939037323
+      },
+      {
+        "source": "news",
+        "id": "https://lists.w3.org/Archives/Public/semantic-web/2026Jan/0021.html",
+        "timestamp": "2026-01-23T15:36:00+00:00",
+        "text": "[CfP] First CfP for LLMs4KGOE co-located with ESWC 2026 \n[apologies for cross-listing]\nDear everyone,\nThe First Workshop on LLM-driven Knowledge Graph and Ontology Engineering (llms4kgoe) invites submissions at the rapidly evolving intersection of Large La… [+2903 chars]",
+        "positive": 0.000636457814835012,
+        "negative": 1.0120427305082558e-06,
+        "neutral": 0.9993626475334167
+      },
+      {
+        "source": "news",
+        "id": "https://legacy.thefly.com/permalinks/entry.php/id4276800/ASM-Avino-Silver-amp-Gold-Mines-price-target-raised-by--at-HC-Wainwright-heres-why",
+        "timestamp": "2026-01-23T15:35:37+00:00",
+        "text": "Avino Silver & Gold Mines price target raised by $5.10 at H.C. Wainwright, here's why \nSee the rest of the story here.\n\nlegacy.thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.20675493776798248,
+        "negative": 2.5062029180844547e-06,
+        "neutral": 0.7932424545288086
+      },
+      {
+        "source": "news",
+        "id": "https://abc7ny.com/post/us-completes-withdrawal-world-health-organization/18455132/",
+        "timestamp": "2026-01-23T15:35:23+00:00",
+        "text": "US completes withdrawal from World Health Organization \nThe U.S. has not paid any of its dues for 2024 and 2025, leaving a balance of more than $133 million, according to WHO \nNEW YORK -- The U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was ending its 78-year-old commitment, federal officials … [+4992 chars]",
+        "positive": 2.768261992969201e-06,
+        "negative": 7.845653453841805e-05,
+        "neutral": 0.9999188184738159
+      },
+      {
+        "source": "news",
+        "id": "https://abc13.com/post/us-completes-withdrawal-world-health-organization/18455132/",
+        "timestamp": "2026-01-23T15:35:20+00:00",
+        "text": "US completes withdrawal from World Health Organization \nThe U.S. has not paid any of its dues for 2024 and 2025, leaving a balance of more than $133 million, according to WHO \nNEW YORK -- The U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was ending its 78-year-old commitment, federal officials … [+4992 chars]",
+        "positive": 2.768261992969201e-06,
+        "negative": 7.845653453841805e-05,
+        "neutral": 0.9999188184738159
+      },
+      {
+        "source": "news",
+        "id": "https://dailycaller.com/2026/01/23/trump-yanks-canadas-invite-to-board-of-peace-after-davos-clash/",
+        "timestamp": "2026-01-23T15:35:07+00:00",
+        "text": "Trump Yanks Canada’s Invite To Board Of Peace After Davos Clash \nTrump yanked Canada’s invitation to the Board of Peace after Mark Carney used his speech at Davos to lecture about the end of U.S.-led global leadership. \nPresident Donald Trump yanked Canada’s invitation to his newly launched “Board of Peace” after Canadian Prime Minister Mark Carney used a high-profile speech at the World Economic Forum in Davos on T… [+3550 chars]",
+        "positive": 0.00020639700233004987,
+        "negative": 1.3661687262356281e-05,
+        "neutral": 0.9997798800468445
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/industry/banking/finance/indias-investor-participation-booming-leaves-readiness-gaps-wefs-matthew-blake/articleshow/127300858.cms",
+        "timestamp": "2026-01-23T15:35:07+00:00",
+        "text": "India’s investor participation booming, leaves readiness gaps: WEF’s Matthew Blake \nIndia’s fast-growing markets and digital banking are pulling more households into the financial system, but investor education and safeguards are not keeping pace, said Matthew Blake of the World Economic Forum. \nIndias fast-expanding markets and growing banking services are drawing domestic investors and savers deeper into the financial system. However, participation is growing faster than investor education… [+3087 chars]",
+        "positive": 0.9991607666015625,
+        "negative": 6.049229796190048e-06,
+        "neutral": 0.0008331728167831898
+      },
+      {
+        "source": "news",
+        "id": "https://abc7chicago.com/post/us-completes-withdrawal-world-health-organization/18455132/",
+        "timestamp": "2026-01-23T15:35:07+00:00",
+        "text": "US completes withdrawal from World Health Organization \nThe U.S. has not paid any of its dues for 2024 and 2025, leaving a balance of more than $133 million, according to WHO \nNEW YORK -- The U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was ending its 78-year-old commitment, federal officials … [+4992 chars]",
+        "positive": 2.768261992969201e-06,
+        "negative": 7.845653453841805e-05,
+        "neutral": 0.9999188184738159
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/economy/global-energy-markets-exhibit-stability-despite-geopolitical-tensions-oil-minister-10865548",
+        "timestamp": "2026-01-23T15:34:55+00:00",
+        "text": "Global Energy Markets Exhibit Stability Despite Geopolitical Tensions \nTalking to reporters about the India Energy Week starting in Goa on Jan. 27, Oil Minister Hardeep Singh Puri said India has diversified its energy sourcing strategy, with the country now buying crude oil - which is processed in refineries and turned into fuel… \nGlobal energy markets remain stable with enough supplies to meet demand despite geopolitical upheavals, Oil Minister Hardeep Singh Puri said on Friday as he pitched for both producers and consumers p… [+3561 chars]",
+        "positive": 0.9581817388534546,
+        "negative": 0.0005714742001146078,
+        "neutral": 0.04124680906534195
+      },
+      {
+        "source": "news",
+        "id": "https://abc30.com/post/us-completes-withdrawal-world-health-organization/18455132/",
+        "timestamp": "2026-01-23T15:34:48+00:00",
+        "text": "US completes withdrawal from World Health Organization \nThe U.S. has not paid any of its dues for 2024 and 2025, leaving a balance of more than $133 million, according to WHO \nNEW YORK -- The U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was ending its 78-year-old commitment, federal officials … [+4992 chars]",
+        "positive": 2.768261992969201e-06,
+        "negative": 7.845653453841805e-05,
+        "neutral": 0.9999188184738159
+      },
+      {
+        "source": "news",
+        "id": "https://www.boredpanda.com/firerose-shares-disturbing-audio-billy-ray-cyrus/",
+        "timestamp": "2026-01-23T15:34:24+00:00",
+        "text": "Firerose Drops Bombshell Audio To Support Her Disturbing Accusations Against Billy Ray Cyrus \nThe Australian singer accused the country music star of verbal and psychological domestic violence in 2024. \nSinger Firerose shared an audio clip of a man she claims is her ex-husband, Billy Ray Cyrus, threatening her and telling her to “shut up.”\r\nIn court documents, the Australian singer accused the count… [+8371 chars]",
+        "positive": 0.0038515375927090645,
+        "negative": 0.806263267993927,
+        "neutral": 0.1898852437734604
+      },
+      {
+        "source": "news",
+        "id": "https://reason.com/2026/01/23/the-book-that-explains-the-heritage-foundation-meltdown/",
+        "timestamp": "2026-01-23T15:34:11+00:00",
+        "text": "The Book That Explains the Heritage Foundation Meltdown \nStaffers say they were told that if they couldn't agree with these ideas they should leave. Many have. \nOn a Thursday night in December, I got a breathless call from a Heritage Foundation senior scholar. John Malcolm and Jessica Reinsch, the director and a deputy director of the think tank's Meese Cent… [+11509 chars]",
+        "positive": 9.640117787057534e-05,
+        "negative": 0.00011062382691306993,
+        "neutral": 0.9997929930686951
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/401370/manpower-minister-presses-for-inclusive-job-training-to-expand-access",
+        "timestamp": "2026-01-23T15:34:02+00:00",
+        "text": "Manpower Minister presses for inclusive job training to expand access \nManpower Minister Yassierli has called for inclusivity at vocational training centers (BLKs) to ensure all citizens, including people with disabilities, have ... \nJakarta (ANTARA) - Manpower Minister Yassierli has called for inclusivity at vocational training centers (BLKs) to ensure all citizens, including people with disabilities, have equal access to skills… [+2029 chars]",
+        "positive": 2.4390086764469743e-05,
+        "negative": 3.8960433812462725e-06,
+        "neutral": 0.9999716281890869
+      },
+      {
+        "source": "news",
+        "id": "https://www.ewtnnews.com/world/us/the-antidote-to-abortion-is-love-cardinal-o-malley-said-ahead-of-the-march-for-life",
+        "timestamp": "2026-01-23T15:34:00+00:00",
+        "text": "‘The antidote to abortion is love,’ Cardinal O’Malley says ahead of March for Life \nCardinal Seán O’Malley, archbishop emeritus of Boston, offers the homily at the closing Mass for the annual National Prayer Vigil for Life at the Basilica of the National Shrine of the Immaculate Conception in Washington, D.C., on Jan. 23, 2026. | Credit: EWT… \nCardinal Seán P. OMalley said life is a precious gift from a loving God ahead of the 2026 annual March for Life.\r\nOMalley, archbishop emeritus of Boston, celebrated Mass on Jan. 23 before the March f… [+3833 chars]",
+        "positive": 7.051665761537151e-06,
+        "negative": 3.620655661507044e-06,
+        "neutral": 0.99998939037323
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/city/mumbai/navi-mumbai-mayor-ex-civic-panel-chief-naik-kin-frontrunners/articleshow/127300715.cms",
+        "timestamp": "2026-01-23T15:33:52+00:00",
+        "text": "Navi Mumbai mayor: Ex-civic panel chief, Naik kin frontrunners \nNavi Mumbai: With the Navi Mumbai mayor's post reserved for a woman after 15 years, former civic standing committee chairperson Netra Shirke emerged a. \nFollow Us On Social Media\r\nAffordable healthcare for Delhiites is priority of government: CM Rekha GuptaTraining without trainees: How PM's ambitious skilling programme was gamed'Ranpati Shivray Swar… [+1599 chars]",
+        "positive": 2.2303229343378916e-06,
+        "negative": 4.792071194970049e-06,
+        "neutral": 0.9999929666519165
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/business/yen-sees-two-sudden-spikes-rate-check-speculation-swirls-5877826",
+        "timestamp": "2026-01-23T15:33:50+00:00",
+        "text": "Yen sees two sudden spikes as rate check speculation swirls \nNEW YORK, Jan 23 : The yen was volatile on Friday, with two sudden spikes raising market speculation that authorities had conducted a rate check, often a precursor to intervention. The yen was last stronger on the day at 156.495 per dollar, after touching 156… \nNEW YORK, Jan 23 : The yen was volatile on Friday, with two sudden spikes raising market speculation that authorities had conducted a rate check, often a precursor to intervention. \r\nThe yen was last… [+3056 chars]",
+        "positive": 0.006857291795313358,
+        "negative": 0.10049252957105637,
+        "neutral": 0.8926501870155334
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/business/yen-volatile-rate-check-speculation-dollar-set-sharp-weekly-drop-5877826",
+        "timestamp": "2026-01-23T15:33:50+00:00",
+        "text": "Yen volatile on rate check speculation, dollar set for sharp weekly drop \nNEW YORK/LONDON, Jan 23 : The yen was volatile on Friday, with a sudden spike raising market speculation that authorities had conducted a rate check, often a precursor to intervention, while the dollar was set for its steepest weekly decline since June as geo… \nNEW YORK/LONDON, Jan 23 : The yen was volatile on Friday, with a sudden spike raising market speculation that authorities had conducted a rate check, often a precursor to intervention, while the doll… [+3255 chars]",
+        "positive": 9.328444139100611e-05,
+        "negative": 0.08613573014736176,
+        "neutral": 0.9137710332870483
+      },
+      {
+        "source": "news",
+        "id": "https://www.wibw.com/2026/01/23/us-completes-withdrawal-world-health-organization/",
+        "timestamp": "2026-01-23T15:33:45+00:00",
+        "text": "US completes withdrawal from World Health Organization \nThe decision follows President Donald Trump's announcement a year ago. \nNEW YORK (AP) The U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was ending its 78-year-old commitment, federal official… [+5499 chars]",
+        "positive": 7.1420772655983455e-06,
+        "negative": 2.7602904083323665e-05,
+        "neutral": 0.9999651908874512
+      },
+      {
+        "source": "news",
+        "id": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran",
+        "timestamp": "2026-01-23T15:33:10+00:00",
+        "text": "Why Qatar is betting on diplomacy with Iran \nFor Gulf states exposed to the costs of war, diplomacy is not idealism but strategic risk management. \nThe confrontation between the United States and Iran has entered a more volatile phase, marked by direct military strikes, heightened rhetoric and the steady erosion of long-standing restraints. From… [+7010 chars]",
+        "positive": 0.0010172276524826884,
+        "negative": 0.9803339838981628,
+        "neutral": 0.018648836761713028
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/investing/quiet-quitting-us-assets-fuels-em-boom",
+        "timestamp": "2026-01-23T15:32:08+00:00",
+        "text": "‘Quiet-Quitting’ of U.S. assets fuels boom in bets from EM to gold \nEmerging-market stocks, currencies and precious metals are extending a storming start to 2026 as tensions  weigh on the U.S. dollar. Read on \nEmerging-market stocks, currencies and precious metals are extending a storming start to 2026 as tensions between the United States and Europe weigh on the dollar and re-energize diversification flow… [+4924 chars]",
+        "positive": 0.31866416335105896,
+        "negative": 0.006813390180468559,
+        "neutral": 0.6745224595069885
+      },
+      {
+        "source": "news",
+        "id": "https://www.ladbible.com/news/addiction-adult-content-convicted-charity-support-895983-20260113",
+        "timestamp": "2026-01-23T15:31:25+00:00",
+        "text": "Man's crippling porn addiction spiralled into watching child sexual abuse after he started watching at seven \nA porn addiction led to Bradley's interests becoming so extreme, he found himself arrested for accessing child sexual abuse content. \nWarning: This article contains discussion of child abuse which some readers may find distressing.\r\nWhen Bradley (not his real name) first Googled male and female body parts at the tender age of seven… [+5944 chars]",
+        "positive": 1.6709276678739116e-05,
+        "negative": 0.007799974642693996,
+        "neutral": 0.9921833872795105
+      },
+      {
+        "source": "news",
+        "id": "https://uproxx.com/music/harry-styles-aperture-2026-tour-dates/",
+        "timestamp": "2026-01-23T15:31:20+00:00",
+        "text": "Harry Styles’ Long-Awaited New Single, ‘Aperture,’ Has Arrived \nStyles also just announced a bunch of tour dates. \nHarry Styles has kept largely out of the public eye since releasing his 2022 album Harry’s House and touring in support of it. Finally, though, he has started to re-emerge. Last week, he announced Ki… [+4643 chars]",
+        "positive": 1.0316218322259374e-05,
+        "negative": 6.67013882775791e-05,
+        "neutral": 0.9999228715896606
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/companies/piramal-finance-reports-q3-pat-at-rs-401-crore/article70543486.ece",
+        "timestamp": "2026-01-23T15:31:09+00:00",
+        "text": "Piramal Finance reports Q3 PAT at ₹401 crore \nPiramal Finance reports Q3FY26 net profit of ₹401 crore, driven by 31% NII growth and plans for retail expansion. \nNon-banking finance company (NBFC) Piramal Finance on Friday reported its Q3FY26 net profit at 401 crore in Q3FY26, sharply higher than 39 crore in Q3FY25, led by robust growth in net interest income… [+1029 chars]",
+        "positive": 0.9999998807907104,
+        "negative": 2.880789828907382e-09,
+        "neutral": 1.08840893631168e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/politics/2026/01/23/after-davos-the-us-can-no-longer-be-treated-as-a-normal-eu-ally/",
+        "timestamp": "2026-01-23T15:30:40+00:00",
+        "text": "After Davos, the US can no longer be treated as a normal EU ally \nCanadian prime minister Mark Carney seized the agenda in the Alps with a speech immediately hailed as an historic milestone \nHello and welcome to the Friday Inside Politics digest, your recap of the week in politics.\r\nLife in Leinster House trundled on but there was no question that politics everywhere revolved around what… [+6189 chars]",
+        "positive": 6.791448686271906e-05,
+        "negative": 0.0026984135620296,
+        "neutral": 0.9972336888313293
+      },
+      {
+        "source": "news",
+        "id": "https://cryptobriefing.com/bitcoin-velocity-rsi-bottom-caution/",
+        "timestamp": "2026-01-23T15:30:18+00:00",
+        "text": "Bitcoin velocity RSI suggests a bottom, but trader positioning urges caution \nBitcoin velocity RSI suggests exhausted selling pressure, though elevated trader positioning urges caution on potential recovery.\nThe post Bitcoin velocity RSI suggests a bottom, but trader positioning urges caution appeared first on Crypto Briefing. \nBitcoin velocity RSI suggests exhausted selling pressure, though elevated trader positioning urges caution on potential recovery. There’s a debate heating up in crypto circles right now. Bitcoin is s… [+3167 chars]",
+        "positive": 0.018902894109487534,
+        "negative": 0.42721420526504517,
+        "neutral": 0.5538829565048218
+      },
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/industry/telecom/trai-dlc-review-domestic-leased-circuits-11769180307673.html",
+        "timestamp": "2026-01-23T15:30:13+00:00",
+        "text": "TRAI mulls slashing outdated price ceilings for high-speed business lines \nThe regulator floated a consultation paper on Friday, seeking comments from stakeholders by 22 February on the review of tariffs for dedicated leased circuits, which are dedicated broadband lines that telecom operators provide to enterprise clients for secure… \nBanks, IT firms and data centres could see price changes for the private high-speed broadband lines they use to move data securely and run critical operations, as the telecom regulator has initiated … [+4682 chars]",
+        "positive": 0.0003501240280456841,
+        "negative": 0.005080730654299259,
+        "neutral": 0.9945691823959351
+      },
+      {
+        "source": "news",
+        "id": "https://gizmodo.com/iran-shows-why-americas-embrace-of-stablecoins-is-a-double-edged-sword-2000713342",
+        "timestamp": "2026-01-23T15:30:10+00:00",
+        "text": "Iran Shows Why America’s Embrace of Stablecoins Is a Double-Edged Sword \nLawmakers are propping up the sanction-avoidance industry in the name of the almighty dollar. \nLast year, the United States embraced the stablecoin aspect of the crypto industry with the GENIUS Act, just as President Trump promised during his presidential campaign. As the admin intensifies its… [+4911 chars]",
+        "positive": 0.553663969039917,
+        "negative": 0.0017022843239828944,
+        "neutral": 0.444633811712265
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/opinion/letters/letters-to-editor/article70543576.ece",
+        "timestamp": "2026-01-23T15:30:06+00:00",
+        "text": "Letters to the Editor dated January 23, 2026 \nLetters to Editor \nApropos Primary concerns (January 23), the rapid growth of the primary market makes stronger safeguards around IPO pricing both timely and necessary. The regulators move to tighten surveillance and r… [+1705 chars]",
+        "positive": 0.9999990463256836,
+        "negative": 2.694997078833694e-07,
+        "neutral": 6.860946086817421e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/opinion/letters-to-editor/article70543576.ece",
+        "timestamp": "2026-01-23T15:30:06+00:00",
+        "text": "Letters to Editor \nLetters to Editor \nApropos Primary concerns (January 23), the rapid growth of the primary market makes stronger safeguards around IPO pricing both timely and necessary. The regulators move to tighten surveillance and r… [+1705 chars]",
+        "positive": 0.9999992847442627,
+        "negative": 2.8032792442900245e-07,
+        "neutral": 4.852499841945246e-07
+      },
+      {
+        "source": "news",
+        "id": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Storage-Is-Draining-at-the-Fastest-Pace-in-Five-Years.html",
+        "timestamp": "2026-01-23T15:30:00+00:00",
+        "text": "Europe’s Gas Storage Is Draining at the Fastest Pace in Five Years \nBelow-average winter temperatures are driving the fastest pace of withdrawals from natural gas storage in Europe in five years, as heating demand is rising. EU gas storage sites were only 47% full as of January 21, according to the latest data from Gas Infras… \nDespite resuming limited exports via…\r\nNew EU sanctions on refined…\r\nBy Charles Kennedy - Jan 23, 2026, 9:30 AM CSTBelow-average winter temperatures are driving the fastest pace of withdrawals from n… [+2086 chars]",
+        "positive": 0.3619614839553833,
+        "negative": 0.44737666845321655,
+        "neutral": 0.19066181778907776
+      },
+      {
+        "source": "news",
+        "id": "https://screenanarchy.com/2026/01/friday-one-sheet-fiume-o-morte.html",
+        "timestamp": "2026-01-23T15:30:00+00:00",
+        "text": "Friday One Sheet: FIUME O MORTE! \nIn his review from Rotterdam (where the film won the FIPRESCI Prize & Tiger Award), our own Martin Kudlac described Fiume O Morte! as, \"A playful, warning look at history [...] an exploration of collective memory and the reconstruction of historical narrative… \nIn his review from Rotterdam (where the film won the FIPRESCI Prize &amp; Tiger Award), our own Martin Kudlac described Fiume O Morte! as, \"A playful, warning look at history [...] an exploration of … [+1154 chars]",
+        "positive": 3.6320916478871368e-06,
+        "negative": 2.5417652977921534e-06,
+        "neutral": 0.9999939203262329
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/world/2026/01/23/spain039s-deadly-rail-accidents-prompt-maintenance-investment-debate",
+        "timestamp": "2026-01-23T15:30:00+00:00",
+        "text": "Spain's deadly rail accidents prompt maintenance investment debate \nMADRID, Jan 23 (Reuters) - A series of accidents in ‌one week on Spain's railways, including one of the deadliest in Europe, has left the country reeling and put the spotlight on whether investment to maintain the network is keeping pace ‌with surging passeng… \nMADRID, Jan 23 (Reuters) - A series of accidents in one week on Spain's railways, including one of the deadliest in Europe, has left the country reeling and put the spotlight on whether investment to… [+5071 chars]",
+        "positive": 0.0006496892892755568,
+        "negative": 0.9423670768737793,
+        "neutral": 0.05698319151997566
+      },
+      {
+        "source": "news",
+        "id": "https://www.prnewswire.co.uk/news-releases/healthcare-analytics-market-worth-166-65-billion-by-2030--marketsandmarkets-302668800.html",
+        "timestamp": "2026-01-23T15:30:00+00:00",
+        "text": "Healthcare Analytics Market worth $166.65 billion by 2030 | MarketsandMarkets™ \nDELRAY BEACH, Fla., Jan. 23, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Healthcare Analytics Market is projected to grow from about USD 55.52 billion in 2025 to USD 166.65 billion by 2030, at a CAGR of 24.6%. Browse 516 market data Tables and 5… \nDELRAY BEACH, Fla., Jan. 23, 2026 /PRNewswire/ -- According to MarketsandMarkets, the Healthcare Analytics Market is projected to grow from about USD 55.52 billion in 2025 to USD 166.65 billion by 20… [+6057 chars]",
+        "positive": 0.9983589053153992,
+        "negative": 6.233877684280742e-06,
+        "neutral": 0.0016349280485883355
+      },
+      {
+        "source": "news",
+        "id": "https://www.tvline.com/2083002/scad-tvfest-lineup-2026-scrubs-zach-braff/",
+        "timestamp": "2026-01-23T15:29:50+00:00",
+        "text": "SCAD TVfest Sets 2026 Lineup With Stars From Scrubs, The Pitt, Abbott Elementary, And More \nSCAD TVfest has set its 2026 programming lineup - find out who's attending from shows like The Pitt, Scrubs, and more. \nThe Savannah College of Art and Design (SCAD) has announced the 2026 lineup for SCAD TVfest, which includes appearances from cast members of \"The Pitt,\" \"Scrubs,\" \"Abbott Elementary,\" and more.\r\nThe … [+2331 chars]",
+        "positive": 6.144562121335184e-07,
+        "negative": 1.616553930716691e-07,
+        "neutral": 0.9999992847442627
+      },
+      {
+        "source": "news",
+        "id": "https://www.globalresearch.ca/why-nobody-takes-europe-seriously-anymore-the-old-continent-is-in-a-mess/5913241",
+        "timestamp": "2026-01-23T15:29:39+00:00",
+        "text": "Why Nobody takes Europe Seriously Anymore? “The Old Continent is In A Mess” \nOn January 19, after a phone call with German Chancellor Friedrich Merz, Slovak Prime Minister Robert Fico stated that “the European Union is not taken completely seriously by world leaders”, citing its “suicidal migration policy” and “nonsense climate goals”… \nOn January 19, after a phone call with German Chancellor Friedrich Merz, Slovak Prime Minister Robert Fico stated that “the European Union is not taken completely seriously by world leaders”, citing … [+7601 chars]",
+        "positive": 0.00010467172978678718,
+        "negative": 0.0032181921415030956,
+        "neutral": 0.9966771602630615
+      },
+      {
+        "source": "news",
+        "id": "https://www.defenseone.com/threats/2026/01/the-d-brief-january-23-2026/410893/",
+        "timestamp": "2026-01-23T15:28:09+00:00",
+        "text": "The D Brief: Trump’s ‘Board of Peace’; Russian hybrid warfare; More Ukraine talks; Combat fitness, reimagined; And a bit more. \nUsing a logo that resembles the United Nations but with a gold overlay, U.S. President Donald Trump on Thursday launched a new Board of Peace that he initially pitched as a forum to resolve the Gaza … [+12061 chars]",
+        "positive": 1.266346407646779e-05,
+        "negative": 7.291745077964151e-06,
+        "neutral": 0.999980092048645
+      },
+      {
+        "source": "news",
+        "id": "https://www.politico.eu/article/ecb-christine-lagarde-us-criticism-europe/",
+        "timestamp": "2026-01-23T15:26:55+00:00",
+        "text": "Thank you to the haters for spurring Europe forward, EU’s top banker says \nAmerica’s insults and taunts have been a wake-up call for the continent, Christine Lagarde tells Davos. \nBut if anything it has been good, and we should say thank you to the bashers, because I think it has given us a complete realization of the fact that we have to be more focused, she added, especially… [+1246 chars]",
+        "positive": 0.6891977787017822,
+        "negative": 0.00945336651057005,
+        "neutral": 0.30134883522987366
+      },
+      {
+        "source": "news",
+        "id": "https://www.psychologytoday.com/us/blog/love-crash-rebuild/202601/why-repair-attempts-fail-even-when-you-mean-them",
+        "timestamp": "2026-01-23T15:26:36+00:00",
+        "text": "Why Repair Attempts Fail (Even When You Mean Them) \nCouples often believe that repair fails because they say the wrong thing. More often, it fails because it comes before emotional recognition. \nCouples sometimes fail to repair a rupture because they try to repair when they are emotionally not readyand/or willingto do so. Or they attempt to repair in ways that steady themselves rather than u… [+6828 chars]",
+        "positive": 0.0008270761463791132,
+        "negative": 0.3724156320095062,
+        "neutral": 0.6267572641372681
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/01/23/health/surprising-new-way-cigarettes-are-harmful-and-not-just-to-smokers/",
+        "timestamp": "2026-01-23T15:26:35+00:00",
+        "text": "Surprising new way cigarettes are harmful — and not just to smokers \nA new study finds cigarette butts are an unexpected source of this tiny, troubling debris. \nOne more reason to kick butts.\r\nTobacco is the leading cause of preventable death in the US, according to the CDC, causing everything from cancer to lung disease to heart disease.\r\nSecond hand smoke,… [+3387 chars]",
+        "positive": 0.0035697310231626034,
+        "negative": 0.2087862342596054,
+        "neutral": 0.7876439094543457
+      },
+      {
+        "source": "news",
+        "id": "https://jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
+        "timestamp": "2026-01-23T15:26:33+00:00",
+        "text": "Tech Is Fun Again: The Tech Monoculture Is Finally Breaking \nGrowing up in the 90s and early 2000s, tech was a foundational part of my childhood. \nGrowing up in the 90s and early 2000s, tech was a foundational part of my childhood.\r\nI built more physical computers than I can remember. We went from paper maps to GPS (which itself evolved from DV… [+7784 chars]",
+        "positive": 0.007150542456656694,
+        "negative": 4.7000805352581665e-05,
+        "neutral": 0.9928024411201477
+      },
+      {
+        "source": "news",
+        "id": "https://www.insurancejournal.com/news/southcentral/2026/01/23/855416.htm",
+        "timestamp": "2026-01-23T15:26:21+00:00",
+        "text": "People Moves: Starwind Marine and Energy Announces Leadership Appointments \nStarwind Specialty Insurance Services, a CRC Group division, announced a series of leadership appointments within Starwind Marine and Energy that further strengthen its long-term strategy for growth and technical excellence across the marine and energy sector… \nStarwind Specialty Insurance Services, a CRC Group division, announced a series of leadership appointments within Starwind Marine and Energy that further strengthen its long-term strategy for growth … [+993 chars]",
+        "positive": 0.9999947547912598,
+        "negative": 3.4680351745919324e-07,
+        "neutral": 4.901894499198534e-06
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/us/btc-usd-today-falls-to-88000-while-gold-and-silver-soar-heres-why-peter-schiff-blames-wall-street-for-bitcoin-price-crash/articleshow/127291346.cms",
+        "timestamp": "2026-01-23T15:25:54+00:00",
+        "text": "BTC USD today falls to $88,000, while gold and silver soar – here's why Peter Schiff blames Wall Street for Bitcoin price crash \nBTC USD Bitcoin price crash today: Bitcoin faces renewed pressure as its price drops. Economist Peter Schiff blames Wall Street's involvement for the cryptocurrency's struggles. This comes as gold and silver soar to record highs, showing a stark contrast. Sch… \nBTC USD Bitcoin price crash today: Bitcoin faces renewed pressure as its price drops. Economist Peter Schiff blames Wall Street's involvement for the cryptocurrency's struggles. This comes as gold an… [+177 chars]",
+        "positive": 1.8961862224387005e-05,
+        "negative": 0.9999107122421265,
+        "neutral": 7.026774255791679e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.techtarget.com/searchdatamanagement/feature/Data-Technologies-outlook-on-2026-The-year-of-data-is-here",
+        "timestamp": "2026-01-23T15:25:32+00:00",
+        "text": "Data Technologies outlook on 2026: The year of data is here \nData will be the backbone of success in 2026. As AI reshapes data management, organizations must balance innovation with ethics, governance and high-quality data to thrive. \nAt the start of 2026, one thing is certain: Data is more critical to an organization's success than ever.  \r\nAI is a driving force for modern IT innovation, and the data technologies space is no diff… [+2785 chars]",
+        "positive": 0.9998723268508911,
+        "negative": 1.9907498426618986e-05,
+        "neutral": 0.00010772087989607826
+      },
+      {
+        "source": "news",
+        "id": "https://www.thelocal.de/20260123/german-public-spending-rose-slower-than-hoped-in-2025",
+        "timestamp": "2026-01-23T15:25:26+00:00",
+        "text": "German public spending rose slower than hoped in 2025 \nGerman public spending rose more slowly than expected last year despite significant outlays for defence and infrastructure, the finance ministry said Friday, vowing to pick up the pace this year. \nGerman public spending rose more slowly than expected last year despite significant outlays for defence and infrastructure, the finance ministry said Friday, vowing to pick up the pace this year.\r\n C… [+1298 chars]",
+        "positive": 0.5918806195259094,
+        "negative": 0.4010436236858368,
+        "neutral": 0.00707575399428606
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_eaccf162-e924-45a2-a52e-fe00c3430c53",
+        "timestamp": "2026-01-23T15:25:22+00:00",
+        "text": "Why Shares of Eldorado Gold Are Rising This Week \nIf you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 0.0009735992643982172,
+        "negative": 1.8758446458377875e-05,
+        "neutral": 0.9990076422691345
+      },
+      {
+        "source": "news",
+        "id": "https://www.techtarget.com/sustainability/feature/The-CIOs-guide-to-equitable-emerging-tech",
+        "timestamp": "2026-01-23T15:25:00+00:00",
+        "text": "The CIO's guide to equitable emerging tech \nCIOs must prioritize equity when adopting new technologies to prevent harm, improve accessibility and make sure the technology enhances rather than amplifies existing inequities. \nEmerging technology is evolving at a more rapid pace than ever before.\r\nFrom agentic AI to blockchain, organizations have various options to automate workflows, innovate core product offerings and im… [+8969 chars]",
+        "positive": 0.00931317824870348,
+        "negative": 0.0005448887823149562,
+        "neutral": 0.9901420474052429
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/maryroeloffs/2026/01/23/alex-honnolds-controversial-free-solo-of-taipei-101-is-live-on-netflix-tonight-what-to-know/",
+        "timestamp": "2026-01-23T15:23:59+00:00",
+        "text": "Alex Honnold’s Controversial Free Solo Of Taipei 101 Is Live On Netflix Tonight \nThe livestream of Honnold’s death-defying stunt has raised ethical concerns—and lit up betting markets. \nFamousFree Solo climber Alex Honnold is set to attempt his first ever climb of a skyscraper in Taipei Friday night in a made-for-Netflix live stream event that has raised some ethical concerns among … [+4092 chars]",
+        "positive": 0.0009375469526275992,
+        "negative": 0.8209033012390137,
+        "neutral": 0.17815916240215302
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/us/intel-stock-crashes-hard-today-why-did-intel-stock-plunge-16-after-q4-2025-earnings-despite-beating-estimates-has-intc-collapsed-before-a-potential-comeback/articleshow/127298052.cms",
+        "timestamp": "2026-01-23T15:23:42+00:00",
+        "text": "Intel stock crashes hard today: why did Intel stock plunge 16% after Q4 2025 earnings despite beating estimates – has INTC collapsed before a potential comeback? \nIntel stock ($INTC) suffered a massive 16.20% crash today. The decline wiped out over $30 billion in market value. This happened despite Intel beating Q4 2025 estimates with $13.7 billion in revenue. The company also posted a surprise non-GAAP EPS of $0.15. T… \nIntels stock plummeted over 16%, settling near $45.52. This dramatic crash wiped out approximately $31 billion in market value in a single session, marking the companys steepest daily decline since t… [+6451 chars]",
+        "positive": 0.0592183917760849,
+        "negative": 0.9407461285591125,
+        "neutral": 3.54214571416378e-05
+      },
+      {
+        "source": "news",
+        "id": "https://metalinjection.net/new-music/rob-zombie-unleashes-im-a-rock-n-roller-third-single-from-upcoming-album-the-great-satan",
+        "timestamp": "2026-01-23T15:23:39+00:00",
+        "text": "ROB ZOMBIE Unleashes \"(I'm A) Rock 'N' Roller\" Third Single From Upcoming Album The Great Satan \nThe shock-rock icon doubles down on riff-heavy rebellion with a boot-stomping anthem ahead of his new Nuclear Blast release.\nThe post ROB ZOMBIE Unleashes \"(I'm A) Rock 'N' Roller\" Third Single From Upcoming Album The Great Satan appeared first on Metal Injec… \nRob Zombie is back in full hell-raising form. The rock and metal legend has released \"(I'm a) Rock 'N' Roller,\" the third single from his highly anticipated new album, The Great Satan, due out Februa… [+2205 chars]",
+        "positive": 0.0014632903039455414,
+        "negative": 3.635367829701863e-05,
+        "neutral": 0.9985004663467407
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/economy/apparel-body-calls-on-indian-government-intervention-over-us-textile-tariffs-10865308",
+        "timestamp": "2026-01-23T15:23:20+00:00",
+        "text": "Apparel Body Calls On Indian Govt Intervention Over US Textile Tariffs \nIn a letter to Vice-President CP Radhakrishnan, Apparel Export Promotion Council Chairman A Sakthivel said necessary action and support are required for the vibrant apparel garment industry. \nHit hard by the steep 50% tariff imposed by the US, the Apparel Export Promotion Council has sought immediate government intervention, saying the delay would lead to production cuts and factory shutd… [+1755 chars]",
+        "positive": 0.00044721586164087057,
+        "negative": 0.8461626172065735,
+        "neutral": 0.15339019894599915
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eus-new-gsp-rules-to-impact-only-2-66-of-indias-exports-govt/articleshow/127299575.cms",
+        "timestamp": "2026-01-23T15:22:57+00:00",
+        "text": "EU’s new GSP rules to impact only 2.66% of India’s exports: Govt \nNew EU GSP rules, effective January 1, 2026, will impact only 2.66% of India's exports to the bloc. Agricultural products are excluded, and only leather benefits are reinstated in the non-agricultural sector. India's graduation from GSP is attributed to its i… \nNew Delhi: The EUs new rules on the Generalised System of Preferences (GSP), which grants lower or zero tariffs to developing and poorer countries, will impact 2.66% of Indias exports to the bloc, th… [+3011 chars]",
+        "positive": 0.00035510523593984544,
+        "negative": 0.004347097594290972,
+        "neutral": 0.9952978491783142
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/companies/mercedes-benz-india-to-add-20-touchpoints-focus-stays-on-value-over-volumes-santosh-iyer/article70542853.ece",
+        "timestamp": "2026-01-23T15:22:33+00:00",
+        "text": "Mercedes-Benz India to add 20 touchpoints, focus stays on value over volumes: Santosh Iyer \nMercedes-Benz India plans to expand with 20 new touchpoints, prioritizing value and luxury over volume amidst market challenges. \nSantosh Iyer, Managing Director &amp; CEO, Mercedes-Benz India, outlines the companys network expansion plans, product strategy, localisation push and why it is staying away from price-led volume gro… [+4028 chars]",
+        "positive": 3.9475537050748244e-05,
+        "negative": 3.368117802438064e-07,
+        "neutral": 0.99996018409729
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/pr/2026/01/23/forbes-partners-with-axiom-to-launch-forbespredict-a-first-of-its-kind-prediction-platform-built-for-media/",
+        "timestamp": "2026-01-23T15:22:26+00:00",
+        "text": "Forbes Partners With Axiom To Launch ForbesPredict, A First-Of-Its-Kind Prediction Platform Built For Media \nForbes partners with Axiom to launch ForbesPredict \nThe custom-built platform will be a new model for audience engagement and participation\r\nDAVOS, SWITZERLAND January 23, 2026 Forbes today announced ForbesPredict, a first-of-its-kind prediction platf… [+3983 chars]",
+        "positive": 0.007340101059526205,
+        "negative": 1.761832390911877e-05,
+        "neutral": 0.9926422238349915
+      },
+      {
+        "source": "news",
+        "id": "https://www.brooklynvegan.com/album-reviews-spacemen-3-langkamer-dennis-bovell-hot-face-craven-faults/",
+        "timestamp": "2026-01-23T15:22:26+00:00",
+        "text": "Indie Basement (1/23): the week in classic indie, alternative, college rock & more \nAs often happens, the week of MLK Day is a monster for announcements but new releases go, we're still in the feeling out the year stage. I review four albums from: feisty London garage punk trio Hot Face, Pavement-influenced UK band Langkamer, enigmatic produ… \nAs often happens, the week of MLK Day is a monster for announcements but new releases go, we’re still in the feeling out the year stage. I review four albums from: feisty London garage punk trio Hot … [+8576 chars]",
+        "positive": 4.6373364170904097e-07,
+        "negative": 5.914995199418627e-06,
+        "neutral": 0.9999935626983643
+      },
+      {
+        "source": "news",
+        "id": "https://drunkenstepfather.com/2026/01/23/kate-beckinsales-old-frail-skinny-half-naked-and-dying-body-of-the-day",
+        "timestamp": "2026-01-23T15:22:25+00:00",
+        "text": "Kate Beckinsale’s Old Frail Skinny Half Naked and Dying Body of the Day \nYesterday, I wrote a post on skinny chicks, that you probably didn’t read, since you don’t read… It went something like this: In a world of fat chicks, where. 90 percent of chicks are overweight, we need to take the time to celebrate the girls who the fat chi… \nYesterday, I wrote a post on skinny chicks, that you probably didn’t read, since you don’t read…\r\nIt went something like this:\r\nIn a world of fat chicks, where. 90 percent of chicks are overweight, w… [+1714 chars]",
+        "positive": 1.3940239114162978e-06,
+        "negative": 4.7838897444307804e-05,
+        "neutral": 0.9999507665634155
+      },
+      {
+        "source": "news",
+        "id": "https://www.marca.com/en/nfl/miami-dolphins/2026/01/23/69738582e2704e6a398b45bd.html",
+        "timestamp": "2026-01-23T15:22:14+00:00",
+        "text": "Keeta Vaccaro reappears online as Tyreek Hill divorce proceedings intensify \nKeeta Vaccaro returned to social media this week just days after a judge criticised her spending during divorce proceedings with Tyreek Hill, offering a clear signal that the publi \nKeeta Vaccaro returned to social media this week just days after a judge criticised her spending during divorce proceedings with Tyreek Hill, offering a clear signal that the public scrutiny has not … [+2067 chars]",
+        "positive": 0.08498990535736084,
+        "negative": 0.08156842738389969,
+        "neutral": 0.8334416747093201
+      },
+      {
+        "source": "news",
+        "id": "https://www.ibtimes.com.au/tiktoks-future-secured-us-china-agreement-clears-way-continued-operations-1861208",
+        "timestamp": "2026-01-23T15:22:10+00:00",
+        "text": "TikTok's Future Secured as US-China Agreement Clears Way for Continued Operations \nTikTok secures its future in the U.S. after a US-China approved deal transfers American operations to a new investor-led venture. \nTikTok's future in the United States now appears secure after the US and China approved a deal that allows the popular app to continue operating under new ownership rules.\r\nA year after a federal law… [+2363 chars]",
+        "positive": 0.22524502873420715,
+        "negative": 0.000329827715177089,
+        "neutral": 0.7744251489639282
+      },
+      {
+        "source": "news",
+        "id": "https://www.pcgamer.com/games/rpg/the-new-fables-morality-system-will-live-in-shades-of-gray-which-is-a-huge-shift-for-a-series-where-being-too-mean-made-literal-devil-horns-grow-out-of-your-head/",
+        "timestamp": "2026-01-23T15:21:49+00:00",
+        "text": "The new Fable's morality system will live in 'shades of gray', which is a huge shift for a series where being too mean made literal devil horns grow out of your head \nEveryone always calls me chicken chaser. Nobody asks why I chase chickens. \nVideogames used to be simple, dangit. If you got too many good points, you'd have a halo above your head and everyone would tell you how much of a cool good guy you were. If you had too many bad poin… [+3726 chars]",
+        "positive": 0.00031203904654830694,
+        "negative": 0.006254562176764011,
+        "neutral": 0.9934333562850952
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/neiti-partners-efcc-icpc-to-fight-oil-sector-corruption/",
+        "timestamp": "2026-01-23T15:21:45+00:00",
+        "text": "NEITI partners EFCC, ICPC to fight oil sector corruption \nNEITI partners with EFCC and ICPC to fight oil sector corruption, aiming to enforce audit findings and ensure accountability in Nigeria’s extractive indust\n\nRead More: https://punchng.com/neiti-partners-efcc-icpc-to-fight-oil-sector-corruption/ \nThe Nigeria Extractive Industries Transparency Initiative has intensified efforts to strengthen accountability in Nigerias oil, gas, and mining sectors by deepening its strategic partnership with the… [+4507 chars]",
+        "positive": 0.9281959533691406,
+        "negative": 0.0004661103303078562,
+        "neutral": 0.07133796066045761
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbssports.com/mma/news/ufc-324-odds-props-predictions-fight-card-gaethje-pimblett-picks-bets/",
+        "timestamp": "2026-01-23T15:20:05+00:00",
+        "text": "UFC 324 odds, props, predictions, fight card: Gaethje vs. Pimblett picks, bets by proven MMA insider \nSportsLine's Daniel Vithlani reveals his UFC 324 picks featuring Justin Gaethje vs. Paddy Pimblett for Saturday's bout on Paramount+ \nThe first UFC card of the year is one packed with must-see bouts, highlighted by the interim lightweight championship being on the line in the promotion's debut on CBS and Paramount+. UFC 324 will ta… [+6174 chars]",
+        "positive": 8.274670108221471e-06,
+        "negative": 4.0694638414606743e-07,
+        "neutral": 0.9999914169311523
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/markets/nse-launches-new-nifty-smallcap-500-index-check-details-10864551",
+        "timestamp": "2026-01-23T15:19:40+00:00",
+        "text": "NSE Launches New Nifty Smallcap 500 Index - Check Details \nThe index aims to track the performance of top 500 small cap stocks. \nNational Stock Exchange Indices Ltd., NSE's index services subsidiary, has launched a new broad market index called Nifty Smallcap 500. The index aims to track the performance of top 500 small cap st… [+1513 chars]",
+        "positive": 7.121276576071978e-05,
+        "negative": 1.7221209418494254e-06,
+        "neutral": 0.9999271631240845
+      },
+      {
+        "source": "news",
+        "id": "https://www.loudersound.com/bands-artists/the-lift-stops-the-doors-open-and-this-bloke-gets-in-and-its-peter-ing-gabriel-what-happened-when-ozzy-osbourne-bumped-into-the-prog-legend-who-made-the-album-he-was-obsessed-with",
+        "timestamp": "2026-01-23T15:18:48+00:00",
+        "text": "\"The lift stops. The doors open. And this bloke gets in. And it's Peter ****ing Gabriel!\" What happened when Ozzy Osbourne bumped into the prog legend who made the album he was \"obsessed\" with \nWhen these two music giants bumped into each other, one of them was a little overawed by the whole thing \nYou might have expected the Prince Of Darkness and Godfather Of Heavy Metal to have been a diehard fan of hard and heavy rock music himself, but Ozzy Osbourne had a surprisingly broad music taste - a… [+3386 chars]",
+        "positive": 0.010100120678544044,
+        "negative": 0.03780648112297058,
+        "neutral": 0.9520934820175171
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/news/todays-mortgage-interest-rates-january-23-2026/",
+        "timestamp": "2026-01-23T15:18:39+00:00",
+        "text": "What are today's mortgage interest rates: January 23, 2026? \nLooking to buy a home or refinance your current one? These are the mortgage interest rates to know first. \nMortgage interest rates may now be low enough for both buyers and owners hoping to refinance.\r\nKirpal Kooner/Getty Images\r\nWith the first Federal Reserve meeting of 2026 just days away and the knowle… [+3252 chars]",
+        "positive": 2.3515333396062488e-06,
+        "negative": 5.418000364443287e-05,
+        "neutral": 0.9999433755874634
+      },
+      {
+        "source": "news",
+        "id": "https://www.gov.uk/government/news/uk-and-us-nuclear-experts-sign-landmark-partnership",
+        "timestamp": "2026-01-23T15:17:49+00:00",
+        "text": "UK and US nuclear experts sign landmark partnership \nNuclear Transport Solutions sign new strategic agreement on development of transport package designed to safely move the next generation of nuclear fuel. \nNuclear Transport Solutions (NTS), the worlds leading nuclear transport specialist, and nuclear technology company Westinghouse have signed a new strategic agreement to work together on the developme… [+3827 chars]",
+        "positive": 0.37091532349586487,
+        "negative": 0.0007417045417241752,
+        "neutral": 0.6283429861068726
+      },
+      {
+        "source": "news",
+        "id": "https://www.techradar.com/pro/cracking-the-ai-code-realizing-ais-true-value-in-finance",
+        "timestamp": "2026-01-23T15:17:48+00:00",
+        "text": "Cracking the AI code: realizing AI's true value in finance \nAI's role in finance is evolving, and finance teams must now focus on delivering tangible results. \nFinance teams have largely moved beyond the experimentation phase of AI adoption and are now focused on delivering tangible results.\r\nIn fact, our recent research shows 99% of UK finance leaders view… [+6877 chars]",
+        "positive": 0.0011563072912395,
+        "negative": 0.0002312905853614211,
+        "neutral": 0.9986124038696289
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/germany-lauds-climate-finance-pact-decried-by-south-african-minister",
+        "timestamp": "2026-01-23T15:17:31+00:00",
+        "text": "Germany Lauds Climate Finance Pact Decried by South African Minister \nDays after South Africa’s electricity minister questioned the benefits of a $10 billion climate-finance pact between the country and some of the world’s richest nations, Germany lauded its success. \n(Bloomberg) Days after South Africas electricity minister questioned the benefits of a $10 billion climate-finance pact between the country and some of the worlds richest nations, Germany lauded its … [+4876 chars]",
+        "positive": 0.8029519319534302,
+        "negative": 0.11207202821969986,
+        "neutral": 0.08497606962919235
+      },
+      {
+        "source": "news",
+        "id": "https://www.scientificamerican.com/article/why-mining-greenlands-minerals-is-so-challenging/",
+        "timestamp": "2026-01-23T15:17:00+00:00",
+        "text": "Why mining Greenland’s minerals is so challenging \nGreenland’s mineral resources hold massive economic potential, but accessing them isn’t easy \nPresident Donald Trump’s desire to claim Greenland for the U.S. has thrust the island’s wealth of natural resources firmly into the spotlight. But while geopolitical chatter can make it sound as thou… [+5001 chars]",
+        "positive": 0.14269575476646423,
+        "negative": 0.18621939420700073,
+        "neutral": 0.6710848808288574
+      },
+      {
+        "source": "news",
+        "id": "https://www.wbng.com/2026/01/23/us-completes-withdrawal-world-health-organization/",
+        "timestamp": "2026-01-23T15:15:26+00:00",
+        "text": "US completes withdrawal from World Health Organization \nThe decision follows President Donald Trump's announcement a year ago. \nNEW YORK (AP) The U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was ending its 78-year-old commitment, federal official… [+5296 chars]",
+        "positive": 7.028761501715053e-06,
+        "negative": 2.9772676498396322e-05,
+        "neutral": 0.9999631643295288
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6eada5aa-e15f-4de0-a2e3-0ab421069b6b",
+        "timestamp": "2026-01-23T15:15:26+00:00",
+        "text": "College Football Playoff makes key expansion decision for 2026 season \nCollege football fans are clamoring for more teams to enter the 2026 College Football Playoff after another successful postseason in 2025. However, new reports are emerging that the CFP committee is content for now with its current 12-team playoff following… \nIf you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 7.649356120964512e-05,
+        "negative": 0.0003049723745789379,
+        "neutral": 0.9996185302734375
+      },
+      {
+        "source": "news",
+        "id": "https://www.globalresearch.ca/selected-articles-americans-paying-trump-tariffs/5913303",
+        "timestamp": "2026-01-23T15:15:18+00:00",
+        "text": "Selected Articles: Americans Paying for Trump’s Tariffs \nAmericans Paying for Trump’s Tariffs By Ahmed Adel, January 23, 2026 The study, published by the Kiel Institute for the World Economy, a research center based in Germany, indicates that the US tariffs effectively functioned as a tax on domestic consumption, w… \nAmericans Paying for Trumps Tariffs\r\nBy Ahmed Adel, January 23, 2026\r\nThe study, published by the Kiel Institute for the World Economy, a research center based in Germany, indicates that the US tarif… [+2466 chars]",
+        "positive": 6.37346674920991e-05,
+        "negative": 1.45317790156696e-05,
+        "neutral": 0.9999216794967651
+      },
+      {
+        "source": "news",
+        "id": "https://gizmodo.com/gaze-deeply-into-nature-with-these-award-winning-ecology-photos-2000713286",
+        "timestamp": "2026-01-23T15:15:02+00:00",
+        "text": "Gaze Deeply Into Nature With These Award-Winning Ecology Photos \nWinning shots from the Capturing Ecology competition highlight the complex relationships that shape ecosystems. \nZeke Rowe, a PhD candidate at Vrije Universiteit Amsterdam, Netherlands, was on a break while doing research in Panamas Coiba National Park when he noticed a crocodile lurking in a tidal marsh off th… [+5156 chars]",
+        "positive": 5.331922511686571e-05,
+        "negative": 5.281445919536054e-05,
+        "neutral": 0.9998939037322998
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224927/28124/en/Latin-America-and-the-Caribbean-Smart-Metering-Research-Report-2026-with-Cemig-COPEL-Grupo-ICE-Light-and-UTE-Case-Studies.html",
+        "timestamp": "2026-01-23T15:15:00+00:00",
+        "text": "Latin America and the Caribbean Smart Metering Research Report 2026 with Cemig, COPEL, Grupo ICE, Light, and UTE Case Studies \nKey market opportunities in smart metering in Latin America and the Caribbean include low penetration rates offering growth potential, with major expansion expected in Brazil and Mexico. Uruguay leads with near-universal coverage, while regulatory improvement… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Smart Metering in Latin America and the Caribbean - 3rd Edition\" report has been added to ResearchAndMarkets.com's offering.\r\nThis strategic research re… [+11320 chars]",
+        "positive": 0.9953293800354004,
+        "negative": 6.2875341200197e-07,
+        "neutral": 0.004670051392167807
+      },
+      {
+        "source": "news",
+        "id": "https://www.prnewswire.co.uk/news-releases/rfid-market-worth-30-47-billion-by-2034---exclusive-report-by-marketsandmarkets-302668797.html",
+        "timestamp": "2026-01-23T15:15:00+00:00",
+        "text": "RFID Market worth $30.47 billion by 2034 - Exclusive Report by MarketsandMarkets™ \nDELRAY BEACH, Fla., Jan. 23, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the RFID Market is expected to grow from USD 14.58 billion in 2025 to USD 30.47 billion by 2034, at a CAGR of 8.5%. Browse 180 market data Tables and 65 Figures spread through … \nDELRAY BEACH, Fla., Jan. 23, 2026 /PRNewswire/ -- According to MarketsandMarkets, the RFID Market is expected to grow from USD 14.58 billion in 2025 to USD 30.47 billion by 2034, at a CAGR of 8.5%.\r\n… [+10395 chars]",
+        "positive": 0.9986748695373535,
+        "negative": 9.850264177657664e-07,
+        "neutral": 0.001324191689491272
+      },
+      {
+        "source": "news",
+        "id": "https://www.infoq.com/presentations/integrating-renewable-energy/",
+        "timestamp": "2026-01-23T15:15:00+00:00",
+        "text": "Presentation: Kraken's Serverless Architecture for Keeping the Grid Green \nKevin Bowman shares how Kraken Technology balances the UK’s 30GW energy grid using renewable sources. He discusses an architectural blueprint leveraging AWS Lambda, EventBridge, and DynamoDB to manage grid-scale batteries and virtual power plants. Learn how t… \nTranscript\r\nKevin Bowman: This is the London that you'll hopefully recognize. Think about this for a moment. What would it take for all of the lights in that picture to go out? The UK grid powers all… [+44188 chars]",
+        "positive": 1.607908052392304e-05,
+        "negative": 6.83093048792216e-06,
+        "neutral": 0.9999771118164062
+      },
       {
         "source": "news",
         "id": "https://www.thehindubusinessline.com/economy/india-is-eligible-for-gsp-benefits-for-about-1124-billion-18-of-eu-exports-commerce-dept/article70543332.ece",
@@ -230,33 +950,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/adani-powers-7500-crore-bond-sale-backed-by-bids-from-domestic-lenders-mutual-funds-sources-say/article70542627.ece",
-        "timestamp": "2026-01-23T15:04:42+00:00",
-        "text": "Adani Power's ₹7,500-crore bond sale backed by bids from domestic lenders, mutual funds, sources say \nAdani Power's ₹7,500 crore debt sale attracts major investments from domestic lenders and mutual funds amid corporate governance concerns. \nA 7,500 crore ($816.58 million) debt sale by Indias Adani Power was corned by large Indian banks and mutual funds, who bought over 90 per cent of the issue, three sources aware of the matter said on … [+1815 chars]",
-        "positive": 0.0006829068879596889,
-        "negative": 0.0012415925739333034,
-        "neutral": 0.9980754852294922
-      },
-      {
-        "source": "news",
-        "id": "https://www.brooklynvegan.com/idk-roc-marciano-lucinda-williams-backengrillen-colossal-rains-crush-your-soul-reviews/",
-        "timestamp": "2026-01-23T15:04:08+00:00",
-        "text": "Notable Releases of the Week (1/23) \n2026 continues to get off to an exciting start musically, and this week gave us the first Arctic Monkeys song in four years plus album announcements from Courtney Barnett, James Blake, Snail Mail, and a handful of others. We talked about all that and more on … \n2026 continues to get off to an exciting start musically, and this week gave us the first Arctic Monkeys song in four years plus album announcements from Courtney Barnett, James Blake, Snail Mail, an… [+10517 chars]",
-        "positive": 0.9993879795074463,
-        "negative": 3.766951749639702e-06,
-        "neutral": 0.000608147238381207
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224917/0/en/Automotive-Cybersecurity-Market-to-Surpass-US-28-Billion-by-2036-Driven-by-SDV-Architecture-and-Regulatory-Compliance.html",
-        "timestamp": "2026-01-23T15:04:00+00:00",
-        "text": "Automotive Cybersecurity Market to Surpass US$28 Billion by 2036, Driven by SDV Architecture and Regulatory Compliance \nThe global automotive cybersecurity market is projected to grow at a CAGR of of 20.4% and reach US$28,055.2 million by 2036.... \nGlobal rollout of UN R155/R156 and software-defined vehicle platforms boosts demand for embedded and cloud-based cybersecurity\r\nLondon, UK 13 January 2026  The global automotive cybersecurity market … [+3698 chars]",
-        "positive": 1.0,
-        "negative": 1.601207699764018e-08,
-        "neutral": 2.7195673268920473e-08
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-today-dow-slides-nearly-350-points-why-dow-sp-500-and-nasdaq-all-in-red-as-gold-and-silver-rise-toward-record-highs/articleshow/127297097.cms",
         "timestamp": "2026-01-23T15:03:54+00:00",
         "text": "US stock market crashes today: Dow slides nearly 350 points — why Dow, S&P 500, and Nasdaq all in red as gold and silver rise toward record highs \nUS stock market crashes today: US stocks fell Friday as the Dow dropped 342 points to 49,041. The S&P 500 slipped 0.20% to 6,899, while the Nasdaq edged down to 23,420. Weak guidance and a quarterly loss at Intel Corporation, whose shares sank nearly 15%, dra… \nUS stock market crashes today: The Dow Jones Industrial Average fell 342.38 points, or 0.69%, to 49,041.63. The S&amp;P 500 Index lost 13.71 points, or 0.20%, to close at 6,899.64, while the NASDAQ C… [+5826 chars]",
@@ -272,42 +965,6 @@
         "positive": 0.3750712275505066,
         "negative": 0.00023850196157582104,
         "neutral": 0.6246902346611023
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224916/0/en/Quantum-Sensors-Market-Value-to-Reach-1-5Bn-by-2031-Growing-at-12-72-CAGR-Says-Mordor-Intelligence.html",
-        "timestamp": "2026-01-23T15:03:00+00:00",
-        "text": "Quantum Sensors Market Value to Reach $1.5Bn by 2031 Growing at 12.72% CAGR, Says Mordor Intelligence \nQuantum sensors market growth is being driven by defense modernization programs, space navigation needs, and high-precision measurement requirements in oil & gas and mining, led by North America. Quantum sensors market growth is being driven by defense modern… \nHyderabad, Jan. 23, 2026 (GLOBE NEWSWIRE) -- According to the latest report published by Mordor Intelligence, the quantum sensors market size is estimated at USD 0.86 billion in 2026, up from USD 0.7… [+8709 chars]",
-        "positive": 0.9982722997665405,
-        "negative": 5.787148438685108e-06,
-        "neutral": 0.0017218529246747494
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224915/28124/en/CD137-Targeted-Therapy-Research-Report-2026-2030-90-Therapies-in-Clinical-Trials-Upcoming-Commercial-Launches-Global-amp-Regional-Clinical-Commercial-Trends.html",
-        "timestamp": "2026-01-23T15:02:00+00:00",
-        "text": "CD137 Targeted Therapy Research Report 2026-2030: 90 Therapies in Clinical Trials, Upcoming Commercial Launches, Global & Regional Clinical & Commercial Trends, \nKey market opportunities in CD137-targeted therapies include the upcoming commercial launch by 2030, robust clinical trial activity with over 90 therapies, and promising combination therapies. Proprietary technology platforms offer innovative approaches, posi… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"CD137 Targeted Therapy Market Opportunity, Therapeutic Approaches, Technology Development Platforms &amp; Clinical Trials Insight 2026\" report has been … [+7479 chars]",
-        "positive": 0.9996762275695801,
-        "negative": 3.0084814284236927e-07,
-        "neutral": 0.0003234536270610988
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224914/0/en/Hotel-Equities-Expands-Caribbean-Latin-America-Cala-Capabilities-with-Open-Hotels-and-In-Market-Operating-Platform.html",
-        "timestamp": "2026-01-23T15:02:00+00:00",
-        "text": "Hotel Equities Expands Caribbean & Latin America (Cala) Capabilities with Open Hotels and In-Market Operating Platform \nHotel Equities expands its Caribbean and Latin America footprint through new resort signings, upcoming openings, and a fully in-market operating team... \nMIAMI, Jan. 23, 2026 (GLOBE NEWSWIRE) -- Hotel Equities (HE), a best-in-class hospitality operator, announces the continued expansion of its Caribbean &amp; Latin America (CALA) in-market operating p… [+5446 chars]",
-        "positive": 0.9999239444732666,
-        "negative": 4.910076611963632e-08,
-        "neutral": 7.605669816257432e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.prnewswire.co.uk/news-releases/optical-laser-satellite-communication-market-worth-1-56-billion-by-2030---exclusive-report-by-marketsandmarkets-302668805.html",
-        "timestamp": "2026-01-23T15:01:00+00:00",
-        "text": "Optical (laser) Satellite Communication Market worth $1.56 billion by 2030 - Exclusive Report by MarketsandMarkets™ \nDELRAY BEACH, Fla., Jan. 23, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Optical (laser) Satellite Communication Market is projected to grow from USD 0.62 billion in 2025 to USD 1.56 billion by 2030 at a CAGR of 20.4%. Browse 233 market data Tab… \nDELRAY BEACH, Fla., Jan. 23, 2026 /PRNewswire/ -- According to MarketsandMarkets, the Optical (laser) Satellite Communication Market is projected to grow from USD 0.62 billion in 2025 to USD 1.56 bil… [+6856 chars]",
-        "positive": 0.9960975646972656,
-        "negative": 5.664417585649062e-06,
-        "neutral": 0.003896646900102496
       },
       {
         "source": "news",
@@ -365,15 +1022,6 @@
       },
       {
         "source": "news",
-        "id": "https://bitcoinist.com/a-boost-in-demand-for-xrp/",
-        "timestamp": "2026-01-23T15:00:12+00:00",
-        "text": "How Donald Trump’s Latest Crypto Move Will Boost Demand For XRP \nCrypto pundit X Finance Bull has explained how Donald Trump’s push to sign the crypto bill into law will boost demand for XRP. This follows White House Crypto Czar David Sack’s prediction about how banks will come into crypto once the CLARITY Act passes. How … \nCrypto pundit X Finance Bull has explained how Donald Trumps push to sign the crypto bill into law will boost demand for XRP. This follows White House Crypto Czar David Sacks prediction about how ban… [+2591 chars]",
-        "positive": 0.9984405636787415,
-        "negative": 7.4258705353713594e-06,
-        "neutral": 0.001552055822685361
-      },
-      {
-        "source": "news",
         "id": "https://www.activistpost.com/iran-didnt-erupt-it-was-ignited-the-hidden-hands-behind-a-manufactured-crisis/",
         "timestamp": "2026-01-23T15:00:00+00:00",
         "text": "Iran Didn’t Erupt, It Was Ignited: The Hidden Hands Behind a Manufactured Crisis \nWhen the first chants rose up in Tehran’s Grand Bazaar at the end of December 2025, they came from merchants worn down by real, everyday suffering: inflation eating away savings, a collapsing currency, and the unceasing grind of uncertainty. Yet within days, … \nWhen the first chants rose up in Tehrans Grand Bazaar at the end of December 2025, they came from merchants worn down by real, everyday suffering: inflation eating away savings, a collapsing currency… [+17276 chars]",
@@ -398,87 +1046,6 @@
         "positive": 2.1507525161723606e-05,
         "negative": 1.3903264516557101e-05,
         "neutral": 0.9999645948410034
-      },
-      {
-        "source": "news",
-        "id": "https://www.animenewsnetwork.com/this-week-in-games/2026-01-23/snk-sinks-resident-evil-bling-and-how-lara-croft-came-to-japan/.233258",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "This Week in Games - SNK Sinks, Resident Evil Bling, and How Lara Croft Came to Japan \nSomehow, City of the Wolves has done well enough to get a second wave of DLC. And the trailer is another curling of the monkey's paw. \nWelcome back, folks! In an effort to find joy wherever I can, I had a bright spot this week with the arrival of the Izuna soundtrack collection I had ordered from Very Okay Vinyl. Now, I don't own a … [+13179 chars]",
-        "positive": 0.9999332427978516,
-        "negative": 5.1930692279711366e-05,
-        "neutral": 1.4793175978411455e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.marketingprofs.com/opinions/2026/54200/ai-update-january-23-2026-ai-news-and-views-from-the-past-week",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "AI Update, January 23, 2026: AI News and Views From the Past Week \nCatch up on select AI news and developments from the past week or so. Stay in the know. Read the full article at MarketingProfs \nCatch up on select AI news and developments from the past week or so:\r\nOpenAI says ChatGPT ads will start testing soon for free users. OpenAI says it will begin testing ads for ChatGPT users who do n… [+25580 chars]",
-        "positive": 0.00010249007027596235,
-        "negative": 1.1277428711764514e-05,
-        "neutral": 0.999886155128479
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224913/0/en/Lipid-Nanoparticle-Manufacturing-Market-An-18-9-CAGR-Market-Driven-by-Nucleic-Acid-Therapies.html",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "Lipid Nanoparticle Manufacturing Market: An 18.9% CAGR Market Driven by Nucleic Acid Therapies \nThe lipid nanoparticle manufacturing market size is set to expand from USD 400 million in 2024 to USD 2243 million by 2034, with a CAGR of 18.9%.... \nOttawa, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The global lipid nanoparticle manufacturing market size is calculated at USD 565 million in 2026 and is expected to reach around USD 2243 million by 2034, gr… [+17987 chars]",
-        "positive": 0.9841970801353455,
-        "negative": 1.6256154822258395e-06,
-        "neutral": 0.015801234170794487
-      },
-      {
-        "source": "news",
-        "id": "http://www.brownstoner.com/upstate/south-kortright-10566-county-highway-18-ny-belle-terre-hunt-slonem/",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "Restored to Opulent Splendor, a Delaware County Mansion Asks $2.995 Million \nResplendent with over-the-top ornament, this Delaware County mansion has been restored with an artist's eye for color and pattern and a respect for the grandly scaled original details. Constructed as the summer retreat for a wealthy industrialist and family i… \nConstructed as a summer home for the McLean family in 1912 and now known as Belle Terre, the mansion was restored by artist Hunt Slonem.Photo via Annabel Taylor of Four Seasons Sotheby’s Internationa… [+10928 chars]",
-        "positive": 1.9119257558486424e-05,
-        "negative": 0.000339117250405252,
-        "neutral": 0.9996417760848999
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/01/23/betting/kalshi-promo-code-nypmax-earn-a-10-bonus-for-championship-weekend/",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "Kalshi promo code NYPMAX: Earn a $10 bonus for Championship Weekend \nEarn a $10 bonus for the NFL's conference championship games on Sunday. \nGambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nTwo teams will punch their ticket to … [+2144 chars]",
-        "positive": 1.7422373730369145e-06,
-        "negative": 5.584466180152958e-06,
-        "neutral": 0.9999926090240479
-      },
-      {
-        "source": "news",
-        "id": "https://www.brewhoop.com/bucks-game-previews/58424/milwaukee-bucks-vs-denver-nuggets-preview-game-thread-ominous-vibes",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "Milwaukee Bucks vs. Denver Nuggets Preview & Game Thread: Ominous vibes \nThe Bucks badly need a win to quell the noise \nAfter their fourth loss in five games, the Milwaukee Bucks go again tonight, facing off against the Denver Nuggets. The vibes around the team are pretty putrid right now, and a sizeable loss will do … [+2918 chars]",
-        "positive": 0.00064505246700719,
-        "negative": 0.9990612864494324,
-        "neutral": 0.0002936322707682848
-      },
-      {
-        "source": "news",
-        "id": "https://www.silverandblackpride.com/las-vegas-raiders-news/120616/las-vegas-raiders-made-a-strong-push-for-jesse-minter",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "Las Vegas Raiders made a strong push for Jesse Minter \nLas Vegas Raiders put in a late push for Chargers DC Jessie Minter but ended up losing out to the Baltimore Ravens \nThe Las Vegas Raiders are looking for a new head coach after firing Pete Carroll after the 2025 season. This time around, the Silver and Black have been extensive in their search, interviewing 14 can… [+1743 chars]",
-        "positive": 0.012378357350826263,
-        "negative": 0.00012852955842390656,
-        "neutral": 0.9874931573867798
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224906/0/en/Advanced-Biofuels-Market-Size-to-Hit-USD-42-27-Billion-by-2035-at-9-06-CAGR-Research-by-SNS-Insider.html",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "Advanced Biofuels Market Size to Hit USD 42.27 Billion by 2035, at 9.06% CAGR | Research by SNS Insider \nGlobal Advanced Biofuels Market Share, Revenue Trends & Segmentation By Biofuel Type, Feedstock, and Application, End-User, and Region | Forecast 2026-2035 \nAustin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- Advanced Biofuels Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider, The Advanced Biofuels Market Size was valued at USD 17.82 Billion in 2025… [+7307 chars]",
-        "positive": 3.2643154554534703e-05,
-        "negative": 1.0747208989414503e-06,
-        "neutral": 0.9999662637710571
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224905/0/en/Berger-Montague-PC-Investigating-Claims-on-Behalf-of-BellRing-Brands-Inc-NYSE-BRBR-Investors-After-Class-Action-Filing.html",
-        "timestamp": "2026-01-23T15:00:00+00:00",
-        "text": "Berger Montague PC Investigating Claims on Behalf of BellRing Brands, Inc. (NYSE: BRBR) Investors After Class Action Filing \nPHILADELPHIA, Jan. 23, 2026 (GLOBE NEWSWIRE) -- National plaintiffs’ law firm Berger Montague PC\r\n announces that a class action lawsuit has been filed against BellRing Brands, Inc. (NYSE: BRBR) (“BellRing” or the “Company”) on behalf of investors who purchas… \nPHILADELPHIA, Jan. 23, 2026 (GLOBE NEWSWIRE) -- National plaintiffs law firm Berger Montague PC\r\n announces that a class action lawsuit has been filed against BellRing Brands, Inc. (NYSE: BRBR) (Bell… [+3468 chars]",
-        "positive": 0.0016246893210336566,
-        "negative": 0.0014528793981298804,
-        "neutral": 0.9969224333763123
       },
       {
         "source": "news",
@@ -518,24 +1085,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224903/28124/en/MYC-Targeting-Therapies-Market-Research-Report-2026-2030-10-Therapies-in-Clinical-Trials-5-Targeting-Platforms-Clinical-Studies-Start-Expected-Completion-Timeline-by-Indication.html",
-        "timestamp": "2026-01-23T14:58:00+00:00",
-        "text": "MYC Targeting Therapies Market Research Report 2026-2030: 10 Therapies in Clinical Trials, 5 Targeting Platforms, Clinical Studies Start & Expected Completion Timeline by Indication \nMYC targeted therapies offer significant market opportunities, driven by their potential as oncogenic drivers in diverse tumors. The field sees growing R&D on innovative platforms, early-stage advancements, and global trials. Despite challenges, there are pro… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"MYC Targeting Therapies Market Opportunity, Targeting Approaches, Technology Development Platforms &amp; Clinical Trials Insight 2026\" report has been a… [+8529 chars]",
-        "positive": 0.9999905824661255,
-        "negative": 3.345012089539523e-07,
-        "neutral": 9.09477148525184e-06
-      },
-      {
-        "source": "news",
-        "id": "https://audiophilestyle.com/ca/reviews/moving-from-wilson-audio-l%C5%8Dk%C4%93-to-submerge-subwoofer-r1407/",
-        "timestamp": "2026-01-23T14:58:00+00:00",
-        "text": "Moving From Wilson Audio Lōkē to Submerge Subwoofer \nAudio: Listen to this article.\n\n\n\n \n\n\n\n \n\n\n\n \n\n\n\nI love listening to music, feeling the emotion of it, and hearing absolutely everything the artists and engineers have put into their albums. An AM radio, with a severely frequency limited single speaker, will … \nAudio: Listen to this article.\r\nI love listening to music, feeling the emotion of it, and hearing absolutely everything the artists and engineers have put into their albums. An AM radio, with a sever… [+14736 chars]",
-        "positive": 0.00038477397174574435,
-        "negative": 5.819576108478941e-05,
-        "neutral": 0.9995570778846741
-      },
-      {
-        "source": "news",
         "id": "https://nationalpost.com/opinion/pierre-poilievre-carneys-davos-speech-highlights-that-it-is-liberal-rhetoric-that-doesnt-match-reality",
         "timestamp": "2026-01-23T14:57:59+00:00",
         "text": "Pierre Poilievre: Carney's Davos speech highlights that it is Liberal rhetoric that doesn't match reality \n\"If Liberal words and good intentions were tradeable commodities, Canada would already be the richest nation on earth.\" \nWe should continue to work with allies within the U.S. that are outside of the administration to minimize the damage until the larger relationship can one day be repaired. I restate again my offer to… [+3981 chars]",
@@ -545,30 +1094,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/economy/agri-business/tur-prices-firm-up-a-tad-on-delayed-arrivals-slowing-imports/article70543336.ece",
-        "timestamp": "2026-01-23T14:57:58+00:00",
-        "text": "Tur prices firm up a tad on delayed arrivals, slowing imports \nTur prices rise slightly due to delayed arrivals and slowing imports, yet remain below the government's minimum support price. \nPrices of tur (pigeon pea) have firmed up marginally over the past couple of days on slowing imports, delayed market arrivals and weakening rupee making the imports expensive, trade sources said. \r\nA… [+1730 chars]",
-        "positive": 0.033547986298799515,
-        "negative": 0.9457749724388123,
-        "neutral": 0.020677076652646065
-      },
-      {
-        "source": "news",
         "id": "https://nypost.com/2026/01/23/lifestyle/when-life-was-worth-living-mcdonalds-customers-irate-after-seeing-prices-from-2009-and-some-items-have-tripled-in-cost/",
         "timestamp": "2026-01-23T14:56:41+00:00",
         "text": "‘When life was worth living’: McDonald’s customers irate after seeing prices from 2009 — and some items have tripled in cost \nThis put the \"double\" in \"Double Quarter Pounder.\" \nWhen the dollar menu was actually a dollar.\r\nInflation-ravaged fast food fans grew nosh-talgic after seeing a McDonald’s menu from 2009 — when a meal could cost half of what it does today.\r\nThe Golde… [+1988 chars]",
         "positive": 0.09663552045822144,
         "negative": 0.02649322897195816,
         "neutral": 0.8768712282180786
-      },
-      {
-        "source": "news",
-        "id": "http://foreignpolicy.com/2026/01/23/trump-threats-europe-greenland-balance-power/",
-        "timestamp": "2026-01-23T14:56:39+00:00",
-        "text": "The Balance-of-Power Theory Strikes Again \nNobody should be surprised at how the world is reacting to Donald Trump’s threats. \nAre we, at long last, seeing formerly friendly states begin to balance against a rogue America?\r\nSuch a shift would constitute a sea change in world affairs. If it does occur, it will be entirely due… [+8125 chars]",
-        "positive": 0.00012097134458599612,
-        "negative": 0.03588206693530083,
-        "neutral": 0.963996946811676
       },
       {
         "source": "news",
@@ -590,15 +1121,6 @@
       },
       {
         "source": "news",
-        "id": "https://mediagazer.com/260123/p3",
-        "timestamp": "2026-01-23T14:55:00+00:00",
-        "text": "Forbes plans to launch prediction platform Forbes Predict in February; a widget next to articles will allow readers to make forecasts in exchange for tokens (Sara Guaglione/Digiday) \nSara Guaglione / Digiday:\nForbes plans to launch prediction platform Forbes Predict in February; a widget next to articles will allow readers to make forecasts in exchange for tokens  —  Forbes has joined the fray of publishers adding prediction markets to th… \nMediagazer presents the day's must-read media news on a single page.\r\nThe media business is in tumult: from the production side to\r\nthe distribution side, new technologies are upending the industry.\r… [+416 chars]",
-        "positive": 6.136456249805633e-07,
-        "negative": 3.2764694424258778e-06,
-        "neutral": 0.9999961853027344
-      },
-      {
-        "source": "news",
         "id": "https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-friday-january-23-2026#article",
         "timestamp": "2026-01-23T14:54:29+00:00",
         "text": "Mortgage Rates Today, Friday, January 23: A Little Lower \nTL;DR: Rates fell today to 5.89%. \nMortgage rates are lower today than yesterday, but are still fairly close to the 6% mark where theyve hovered for weeks. \r\nThe average interest rate on a 30-year, fixed-rate mortgage ticked down to 5… [+5829 chars]",
@@ -608,75 +1130,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.ndtvprofit.com/business/mcx-q3-results-profit-doubles-to-rs-401-crore-10864592",
-        "timestamp": "2026-01-23T14:54:28+00:00",
-        "text": "MCX Q3 Results: Profit Doubles To Rs 401 Crore \nThe company reported a consolidated net profit of Rs 401 crore in the October-December period, compared to Rs197 crore in the preceding quarter. \nMulti Commodity Exchange of India Ltd.'s net profit doubled on a sequential basis in the third quarter of the current financial year. The company reported a consolidated net profit of Rs 401 crore in… [+764 chars]",
-        "positive": 0.9999990463256836,
-        "negative": 4.3076589406609855e-08,
-        "neutral": 9.690085107649793e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224901/0/en/BTCC-Exchange-Announces-New-Spot-Listings-XDC-ZSWAP-VEREM-VTCN-and-ZIOW.html",
-        "timestamp": "2026-01-23T14:54:00+00:00",
-        "text": "BTCC Exchange Announces New Spot Listings: XDC, ZSWAP, VEREM, VTCN, and ZIOW \nBTCC has announced the spot listings of XDC, ZSWAP, VEREM, VTCN, and ZIOW in January 2026, expanding trading opportunities for its users.... \nA Media Snippet accompanying this announcement is available by clicking on this link.\r\nVILNIUS, Lithuania, Jan. 23, 2026 (GLOBE NEWSWIRE) -- BTCC\r\n, the worlds longest-serving crypto exchange, has an… [+2327 chars]",
-        "positive": 0.36657223105430603,
-        "negative": 1.0407060472061858e-05,
-        "neutral": 0.6334173083305359
-      },
-      {
-        "source": "news",
-        "id": "https://www.bostonherald.com/2026/01/23/stock-market-end-dramatic-week/",
-        "timestamp": "2026-01-23T14:53:29+00:00",
-        "text": "A sharp drop for Intel helps tug the US stock market lower \nIntel tugged the market lower after its forecast for profit in early 2026 fell short of Wall Street’s expectations. \nBy STAN CHOE, Associated Press Business Writer\r\nNEW YORK (AP) The U.S. stock market is drifting lower Friday, as a zigzag week full of loud threats and pullbacks heads toward a quieter close.\r\nThe S&… [+3161 chars]",
-        "positive": 0.06771519035100937,
-        "negative": 0.9284889698028564,
-        "neutral": 0.003795899450778961
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224900/28124/en/Molecular-Switch-Targeting-Therapies-Market-Research-Report-2026-Opportunities-in-Targeted-Drug-Delivery-Systems-and-Therapies-in-Oncology-Autoimmune-Inflammatory-and-Neurological-.html",
-        "timestamp": "2026-01-23T14:53:00+00:00",
-        "text": "Molecular Switch Targeting Therapies Market Research Report 2026: Opportunities in Targeted Drug Delivery Systems and Therapies in Oncology, Autoimmune, Inflammatory, and Neurological Disorders \nKey market opportunities include leveraging molecular switches for targeted drug delivery systems and therapies in oncology, autoimmune, inflammatory, and neurological disorders. Innovations in nanotechnology and mRNA therapies highlight their therapeutic pot… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Molecular Switch Targeting Therapies Market Landscape, Innovation Pipeline and Commercial Impact 2026\" report has been added to ResearchAndMarkets.com's… [+8070 chars]",
-        "positive": 0.997316300868988,
-        "negative": 6.8438093876466155e-06,
-        "neutral": 0.002676770556718111
-      },
-      {
-        "source": "news",
-        "id": "https://news.yale.edu/2026/01/23/quantum-circuits-550-million-sale-brings-tech-success-and-jobs-new-haven",
-        "timestamp": "2026-01-23T14:52:48+00:00",
-        "text": "Quantum Circuits’ $550 million sale brings tech success — and jobs — to New Haven \nThe recent $550 million sale of Yale startup Quantum Circuits Inc. strengthens the quantum tech ecosystem in Connecticut and underscores the value of Yale’s investment in quantum research, campus leaders&nbsp;say. \nQuantum computing aims to complement traditional, classical computers with devices based on emerging knowledge of quantum physics. In theory, quantum computers will be able to do computations that cl… [+2562 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 6.278987996211072e-09,
-        "neutral": 1.1475241734615338e-07
-      },
-      {
-        "source": "news",
         "id": "https://punchng.com/afternoon-recap-national-grid-collapses-woman-dies-in-abuja-after-visiting-boyfriend-fg-bans-meter-charges-other-top-stories/",
         "timestamp": "2026-01-23T14:52:37+00:00",
         "text": "Afternoon recap: National grid collapses, woman dies in Abuja after visiting boyfriend, FG bans meter charges, other top stories \nGet the afternoon recap on Nigeria’s national grid collapse, the FG’s ban on meter charges, a woman’s death in Abuja, and other top stories.\n\nRead More: https://punchng.com/afternoon-recap-national-grid-collapses-woman-dies-in-abuja-after-visiting-boyfriend-f… \nThe national electricity grid collapsed again on Friday, triggering widespread power outages across Nigeria as power generation dropped sharply nationwide.\r\nThe day also witnessed the death of a youn… [+2968 chars]",
         "positive": 0.0011689193779602647,
         "negative": 0.9395771026611328,
         "neutral": 0.05925401672720909
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/pdp-demands-justice-for-plateau-mining-attack-victims/",
-        "timestamp": "2026-01-23T14:52:37+00:00",
-        "text": "PDP demands justice for Plateau mining attack victims \nThe PDP calls for a transparent investigation and justice for the seven civilians killed in the recent Plateau mining attack in Jos South LGA.\n\nRead More: https://punchng.com/pdp-demands-justice-for-plateau-mining-attack-victims/ \nThe Peoples Democratic Party has called for justice following the killing of seven civilians at a mining site in Wat, Kuru District, Jos South LGA, Plateau State, on 21 January 2026.\r\nIn a statement … [+1518 chars]",
-        "positive": 4.990221714251675e-05,
-        "negative": 0.0019060722552239895,
-        "neutral": 0.9980440139770508
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/buy-the-dip-stock-market-analysis-outlook-downside-warning-2026-1",
-        "timestamp": "2026-01-23T14:52:13+00:00",
-        "text": "People are getting more aggressive about buying the dip in stocks. But they're playing a dangerous game. \nNo, it's not in your head. Investors really are buying the dip faster and more readily in recent months. \nRemember, just three days ago, when it felt like the sky was falling in the stock market?\r\nYou could be forgiven for forgetting. While the 2%-plus sell-off across all major US indexes on Tuesday cert… [+2687 chars]",
-        "positive": 0.0027128541842103004,
-        "negative": 0.9923682808876038,
-        "neutral": 0.004918886348605156
       },
       {
         "source": "news",
@@ -707,66 +1166,12 @@
       },
       {
         "source": "news",
-        "id": "https://bringatrailer.com/listing/1963-chevrolet-corvette-convertible-182/",
-        "timestamp": "2026-01-23T14:50:04+00:00",
-        "text": "1963 Chevrolet Corvette Convertible L84 327/360 Fuelie 4-Speed at No Reserve \nThis 1963 Chevrolet Corvette convertible was first sold on BaT in June 2024, and it was acquired by the seller in 2025. Subsequent work involved installing a replacement Rochester mechanical fuel injection system and a replacement Positraction rear end as wel… \nThis 1963 Chevrolet Corvette convertible was first sold on BaT in June 2024, and it was acquired by the seller in 2025. Subsequent work involved installing a replacement Rochester mechanical fuel inj… [+3368 chars]",
-        "positive": 1.0981271998389275e-06,
-        "negative": 7.941891453810968e-06,
-        "neutral": 0.9999909400939941
-      },
-      {
-        "source": "news",
-        "id": "https://www.memeorandum.com/260123/p31",
-        "timestamp": "2026-01-23T14:50:01+00:00",
-        "text": "The shocking collapse of American vaccination (Matthew Yglesias/Slow Boring) \nMatthew Yglesias / Slow Boring:\nThe shocking collapse of American vaccination  —  A somewhat surprising, totally terrible, borderline unfixable Trump legacy  —  Something that came up very briefly in my chat with Nate Silver is that there's a difference betwe… \nmemeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
-        "positive": 0.00042205056524835527,
-        "negative": 0.019750487059354782,
-        "neutral": 0.9798275232315063
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/economy/indias-fdi-inflows-surge-74-to-47-billion-un-data-10864485",
-        "timestamp": "2026-01-23T14:49:47+00:00",
-        "text": "India's FDI Inflows Surge 74% To $47 Billion: UN Data \nThis was mainly due to large investments in services and manufacturing, supported by policies aimed at integrating the country into global supply chains, the UN said. \nThe FDI inflows to India in 2025 surged by 73% to $47 billion, mainly due to large investments in services and manufacturing, supported by policies aimed at integrating the country into global supply… [+3008 chars]",
-        "positive": 0.9996484518051147,
-        "negative": 2.0077447970834328e-06,
-        "neutral": 0.00034951535053551197
-      },
-      {
-        "source": "news",
         "id": "https://www.thehindubusinessline.com/markets/gold/gold-silver-and-platinum-resume-rally-soar-to-new-high/article70543252.ece",
         "timestamp": "2026-01-23T14:49:36+00:00",
         "text": "Gold, silver and platinum resume rally, soar to new high \nGold, silver, and platinum prices soar to new highs amid dollar drop and geopolitical tensions, signaling strong investor demand. \nGold, silver and platinum zoomed to new highs, resuming their rally on Friday, as the dollar had its poorest week since May 2025, even as geopolitical crises and threats to the US Federal Reserve fro… [+1740 chars]",
         "positive": 0.9998763799667358,
         "negative": 0.00011089470353908837,
         "neutral": 1.2753236660500988e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224898/28124/en/Enterprise-and-Industrial-Automation-Teleoperation-and-Telerobotics-Technology-and-Solutions-Market-Research-Report-2025-2030-Digital-Twinning-Cloud-Robotics-and-As-a-Service-Model.html",
-        "timestamp": "2026-01-23T14:48:00+00:00",
-        "text": "Enterprise and Industrial Automation Teleoperation and Telerobotics Technology and Solutions Market Research Report 2025-2030: Digital Twinning, Cloud Robotics, and \"As-a-Service\" Models Propel Growth \nThe convergence of teleoperation with telerobotics, enabled by advancements in 5G, MEC, and IIoT, is reshaping Industry 4.0. Key opportunities include digital twinning, Cloud Robotics, and \"as-a-service\" models, enhancing precision and efficiency. Understandi… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Teleoperation and Telerobotics Technologies and Solutions for Enterprise and Industrial Automation Market Analysis with Forecasts through 2030\" report h… [+7530 chars]",
-        "positive": 0.9999949932098389,
-        "negative": 2.767972375750105e-07,
-        "neutral": 4.766156507685082e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224897/0/en/Virtune-Announces-Upcoming-10-1-Share-Split-for-the-Virtune-Bitcoin-Prime-ETP-VIRBTCP.html",
-        "timestamp": "2026-01-23T14:48:00+00:00",
-        "text": "Virtune Announces Upcoming 10:1 Share Split for the Virtune Bitcoin Prime ETP (VIRBTCP) \nStockholm, January 23, 2026 – Virtune AB (Publ) today announces an upcoming 10:1 share split of the Virtune Bitcoin Prime ETP (ticker: VIRBTCP). The share split will not affect the total value of investors’ holdings, and no action is required from investors. … \nStockholm, January 23, 2026 Virtune AB (Publ) today announces an upcoming 10:1 share split of the Virtune Bitcoin Prime ETP (ticker: VIRBTCP). The share split will not affect the total value of inves… [+3027 chars]",
-        "positive": 0.001113016507588327,
-        "negative": 2.040593244601041e-06,
-        "neutral": 0.9988849759101868
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbssports.com/nba/news/lebron-james-2026-nba-all-star-game-deserving/",
-        "timestamp": "2026-01-23T14:47:57+00:00",
-        "text": "Why LeBron James should still be an NBA All-Star in Year 23 \nDryamond Green is right when it comes to discussing LeBron's All-Star credentials \nDraymond Green is right. That is a sentence that doesn't get written much, given Green'slet's call it default volatility. At the very least, the man is an acquired taste. But on one particular point,… [+7766 chars]",
-        "positive": 7.201253902167082e-05,
-        "negative": 0.00033119795261882246,
-        "neutral": 0.999596893787384
       },
       {
         "source": "news",
@@ -788,33 +1193,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/companies/cipla-q3-net-profit-dips-57-per-cent-due-to-lanreotide-production-halt/article70543222.ece",
-        "timestamp": "2026-01-23T14:46:19+00:00",
-        "text": "Cipla Q3 net profit dips 57 per cent due to Lanreotide production halt \nDrugmaker Cipla saw a 57  dip in net profit at ₹676 crore for the third quarter (Q3) ended December 31, 2025, \nDrugmaker Cipla saw a 57 dip in net profit at 676 crore for the third quarter (Q3) ended December 31, 2025, due to a halt in production at its partners plant in Greece, following an inspection by the… [+2061 chars]",
-        "positive": 1.07254436443327e-05,
-        "negative": 0.9998496770858765,
-        "neutral": 0.00013957906048744917
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalresearch.ca/nullify-police-state-people-veto-rein-lawless-government/5913118",
-        "timestamp": "2026-01-23T14:45:45+00:00",
-        "text": "Nullify the Police State: The People’s Veto to Rein in a Lawless Government \nWe are living through a period of open lawlessness at the highest levels of government.\nThe post Nullify the Police State: The People’s Veto to Rein in a Lawless Government appeared first on Global Research. \nThe people have the power… We are the government.John Lennon\r\nWe are living through a period of open lawlessness at the highest levels of government.\r\nExecutive orders are issued to sidestep Congress… [+15398 chars]",
-        "positive": 0.003074903739616275,
-        "negative": 6.699279765598476e-05,
-        "neutral": 0.9968581199645996
-      },
-      {
-        "source": "news",
-        "id": "https://www.the-independent.com/life-style/peter-dinklage-cocaine-bear-bbc2-saltburn-leon-b2906495.html",
-        "timestamp": "2026-01-23T14:45:43+00:00",
-        "text": "Top Films: w/c Saturday, January 31 \nTop films to watch week beginning Saturday, January 31 \nYour support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+14827 chars]",
-        "positive": 1.77118563442491e-05,
-        "negative": 1.088672547666647e-06,
-        "neutral": 0.999981164932251
-      },
-      {
-        "source": "news",
         "id": "https://www.smallbusinessbranding.com/114242/gamble-5000-free-online-slot-game/",
         "timestamp": "2026-01-23T14:45:31+00:00",
         "text": "Gamble 5000+ Free online Slot Game \nBlogs Better Casinos on the internet to have Cent Ports Form of Free Casino slot games for fun Victory Each […] \nIn the event the fortune is on along side it of one’s pro, then he will get an element of the prize from twenty five,100000,000 gold coins. The new insane symbol is replace most other symbols and you… [+7498 chars]",
@@ -833,39 +1211,12 @@
       },
       {
         "source": "news",
-        "id": "https://ambcrypto.com/top-8-crypto-exchanges-of-january-2026/",
-        "timestamp": "2026-01-23T14:45:18+00:00",
-        "text": "Top 8 Crypto Exchanges of January 2026 \nCryptocurrency has seen large-scale adoption in the past few years, with a global user base […] \nCryptocurrency has seen large-scale adoption in the past few years, with a global user base of 1.2 billion. This influx can be attributed to various factors, such as growing institutional adoption an… [+6143 chars]",
-        "positive": 0.9948770403862,
-        "negative": 0.0002284936053911224,
-        "neutral": 0.004894408863037825
-      },
-      {
-        "source": "news",
         "id": "https://variety.com/2026/shopping/news/how-to-watch-winter-x-games-2026-aspen-live-online-free-1236632649/",
         "timestamp": "2026-01-23T14:45:06+00:00",
         "text": "How to Watch 2026 Winter X Games: Aspen Live Online Without Cable for Free \nAhead of the 2026 Winter Olympics in Milan and Cortina d’Ampezzo, Italy, the best of the best athletes from all around the world — like Scotty James, Chloe Kim, Mikaela Shiffrin and others — to Colorado to compete for gold, silver, and bronze medals during th… \nIf you purchase an independently reviewed product or service through a link on our website, Variety may receive an affiliate commission.\r\nAhead of the 2026 Winter Olympics in Milan and Cortina d’Ampe… [+2464 chars]",
         "positive": 0.4171731173992157,
         "negative": 5.03046867379453e-05,
         "neutral": 0.5827766060829163
-      },
-      {
-        "source": "news",
-        "id": "https://fortune.com/2026/01/23/united-states-fully-withdraws-from-who-united-nations-health-agency/",
-        "timestamp": "2026-01-23T14:45:01+00:00",
-        "text": "After 78 years as a founding member, U.S. fully withdraws from WHO—and it owes over $130 million to the UN agency \nNearly every country in the world is a member. \nThe U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was ending its 78-year-old commitment, federal officials said Thursda… [+5077 chars]",
-        "positive": 4.363746847957373e-05,
-        "negative": 0.0008445479907095432,
-        "neutral": 0.9991118311882019
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224896/28124/en/Laboratory-Freezers-Research-Analysis-Report-2026-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html",
-        "timestamp": "2026-01-23T14:45:00+00:00",
-        "text": "Laboratory Freezers Research Analysis Report 2026 - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031 \nKey opportunities in the Global Laboratory Freezers Market include expanding infrastructure in biobanks and R&D investments boosting demand for temperature-sensitive storage, alongside advances in energy-efficient and IoT-enabled technologies. Sustainability … \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Laboratory Freezers Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031\" has been added to ResearchAndMarkets.com's offer… [+8333 chars]",
-        "positive": 0.9998255372047424,
-        "negative": 4.6675015141772747e-07,
-        "neutral": 0.00017401829245500267
       },
       {
         "source": "news",
@@ -878,24 +1229,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.forbes.com/sites/paultassi/2026/01/23/here-are-the-amazing-the-office-michael-scott-and-dwight-schrute-skins/",
-        "timestamp": "2026-01-23T14:44:04+00:00",
-        "text": "Here Are The Amazing ‘The Office’ Michael Scott And Dwight Schrute Skins \nHere is the first official look at The Office collab in Fortnite, which features dead-on looks for Michael Scott and Dwight Schrute. \nI have heard a lot of who actually wants this? talk among the Fortnite children who are not excited about the prospect of The Office characters coming from the game, but to that I say, get off my law… [+2147 chars]",
-        "positive": 5.8600358897820115e-05,
-        "negative": 1.5394698493764736e-05,
-        "neutral": 0.999925971031189
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224895/28124/en/Military-Night-Vision-Device-Research-Report-2026-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html",
-        "timestamp": "2026-01-23T14:44:00+00:00",
-        "text": "Military Night Vision Device Research Report 2026 - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031 \nKey market opportunities in the Global Military Night Vision Device Market include rising defense budgets for advanced night vision technologies, modernization initiatives for enhanced soldier systems, and the growing integration of augmented reality and ther… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Military Night Vision Device Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031\" has been added to ResearchAndMarkets.co… [+7955 chars]",
-        "positive": 0.7513689994812012,
-        "negative": 4.0842609450919554e-05,
-        "neutral": 0.24859017133712769
-      },
-      {
-        "source": "news",
         "id": "https://www.globalresearch.ca/nigeria-brics-membership-independent-foreign-policy/5913268",
         "timestamp": "2026-01-23T14:43:36+00:00",
         "text": "Nigeria Continues Path towards BRICS Membership and Independent Foreign Policy \nIn a recent statement, Nigeria’s Foreign Minister, Yusuf Tuggar, announced the country’s intention to join BRICS as a full member in the coming years. With over 230 million people and the largest GDP on the continent, the African nation has …\nThe post Nigeria… \nIn a recent statement, Nigerias Foreign Minister, Yusuf Tuggar, announced the countrys intention to join BRICS as a full member in the coming years. With over 230 million people and the largest GDP o… [+5493 chars]",
@@ -905,93 +1238,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.prnewswire.co.uk/news-releases/remix--yesterdays-future-invent-tomorrow-creative-business-partnership-programme-takes-the-international-stage-302669013.html",
-        "timestamp": "2026-01-23T14:43:00+00:00",
-        "text": "ReMIX • Yesterday's Future, Invent Tomorrow! Creative Business Partnership Programme Takes the International Stage \nInaugural Showcase at Prestigious Maison&Objet Paris 2026 as Delegation Embarks on Cross-Regional Exchange HONG KONG, Jan. 23, 2026 /PRNewswire/ -- Organised by the Industrial Designers Society of Hong Kong (IDSHK) and principally sponsored by the Cultural an… \nInaugural Showcase at Prestigious Maison&amp;Objet Paris 2026 as Delegation Embarks on Cross-Regional Exchange\r\nHONG KONG, Jan. 23, 2026 /PRNewswire/ -- Organised by the Industrial Designers Society … [+5386 chars]",
-        "positive": 3.37440797011368e-05,
-        "negative": 8.762503966863733e-07,
-        "neutral": 0.9999654293060303
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224894/28124/en/Private-LTE-5G-Network-Ecosystem-Market-Research-Report-2025-2030-Guaranteed-QoS-Dedicated-Spectrum-Access-and-Government-Funded-5G-Initiatives-Drive-Enterprise-Uptake-and-Growth.html",
-        "timestamp": "2026-01-23T14:43:00+00:00",
-        "text": "Private LTE & 5G Network Ecosystem Market Research Report 2025-2030: Guaranteed QoS, Dedicated Spectrum Access, and Government-Funded 5G Initiatives Drive Enterprise Uptake and Growth \nThe private LTE and 5G network ecosystem presents significant opportunities in standalone private 5G networks for Industry 4.0 applications, particularly in manufacturing, utilities, and transportation. This growth could transform the private network market i… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Private LTE &amp; 5G Network Ecosystem 2025-2030: Opportunities, Challenges, Strategies, Industry Verticals &amp; Forecasts\" report from SNS Telecom &am… [+8713 chars]",
-        "positive": 0.999998927116394,
-        "negative": 2.0371190601053968e-07,
-        "neutral": 7.943238529151131e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224892/0/en/AI-in-Medical-Imaging-Market-Size-to-Hit-Nearly-USD-22-97-Trillion-by-2035-Driven-by-Rising-Demand-for-Early-Disease-Detection-and-Workflow-Automation.html",
-        "timestamp": "2026-01-23T14:43:00+00:00",
-        "text": "AI in Medical Imaging Market Size to Hit Nearly USD 22.97 Trillion by 2035, Driven by Rising Demand for Early Disease Detection and Workflow Automation \nAccording to Precedence Research, the global AI in medical imaging market size is calculated at USD 2.57 trillion in 2026 and is expected to hit approximately USD 22.97 trillion by 2035, expanding at a healthy CAGR of 27.57% from 2026 to 2035. The growing ima… \nOttawa, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The global AI in medical imaging market is set to grow rapidly, reaching nearly USD 22.97 trillion by 2034, increasing from USD 2.01 trillion in 2025, driven… [+33077 chars]",
-        "positive": 0.9999996423721313,
-        "negative": 6.819602305085937e-08,
-        "neutral": 2.6258669549861224e-07
-      },
-      {
-        "source": "news",
         "id": "https://freerepublic.com/focus/f-news/4363574/posts",
         "timestamp": "2026-01-23T14:42:40+00:00",
         "text": "Gold, silver hit new record highs on safe-haven demand, bullish charts \n(Kitco News) - Gold prices a bit higher in early U.S. trading and silver prices are soaring and closing in on $100.00 an ounce. Both metals hit new all-time highs overnight. Ongoing safe-haven demand and chart-based buying amid firmly bullish technicals conti… \nSkip to comments.\r\nGold, silver hit new record highs on safe-haven demand, bullish chartsKitco Media ^\r\n | By Jim Wyckoff\r\nPosted on 01/23/2026 6:42:40 AM PST by Presbyterian Reporter\r\n(Kitco News) -… [+1706 chars]",
         "positive": 0.9999845027923584,
         "negative": 7.691265636822209e-06,
         "neutral": 7.748846655886155e-06
-      },
-      {
-        "source": "news",
-        "id": "https://me.pcmag.com/en/social-media-1/34866/tiktok-deal-is-finally-done-after-all-the-drama-does-it-even-matter",
-        "timestamp": "2026-01-23T14:42:10+00:00",
-        "text": "TikTok Deal Is Finally Done. After All the Drama, Does It Even Matter? \nThe idea was to prevent Chinese control of the app for US users, but the deal gives 15% of the new venture to another foreign company: Abu Dhabi-based MGX.\nTikTok has finalized a deal to divest shares in its US operations in compliance with a foreign aid bill… \nTikTok has finalized a deal to divest shares in its US operations in compliance with a foreign aid bill signed by President Biden in 2024. It includes the launch of a new company called TikTok USDS J… [+2859 chars]",
-        "positive": 2.1324576664483175e-05,
-        "negative": 8.042053195822518e-06,
-        "neutral": 0.9999706745147705
-      },
-      {
-        "source": "news",
-        "id": "https://uk.pcmag.com/social-media/162741/tiktok-deal-is-finally-done-after-all-the-drama-does-it-even-matter",
-        "timestamp": "2026-01-23T14:42:10+00:00",
-        "text": "TikTok Deal Is Finally Done. After All the Drama, Does It Even Matter? \nThe idea was to prevent Chinese control of the app for US users, but the deal gives 15% of the new venture to another foreign company: Abu Dhabi-based MGX.\nTikTok has finalized a deal to divest shares in its US operations in compliance with a foreign aid bill… \nTikTok has finalized a deal to divest shares in its US operations in compliance with a foreign aid bill signed by President Biden in 2024. It includes the launch of a new company called TikTok USDS J… [+2859 chars]",
-        "positive": 2.1324576664483175e-05,
-        "negative": 8.042053195822518e-06,
-        "neutral": 0.9999706745147705
-      },
-      {
-        "source": "news",
-        "id": "https://fortune.com/2026/01/23/trump-xi-tiktok-american-entity-deal-closes/",
-        "timestamp": "2026-01-23T14:42:08+00:00",
-        "text": "Trump thanks Xi, hails himself for closing TikTok deal: ‘Long into the future I will be remembered by those who use and love TikTok’ \nTikTok has finalized a deal to create a new American entity, preserving access to the platform now used by more than 200 million Americans. \nTikTok has finalized a deal to create a new American entity, avoiding the looming threat of a ban in the United States that has been in discussion for years on the platform now used by more than 200 … [+3418 chars]",
-        "positive": 0.0008628940558992326,
-        "negative": 4.077618723385967e-05,
-        "neutral": 0.9990963935852051
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224891/28124/en/Automotive-Aluminum-Market-Analysis-Report-2026-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html",
-        "timestamp": "2026-01-23T14:42:00+00:00",
-        "text": "Automotive Aluminum Market Analysis Report 2026 - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031 \nThe automotive aluminum market is primed for growth driven by electrification trends, fuel economy regulations, and demand for sustainable materials. Key opportunities include lightweighting for EVs to extend range, expanding aluminum extrusions in safety sys… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Automotive Aluminum Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031\" has been added to ResearchAndMarkets.com's offer… [+8239 chars]",
-        "positive": 0.9401353001594543,
-        "negative": 1.6921165297389962e-05,
-        "neutral": 0.059847861528396606
-      },
-      {
-        "source": "news",
-        "id": "https://pypi.org/project/aoptk/0.1.5/",
-        "timestamp": "2026-01-23T14:41:34+00:00",
-        "text": "aoptk 0.1.5 \nTools to support data mining for the development of (q)AOPs \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
-        "positive": 9.230634532286786e-07,
-        "negative": 2.0947845769114792e-05,
-        "neutral": 0.9999780654907227
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224888/28124/en/Baby-Furniture-Market-Analysis-Report-2026-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html",
-        "timestamp": "2026-01-23T14:41:00+00:00",
-        "text": "Baby Furniture Market Analysis Report 2026 - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031 \nThe baby furniture market is poised for growth due to urbanization, nuclear family trends, rising disposable incomes, and a shift toward eco-friendly materials. Opportunities lie in IoT integration and online sales expansion. Challenges include navigating str… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Baby Furniture Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031\" has been added to ResearchAndMarkets.com's offering.\r… [+7405 chars]",
-        "positive": 0.9998646974563599,
-        "negative": 2.5209272280335426e-05,
-        "neutral": 0.00011018016812158749
       },
       {
         "source": "news",
@@ -1289,213 +1541,6 @@
         "positive": 0.00023750789114274085,
         "negative": 6.997154287091689e-06,
         "neutral": 0.9997554421424866
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224829/28124/en/Nordics-Courier-Express-and-Parcel-CEP-Market-Report-2026-2031-Rising-Demand-for-Same-Day-Delivery-Drives-CEP-Market-Investments-in-Urban-Micro-Hubs.html",
-        "timestamp": "2026-01-23T14:04:00+00:00",
-        "text": "Nordics Courier, Express, and Parcel (CEP) Market Report 2026-2031 - Rising Demand for Same-Day Delivery Drives CEP Market Investments in Urban Micro-Hubs \nThe Nordics CEP market thrives on surging e-commerce, enhanced digital infrastructure, and pharmaceutical investments. Opportunities arise from express delivery growth, parcel lockers, and fleet electrification. The Nordics CEP market thrives on surging e-com… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Nordics Courier, Express, and Parcel (CEP) - Market Share Analysis, Industry Trends &amp; Statistics, Growth Forecasts (2026-2031)\" has been added to Re… [+6361 chars]",
-        "positive": 0.9999805688858032,
-        "negative": 2.9753184094261087e-07,
-        "neutral": 1.918477937579155e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224830/28124/en/Nordics-Courier-Express-and-Parcel-CEP-Market-Report-2026-2031-Rising-Demand-for-Same-Day-Delivery-Drives-CEP-Market-Investments-in-Urban-Micro-Hubs.html",
-        "timestamp": "2026-01-23T14:04:00+00:00",
-        "text": "Nordics Courier, Express, and Parcel (CEP) Market Report 2026-2031 - Rising Demand for Same-Day Delivery Drives CEP Market Investments in Urban Micro-Hubs \nThe Nordics CEP market thrives on surging e-commerce, enhanced digital infrastructure, and pharmaceutical investments. Opportunities arise from express delivery growth, parcel lockers, and fleet electrification. The Nordics CEP market thrives on surging e-com… \nDublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The \"Nordics Courier, Express, and Parcel (CEP) - Market Share Analysis, Industry Trends &amp; Statistics, Growth Forecasts (2026-2031)\" has been added to Re… [+6361 chars]",
-        "positive": 0.9999805688858032,
-        "negative": 2.9753184094261087e-07,
-        "neutral": 1.918477937579155e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.lehighvalleynews.com/arts-culture/entertainment/top-selling-country-music-artist-coming-to-lehigh-valley-for-1st-time-in-13-years",
-        "timestamp": "2026-01-23T14:03:35+00:00",
-        "text": "Top-selling country music artist coming to Lehigh Valley for 1st time in 13 years \nLuke Bryan, who is among the Top 6 best-selling male country music artists of all time, will perform at PPL Center on Thursday, June 25. \nALLENTOWN, Pa. One of the best-selling male country music artists in history is coming to the Lehigh Valley for the first time in 13 years, it was announced Friday.\r\nLuke Bryan, who is among the Top … [+3899 chars]",
-        "positive": 0.6488914489746094,
-        "negative": 0.00011080550029873848,
-        "neutral": 0.3509977459907532
-      },
-      {
-        "source": "news",
-        "id": "https://www.barrons.com/livecoverage/stock-market-news-today-012326",
-        "timestamp": "2026-01-23T14:03:25+00:00",
-        "text": "Yen Spike Stokes Intervention Chatter Following BoJ Rate Decision \nThe Dow, S&P 500, and Nasdaq are falling as the stock market digests a shift in geopolitical tensions after President Donald Trump backtracks on tariff threats over his desire to acquire Greenland. \nBig moves overnight in the Japanese yen, following a key interest rate decision from the Bank of Japan, have stoked concerns of currency market intervention by officials in Tokyo that could unwind a … [+580 chars]",
-        "positive": 0.0001525538827991113,
-        "negative": 0.9988693594932556,
-        "neutral": 0.0009780054679140449
-      },
-      {
-        "source": "news",
-        "id": "https://www.phonearena.com/news/2026-is-the-year-to-buy-old-phones_id177623",
-        "timestamp": "2026-01-23T14:01:58+00:00",
-        "text": "2026 is the year to buy old phones \nWith RAM shortages, hardware woes, and price hikes, maybe it's time to look back? \nThe tech world is in turmoil.Whatever is happening with the AI revolution, its causing hardware shortages across the board, prices are spiking, and delivery times are delayed.\r\nWe already have the fr… [+5089 chars]",
-        "positive": 3.7319018701964524e-06,
-        "negative": 0.999962568283081,
-        "neutral": 3.374398511368781e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/opinion/trumps-401k-plan-tries-fix-housing-crisis-its-full-blown-retirement-disaster",
-        "timestamp": "2026-01-23T14:00:54+00:00",
-        "text": "Trump’s 401(k) plan tries to fix housing crisis. It's a full-blown retirement disaster \nDonald Trump's housing proposal would let Americans tap 401(k) retirement savings for home down payments, but that easy solution is also robbing your future. \nEvery few years, Washington comes up with a \"creative\" solution to an affordability problem that sounds helpful on the surface and quietly creates a much bigger problem underneath. \r\nThe latest examp… [+5326 chars]",
-        "positive": 0.09958506375551224,
-        "negative": 0.03124929405748844,
-        "neutral": 0.8691656589508057
-      },
-      {
-        "source": "news",
-        "id": "https://elearningindustry.com/enhancing-employee-financial-literacy-through-elearning",
-        "timestamp": "2026-01-23T14:00:54+00:00",
-        "text": "Enhancing Employee Financial Literacy Through eLearning \neLearning helps employees build financial literacy by providing flexible, scalable, and engaging education on budgeting, earnings, taxes, and benefits. This improves employee confidence, reduces financial stress, and supports a more productive and informed wo… \nUsing Digital Learning To Build Smarter Financial Skills\r\nFinancial literacy has become an essential workplace skill. Employees who understand how money works are better prepared to manage their inco… [+5945 chars]",
-        "positive": 0.9999990463256836,
-        "negative": 4.472256165399813e-08,
-        "neutral": 9.404024581272097e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.cinemablend.com/wrestling/after-decade-plus-of-being-finn-balor-fan-need-wwe-to-pull-trigger-this-time",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "After A Decade-Plus Of Being A Finn Balor Fan, I Need WWE To Actually Pull The Trigger This Time \nThey need to pull the trigger! \nAs far as I am concerned, Finn Balor is one of the best wrestlers in the world. The man who started the Bullet Club in New Japan Pro Wrestling, made NXT must-watch TV, and then became the inaugural W… [+3033 chars]",
-        "positive": 0.8549302220344543,
-        "negative": 0.0001627871097298339,
-        "neutral": 0.14490701258182526
-      },
-      {
-        "source": "news",
-        "id": "https://www.forbes.com/sites/laurasirikul/2026/01/23/xgs-ep-jakops-is-ready-for-his-next-challenge-north-america/",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "XG’s EP JAKOPS Is Ready For His Next Challenge: North America \nXGALX CEO JAKOPS, the creative behind global popstars XG, talks about the group's new album and the group and company's next chapter and challenge: North America. \nJAKOPS, CEO &amp; Executive Producer of XGALX\r\nXGALX\r\nJAKOPS knows a lot about identity. \r\nThe 39-year-old CEO and Executive Producer of XGALX, the company behind global sensations XG, is of mixed Ja… [+6853 chars]",
-        "positive": 0.005268797744065523,
-        "negative": 0.000805743271484971,
-        "neutral": 0.9939255118370056
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341356",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Do sheep-grazed pastures support insectivorous bat activity and bat species richness? \nArable agriculture is usually associated with monoculture and the usage of pesticides, which jeopardize biodiversity and ecosystem processes. Grazing livestock can potentially benefit bats, however, most studies evaluate cattle, and it is unclear whether the … \nAbstract\r\nArable agriculture is usually associated with monoculture and the usage of pesticides, which jeopardize biodiversity and ecosystem processes. Grazing livestock can potentially benefit bats,… [+61965 chars]",
-        "positive": 0.00022465996153187007,
-        "negative": 8.221290045185015e-05,
-        "neutral": 0.9996931552886963
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340766",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Clinical characteristics, diagnostic modalities, and therapeutic strategies of spontaneous renal artery dissection: A systematic review and diagnostic analysis \nObjective To investigate the clinical features, diagnostic approaches, and treatment strategies of spontaneous renal artery dissection (SRAD) through systematic review and data analysis, thereby providing evidence-based insights for optimizing clinical manage… \nAbstract\r\nObjective\r\nTo investigate the clinical features, diagnostic approaches, and treatment strategies of spontaneous renal artery dissection (SRAD) through systematic review and data analysis, t… [+25280 chars]",
-        "positive": 0.0014809531858190894,
-        "negative": 6.45934596832376e-06,
-        "neutral": 0.9985125660896301
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341026",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Exploring predictive models to improve the accuracy of Housing Price Index forecasts in India’s real estate sector \nThis study aims to improve the predictive accuracy of the Housing Price Index (HPI) in India using the unrestricted MIDAS (U-MIDAS) model with novel predictors, including total digital payment value (TDP), consumer price index (CPI), and financial stress inde… \nIntroduction\r\nThe research employs the unrestricted Mixed Data Sampling (U-MIDAS) regression model to enhance Housing Price Index (HPI) forecasts in India. It combines time-series data at multiple fr… [+39535 chars]",
-        "positive": 0.6623445153236389,
-        "negative": 1.4500434190267697e-05,
-        "neutral": 0.3376409113407135
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341308",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Allied health care in the early stages of the COVID-19 pandemic: A qualitative study on the perceptions of non-hospitalized patients and allied health professionals \nPurpose Worldwide, the COVID-19 pandemic disrupted access to primary care and rehabilitation services, leaving many non-hospitalized patients with persistent symptoms unsure where to seek support. Primary allied health care (pAHP) became an important source o… \nCitation: Agasi-Idenburg C, de Kruif A, Ronteltap A, van Oers S, Satink T, de van der Schueren M, et al. (2026) Allied health care in the early stages of the COVID-19 pandemic: A qualitative study on… [+46797 chars]",
-        "positive": 1.5926449123071507e-05,
-        "negative": 5.6610500905662775e-05,
-        "neutral": 0.9999274015426636
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013864",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Molecular mechanism of ziresovir targeting the fusion glycoprotein of respiratory syncytial virus \nAuthor summary RSV is a common respiratory virus and can cause serious lung infections, especially in infants, older adults, and people with serious medical problems. Preventive strategies, including prophylactic monoclonal antibodies and RSV vaccines, have b… \nAbstract\r\nRespiratory syncytial virus (RSV) is a leading cause of lower respiratory tract infections in infants and the elderly worldwide. Although prophylactic monoclonal antibodies and RSV vaccines… [+49351 chars]",
-        "positive": 0.00042624666821211576,
-        "negative": 0.01943722739815712,
-        "neutral": 0.980136513710022
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341552",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Enarodustat suppresses thymic stromal lymphopoietin expression via hypoxia-inducible factor-mediated c-Jun N-terminal kinases dephosphorylation \nThymic stromal lymphopoietin (TSLP) is an epithelial-derived cytokine that induces type 2 immune responses through dendritic cell activation, and its aberrant regulation is implicated in TSLP-associated inflammatory disorders including atopic dermatitis. We p… \nCitation: Segawa R, Yagisawa M, Miyata C, Hirasawa N (2026) Enarodustat suppresses thymic stromal lymphopoietin expression via hypoxia-inducible factor-mediated c-Jun N-terminal kinases dephosphoryla… [+33508 chars]",
-        "positive": 1.1925146282010246e-05,
-        "negative": 1.1532933967828285e-05,
-        "neutral": 0.9999765157699585
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341366",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Impact of cardiometabolic risk factors on hepatocellular carcinoma incidence in patients with chronic hepatitis B: A retrospective cohort study \nBackground and aims Chronic hepatitis B virus (HBV) infection remains a major global health burden and a leading cause of hepatocellular carcinoma (HCC). While cirrhosis is a well-established risk factor, the contributions of metabolic dysfunction-associated … \nAbstract\r\nBackground and aims\r\nChronic hepatitis B virus (HBV) infection remains a major global health burden and a leading cause of hepatocellular carcinoma (HCC). While cirrhosis is a well-establis… [+45532 chars]",
-        "positive": 0.10307188332080841,
-        "negative": 0.02082928456366062,
-        "neutral": 0.8760988712310791
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340784",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Prognostic significance of residual functional SYNTAX score II in acute myocardial infarction \nBackground The residual functional SYNTAX (Synergy Between Percutaneous Coronary Intervention with Taxus and Cardiac Surgery) score (rFSS) predicts patient prognosis post-percutaneous coronary intervention (PCI). We aimed to integrate rFSS with clinical risk … \nIntroduction\r\nPercutaneous coronary intervention (PCI) is a crucial treatment for acute myocardial infarction (AMI) [1]. Since 2012, the residual SYNTAX (SYNergy Between Percutaneous Coronary Interve… [+34092 chars]",
-        "positive": 4.4227319449419156e-05,
-        "negative": 1.2058234460710082e-05,
-        "neutral": 0.999943733215332
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341457",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Do opinion leaders know more? Knowledge accuracy, self-confidence, and media use in agricultural issues \nThis empirical study examines the relationship between knowledge accuracy, self-confidence, and perceived opinion leadership in the context of agricultural issues. Using data from a representative online survey of the German population (n = 2,022), the study … \nAbstract\r\nThis empirical study examines the relationship between knowledge accuracy, self-confidence, and perceived opinion leadership in the context of agricultural issues. Using data from a represe… [+90076 chars]",
-        "positive": 9.68169333646074e-05,
-        "negative": 5.742745997849852e-06,
-        "neutral": 0.9998974800109863
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012034",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Shared latent genetic liability across fibromyalgia and psychiatric traits: Novel insights from genomic structural equation modeling \nAuthor summary Fibromyalgia, insomnia, depression, and anxiety are common health conditions that often occur together, but the genetic factors that connect them remain poorly understood. In this study, we combined data from large-scale genetic studies of thes… \nCitation: Lin L, Li Y, Ji F, Lin J, Zhu M, Liang D, et al. (2026) Shared latent genetic liability across fibromyalgia and psychiatric traits: Novel insights from genomic structural equation modeling.… [+49067 chars]",
-        "positive": 2.1970246962155215e-05,
-        "negative": 0.9958412051200867,
-        "neutral": 0.004136852454394102
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/23/3224807/8875/en/Northrim-BanCorp-Earns-12-4-Million-or-0-55-Per-Diluted-Share-in-Fourth-Quarter-2025-and-64-6-Million-or-2-87-Per-Diluted-Share-for-the-Year-Ended-December-31-2025.html",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Northrim BanCorp Earns $12.4 Million, or $0.55 Per Diluted Share, in Fourth Quarter 2025, and $64.6 Million, or $2.87 Per Diluted Share, for the Year Ended December 31, 2025 \nANCHORAGE, Alaska, Jan. 23, 2026 (GLOBE NEWSWIRE) -- Northrim BanCorp, Inc. (NASDAQ:NRIM) (“Northrim” or the “Company”) today reported net income of $12.4 million, or $0.55 per diluted share, in the fourth quarter of 2025, compared to $27.1 million, or $1.20 … \nANCHORAGE, Alaska, Jan. 23, 2026 (GLOBE NEWSWIRE) -- Northrim BanCorp, Inc. (NASDAQ:NRIM) (Northrim or the Company) today reported net income of $12.4 million, or $0.55 per diluted share, in the four… [+137968 chars]",
-        "positive": 2.1845678475074237e-06,
-        "negative": 3.5561222944124893e-07,
-        "neutral": 0.9999974966049194
-      },
-      {
-        "source": "news",
-        "id": "https://www.scientificamerican.com/article/dolphins-with-more-close-friends-age-more-slowly/",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Dolphins with more close friends age more slowly \nA study of dolphins’ epigenetic ages found that animals with more high-quality friendships were biologically younger than their lonely peers \nWatching dolphins play can evoke wonder and admiration. While these delightful bonds may seem fleeting, a subset of dolphins form complex alliances based on strong, lifelong friendships. And these bo… [+3490 chars]",
-        "positive": 0.00012175318988738582,
-        "negative": 9.281196253141388e-05,
-        "neutral": 0.9997853636741638
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341252",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Pharmacokinetics of Dolutegravir, nucleoside analogues, and intracellular metabolites using plasma separation cards: A comparative analysis with traditional sampling methods in healthy volunteers \nObjectives Adherence to antiretroviral therapy is essential for achieving viral suppression. Plasma separation cards (HemaSep; HS-DBS) provide advantages for pharmacokinetic (PK) analysis and adherence monitoring, including simplified sample collection. This … \nCitation: Thompson B, Else LJ, Dickinson L, Edick S, Zyhowski A, Ho K, et al. (2026) Pharmacokinetics of Dolutegravir, nucleoside analogues, and intracellular metabolites using plasma separation card… [+31892 chars]",
-        "positive": 0.9999876022338867,
-        "negative": 4.1931446048693033e-07,
-        "neutral": 1.189007525681518e-05
-      },
-      {
-        "source": "news",
-        "id": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013940",
-        "timestamp": "2026-01-23T14:00:00+00:00",
-        "text": "Genomic characterization of clinical and environmental isolates of Bacillus anthracis in Peru \nAuthor summary Anthrax, or charbon, is a severe disease that causes sporadic outbreaks in endemic regions of northern and central Peru, affecting both animals and humans. This study presents the first genomic characterization analysis conducted in Peru, based… \nAbstract\r\nAnthrax, or charbon, is a zoonotic disease caused by the Gram-positive bacterium Bacillus anthracis, responsible for sporadic outbreaks and representing a significant public health issue in… [+43398 chars]",
-        "positive": 1.6197076547541656e-05,
-        "negative": 0.009278705343604088,
-        "neutral": 0.9907050728797913
       },
       {
         "source": "news",
@@ -26752,9 +26797,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": 0.7524572683639382,
-    "nw_norm": 87.62286341819691
+    "nw": 0.47364427439150686,
+    "nw_norm": 73.68221371957534
   },
-  "gsi": 87.62286341819691,
-  "classification": "Extremely Bullish"
+  "gsi": 73.68221371957534,
+  "classification": "Bullish"
 }
