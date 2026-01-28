@@ -1,8 +1,692 @@
 {
-  "timestamp": "2026-01-28T11:22:55.775611+00:00",
+  "timestamp": "2026-01-28T11:49:41.488317+00:00",
   "news": {
-    "count": 2968,
+    "count": 2975,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.pymnts.com/artificial-intelligence-2/2026/ebay-blocks-use-of-ai-buy-for-me-agents/",
+        "timestamp": "2026-01-27T11:41:12+00:00",
+        "text": "eBay Blocks Use of AI ‘Buy-For-Me’ Agents \neBay is preparing to bar third-party “buy-for-me” agents and AI chatbots from interacting with its platform without consent. The ban is part of a recent update to the eCommerce platform’s terms of service, first noted in a report by Value Added Resource, and … \neBay is preparing to bar third-party buy-for-me agents and AI chatbots from interacting with its platform without consent.The ban is part of a recent update to the eCommerce platforms terms of servic… [+2453 chars]",
+        "positive": 0.00032617076067253947,
+        "negative": 2.1982064936310053e-05,
+        "neutral": 0.9996519088745117
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226264/0/en/Protein-Supplements-Market-Size-to-Worth-USD-70-24-Billion-by-2035-Towards-FnB.html",
+        "timestamp": "2026-01-27T11:41:00+00:00",
+        "text": "Protein Supplements Market Size to Worth USD 70.24 Billion by 2035 | Towards FnB \nAccording to Towards FnB, the global protein supplements market size is evaluated at USD 32.88 billion in 2026 with an expected growth trajectory that will take it to approximately USD 70.24 billion by 2035, expanding at CAGR of 8.8% during the period from 20… \nOttawa, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The global protein supplements market size stood at USD 30.22 billion in 2025 and is predicted to grow from USD 32.88 billion in 2026 to reach around USD 70.… [+33799 chars]",
+        "positive": 0.9990665316581726,
+        "negative": 2.1173676941543818e-05,
+        "neutral": 0.0009123401250690222
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/business/india-megatrends-energy-uae-industry-minister-10497327/",
+        "timestamp": "2026-01-27T11:40:08+00:00",
+        "text": "India at heart of megatrends driving energy demand growth, says UAE industry minister amid deepening oil, gas trade \nSpeaking at the India Energy Week here, Al Jaber, who is also the Managing Director and Group CEO of the Abu Dhabi National Oil Company (ADNOC), said that India is now a “decisive driver” of global energy demand, which is expected to jump significantly over t… \nThe rise of emerging markets, growth of artificial intelligence (AI) and expansion of digital infrastructure, and transformation of energy systems to include various sources of energythese are the th… [+4016 chars]",
+        "positive": 0.9999507665634155,
+        "negative": 5.607692855846835e-06,
+        "neutral": 4.360252933111042e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.nbcnews.com/world/russia/trump-putin-maduro-iran-protests-russia-ukraine-war-ceasefire-nato-rcna255172",
+        "timestamp": "2026-01-27T11:40:00+00:00",
+        "text": "Iran threats, Maduro capture and mixed messages on Ukraine: How Trump’s foreign policy is boxing in Putin \nPresident Donald Trump runs hot and cold in his relationship with his Russian counterpart Vladimir Putin — often at the same time \nPresident Donald Trump runs hot and cold in his relationship with his Russian counterpart Vladimir Putin often at the same time.\r\nSince the start of the year, the United States has captured Venezuela… [+7430 chars]",
+        "positive": 7.393579289782792e-05,
+        "negative": 5.925070945522748e-05,
+        "neutral": 0.9998668432235718
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/canada-seeks-india-energy-partnership-to-counter-us-economic-coercion/articleshow/127621316.cms",
+        "timestamp": "2026-01-27T11:39:25+00:00",
+        "text": "Canada seeks India energy partnership to counter US economic coercion \nCanada's energy minister Tim Hodgson emphasized building alliances and diversifying supplies to counter economic coercion. He praised India's trade deal with the EU as a model. Hodgson is in India to strengthen energy ties, noting India's growing energy deman… \nBetul, Goa: Resisting US economic coercion requires building multilateral partnerships and doubling down on supply diversification, Canadian energy minister Tim Hodgson said at India Energy Week, add… [+2021 chars]",
+        "positive": 0.9987916350364685,
+        "negative": 2.4896705781429773e-06,
+        "neutral": 0.0012059519067406654
+      },
+      {
+        "source": "news",
+        "id": "https://www.rte.ie/news/business/2026/0127/1555321-spain-unemployment-drops-below-10-in-first-since-2008/",
+        "timestamp": "2026-01-27T11:39:13+00:00",
+        "text": "Spain unemployment drops below 10% in first since 2008 \nSpain's historically stubborn unemployment fell below 10% in the fourth quarter of last year, official data showed today - a first since the 2008 financial crisis. \nSpain's historically stubborn unemployment fell below 10% in the fourth quarter of last year, official data showed today - a first since the 2008 financial crisis.\r\nThe jobless rate in the European U… [+1201 chars]",
+        "positive": 0.03901486098766327,
+        "negative": 0.5016552805900574,
+        "neutral": 0.45932984352111816
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226262/28124/en/Envelope-Tracking-Chips-Market-Worth-2-65-Billion-in-2026-is-Set-to-Reach-3-81-Billion-by-2030-New-Report-Highlights-Emerging-Revenue-and-Investment-Opportunities.html",
+        "timestamp": "2026-01-27T11:39:00+00:00",
+        "text": "Envelope Tracking Chips Market Worth $2.65 Billion in 2026 is Set to Reach $3.81 Billion by 2030: New Report Highlights Emerging Revenue and Investment Opportunities \nThe market is poised for significant growth due to factors such as the expansion of 5G networks, demand for efficient RF solutions, IoT applications, and evolving AI technologies. Emerging trends include AI-driven signal optimization and cloud-connected archi… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Envelope Tracking Chip Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The report offers comprehensive insights, detailing mark… [+6556 chars]",
+        "positive": 0.9999997615814209,
+        "negative": 4.015205590235382e-08,
+        "neutral": 2.3085583222837158e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.ghanaweb.com/GhanaHomePage/business/How-Ghanaian-poultry-farmers-are-tackling-the-egg-glut-crisis-2019043",
+        "timestamp": "2026-01-27T11:38:11+00:00",
+        "text": "How Ghanaian poultry farmers are tackling the egg glut crisis \nGhana’s poultry industry has been grappling with an egg glut, a situation where supply far exceeds demand, resulting in excess stock and financial strain for farmers. \nGhanas poultry industry has been grappling with an egg glut, a situation where supply far exceeds demand, resulting in excess stock and financial strain for farmers.\r\nThe challenge became particularl… [+1675 chars]",
+        "positive": 3.002157245646231e-05,
+        "negative": 0.9999674558639526,
+        "neutral": 2.5478161660430487e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226261/28124/en/Battery-Management-Integrated-Circuits-ICs-Market-Report-2026-7-45-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:38:00+00:00",
+        "text": "Battery Management Integrated Circuits (ICs) Market Report 2026: $7.45 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities in battery management ICs include growth driven by demand for EVs, energy storage, and portable electronics. Advancements in charging, safety, and battery lifespan technologies foster innovation. Regional manufacturing investments sup… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Battery Management Integrated Circuits (ICs) Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe battery management integrated… [+5544 chars]",
+        "positive": 0.9999982118606567,
+        "negative": 1.9566195419429278e-07,
+        "neutral": 1.51686822391639e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/nation/2026/01/27/country-records-rm3-trillion-trade-28th-year-in-trade-surplus-says-miti-minister",
+        "timestamp": "2026-01-27T11:38:00+00:00",
+        "text": "Country records RM3 trillion trade, 28th year in trade surplus, says Miti minister \nKUALA LUMPUR: Despite trade challenges threatening Malaysian exports, the country has recorded its highest-ever trade value of RM3.06 trillion, says International Trade and Industries (Miti) Minister Datuk Seri Johari Ghani. Read full story \nKUALA LUMPUR: Despite trade challenges threatening Malaysian exports, the country has recorded its highest-ever trade value of RM3.06 trillion, says International Trade and Industries (Miti) Minister… [+6058 chars]",
+        "positive": 0.9882994890213013,
+        "negative": 0.0009570037364028394,
+        "neutral": 0.010743492282927036
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c55da83d-3d78-48a2-ba0a-ac7267b5be54",
+        "timestamp": "2026-01-27T11:37:15+00:00",
+        "text": "Polymarket Makes Bitcoin and Ether Volatility Tradable With New Volmex-Based Markets \nIf you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 2.069919901259709e-05,
+        "negative": 4.856413397646975e-06,
+        "neutral": 0.9999743700027466
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/defense-sector-to-become-pillar-of-auto-heavy-czech-economy",
+        "timestamp": "2026-01-27T11:37:14+00:00",
+        "text": "Defense Sector to Become ‘Pillar’ of Auto-Heavy Czech Economy \nThe Czech Republic’s new government will seek to transform the defense industry into an engine of the nation’s export economy as the flagship auto sector faces stiffening competition, a senior cabinet member said. \n(Bloomberg) The Czech Republics new government will seek to transform the defense industry into an engine of the nations export economy as the flagship auto sector faces stiffening competition, a sen… [+4928 chars]",
+        "positive": 0.01803046651184559,
+        "negative": 0.30115020275115967,
+        "neutral": 0.6808192133903503
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226260/28124/en/Medium-Voltage-Junction-Boxes-Market-Report-2026-2-74-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:37:00+00:00",
+        "text": "Medium Voltage Junction Boxes Market Report 2026: $2.74 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities in medium voltage junction boxes include expansion in renewable energy projects, smart grid tech, and electric transport infrastructure. Growth drivers are urbanization, power transmission expansion, and industrial automation. The dem… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Medium Voltage Junction Boxes Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe medium voltage junction boxes market is on a… [+5636 chars]",
+        "positive": 0.9664099812507629,
+        "negative": 7.968487807374913e-06,
+        "neutral": 0.03358202800154686
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/news/articles/cgqep9pvygko",
+        "timestamp": "2026-01-27T11:36:43+00:00",
+        "text": "US move tanker captain and first officer from UK waters \nThe US Department of Justice told Scottish authorities that the skipper and his colleague were on board the US Coast Guard vessel Munro. \nDavid CowanScotland home affairs correspondent\r\nTanker skipper Avtandil Kalandadze and his wife, Natia Dzadzama, on their wedding day\r\nThe captain and first officer of a Russian-flagged oil tanker ha… [+3988 chars]",
+        "positive": 0.00020133583166170865,
+        "negative": 0.00020290931570343673,
+        "neutral": 0.9995957016944885
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnet.com/home/kitchen-and-household/one-thing-do-air-purifier-before-turning-on/",
+        "timestamp": "2026-01-27T11:36:00+00:00",
+        "text": "Do This One Thing to Your Air Purifier Before Turning It On \nI spoke with experts about the health consequences of failing to properly maintain your air purifier. \nIf you have an air purifier, you likely use it one of two ways: You have it set to turn on automatically, or you manually switch it on whenever your allergies are acting up, you’re sick or pollution … [+8236 chars]",
+        "positive": 0.0001537606440251693,
+        "negative": 0.2262369990348816,
+        "neutral": 0.7736092805862427
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226257/28124/en/3-Billion-Integrated-Passive-Devices-Market-Outlook-2030-Infineon-Technologies-STMicroelectronics-Murata-Manufacturing-Co-Dominate.html",
+        "timestamp": "2026-01-27T11:36:00+00:00",
+        "text": "$3+ Billion Integrated Passive Devices Market Outlook, 2030: Infineon Technologies, STMicroelectronics, Murata Manufacturing Co. Dominate \nMajor opportunities include increasing demand for compact electronics, growing 5G connections, advances in EMI/ESD protection, and the rise of IoT-ready passive devices Major opportunities include increasing demand for compact electronics, growing 5G connecti… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Integrated Passive Devices Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The report provides comprehensive statistics, includ… [+5130 chars]",
+        "positive": 0.9999899864196777,
+        "negative": 3.636303915754979e-07,
+        "neutral": 9.626961400499567e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.resilience.org/stories/2026-01-27/make-america-go-awayfrom-the-deep-ocean/",
+        "timestamp": "2026-01-27T11:35:50+00:00",
+        "text": "Make America Go Away…from the Deep Ocean \nSo, it’s time we Make America Go Away from the Deep Ocean. Yes, the MAGADO movement. I encourage you to write a public comment and register to speak. \nTwo weeks ago European soldiers landed in Greenland to show their solidarity with the 30,000 residents that it is indeed an independent country, one that cant just be eaten up by its big southern nei… [+6393 chars]",
+        "positive": 0.0004074938187841326,
+        "negative": 0.00010639330139383674,
+        "neutral": 0.9994860887527466
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/prism-pci-conclave-2026-in-vapi-highlights-indias-evolving-approach-to-heart-care/articleshow/127619865.cms",
+        "timestamp": "2026-01-27T11:35:49+00:00",
+        "text": "PRISM-PCI Conclave 2026 in Vapi highlights India’s evolving approach to heart care \nThe PRISM-PCI Conclave 2026 highlighted India's significant advancements in cardiac care, showcasing its evolution from a consumer to a contributor in medical technology innovation. The event emphasized precision-driven strategies and the growing role of home… \nCardiac care has undergone a profound transformation over the last five decades. From the first balloon angioplasty performed in 1977 to todays image-guided, precision-driven interventions, the journ… [+4621 chars]",
+        "positive": 0.9998593330383301,
+        "negative": 5.433151727629593e-06,
+        "neutral": 0.00013510572898667306
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-january-28-top-national-international-sports-and-business-updates/articleshow/127620979.cms",
+        "timestamp": "2026-01-27T11:35:32+00:00",
+        "text": "School assembly news headlines January 28: Top national, international, sports, and business updates \nMaharashtra's ITIs will implement PM SETU for skill development, while Himachal Pradesh braces for heavy snowfall. A Supreme Court plea challenges UGC's caste discrimination definition. Internationally, India and the EU finalized a landmark free trade deal, b… \nEvery morning offers a new opportunity to gain meaningful knowledge. Staying updated with the news goes beyond simply knowing whats happeningit helps us understand the world beyond our classrooms. Ne… [+4460 chars]",
+        "positive": 0.9993964433670044,
+        "negative": 1.1906362260560854e-06,
+        "neutral": 0.0006023287423886359
+      },
+      {
+        "source": "news",
+        "id": "https://screenrant.com/playstation-plus-leaving-minecraft-dark-souls-january/",
+        "timestamp": "2026-01-27T11:35:01+00:00",
+        "text": "Minecraft Meets Dark Souls In PlayStation Plus Freebie You've Last Chance To Claim \nCore Keeper, available for free on PlayStation Plus until February 2nd. Explore, craft, and battle in this blend of Minecraft, Zelda, and Dark Souls. \nEver wanted to explore mysterious caverns in the hope of finding treasures beyond your wildest dreams? Perhaps you've even dreamed of building a base and exploring an ever-evolving world with your fr… [+2583 chars]",
+        "positive": 3.228926289011724e-05,
+        "negative": 0.00012908157077617943,
+        "neutral": 0.9998385906219482
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226256/28124/en/Semiconductor-Manufacturing-Equipment-Market-Report-2026-Total-Revenues-to-Grow-by-62-Billion-Over-the-Next-5-Years.html",
+        "timestamp": "2026-01-27T11:35:00+00:00",
+        "text": "Semiconductor Manufacturing Equipment Market Report 2026: Total Revenues to Grow by $62 Billion Over the Next 5 Years \nKey market opportunities include rising demand for AI chips, IoT expansion driving microchip use, and growth in advanced manufacturing technologies such as 3D/2.5D packaging. Regional increases in domestic fabs and automation expansion present further opportu… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Semiconductor Manufacturing Equipment Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The report provides comprehensive statist… [+4787 chars]",
+        "positive": 0.9999992847442627,
+        "negative": 1.1314008219187599e-07,
+        "neutral": 6.556234666277305e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.hospitalitynet.org/news/4130600.html",
+        "timestamp": "2026-01-27T11:34:46+00:00",
+        "text": "Top 10% of U.S. Households Now Drive Majority of Consumer Spending, and $544 Billion in Annual Leisure Travel \nThe Top 10% and Top 1% of American households now account for more than half of all U.S. consumer spending. This dominance is most acute in travel and tourism, where their collective leisure expenditure is projected to reach $544 billion in 2026, according to… \nLOS ANGELES - The Top 10% and Top 1% of American households now account for more than half of all U.S. consumer spending. This dominance is most acute in travel and tourism, where their collective le… [+7486 chars]",
+        "positive": 0.007053874898701906,
+        "negative": 6.355326331686229e-05,
+        "neutral": 0.9928826093673706
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/astrology/vastu-feng-shui/metal-crystal-or-wooden-turtle-which-is-right-for-you/articleshow/127612363.cms",
+        "timestamp": "2026-01-27T11:34:22+00:00",
+        "text": "Metal, Crystal or Wooden Turtle — Which Is Right for You? \nDiscover the symbolic power of turtles in Feng Shui and Vastu Shastra, representing longevity, protection, and wealth. Learn how different turtle types – Metal, Crystal, and Wood – offer specific benefits for career, prosperity, and family harmony. Choosing t… \nFollow Us On Social Media\r\nOrrys Brutal Dig At Sara Ali Khans Career Triggers Bullying Outrage, Pataudi Siblings UnfollowWarning! 5 Major Vastu Mistakes | Wrong Prayer Room Placement Brings 16 Doshas… [+1498 chars]",
+        "positive": 0.16813622415065765,
+        "negative": 6.913123070262372e-05,
+        "neutral": 0.8317946195602417
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226254/28124/en/Voltage-Detection-System-Market-Report-2026-2-46-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:34:00+00:00",
+        "text": "Voltage Detection System Market Report 2026: $2.46 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities in the voltage detection system market include the integration with AI for smarter solutions, expansion in smart grids and electric mobility, and increased demand for automation and predictive maintenance. Additionally, there are grow… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Voltage Detection System Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe voltage detection system market is experiencing s… [+4920 chars]",
+        "positive": 0.9999967813491821,
+        "negative": 4.2165336822108657e-07,
+        "neutral": 2.7675062028720276e-06
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/education/news/wbmsc-assistant-engineer-admit-card-2026-released-at-mscwbonline-in-direct-link-to-download-hall-tickets-here/articleshow/127620167.cms",
+        "timestamp": "2026-01-27T11:33:55+00:00",
+        "text": "WBMSC Assistant Engineer admit card 2026 released at mscwbonline.in: Direct link to download hall tickets here \nThe WBMSC has issued admit cards for the 2026 Assistant Engineer recruitment exam, clearing the way for candidates to appear on January 18 in Kolkata. Aspirants can download hall tickets from the official website and must verify all personal and exam details.… \n<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>WBMSC Assistant Engineer admit card 2026 released at mscwbonline.in: Direct link to download hall tickets here</li></ul>\r\nFollow Us On S… [+1676 chars]",
+        "positive": 9.777556988410652e-05,
+        "negative": 4.527592318481766e-05,
+        "neutral": 0.9998569488525391
+      },
+      {
+        "source": "news",
+        "id": "https://www.thejournal.ie/eu-india-trade-deal-6939406-Jan2026/",
+        "timestamp": "2026-01-27T11:33:48+00:00",
+        "text": "EU strikes 'mother of all' trade deals with India \nThe deal is the largest ever concluded by both the EU and India, both of which rank among the largest economies in the world. \nTHE EUROPEAN UNION has struck the mother of all trade deals with India after two decades of negotiations.\r\nThe free trade agreement, described by the EU as ambitious and commercially significant, com… [+4443 chars]",
+        "positive": 0.1285727322101593,
+        "negative": 0.00015346083091571927,
+        "neutral": 0.8712737560272217
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/gm-reports-q4-earnings-beat-announces-6-billion-stock-buyback-113333708.html",
+        "timestamp": "2026-01-27T11:33:33+00:00",
+        "text": "GM reports Q4 earnings beat, announces $6 billion stock buyback \nGeneral Motors continued its strong run of quarterly performance, with fourth quarter earnings that topped estimates, in addition to upping its dividend and ... \nGeneral Motors (GM) continued its strong run of quarterly performance, with fourth quarter earnings that topped estimates, in addition to upping its dividend and instituting a new $6 billion stock bu… [+3828 chars]",
+        "positive": 1.0,
+        "negative": 2.2322204085156727e-09,
+        "neutral": 5.661168867021615e-09
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226253/28124/en/High-Voltage-Direct-Current-HVDC-Transmission-System-Market-Report-2026-20-75-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:33:00+00:00",
+        "text": "High Voltage Direct Current (HVDC) Transmission System Market Report 2026: $20.75+ Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities for HVDC systems include the expansion of renewable energy grids, increasing long-distance power transmission needs, cross-border energy trade growth, and rising electricity demand. Technological advancements and strategic investments… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"High Voltage Direct Current (HVDC) Transmission System Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe High Voltage Direct… [+5698 chars]",
+        "positive": 0.999995231628418,
+        "negative": 5.010966219742841e-07,
+        "neutral": 4.2621572902135085e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.coindesk.com/markets/2026/01/27/bitcoin-ether-stall-as-metals-steal-spotlight-in-low-liquidity-trade-crypto-markets-today",
+        "timestamp": "2026-01-27T11:32:34+00:00",
+        "text": "Bitcoin, ether stall as metals steal spotlight in low-liquidity trade: Crypto Markets Today \nBitcoin and ether traded little changed on weak liquidity as gold and silver rallied, highlighting a risk-off rotation that’s also lifting niche crypto tokens. \nThe crypto market extended its narrow trading range into Tuesday, restricted by a low volume and a low-liquidity environment.\r\nDaily trading volume for bitcoin BTC\r\n$87,935.50 fell by 25% to $35 bill… [+3673 chars]",
+        "positive": 0.0008847224526107311,
+        "negative": 0.9985087513923645,
+        "neutral": 0.0006065616034902632
+      },
+      {
+        "source": "news",
+        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180664464",
+        "timestamp": "2026-01-27T11:32:17+00:00",
+        "text": "3 things to look for in the 2026 BAFTA nominations - Gold Derby \n3 things to look for in the 2026 BAFTA nominationsGold Derby Bafta nominations to be unveiled with Hamnet and Sinners among favouritesBBC BAFTA Film Awards Nominations 2026 (Updating Live)Variety 79th BAFTA Nomination Predictions: Expect Big Showings for ‘One… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+        "positive": 0.00019645200518425554,
+        "negative": 2.5841691240202636e-05,
+        "neutral": 0.9997777342796326
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-troubled-by-eu-move-to-help-ai-search-rivals-access-services/articleshow/127620889.cms",
+        "timestamp": "2026-01-27T11:32:03+00:00",
+        "text": "Google troubled by EU move to help AI, search rivals access services \nEU competition regulators will give guidance on how Google must share its search data and AI tools with rivals under new digital rules. The move aims to stop Google using its size to gain an unfair advantage. Google says it already complies but warns extra ru… \nAlphabet's Google will be given guidance by European Union antitrust regulators on how to help online search rivals and artificial intelligence developers access its services and its Gemini AI models… [+2109 chars]",
+        "positive": 0.010137509554624557,
+        "negative": 0.0005880205426365137,
+        "neutral": 0.9892744421958923
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226251/0/en/Toobit-Voted-Best-New-Exchange-at-Crypto-Awards-2025.html",
+        "timestamp": "2026-01-27T11:31:00+00:00",
+        "text": "Toobit Voted Best New Exchange at Crypto Awards 2025 \nGEORGE TOWN, Cayman Islands, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Toobit, the global cryptocurrency exchange, today announces it has been named Best New Exchange at the annual Crypto Awards 2025. \nGEORGE TOWN, Cayman Islands, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Toobit, the global cryptocurrency exchange, today announces it has been named Best New Exchange at the annual Crypto Awards 2025.\r\nThe w… [+3769 chars]",
+        "positive": 0.005090055521577597,
+        "negative": 2.321287502127234e-05,
+        "neutral": 0.9948866963386536
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226252/28124/en/Rear-Windshield-Head-Up-Display-HUD-Market-Report-2026-2-69-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:31:00+00:00",
+        "text": "Rear-Windshield Head-Up Display (HUD) Market Report 2026: $2.69 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nThe rear-windshield HUD market is poised for growth driven by increased demand for smart mobility, integration with AI and AR technologies, and the rise of premium vehicles. Key opportunities lie in OEM innovation, aftermarket solutions, and localized product… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Rear-Windshield Head-Up Display (HUD) Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe rear-windshield head-up display (HUD… [+5200 chars]",
+        "positive": 0.9999998807907104,
+        "negative": 2.9629942943643073e-08,
+        "neutral": 1.5136475894905743e-07
+      },
+      {
+        "source": "news",
+        "id": "https://ritholtz.com/2026/01/10-tuesday-am-reads-460/",
+        "timestamp": "2026-01-27T11:30:41+00:00",
+        "text": "10 Tuesday AM Reads \nMy snowbound morning train WFH reads: • Hedge Funds Are Back on Top After a Long ‘Alpha Winter’ Nearly half of investors plan to increase exposure to hedge funds, Goldman Sachs survey finds. (Wall Street Journal) • 24-hour trading? Log off: Treasury vigilante… \nHedge Funds Are Back on Top After a Long Alpha Winter Nearly half of investors plan to increase exposure to hedge funds, Goldman Sachs survey finds. (Wall Street Journal)\r\n24-hour trading? Log off: T… [+3522 chars]",
+        "positive": 0.0041461545042693615,
+        "negative": 4.8042180424090475e-05,
+        "neutral": 0.9958057403564453
+      },
+      {
+        "source": "news",
+        "id": "https://www.c-sharpcorner.com/article/local-llms-explained-how-to-run-powerful-ai-on-your-laptop-without-internet/",
+        "timestamp": "2026-01-27T11:30:25+00:00",
+        "text": "Local LLMs Explained: How to Run Powerful AI on Your Laptop Without Internet \nDiscover Local LLMs: Run powerful AI models like LLaMA and Mistral directly on your laptop, offline, and privately. Unlock data privacy and cost savings! \nIntroduction\r\nArtificial Intelligence has quickly become part of everyday digital life. Tools like ChatGPT, Gemini, and Claude have shown the world how powerful Large Language Models can be. But ther… [+4592 chars]",
+        "positive": 0.9922116994857788,
+        "negative": 1.8481165170669556e-05,
+        "neutral": 0.007769868243485689
+      },
+      {
+        "source": "news",
+        "id": "https://decrypt.co/355995/zcash-sentiment-ticks-up-as-privacy-coins-price-jumps-9",
+        "timestamp": "2026-01-27T11:30:08+00:00",
+        "text": "Zcash Sentiment Ticks Up as Privacy Coin's Price Jumps 9% \nSentiment among traders on prediction market Myriad is thawing towards the privacy coin, after flipping bearish last week. \nIn brief\r\n<ul><li>Privacy coin Zcash is up 9% in the past 24 hours, hitting $376.90.</li><li>Sentiment around Zcash on prediction market Myriad is thawing after flipping bearish last week, with 40% n… [+2222 chars]",
+        "positive": 0.04556862264871597,
+        "negative": 0.004306648392230272,
+        "neutral": 0.9501248002052307
+      },
+      {
+        "source": "news",
+        "id": "http://www.newsbtc.com/news/bitcoin/bitcoin-mining-power-dips-back-to-mid-2025-as-us-storm-hits/",
+        "timestamp": "2026-01-27T11:30:08+00:00",
+        "text": "US Storm Smashes Bitcoin Mining Power, Sending Hash Rates Tumbling \nA fierce winter storm that swept much of the US over the weekend forced large parts of the Bitcoin mining fleet to cut power, leaving the network much weaker for a short time. Related Reading: Bitcoin Whales Are Back: 104K BTC Added As $1M Transfers Surge Rep… \nA fierce winter storm that swept much of the US over the weekend forced large parts of the Bitcoin mining fleet to cut power, leaving the network much weaker for a short time.\r\nReports say power outa… [+3199 chars]",
+        "positive": 0.007031926419585943,
+        "negative": 0.9918166995048523,
+        "neutral": 0.0011513906065374613
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/michellebruton/2026/01/27/how-can-i-watch-the-2026-winter-olympics-schedule-times-watch-guide/",
+        "timestamp": "2026-01-27T11:30:00+00:00",
+        "text": "How Can I Watch The 2026 Winter Olympics? Schedule, Times, Watch Guide \nEverything you need to know to tune in to the Milano Cortina 2026 Winter Olympics Opening and Closing Ceremonies, medal events and replays on cable and streaming. \nA general view of the Olympic rings in front of the Olympia delle Tofane ski run during Milano Cortina 2026 Winter Olympic Games - 1 Year To Go event on February 06, 2025 in Cortina d'Ampezzo, Italy.… [+8731 chars]",
+        "positive": 9.93535741145024e-06,
+        "negative": 1.1792953955591656e-06,
+        "neutral": 0.9999889135360718
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226249/0/en/Quarterly-Activities-and-Cashflow-Report-December-2025.html",
+        "timestamp": "2026-01-27T11:30:00+00:00",
+        "text": "Quarterly Activities and Cashflow Report - December 2025 \nQuarter Marked by Execution of DoW-Funded Antimony Initiatives to Secure U.S. Domestic Antimony Supply Chain  Melbourne, Australia, Jan.  27, 2026  (GLOBE... \nQuarter Marked by Execution of DoW-Funded Antimony Initiatives to Secure U.S. Domestic Antimony Supply Chain\r\nMelbourne, Australia, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Nova Minerals Limited (Nova and t… [+32891 chars]",
+        "positive": 0.0003741361724678427,
+        "negative": 5.6443466746713966e-05,
+        "neutral": 0.9995693564414978
+      },
+      {
+        "source": "news",
+        "id": "https://sportsnaut.com/nfl/jim-schwartz-gaining-momentum-with-cleveland-browns",
+        "timestamp": "2026-01-27T11:30:00+00:00",
+        "text": "Former NFL Head Coach ‘Gaining Momentum’ With Cleveland Browns \nUnlike some of the other teams that made a late decision to move on from their head coach, the Cleveland […] \nUnlike some of the other teams that made a late decision to move on from their head coach, the Cleveland Browns have been searching for a new team leader since January 5, when they fired Kevin Stefan… [+2380 chars]",
+        "positive": 5.467920345836319e-06,
+        "negative": 0.0002583515888545662,
+        "neutral": 0.9997361302375793
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226250/28124/en/Electrical-and-Electronics-Materials-Market-Trends-and-Investment-Potential-2026-2030-3M-Company-DuPont-Nitto-Denko-Corporation-and-Illinois-Tool-Works-Lead-the-3-33-Billion-Indust.html",
+        "timestamp": "2026-01-27T11:30:00+00:00",
+        "text": "Electrical and Electronics Materials Market Trends and Investment Potential 2026-2030: 3M Company, DuPont, Nitto Denko Corporation, and Illinois Tool Works Lead the $3.33 Billion Industry \nThe market offers opportunities in advanced semiconductor materials, eco-efficient technologies, IoT integration, EV applications, and consumer electronics The market offers opportunities in advanced semiconductor materials, eco-efficient technologies, IoT in… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Electrical and Electronics Materials Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The report meticulously outlines the marke… [+5363 chars]",
+        "positive": 0.9999876022338867,
+        "negative": 3.2787184522931057e-07,
+        "neutral": 1.2024542229482904e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226247/28124/en/Bus-Switch-Integrated-Circuit-IC-Market-Report-2026-2-62-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:29:00+00:00",
+        "text": "Bus Switch Integrated Circuit (IC) Market Report 2026: $2.62 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities for bus switch ICs include the growth of data centers, IoT devices, and electric vehicles, alongside advancements in AI-enabled electronics and industrial automation. Trends like energy-efficient, high-speed, and programmable switches… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Bus Switch Integrated Circuit (IC) Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe global bus switch integrated circuit (I… [+5428 chars]",
+        "positive": 0.9999836683273315,
+        "negative": 3.5008110899070743e-07,
+        "neutral": 1.6013947970350273e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnn.com/2026/01/27/business/1k-car-loan-payments-budgeting",
+        "timestamp": "2026-01-27T11:28:33+00:00",
+        "text": "$1,000 car loan payments are on the rise. Car buying is stressing household budgets like never before | CNN Business \n$1,000 car loan payments are on the rise. Car buying is stressing household budgets like never before | CNN Businesscnn.com \nMelissa Dickerson never imagined she would end up with a $1,100 monthly car payment, especially for a used car. Then her son wrecked her Acura.\r\nFortunately, he was OK. But when she went shopping for… [+4065 chars]",
+        "positive": 0.002285716822370887,
+        "negative": 0.051522694528102875,
+        "neutral": 0.946191668510437
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226246/28124/en/Ruminant-Methane-Reduction-Market-Report-2026-4-31-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:28:00+00:00",
+        "text": "Ruminant Methane Reduction Market Report 2026: $4.31 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey growth opportunities in the ruminant methane reduction market include the rising demand for low-emission livestock products, adoption of seaweed and plant-based additives, expansion of precision feeding technologies, and increasing environmental awareness… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Ruminant Methane Reduction Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe global ruminant methane reduction market is exp… [+5802 chars]",
+        "positive": 0.9999985694885254,
+        "negative": 2.885562082610704e-07,
+        "neutral": 1.220548256242182e-06
+      },
+      {
+        "source": "news",
+        "id": "http://9to5toys.com/2026/01/27/samsung-galaxy-tab-s10-fe-keyboard-bundle/",
+        "timestamp": "2026-01-27T11:27:19+00:00",
+        "text": "Samsung’s mid-range Galaxy Tab S10 FE/+ now $100 off + 50% off Book Cover Keyboard Slim \nFor Android users, the Samsung $100 off with an option to land the official companion keyboard at 50% off. \n\n\n\n more… \nFor Android users, the Samsung Galaxy S11 and S11 Ultra flagship tablets are where its at right now, but for many folks those machines are overkill both in terms of power and price. We are still trac… [+2292 chars]",
+        "positive": 6.838243280071765e-05,
+        "negative": 2.088049950543791e-05,
+        "neutral": 0.9999107122421265
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226243/28124/en/Semiconductor-Memory-Market-Report-2026-Total-Revenues-to-Reach-133-75-Billion-by-2030-Driven-by-the-Rising-Demand-for-High-Speed-Memory-in-AI-and-5G-Applications.html",
+        "timestamp": "2026-01-27T11:27:00+00:00",
+        "text": "Semiconductor Memory Market Report 2026: Total Revenues to Reach $133.75 Billion by 2030, Driven by the Rising Demand for High-Speed Memory in AI and 5G Applications \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Semiconductor Memory Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The report delves into market statistics, global size, regional shares, competitor profiles, and emerging trends. It p… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Semiconductor Memory Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The report delves into market statistics, global size, reg… [+5068 chars]",
+        "positive": 0.0007295784307643771,
+        "negative": 9.361827324028127e-06,
+        "neutral": 0.9992609620094299
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226245/28124/en/Commercial-Building-Insulation-Market-Report-2026-19-74-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:27:00+00:00",
+        "text": "Commercial Building Insulation Market Report 2026: $19.74 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey opportunities in the commercial building insulation market include rising demand for energy-efficient and sustainable solutions, increased adoption of smart energy management systems, and advancements in high-performance materials. Growth is driven by rob… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Commercial Building Insulation Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe commercial building insulation market is wi… [+5191 chars]",
+        "positive": 0.9999939203262329,
+        "negative": 1.3801458464968164e-07,
+        "neutral": 5.940039955021348e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/one-activity-remained-largest-driver-gdp-growth-2025-not-ai-2026-1",
+        "timestamp": "2026-01-27T11:26:01+00:00",
+        "text": "This one activity remained the largest driver of GDP growth in 2025 — not AI, according to a new report \nA new report shows that despite popular belief that an AI crash will tank the economy, regular consumers are much more crucial for GDP growth. \nAn AI bubble burst might not crash the economy, says a research report by MRB Partners.Leah Millis/REUTERS\r\n<ul><li>MRB Partners published a report that contradicts the belief that AI is the main dri… [+2626 chars]",
+        "positive": 0.002044940833002329,
+        "negative": 0.005154744256287813,
+        "neutral": 0.992800235748291
+      },
+      {
+        "source": "news",
+        "id": "https://www.power-technology.com/news/leidos-to-acquire-entrust-solutions/",
+        "timestamp": "2026-01-27T11:26:01+00:00",
+        "text": "Leidos signs agreement to acquire ENTRUST Solutions in $2.4bn deal \nENTRUST aims to double the scale of its energy engineering unit and broaden its utility market reach. \nLeidos has reached an agreement to acquire ENTRUST Solutions Group from Kohlberg in a deal valued at around $2.4bn in cash.\r\nThe transaction, which is expected to close by the end of the second quart… [+2301 chars]",
+        "positive": 0.8223679661750793,
+        "negative": 1.5286386769730598e-05,
+        "neutral": 0.17761671543121338
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/sec-crypto-task-force-ripple-clarity-passive-interest",
+        "timestamp": "2026-01-27T11:25:50+00:00",
+        "text": "SEC task force responds to Ripple CLARITY Act concerns, floats new classification \nThe SEC's Crypto Task Force posted Ripple’s CLARITY Act comments, and a reply arguing speculation alone shouldn’t trigger securities laws, as US crypto talks intensify. \nA response posted to the US Securities and Exchange Commissions Crypto Task Force page echoed concerns raised by Ripple that speculation alone should not automatically subject cryptocurrencies to fed… [+3037 chars]",
+        "positive": 0.5471251606941223,
+        "negative": 0.16521359980106354,
+        "neutral": 0.28766125440597534
+      },
+      {
+        "source": "news",
+        "id": "https://m.economictimes.com/news/india/eu-india-fta-2026-what-gets-cheaper-wheneu-india-fta-2026-whats-getting-cheaper-after-tariff-cut-and-when-will-indian-consumers-see-lower-prices/eu-india-fta-2026-what-gets-cheaper-when/slideshow/127620559.cms",
+        "timestamp": "2026-01-27T11:25:25+00:00",
+        "text": "EU-India FTA 2026: What’s getting cheaper after tariff cut and when will Indian consumers see lower prices?? \nThe EU-India Free Trade Agreement, concluded on January 27, 2026, marks a historic milestone after two decades of negotiations. It will eliminate or reduce tariffs on 96.6% of EU goods exports and 97% of Indian goods, creating a market of 2 billion people. Ke… \nJan 27, 2026, 04:57:23 PM IST\r\nThe EU-India Free Trade Agreement, concluded on January 27, 2026, will slash tariffs on over 90% of goods, making European products more affordable in India. With entry… [+1489 chars]",
+        "positive": 0.9815962910652161,
+        "negative": 5.449937816592865e-05,
+        "neutral": 0.018349159508943558
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/sport/athletics/articles/ce3kpqlkl5eo",
+        "timestamp": "2026-01-27T11:24:34+00:00",
+        "text": "Kipyegon announces plans for maternity ward in hometown \nKenyan middle-distance runner Faith Kipyegon plans to build a  maternity facility in her hometown Keringet in partnership with her shoe sponsor. \nAfter winning a medal or topping a podium, athletes will ask themselves 'What next?'.\r\nMiddle-distance great Faith Kipyegon, a three-time Olympic gold medallist and a five-time world champion over 15… [+1655 chars]",
+        "positive": 0.001831903588026762,
+        "negative": 7.996394742804114e-06,
+        "neutral": 0.998160183429718
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2026/01/27/european-union-india-trade-deal-autos-vw-bmw-stellantis.html",
+        "timestamp": "2026-01-27T11:24:30+00:00",
+        "text": "'A day of celebration': What the blockbuster EU-India trade deal means for auto giants \nA landmark trade deal between the European Union and India has been lauded as a major breakthrough for Europe's biggest carmakers. \nIndia's Prime Minister Narendra Modi (C) poses for a photograph with European Commission President Ursula von der Leyen (R) and European Council President Antonio Costa before their meeting at the Hy… [+3932 chars]",
+        "positive": 0.9998414516448975,
+        "negative": 6.582271907973336e-06,
+        "neutral": 0.0001519123325124383
+      },
+      {
+        "source": "news",
+        "id": "https://coinjournal.net/news/hype-soars-23-as-commodities-trading-on-hyperliquid-increases/",
+        "timestamp": "2026-01-27T11:23:16+00:00",
+        "text": "HYPE soars 23% as commodities trading on Hyperliquid increases \nKey takeaways HYPE is up 23% in the last 24 hours and is now trading above $27. The rally follows a surge in commodities trading amid rising interest in safe-haven assets like Gold and Silver. Commodity trading on Hyperliquid pushes HYPE above $27 HYPE, the n… \nKey takeaways\r\n<ul><li>HYPE is up 23% in the last 24 hours and is now trading above $27.</li><li>The rally follows a surge in commodities trading amid rising interest in safe-haven assets like Gold a… [+2391 chars]",
+        "positive": 0.9998407363891602,
+        "negative": 6.587698862858815e-06,
+        "neutral": 0.00015273340977728367
+      },
+      {
+        "source": "news",
+        "id": "https://cryptobriefing.com/mills-review-ai-impact-retail-financial/",
+        "timestamp": "2026-01-27T11:22:24+00:00",
+        "text": "UK FCA launches Mills Review into advanced AI impact on retail financial services \nThe review could reshape regulatory frameworks, influence market dynamics, and redefine consumer interactions in financial services.\nThe post UK FCA launches Mills Review into advanced AI impact on retail financial services appeared first on Crypto Briefing. \nThe review will take a forward-looking view to 2030 and beyond, assessing how developments such as generative and agentic AI could transform competition, market structure and consumer behavior. The U… [+1195 chars]",
+        "positive": 0.004168643616139889,
+        "negative": 5.869250890100375e-05,
+        "neutral": 0.995772659778595
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226239/28124/en/Molded-Interconnect-Device-MID-Market-Analysis-Report-2026-2030-Statistics-Segmentation-Trends-Opportunities-Competitive-Strategies.html",
+        "timestamp": "2026-01-27T11:22:00+00:00",
+        "text": "Molded Interconnect Device (MID) Market Analysis Report 2026-2030: Statistics, Segmentation, Trends, Opportunities, Competitive Strategies \nKey opportunities include leveraging rising IoT demand, miniaturized electronics in automotive and consumer sectors, advanced automotive systems, and sustainable manufacturing methods. IoT and smart connected components drive growth, with a focus on local sou… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Molded Interconnect Device (MID) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The report offers a comprehensive view of the … [+5222 chars]",
+        "positive": 0.9999923706054688,
+        "negative": 1.6646505685002921e-07,
+        "neutral": 7.469334377674386e-06
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/stock-rotation-finally-holds-as-wall-street-chases-new-leaders",
+        "timestamp": "2026-01-27T11:21:56+00:00",
+        "text": "Stock Rotation Finally Holds as Wall Street Chases New Leaders \nFor most of last year, investors were warned that hiding out in Big Tech was becoming a dangerous move. Turned out that wasn’t great advice. \n(Bloomberg) For most of last year, investors were warned that hiding out in Big Tech was becoming a dangerous move. Turned out that wasnt great advice.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r… [+4921 chars]",
+        "positive": 0.0008976694662123919,
+        "negative": 0.7601218819618225,
+        "neutral": 0.23898038268089294
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2026/01/27/gamestop-meme-stocks-retail-investors-wall-street.html",
+        "timestamp": "2026-01-27T11:21:36+00:00",
+        "text": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore \n\"Retail investors are difference-makers. They can move markets with size and conviction,\" said Tom Lee, head of research at Fundstrat. \nKeith Gill, a Reddit user credited with inspiring GameStop's rally, during a YouTube livestream arranged on a laptop at the New York Stock Exchange on June 7, 2024.\r\nFive years after a band of online… [+8374 chars]",
+        "positive": 0.0016645619180053473,
+        "negative": 6.162313184177037e-06,
+        "neutral": 0.998329222202301
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-fta-is-a-new-blueprint-for-common-prosperity-says-pm-modi-on-mother-of-all-deals/articleshow/127620143.cms",
+        "timestamp": "2026-01-27T11:21:24+00:00",
+        "text": "India-EU FTA is a new blueprint for common prosperity, says PM Modi on 'mother of all deals' \nPrime Minister Narendra Modi hailed the India-European Union Free Trade Agreement as the \"mother of all deals\" and a \"new blueprint for common prosperity.\" He described the pact as India's biggest free trade agreement to date, marking a historic moment in bil… \nCalling the IndiaEuropean Union Free Trade Agreement the mother of all deals, Prime Minister Narendra Modi on Tuesday said the pact marked a new blueprint for common prosperity, as India concluded wh… [+5437 chars]",
+        "positive": 0.0017903934931382537,
+        "negative": 3.530445974320173e-05,
+        "neutral": 0.9981743097305298
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/news/lawyer-apologizes-ai-fake-quotes-judgments-murder-case-australia/",
+        "timestamp": "2026-01-27T11:21:06+00:00",
+        "text": "Lawyer apologizes for AI-generated fabrications in murder case \nThe fake submissions included fabricated quotes and nonexistent case citations purportedly from the Supreme Court in Austalia's Victoria state. \nA senior lawyer in Australia has apologized to a judge for filing submissions in a murder case that included fake quotes and nonexistent case judgments generated by artificial intelligence.\r\nThe blun… [+3780 chars]",
+        "positive": 0.000742073985747993,
+        "negative": 0.0595368854701519,
+        "neutral": 0.9397210478782654
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226237/0/en/Econergy-Drives-UK-Battery-Storage-Growth-with-21M-Santander-Financing-and-EDF-Partnership.html",
+        "timestamp": "2026-01-27T11:21:00+00:00",
+        "text": "Econergy Drives UK Battery Storage Growth with £21M Santander Financing and EDF Partnership \nEconergy has secured project finance of £21 million from Santander UK for the Dalmarnock 120MWh BESS project in Scotland, and a partnership with EDF.... \nTEL AVIV, Israel and LONDON, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Econergy Renewable Energy Ltd. (TASE: ECNR), a leading European independent power producer, today announced that it has reached financia… [+3138 chars]",
+        "positive": 0.030741935595870018,
+        "negative": 6.145419320091605e-05,
+        "neutral": 0.969196617603302
+      },
+      {
+        "source": "news",
+        "id": "https://coinjournal.net/news/pump-token-jumps-25-even-as-pump-fun-solana-face-class-action-lawsuit/",
+        "timestamp": "2026-01-27T11:20:41+00:00",
+        "text": "PUMP token jumps 25% even as Pump.fun, Solana face class action lawsuit \nPUMP surged 25% in 24 hours, outperforming top altcoins despite legal pressure on Pump.fun and Solana Foundation. Pump.fun buybacks cut over 20% of supply, supporting PUMP as Solana’s price weakens on lawsuit concerns. Strong revenue and expansion plans lift … \n<ul><li>PUMP surged 25% in 24 hours, outperforming top altcoins despite legal pressure on Pump.fun and Solana Foundation.</li><li>Pump.fun buybacks cut over 20% of supply, supporting PUMP as Solana’s… [+4164 chars]",
+        "positive": 0.9999626874923706,
+        "negative": 1.9965900719398633e-05,
+        "neutral": 1.7421943994122557e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.insurancejournal.com/news/international/2026/01/27/855784.htm",
+        "timestamp": "2026-01-27T11:20:40+00:00",
+        "text": "Markets/Coverages: Brit Launches Integrated Cyber, Financial institutions Consortium \nBrit Group Holdings Ltd. announced the launch of “FI Cyber Max,” a new integrated cyber and financial institutions (FI) consortium. Built for large, complex financial clients, the new consortium will bring together Brit’s experienced cyber and FI underwriting… \nBrit Group Holdings Ltd. announced the launch of “FI Cyber Max,” a new integrated cyber and financial institutions (FI) consortium.\r\nBuilt for large, complex financial clients, the new consortium wil… [+1933 chars]",
+        "positive": 0.10857027769088745,
+        "negative": 5.6160177337005734e-05,
+        "neutral": 0.8913734555244446
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226236/28124/en/Compound-Semiconductors-Market-to-Surpass-124-Billion-by-2030-Gallium-Nitride-Leads-the-Charge-in-High-Performance-Power-Systems.html",
+        "timestamp": "2026-01-27T11:20:00+00:00",
+        "text": "Compound Semiconductors Market to Surpass $124 Billion by 2030: Gallium Nitride Leads the Charge in High-Performance Power Systems \nThe market is poised for growth, driven by demand in EV power electronics, advanced data centers, and 5G/6G infrastructure. Innovations in GaN technology and AI-enabled fabrication support high-performance systems. The market is poised for growth, driven by d… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Compound Semiconductor Market Report 2026\" has been added to ResearchAndMarkets.com's offering. Insights include industry segmentation, trends, and oppo… [+4948 chars]",
+        "positive": 0.9999998807907104,
+        "negative": 1.4759204525205405e-08,
+        "neutral": 7.60429230695081e-08
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/education/news/wbcs-final-result-released-for-group-a-and-b-services-direct-link-to-download-merit-list-here/articleshow/127620009.cms",
+        "timestamp": "2026-01-27T11:19:32+00:00",
+        "text": "WBCS final result released for Group A and B services: Direct link to download merit list here \nThe West Bengal Public Service Commission has announced the WBCS Final Result 2026. This marks the end of the recruitment process for West Bengal Civil Service Executive Group A and Group B services. A total of 131 candidates have been recommended for appoint… \n<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>WBCS final result released for Group A and B services: Direct link to download merit list here</li></ul>\r\nFollow Us On Social Media\r\nMoo… [+1745 chars]",
+        "positive": 0.00040701133548282087,
+        "negative": 5.5730220083205495e-06,
+        "neutral": 0.99958735704422
+      },
+      {
+        "source": "news",
+        "id": "https://thebulkheadseat.com/wealthy-americans-are-powering-a-544-billion-travel-boom/",
+        "timestamp": "2026-01-27T11:19:32+00:00",
+        "text": "Wealthy Americans Are Powering a $544 Billion Travel Boom \nThe travel economy in the United States is being increasingly shaped by a relatively…\nThe post Wealthy Americans Are Powering a $544 Billion Travel Boom appeared first on The Bulkhead Seat. \n5Advertiser &amp; Editorial Disclosure: The Bulkhead Seat earns an affiliate commission for anyone approved through the links below. This compensation may impact how and where links appear on this si… [+6278 chars]",
+        "positive": 6.379517435561866e-05,
+        "negative": 0.00023574981605634093,
+        "neutral": 0.9997005462646484
+      },
+      {
+        "source": "news",
+        "id": "https://ahouseinthehills.com/inspiring-mid-century-modern-house-interior-idesa/",
+        "timestamp": "2026-01-27T11:18:42+00:00",
+        "text": "34 Inspiring 1950s Mid Century Modern House Interior Ideas \nThe 1950s brought us a design revolution that still turns heads today. Mid-century modern style has made a comeback, and people everywhere are falling in love with its clean lines and functional beauty. What makes the mid-century modern house interior design … \nThe 1950s brought us a design revolution that still turns heads today. Mid-century modern style has made a comeback, and people everywhere are falling in love with its clean lines and functional beau… [+18803 chars]",
+        "positive": 0.24419289827346802,
+        "negative": 0.0004946576082147658,
+        "neutral": 0.7553123831748962
+      },
+      {
+        "source": "news",
+        "id": "https://www.tumblr.com/findersoe21/805239949014204417/social-media-marketing-patna-boost-business-in",
+        "timestamp": "2026-01-27T11:18:05+00:00",
+        "text": "Social Media Marketing Patna Boost Business in Bihar Capital \n 0   0  ❤️ 0 · Social Media Marketing Patna Boost Business in Bihar Capital · In the heart of Bihar, Social Media Marketing Patna is transforming how local businesses connect with customers. Whet… \nIn the heart of Bihar, Social Media Marketing Patna is transforming how local businesses connect with customers. Whether you're running a shop in Kankarbagh or a startup in Bailey Road, platforms lik… [+4004 chars]",
+        "positive": 0.551797091960907,
+        "negative": 9.17401266633533e-05,
+        "neutral": 0.44811108708381653
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226234/28124/en/Integrated-Circuits-Market-Report-2026-IoT-Adoption-Fuels-Boom-in-Integrated-Circuits-Market-Growth-Witness-9-2-CAGR-During-2026-2030.html",
+        "timestamp": "2026-01-27T11:18:00+00:00",
+        "text": "Integrated Circuits Market Report 2026: IoT Adoption Fuels Boom in Integrated Circuits Market Growth, Witness 9.2% CAGR During 2026-2030 \nExpansion in semiconductor fabrication, industrial automation, and IC innovations like AI-optimized architectures present growth potential Expansion in semiconductor fabrication, industrial automation, and IC innovations like AI-optimized architectures presen… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Integrated Circuits Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The report provides a comprehensive overview, offering mark… [+5678 chars]",
+        "positive": 0.9868236780166626,
+        "negative": 2.361656243010657e-06,
+        "neutral": 0.013174045830965042
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/business/indonesias-2025-gdp-growth-estimated-targeted-52-finance-minister-says-5888366",
+        "timestamp": "2026-01-27T11:17:30+00:00",
+        "text": "Indonesia's 2025 GDP growth estimated at targeted 5.2%, finance minister says \nJAKARTA, Jan 27 : Overall GDP growth in Indonesia is expected to have met the 5.2 per cent target for 2025 despite widespread destruction caused by floods late last year, though growth was estimated to have been quicker in the fourth quarter, the finance mini… \nJAKARTA, Jan 27 : Overall GDP growth in Indonesia is expected to have met the 5.2 per cent target for 2025 despite widespread destruction caused by floods late last year, though growth was estimated … [+1096 chars]",
+        "positive": 0.9829818606376648,
+        "negative": 0.00013824888446833938,
+        "neutral": 0.016879910603165627
+      },
+      {
+        "source": "news",
+        "id": "https://www.androidheadlines.com/2026/01/vivo-x200t-launches-with-triple-50mp-cameras-dimensity-9400-soc.html",
+        "timestamp": "2026-01-27T11:17:09+00:00",
+        "text": "Vivo X200T Launches with Triple 50MP Cameras & Dimensity 9400+ SoC \nThe post Vivo X200T Launches with Triple 50MP Cameras & Dimensity 9400+ SoC appeared first on Android Headlines. \nVivo launched its X200 smartphone series last year. The brand introduced as many as five models under the new lineup the X200, X200S, X200 Pro (review), X200 Pro Mini, and X200 Ultra. However, the co… [+1660 chars]",
+        "positive": 0.008463781327009201,
+        "negative": 6.737581134075299e-05,
+        "neutral": 0.9914689064025879
+      },
+      {
+        "source": "news",
+        "id": "https://www.dazeddigital.com/beauty/article/69481/1/who-is-allowed-to-smell-bad-fragrance-garlic-gasoline-perfume?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=who-is-allowed-to-smell-bad",
+        "timestamp": "2026-01-27T11:17:00+00:00",
+        "text": "Who is allowed to smell bad? \nAvant-garde notes like gasoline and garlic are becoming popular with indie fragrance brands – but when formerly stigmatised scents become luxury, only some people are allowed to get away with it \nIf you look at whats trending among perfume connoisseurs, it would seem that people no longer want to smell good. What people are seeking instead is the strange, the avant-garde, or to be a little bi… [+6356 chars]",
+        "positive": 6.552436389029026e-05,
+        "negative": 0.00031154300086200237,
+        "neutral": 0.9996229410171509
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-rupee-ends-higher-as-softer-dollar-eu-trade-pact-offer-breathing-room/articleshow/127619344.cms",
+        "timestamp": "2026-01-27T11:15:09+00:00",
+        "text": "INDIA RUPEE-Rupee ends higher as softer dollar, EU trade pact offer breathing room \nThe Indian rupee firmed slightly ‍on Tuesday, helped along by ​a broadly weaker dollar and the boost from a landmark ⁠trade agreement between India and the European Union, which is expected to cut tariffs on nearly all Indian exports. \nThe Indian rupee firmed slightly on Tuesday, helped along by a broadly weaker dollar and the boost from a landmark trade agreement between India and the European Union, which is expected to cut tarif… [+1772 chars]",
+        "positive": 0.9999992847442627,
+        "negative": 2.2333059845891512e-08,
+        "neutral": 7.600484650538419e-07
+      },
+      {
+        "source": "news",
+        "id": "https://publishingperspectives.com/2026/01/despite-freida-mcfaddens-best-efforts-the-french-book-market-slumped-in-2025/",
+        "timestamp": "2026-01-27T11:15:05+00:00",
+        "text": "Despite Freida McFadden’s Best Efforts, the French Book Market Slumped in 2025 \nIndustry data reveals a stark concentration of sales around a handful of bestselling titles, masking structural challenges across the French publishing industry.\nThe post Despite Freida McFadden’s Best Efforts, the French Book Market Slumped in 2025 appeared … \nIndustry data reveals a stark concentration of sales around a handful of bestselling titles, masking structural challenges across the French publishing industry.\r\nBy Eric Dupuy\r\nAccording to year-end… [+5871 chars]",
+        "positive": 0.0032374451402574778,
+        "negative": 0.0012082201428711414,
+        "neutral": 0.9955542683601379
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/hannahabraham/2026/01/27/it-was-a-risky-film-to-greenlight-jio-studios-ceo-jyoti-deshpande-on-dhurandhar-success/",
+        "timestamp": "2026-01-27T11:15:03+00:00",
+        "text": "“It Was A Risky Film To Greenlight”: Jio Studios CEO Jyoti Deshpande On ‘Dhurandhar’ Success \nIn a comprehensive conversation with Hannah Abraham, Jyoti Deshpande chats Dhurandhar, Indian film trends, and beyond. \nMUMBAI, INDIA - NOVEMBER 18: Ranveer Singh, Jyoti Deshpande and Aditya Dhar attend the trailer launch of film 'Dhurandhar' on November 18, 2025 in Mumbai, India. (Photo by Prodip Guha/Getty Images)\r\n… [+9450 chars]",
+        "positive": 0.0005177860148251057,
+        "negative": 2.702660822251346e-06,
+        "neutral": 0.9994794726371765
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226232/28124/en/Building-Insulation-Materials-Industry-Analysis-Report-2026-32-5-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "timestamp": "2026-01-27T11:15:00+00:00",
+        "text": "Building Insulation Materials Industry Analysis Report 2026: $32.5+ Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities in the building insulation materials sector include the shift towards green insulation, increased retrofitting initiatives, and demand for sustainable construction. Innovations in polyiso insulation and a focus on eco-friendly, high-p… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Building Insulation Materials Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe building insulation materials market is on a… [+6560 chars]",
+        "positive": 0.9986405968666077,
+        "negative": 9.126575605478138e-06,
+        "neutral": 0.0013502188958227634
+      },
       {
         "source": "news",
         "id": "https://indianexpress.com/article/cities/mumbai/eknath-shinde-critic-ganesh-naik-10497272/",
@@ -284,120 +968,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226221/28124/en/Oyster-Mushroom-Cultivation-Market-Analysis-Report-2026-4-12-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T11:03:00+00:00",
-        "text": "Oyster Mushroom Cultivation Market Analysis Report 2026: $4.12 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities in oyster mushroom cultivation include increasing demand for plant-based proteins, spore-free innovations for higher yields and worker safety, climate-controlled and organic methods, and scaling small to large operations. Rising vegan… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Oyster Mushroom Cultivation Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe global oyster mushroom cultivation market is e… [+6113 chars]",
-        "positive": 0.999997615814209,
-        "negative": 1.3672365639649797e-07,
-        "neutral": 2.2327169517666334e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226218/0/en/Bart-A-De-Muynck-Releases-Market-Radar-Report-Identifying-Yard-Operations-as-an-Emerging-Enterprise-Risk-for-Shippers.html",
-        "timestamp": "2026-01-27T11:03:00+00:00",
-        "text": "Bart A. De Muynck Releases Market Radar Report Identifying Yard Operations as an Emerging Enterprise Risk for Shippers \nBart De Muynck releases market report on yard operations.... \nDALLAS, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Supply chain analyst and industry thought leader Bart De Muynck today announced the release of Market Radar: Yard Logistics From Tactical Execution to an Ent… [+3715 chars]",
-        "positive": 0.005260962527245283,
-        "negative": 4.346384957898408e-05,
-        "neutral": 0.9946954846382141
-      },
-      {
-        "source": "news",
         "id": "https://www.rte.ie/entertainment/2026/0127/1555311-weather-presenter-carol-kirkwood-signs-off-from-bbc/",
         "timestamp": "2026-01-27T11:02:18+00:00",
         "text": "Weather presenter Carol Kirkwood signs off from BBC \nWeather presenter Carol Kirkwood fought back tears as she announced she would be leaving the BBC after more than 25 years. \nWeather presenter Carol Kirkwood fought back tears as she announced she would be leaving the BBC after more than 25 years.\r\nKirkwood, who will step down in April, is a familiar face to viewers on BBC… [+2864 chars]",
         "positive": 5.4594573157373816e-05,
         "negative": 4.214627551846206e-05,
         "neutral": 0.9999032020568848
-      },
-      {
-        "source": "news",
-        "id": "https://www.tennessean.com/story/sports/nfl/titans/2026/01/27/new-titans-stadium-concessions-lines/88203392007/",
-        "timestamp": "2026-01-27T11:02:01+00:00",
-        "text": "How new Titans stadium concessions lines will speed up \nThere will be 40 food and beverage markets in the Titans new stadium featuring Just Walk Out technology. \nConstruction has started on the many food and beverage stations at the new Titans stadium.\r\nA main goal for Tennessee Titans officials is to sure the eating experience at the new enclosed 1.7-million… [+3363 chars]",
-        "positive": 0.00025731357163749635,
-        "negative": 5.123311893839855e-06,
-        "neutral": 0.999737560749054
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226220/28124/en/Seaweed-Cultivation-Market-Analysis-Report-2026-44-5-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T11:02:00+00:00",
-        "text": "Seaweed Cultivation Market Analysis Report 2026: $44.5+ Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nThe seaweed cultivation market presents opportunities in sustainable packaging, regenerative agriculture, biostimulants, biofertilizers, and biofuels. Growing interest in seaweed for cosmetics and functional foods, and increased eco-friendly farming practices… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Seaweed Cultivation Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe seaweed cultivation market is experiencing a robust ex… [+6192 chars]",
-        "positive": 0.9999959468841553,
-        "negative": 1.768644324329216e-07,
-        "neutral": 3.906660367647419e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226219/0/en/Trxdynis-Rolls-Out-Real-Time-AI-Signal-Updates-Following-Q4-System-Deployment.html",
-        "timestamp": "2026-01-27T11:02:00+00:00",
-        "text": "Trxdynis Rolls Out Real-Time AI Signal Updates Following Q4 System Deployment \nPARIS and LONDON, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Trxdynis\r\n, a technology company focused on advanced market analytics, today announced the successful rollout of real-time AI signal enhancements across its analytics platform, marking the completion of a sc… \nPARIS and LONDON, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Trxdynis\r\n, a technology company focused on advanced market analytics, today announced the successful rollout of real-time AI signal enhancements a… [+4383 chars]",
-        "positive": 0.999649167060852,
-        "negative": 2.8287740860832855e-06,
-        "neutral": 0.0003480178420431912
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/zymeworks-announces-participation-in-upcoming-investor-conferences-29",
-        "timestamp": "2026-01-27T11:01:54+00:00",
-        "text": "Zymeworks Announces Participation in Upcoming Investor Conferences \nVANCOUVER, British Columbia, Jan. 27, 2026 (GLOBE NEWSWIRE) — Zymeworks Inc. (Nasdaq: ZYME), a biotechnology company managing a portfolio of licensed healthcare assets, while developing a diverse pipeline of novel, multifunctional biotherapeutics, today annou… \nVANCOUVER, British Columbia, Jan. 27, 2026 (GLOBE NEWSWIRE) Zymeworks Inc. (Nasdaq: ZYME), a biotechnology company managing a portfolio of licensed healthcare assets, while developing a diverse pipel… [+5054 chars]",
-        "positive": 0.003566998289898038,
-        "negative": 5.0113362703996245e-06,
-        "neutral": 0.9964280724525452
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226217/0/en/Gonixo-Reports-Strong-Early-Adoption-Following-Rollout-of-Ultra-Low-Latency-Trading-Infrastructure.html",
-        "timestamp": "2026-01-27T11:01:00+00:00",
-        "text": "Gonixo Reports Strong Early Adoption Following Rollout of Ultra-Low Latency Trading Infrastructure \nLIVERPOOL, United Kingdom, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Gonixo, a UK-based financial technology company, today announced strong early adoption results following the rollout of its newly deployed ultra-low latency trading infrastructure, marking a key mil… \nLIVERPOOL, United Kingdom, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Gonixo, a UK-based financial technology company, today announced strong early adoption results following the rollout of its newly deployed… [+4899 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 2.7463599394650373e-08,
-        "neutral": 1.3362581796627637e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/entertainment/queen-elizabeth-caught-camera-hurling-shoes-prince-philip-rare-royal-tantrum-book",
-        "timestamp": "2026-01-27T11:00:50+00:00",
-        "text": "Queen Elizabeth caught on camera hurling shoes at Prince Philip in rare royal tantrum: book \nBehind palace doors, Queen Elizabeth II and Prince Philip's marriage featured heated arguments, secret nicknames, and sharp exchanges now being revealed by Robert Jobson and other royal experts. \nQueen Elizabeth II and Prince Philips marriage wasnt just about maintaining a stiff upper lip.\r\nBehind palace doors, there were plenty of temper tantrums, sharp exchanges, and the occasional explosiv… [+7294 chars]",
-        "positive": 1.3832120203005616e-05,
-        "negative": 1.4357105101225898e-05,
-        "neutral": 0.999971866607666
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/opinion/michael-shellenberger-left-getting-people-killed",
-        "timestamp": "2026-01-27T11:00:44+00:00",
-        "text": "MICHAEL SHELLENBERGER: The left is getting people killed \nMinnesota Gov. Tim Walz's inflammatory language, along with other elected officials, and Democrat resistance policies have successfully created dangerous conditions for activists. \nA Federal Immigration and Customs Enforcement (ICE) agent in Minnesota shot a second person dead on Saturday. Most of the debate since then has focused, understandably, on whether the ICE agent acted… [+11225 chars]",
-        "positive": 0.010607742704451084,
-        "negative": 0.1493455320596695,
-        "neutral": 0.8400467038154602
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/travel/archaeologists-uncover-eerie-anglo-saxon-sand-bodies-nuclear-power-station-site",
-        "timestamp": "2026-01-27T11:00:19+00:00",
-        "text": "Archaeologists uncover eerie Anglo-Saxon 'sand bodies' at nuclear power station site \nArchaeologists uncovered a rare Anglo-Saxon \"princely\" grave with two men and a horse at an England nuclear site, revealing ancient elite burial practices. \nExcavators recently unearthed an Anglo-Saxon \"princely\" grave containing two men, a horse and grave goods during the construction of a nuclear power station in England.\r\nThe discovery was made at the… [+3340 chars]",
-        "positive": 0.00011717699817381799,
-        "negative": 0.0020438265055418015,
-        "neutral": 0.9978390336036682
-      },
-      {
-        "source": "news",
-        "id": "https://www.huffpost.com/entry/alexander-vindman-senate-florida_n_6978067ee4b01628ac430cf1",
-        "timestamp": "2026-01-27T11:00:17+00:00",
-        "text": "Trump Impeachment Whistleblower Launches Senate Bid In Florida \nRetired Lt. Col. Alexander Vindman announced his campaign to oust GOP Sen. Ashley Moody, who was appointed to replace former Sen. Marco Rubio last year. \nWASHINGTON Retired Lt. Col. Alexander Vindman, a key figure from President Donald Trumps first impeachment, is launching a long-shot bid to oust GOP Sen. Ashley Moody in Florida.\r\nToday, our country … [+3461 chars]",
-        "positive": 0.008289518766105175,
-        "negative": 0.00017091156041715294,
-        "neutral": 0.9915395379066467
-      },
-      {
-        "source": "news",
-        "id": "https://www.bostonherald.com/2026/01/27/2025-field-hockey-all-scholastics-and-league-all-stars/",
-        "timestamp": "2026-01-27T11:00:17+00:00",
-        "text": "2025 field hockey All-Scholastics and league All-Stars \nHighlighting the best players from Eastern Mass. this season with the Boston Herald Field Hockey All-Scholastics. \nALL-SCHOLASTICS\r\nABBIE ALLENIPSWICH\r\nAllen was once again one of the states top goaltenders against a heavy workload, posting a 1.30 goals allowed average. The four-year starter earned her fourth Cap… [+20829 chars]",
-        "positive": 0.8946775197982788,
-        "negative": 7.455993181793019e-05,
-        "neutral": 0.10524792969226837
       },
       {
         "source": "news",
@@ -416,15 +992,6 @@
         "positive": 1.6547197446925566e-05,
         "negative": 1.3275078345031943e-05,
         "neutral": 0.9999701976776123
-      },
-      {
-        "source": "news",
-        "id": "https://www.econlib.org/econlog/the-warmth-of-cooperation/",
-        "timestamp": "2026-01-27T11:00:10+00:00",
-        "text": "The Warmth of Cooperation \nNew York City Mayor Zohran Mamdani recently caused something of an uproar when he contrasted the “the frigidity of rugged individualism” with the “warmth of collectivism.” This framing echoes the familiar criticism that capitalism forces people to go it alone… \nNew York City Mayor Zohran Mamdani recently caused something of an uproar when he contrasted the the frigidity of rugged individualism with the warmth of collectivism. This framing echoes the familia… [+5242 chars]",
-        "positive": 0.0022208490408957005,
-        "negative": 0.006806285120546818,
-        "neutral": 0.9909728765487671
       },
       {
         "source": "news",
@@ -518,120 +1085,12 @@
       },
       {
         "source": "news",
-        "id": "https://thepeoplesperson.com/2026/01/27/manchester-united-suffer-devastating-patrick-dorgu-injury-blow-304276/",
-        "timestamp": "2026-01-27T11:00:00+00:00",
-        "text": "Manchester United suffer devastating Patrick Dorgu injury blow \nManchester United star Patrick Dorgu has suffered a more serious injury than first anticipated after the Dane was forced off the field against Arsenal on Sunday, according to The Athletic.A Massive Bl... \nManchester United star Patrick Dorgu has suffered a more serious injury than first anticipated after the Dane was forced off the field against Arsenal on Sunday, according to The Athletic.\r\nDorgu was… [+2296 chars]",
-        "positive": 0.03102053329348564,
-        "negative": 0.9516391754150391,
-        "neutral": 0.017340274527668953
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcnews.com/politics/2026-election/alex-vindman-key-trump-impeachment-witness-launches-florida-senate-run-rcna256008",
-        "timestamp": "2026-01-27T11:00:00+00:00",
-        "text": "Alex Vindman, key Trump impeachment witness, launches Florida Senate run \nArmy veteran Alex Vindman, a key witness during President Donald Trump’s first impeachment trial in 2019, is running for the Senate in Florida as a Democrat \nArmy veteran Alex Vindman, a key witness during President Donald Trumps first impeachment trial in 2019, is running for the Senate in Florida as a Democrat.\r\nVindman, who launched his campaign Tuesda… [+2593 chars]",
-        "positive": 7.070627907523885e-05,
-        "negative": 3.404749804758467e-05,
-        "neutral": 0.9998952150344849
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226213/0/en/Zymeworks-Announces-Participation-in-Upcoming-Investor-Conferences.html",
-        "timestamp": "2026-01-27T11:00:00+00:00",
-        "text": "Zymeworks Announces Participation in Upcoming Investor Conferences \nVANCOUVER, British Columbia, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Zymeworks Inc. (Nasdaq: ZYME), a biotechnology company managing a portfolio of licensed healthcare assets, while developing a diverse pipeline of novel, multifunctional biotherapeutics, today anno… \nVANCOUVER, British Columbia, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Zymeworks Inc. (Nasdaq: ZYME), a biotechnology company managing a portfolio of licensed healthcare assets, while developing a diverse pi… [+2843 chars]",
-        "positive": 0.006553147453814745,
-        "negative": 1.0495213246031199e-05,
-        "neutral": 0.993436336517334
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226216/0/en/First-Atlantic-Nickel-Increases-RPM-Zone-Strike-Length-50-to-Over-1-2-km-and-Width-to-Over-800-m-from-Phase-2x-Drilling-at-Pipestone-XL-Magnetic-Nickel-Cobalt-Alloy-Project.html",
-        "timestamp": "2026-01-27T11:00:00+00:00",
-        "text": "First Atlantic Nickel Increases RPM Zone Strike Length 50% to Over 1.2 km and Width to Over 800 m from Phase 2x Drilling at Pipestone XL Magnetic Nickel-Cobalt Alloy Project \nFirst Atlantic reports final 4 Phase 2X holes at Pipestone XL: RPM Zone now >1.2 km strike & >800 m width; 14/14 positive; AN-25-11 0.13% DTR/402 m... \nGRAND FALLS-WINDSOR, Newfoundland and Labrador, Jan. 27, 2026 (GLOBE NEWSWIRE) -- First Atlantic Nickel Corp. (TSXV: FAN) (OTCQB: FANCF) (FSE: P21) (\"First Atlantic\" or the \"Company\") is pleased to a… [+30014 chars]",
-        "positive": 0.0006612440920434892,
-        "negative": 1.7330990885966457e-05,
-        "neutral": 0.999321460723877
-      },
-      {
-        "source": "news",
-        "id": "https://www.activistpost.com/the-right-has-caught-the-woke-mind-virus-and-their-symptoms-are-mass-arrests-and-censorship/",
-        "timestamp": "2026-01-27T11:00:00+00:00",
-        "text": "The Right Has Caught the ‘Woke Mind Virus’—And Their Symptoms Are Mass Arrests and Censorship \nThe “woke mind virus” didn’t die when the Left lost the culture war—it just jumped hosts. Now, the demand for censorship, mass arrests, and total state surveillance is coming from inside the MAGA house, proving that the real disease was never “wokeness,” but … \nThe “woke mind virus” didn’t die when the Left lost the culture warit just jumped hosts. Now, the demand for censorship, mass arrests, and total state surveillance is coming from inside the MAGA hous… [+7249 chars]",
-        "positive": 0.057763777673244476,
-        "negative": 0.041841771453619,
-        "neutral": 0.9003943800926208
-      },
-      {
-        "source": "news",
-        "id": "https://www.forbes.com/sites/brucejapsen/2026/01/27/unitedhealth-takes-16-billion-hit-to-earnings-amid-restructuring/",
-        "timestamp": "2026-01-27T11:00:00+00:00",
-        "text": "UnitedHealth Takes $1.6 Billion Hit To Earnings Amid Restructuring \nUnitedHealth Group eked out a fourth quarter profit of $10 million despite a $1.6 billion hit to fourth quarter earnings from a large restructuring charge. \nUnitedHealth Group, parent of health insurance giant UnitedHealthcare, eked out a fourth quarter profit of $10 million despite a $1.6 billion hit to fourth quarter earnings from a large restructuring… [+4580 chars]",
-        "positive": 0.23291194438934326,
-        "negative": 0.2138984203338623,
-        "neutral": 0.5531895756721497
-      },
-      {
-        "source": "news",
-        "id": "https://www.nintendolife.com/reviews/nintendo-switch-2/grid-legends-deluxe-edition",
-        "timestamp": "2026-01-27T11:00:00+00:00",
-        "text": "Review: GRID Legends: Deluxe Edition (Switch 2) - Satisfying 'Simcade' Racing Works Best With A GC Pad \nVroom, shake the room?For serious petrolheads, the Switch 1 wasn't exactly a (Burnout) paradise platform. In fact, given the size of the console's library, there's surprisingly little in the way of even semi-serious racing sims for those looking for more than… \nCaptured on Nintendo Switch 2 (Docked)\r\nFor serious petrolheads, the Switch 1 wasn't exactly a (Burnout) paradise platform. In fact, given the size of the console's library, there's surprisingly litt… [+8210 chars]",
-        "positive": 4.814700878341682e-05,
-        "negative": 0.00016323535237461329,
-        "neutral": 0.9997885823249817
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226211/28124/en/Data-Center-Support-Infrastructure-Market-Analysis-Report-2026-109-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T10:59:00+00:00",
-        "text": "Data Center Support Infrastructure Market Analysis Report 2026: $109+ Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nThe data center support infrastructure market is poised for growth driven by rising cloud services demand, energy-efficient solutions, and advanced security technologies. Key opportunities include modular designs, scalable infrastructure, and innovations in c… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Data Center Support Infrastructure Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe 2026 Global Report on the Data Center S… [+6554 chars]",
-        "positive": 0.9999997615814209,
-        "negative": 5.7263729758005866e-08,
-        "neutral": 2.52058725891402e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.nzherald.co.nz/sport/rugby/nz-rugby-former-ceo-mark-robinson-takes-senior-job-at-world-rugby/ZDBU37Y4E5E7HGKF4FV4O6IWWE/",
-        "timestamp": "2026-01-27T10:59:00+00:00",
-        "text": "NZ Rugby: Former CEO Mark Robinson takes senior job at World Rugby \nHis remit includes match officials, laws, player welfare, tech and fan experience. \nIn a statement, World Rugby said he would be part of a division that will play a central role in shaping the future of the sport in collaboration with stakeholders.\r\nRobinsons responsibilities will i… [+1749 chars]",
-        "positive": 0.00016932828293647617,
-        "negative": 2.0669780496973544e-05,
-        "neutral": 0.9998100399971008
-      },
-      {
-        "source": "news",
-        "id": "https://www.coindesk.com/markets/2026/01/27/as-bitcoin-miners-cut-unprofitable-production-hash-ribbon-metric-points-to-btc-price-rebound",
-        "timestamp": "2026-01-27T10:57:50+00:00",
-        "text": "As bitcoin miners cut unprofitable production, Hash Ribbon metric points to BTC price rebound \nThe hashrate shock from extreme weather in the U.S. revives a historically bullish onchain indicator. \nWhile the weekend's U.S. storm disrupted bitcoin BTC\r\n$87,893.29 mining as higher costs hit profitability and led companies to cut computing power, or hashrate, crypto traders will be focusing on a m… [+1990 chars]",
-        "positive": 0.3321070075035095,
-        "negative": 0.6666112542152405,
-        "neutral": 0.0012817293172702193
-      },
-      {
-        "source": "news",
         "id": "https://indianexpress.com/article/opinion/columns/davos-global-world-order-indias-opportunity-mark-carney-10497234/",
         "timestamp": "2026-01-27T10:57:19+00:00",
         "text": "At Davos, Mark Carney marked the end of a global order. What India needs for the emerging one \nThe Ministry of External Affairs (MEA) should hire industry consultants and place one in every single MEA regional division. In turn, this group of industry consultants should hold regular meetings with different industry representatives from India \nFor over 15 years, scholars have argued that the US-led international rules-based order is effectively dead, but such a shift gains legitimacy only when acknowledged by political leaders. Canadian Pr… [+6756 chars]",
         "positive": 0.005336524918675423,
         "negative": 0.0009546670480631292,
         "neutral": 0.9937088489532471
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226209/28124/en/Smart-Wearables-Market-Analysis-Report-2026-42-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T10:57:00+00:00",
-        "text": "Smart Wearables Market Analysis Report 2026: $42+ Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey opportunities in the smart wearables market include rising demand for remote health monitoring, AI-based wellness solutions, and AR interfaces. IoT adoption enhances connectivity, data collection, and monitoring capabilities. Tariff impacts are promoting … \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Smart Wearables Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe smart wearables market is experiencing robust growth, with… [+5615 chars]",
-        "positive": 1.0,
-        "negative": 1.0047948251212802e-08,
-        "neutral": 5.405761882570914e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226210/0/en/MGIExchange-Publishes-Early-Year-Market-Outlook-as-Trading-Conditions-Reset-Across-Global-Markets.html",
-        "timestamp": "2026-01-27T10:57:00+00:00",
-        "text": "MGIExchange Publishes Early-Year Market Outlook as Trading Conditions Reset Across Global Markets \nLONDON, Jan. 27, 2026 (GLOBE NEWSWIRE) -- MGIExchange\r\n has released a new market outlook analyzing early-year trading conditions as global markets adjust to fresh liquidity flows, institutional repositioning, and evolving macroeconomic signals. The report, l… \nLONDON, Jan. 27, 2026 (GLOBE NEWSWIRE) -- MGIExchange\r\n has released a new market outlook analyzing early-year trading conditions as global markets adjust to fresh liquidity flows, institutional repo… [+4458 chars]",
-        "positive": 0.0025759688578546047,
-        "negative": 0.00010537842899793759,
-        "neutral": 0.997318685054779
       },
       {
         "source": "news",
@@ -644,84 +1103,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.nakedcapitalism.com/2026/01/trump-does-a-soft-taco-as-republicans-nra-and-law-enforcement-officers-oppose-ice-thuggery-a-gambit-or-a-real-climbdown.html",
-        "timestamp": "2026-01-27T10:55:32+00:00",
-        "text": "Trump Does a Soft TACO as Republicans, NRA and Law Enforcement Officers Oppose ICE Thuggery. A Gambit or a Real Climbdown? \nTrump for the moment is signaling a climbdown on his hyper-aggressive ICE tactics. But how long will this show of contrition last? \nOne big upside of the smartphone era is that it has become impossible for authorities to tell egregious lies about heavily videoed events and retain any semblance of credibility. The Trump Administra… [+14542 chars]",
-        "positive": 0.10911582410335541,
-        "negative": 0.017191464081406593,
-        "neutral": 0.8736926317214966
-      },
-      {
-        "source": "news",
-        "id": "https://www.telecomtv.com/content/automotive/telef-nica-ericsson-race-into-mwc-circuitx-showcase-54714/",
-        "timestamp": "2026-01-27T10:55:30+00:00",
-        "text": "Telefónica, Ericsson race into MWC CircuitX Showcase \nGSMA and Formula E will promote connectivity in motorsport at MWC26CircuitX Showcase to take place at Circuit de Barcelona-Catalunya Live demonstrations will i… \nTelefónica, NTT Data, Ericsson and Formula E are among the partners that will promote connectivity in motorsports as part of the GSMA’s CircuitX Showcase at this year’s Mobile World Congress in Barce… [+1867 chars]",
-        "positive": 0.001106826588511467,
-        "negative": 6.09745211477275e-06,
-        "neutral": 0.9988871216773987
-      },
-      {
-        "source": "news",
         "id": "https://en.protothema.gr/2026/01/27/esm-greek-bonds-among-the-strong-performers-of-the-eurozone-15-year-low-for-the-spread/",
         "timestamp": "2026-01-27T10:55:06+00:00",
         "text": "ESM: Greek bonds among the strong performers of the Eurozone – 15-year low for the spread \nIn recent years, yields on Greek government bonds have converged with those of many other countries’ bonds\nThe post ESM: Greek bonds among the strong performers of the Eurozone – 15-year low for the spread appeared first on ProtoThema English. \nThe European Stability Mechanism (ESM), Greeces largest lender, ranks Greek government bonds among the strong performers of the eurozone. In a report published today on its blog, the ESM notes that d… [+1144 chars]",
         "positive": 0.9767281413078308,
         "negative": 0.0001189075264846906,
         "neutral": 0.023153027519583702
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226207/28124/en/Green-Electronics-Manufacturing-Market-Report-2026-54-65-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T10:55:00+00:00",
-        "text": "Green Electronics Manufacturing Market Report 2026: $54.65 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nThe green electronics manufacturing market is poised for robust growth driven by increasing demand for sustainable devices, regulatory mandates, and innovations in energy efficiency. Key opportunities lie in AI integration, eco-friendly materials adoption, an… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Green Electronics Manufacturing Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe green electronics manufacturing market con… [+4546 chars]",
-        "positive": 1.0,
-        "negative": 2.591596448553446e-08,
-        "neutral": 4.6137500930854e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.livemint.com/opinion/online-views/rahul-jacob-great-power-rivalry-us-and-china-developing-world-risk-donald-trumpus-11769496069962.html",
-        "timestamp": "2026-01-27T10:54:44+00:00",
-        "text": "Rahul Jacob: Great power rivalry between the US and China is putting the developing world at risk \nUS President Donald Trump’s bluster has been in the global spotlight, as seen at Davos, but amid all the noise, what we must track are actual trade outcomes. Emerging economies find themselves in a particularly tight spot. Trends over the past year offer litt… \nMore than three decades ago, the legendary Warren Buffett returned a call to a fact-checker, explaining what he meant when he used the term elephant-bumping affairs.\" Buffett was gently deriding talk… [+5206 chars]",
-        "positive": 0.019733790308237076,
-        "negative": 0.04084670543670654,
-        "neutral": 0.9394195675849915
-      },
-      {
-        "source": "news",
-        "id": "https://www.hurriyetdailynews.com/temu-shein-retreat-alters-turkish-e-commerce-market-218289",
-        "timestamp": "2026-01-27T10:54:43+00:00",
-        "text": "Temu, Shein retreat alters Turkish e-commerce market \nThe Turkish e-commerce landscape is undergoing a major shift following recent regulatory changes that have prompted Chinese platforms Temu and Shein to significantly limit their operations in the country. \nISTANBUL\r\nThe Turkish e-commerce landscape is undergoing a major shift following recent regulatory changes that have prompted Chinese platforms Temu and Shein to significantly limit their operations … [+2037 chars]",
-        "positive": 0.010241733863949776,
-        "negative": 0.505531370639801,
-        "neutral": 0.48422688245773315
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226206/28124/en/Off-Site-Prefabricated-Building-Industry-Research-Report-2026-169-7-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T10:54:00+00:00",
-        "text": "Off-Site Prefabricated Building Industry Research Report 2026: $169.7 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nThe off-site prefabricated building market offers key opportunities in sustainable construction, modular and panelized systems, and smart factory fabrication. Growth drivers include rising demand for faster project delivery, increased adoption in residential,… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Off-Site Prefabricated Building Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe off-site prefabricated building market has… [+5398 chars]",
-        "positive": 0.9999997615814209,
-        "negative": 3.7812792896829706e-08,
-        "neutral": 1.8546285218690173e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/forex/rupee-recovers-19-paise-from-all-time-low-to-close-at-9171-against-us-dollar/article70556290.ece",
-        "timestamp": "2026-01-27T10:53:19+00:00",
-        "text": "Rupee recovers 19 paise from all-time low to close at 91.71 against US dollar \nThe domestic unit settled for the day at 91.71 (provisional), registering a gain of 19 paise from its previous close \nThe rupee rebounded from its all-time low levels and gained 19 paise to close at 91.71 (provisional) against the US dollar on Tuesday, on decline in US dollar index and India-EU FTA negotiations.\r\n F… [+2550 chars]",
-        "positive": 0.9885868430137634,
-        "negative": 0.0032035955227911472,
-        "neutral": 0.008209576830267906
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/india/msde-microsoft-to-train-2-lakh-vocational-students-in-ai-under-expanded-partnership/articleshow/127617768.cms",
-        "timestamp": "2026-01-27T10:53:15+00:00",
-        "text": "MSDE, Microsoft to train 2 lakh vocational students in AI under expanded partnership \nIndia's vocational training system is getting a major AI upgrade. The Ministry of Skill Development and Entrepreneurship is partnering with Microsoft to bring AI education to 200,000 students. This initiative will cover over 1,000 Industrial Training Institut… \nThe Ministry of Skill Development and Entrepreneurship (MSDE), through the Directorate General of Training (DGT), has expanded its partnership with Microsoft to introduce structured artificial intell… [+2828 chars]",
-        "positive": 0.9471540451049805,
-        "negative": 9.067702922038734e-05,
-        "neutral": 0.05275534465909004
       },
       {
         "source": "news",
@@ -734,39 +1121,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226205/0/en/Evinquo-Expands-Advanced-Risk-Management-System-With-Real-Time-Volatility-Alert-Framework.html",
-        "timestamp": "2026-01-27T10:53:00+00:00",
-        "text": "Evinquo Expands Advanced Risk Management System With Real-Time Volatility Alert Framework \nBIRMINGHAM, United Kingdom, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Evinquo\r\n, a London-based financial technology company, today announced the rollout of a new real-time volatility alert framework within its Advanced Risk Management System, strengthening the platf… \nBIRMINGHAM, United Kingdom, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Evinquo\r\n, a London-based financial technology company, today announced the rollout of a new real-time volatility alert framework within … [+4948 chars]",
-        "positive": 0.08277542144060135,
-        "negative": 7.550782174803317e-05,
-        "neutral": 0.917149007320404
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/magazines/panache/rs-2-lakh-a-month-salary-sounds-good-but-ca-explains-why-middle-class-in-metros-is-struggling/articleshow/127617131.cms",
         "timestamp": "2026-01-27T10:51:46+00:00",
         "text": "Rs 2 lakh a month salary sounds good. But CA explains why middle-class in metros is struggling \nEarning Rs 2 lakh monthly in Indian metros, once a dream, now struggles against soaring costs. Private school fees jumped 160%, medical inflation hit 14%, and housing debt traps consume half of take-home pay. High earners are increasingly servicing debts for … \nEarning Rs 2 lakh a month in a metro city sounds like a dream for many in Indias middle class. Its the salary most people imagine will provide comfort, freedom, and a chance to build wealth. But the … [+1890 chars]",
         "positive": 0.9959976673126221,
         "negative": 0.0037323348224163055,
         "neutral": 0.0002700084005482495
-      },
-      {
-        "source": "news",
-        "id": "https://www.gsmarena.com/huawei_nova_14i_debuts_in_hong_kong_-news-71262.php",
-        "timestamp": "2026-01-27T10:51:03+00:00",
-        "text": "Huawei nova 14i debuts in Hong Kong \nFollowing its announcement over three months ago, Huawei’s nova 14i has made its way to Hong Kong and we finally have pricing details to go with it.\n\nThe device will be available from February 6 and will retail for HKD 1,588 ($203) in its 8/256GB storage trim… \nFollowing its announcement over three months ago, Huaweis nova 14i has made its way to Hong Kong and we finally have pricing details to go with it.\r\nThe device will be available from February 6 and w… [+573 chars]",
-        "positive": 9.645340469432995e-05,
-        "negative": 9.124876214627875e-07,
-        "neutral": 0.999902606010437
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2026/01/27/us-india-trade-deal-progress-advanced-stage-oil-minister-eu.html",
-        "timestamp": "2026-01-27T10:50:37+00:00",
-        "text": "U.S.-India trade deal at 'very advanced stage,' Indian petroleum minister tells CNBC \nA much-anticipated trade deal between India and the U.S. is at \"a very advanced stage,\" India's oil and natural gas minister told CNBC Tuesday. \nA much-anticipated trade deal between India and the U.S. is at \"a very advanced stage,\" India's Minister of Petroleum and Natural Gas Hardeep Singh Puri told CNBC Tuesday.\r\n\"I would try and look at t… [+2077 chars]",
-        "positive": 7.869573892094195e-05,
-        "negative": 6.230461622180883e-06,
-        "neutral": 0.9999151229858398
       },
       {
         "source": "news",
@@ -779,48 +1139,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226203/28124/en/Prefabricated-Building-Sealant-Market-Report-2026-3-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T10:50:00+00:00",
-        "text": "Prefabricated Building Sealant Market Report 2026: $3+ Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nThe prefabricated building sealant market is poised for growth driven by increased adoption in modular construction, demand for weatherproof/fire-resistant materials, innovations like AI-monitoring and sustainable solutions, and rising construction sector inv… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Prefabricated Building Sealant Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe prefabricated building sealant market is wi… [+5024 chars]",
-        "positive": 0.9999997615814209,
-        "negative": 2.779984065170993e-08,
-        "neutral": 2.1913572822995775e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.aljazeera.com/opinions/2026/1/27/why-neoliberalism-cant-build-peace",
-        "timestamp": "2026-01-27T10:49:38+00:00",
-        "text": "Why neoliberalism can’t build peace \nNeoliberal proposals for peace in Gaza, Ukraine’s Donbas and Syria’s Golan Heights are doomed to failure. \nOver the past year, United States President Donald Trump has pursued peace-making all across the world. A prominent feature of his efforts has been the belief that economic threats or rewards can res… [+6708 chars]",
-        "positive": 0.15770113468170166,
-        "negative": 0.03848724067211151,
-        "neutral": 0.8038116097450256
-      },
-      {
-        "source": "news",
-        "id": "https://cryptoslate.com/?p=516588",
-        "timestamp": "2026-01-27T10:49:11+00:00",
-        "text": "Bitcoin is now cheaper on Coinbase compared to Binance, and the culprit may not be “weak US demand” \nCoinbase's Bitcoin (BTC) price dropped below competing exchanges this week, and the gap continues to widen. CoinGlass reported on Jan. 26 that its Coinbase Bitcoin Premium Index, which tracks the price difference between Coinbase's BTC/USD and Binance's BTC/U… \nCoinbase's Bitcoin (BTC) price dropped below competing exchanges this week, and the gap continues to widen.\r\nCoinGlass reported on Jan. 26 that its Coinbase Bitcoin Premium Index, which tracks the pr… [+9363 chars]",
-        "positive": 0.3333181142807007,
-        "negative": 0.09588485211133957,
-        "neutral": 0.5707970261573792
-      },
-      {
-        "source": "news",
         "id": "https://www.cnbc.com/2026/01/27/us-treasury-yields-investors-await-economic-data-.html",
         "timestamp": "2026-01-27T10:49:03+00:00",
         "text": "U.S. Treasury yields: investors await economic data \nU.S. Treasury yields inched higher on Tuesday as investors awaited economic data and looked ahead to the Federal Reserve's interest rate decision. \nU.S. Treasury yields inched higher on Tuesday as investors awaited further economic data and looked ahead to the Federal Reserve's interest rate decision. \r\nAt 5:15 a.m. ET, the 10-year Treasury yiel… [+1305 chars]",
         "positive": 0.016311895102262497,
         "negative": 0.00022215349599719048,
         "neutral": 0.9834659099578857
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226202/28124/en/Prefabricated-Buildings-Industry-Report-2026-250-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T10:49:00+00:00",
-        "text": "Prefabricated Buildings Industry Report 2026: $250+ Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nOpportunities in the prefabricated buildings market include the rising demand for residential homes due to urbanization and homeownership desires, leveraging robotics and sustainable materials, digital twin technology, and smart monitoring in design, as well … \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Prefabricated Buildings Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe prefabricated buildings market has recently experi… [+6247 chars]",
-        "positive": 0.9999799728393555,
-        "negative": 1.189693080050347e-06,
-        "neutral": 1.881854586827103e-05
       },
       {
         "source": "news",
@@ -842,93 +1166,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.androidcentral.com/wearables/solos-is-taking-aim-at-meta-essilorluxottica-for-alleged-smart-glasses-patent-infringement-in-pivotal-case",
-        "timestamp": "2026-01-27T10:47:00+00:00",
-        "text": "Solos is taking aim at Meta, EssilorLuxottica for alleged smart glasses patent infringement in pivotal case \nSmart glasses are booming, in large part thanks to Meta. But one of its competitors is now accusing Ray-Ban Meta products of violating its patents. \nMeta is single-handedly making smart glasses mainstream thanks to its partnership with EssilorLuxottica, the eyeglasses maker that owns the Ray-Ban and Oakley brands, among others. However, competing… [+4743 chars]",
-        "positive": 0.3724336624145508,
-        "negative": 0.13910506665706635,
-        "neutral": 0.48846131563186646
-      },
-      {
-        "source": "news",
         "id": "https://www.deseret.com/family/2026/01/26/babies-born-no-kidneys-gene-testing-miraculous-journey-new-baby/",
         "timestamp": "2026-01-27T10:46:40+00:00",
         "text": "How long can a baby survive without kidneys? \nCan a baby survive without kidneys? What is bilateral renal agenesis? What can genetic testing show? What is a SALL1 gene mutation? \nVincent Golden Goodwin all 7 pounds, 7 ounces and 20.5 inches of him is swaddled in a colorful blanket on the floor next to his sister, 9-year-old Murphy, who is reading the book You Can to the newbo… [+7704 chars]",
         "positive": 8.31019951874623e-06,
         "negative": 1.2841124771512114e-05,
         "neutral": 0.99997878074646
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/stock-markets/hindalco-unveils-21000-crore-aluminium-smelter-expansion-in-odisha/article70556268.ece",
-        "timestamp": "2026-01-27T10:46:22+00:00",
-        "text": "Hindalco unveils ₹21,000-crore aluminium smelter expansion in Odisha \nThe smelter expansion will add 3.6 lakh tonnes per annum capacity, while the newly commissioned FRP facility will produce 1.7 lakh tonnes annually \nHindalco Industries announced a 21,000-crore expansion of its aluminium smelter at Sambalpur, Odisha, on Tuesday, while commissioning a 4,500-crore flat-rolled products and battery foil manufacturing… [+1398 chars]",
-        "positive": 0.8241434693336487,
-        "negative": 6.873352685943246e-05,
-        "neutral": 0.1757877618074417
-      },
-      {
-        "source": "news",
-        "id": "https://www.the-independent.com/life-style/health-and-families/mnd-symptoms-motor-neurone-disease-signs-b2908388.html",
-        "timestamp": "2026-01-27T10:45:16+00:00",
-        "text": "Father diagnosed with terminal condition after noticing symptom at swimming pool \nDanny Tucker was just 39 when he was told he had motor neurone disease (MND) \nYour support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4560 chars]",
-        "positive": 0.06841858476400375,
-        "negative": 9.886568477668334e-06,
-        "neutral": 0.9315715432167053
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226198/0/en/Surging-EV-Demand-and-Government-Backed-Infrastructure-Push-Electric-Vehicle-Charging-Station-Market-to-US-90-4-Bn-by-2032-at-16-3-CAGR-AnalystView-Market-Insights.html",
-        "timestamp": "2026-01-27T10:45:00+00:00",
-        "text": "Surging EV Demand and Government-Backed Infrastructure Push Electric Vehicle Charging Station Market to US$ 90.4 Bn by 2032 at 16.3% CAGR: AnalystView Market Insights \nElectric Vehicle Charging Station Market size was valued at US$ 27,061.33 Million in 2024, expanding at a CAGR of 16.3% from 2025 to 2032.... \nSan Francisco, USA, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Market Overview:-\r\nThe global Electric Vehicle Charging Station Market is experiencing strong momentum, supported by accelerating electric vehicl… [+7901 chars]",
-        "positive": 0.9999803304672241,
-        "negative": 1.9773895587604784e-07,
-        "neutral": 1.938888271979522e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226199/28124/en/GaN-and-SiC-Power-Semiconductor-Market-Research-Report-2026-5-45-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T10:45:00+00:00",
-        "text": "GaN and SiC Power Semiconductor Market Research Report 2026: $5.45 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nThe GaN and SiC power semiconductor market presents key opportunities in electric vehicles, fast-charging infrastructure, and renewable energy systems due to their high-efficiency and compact design advantages. Strategic acquisitions and technological advance… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"GaN and SiC Power Semiconductor Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe GaN and SiC power semiconductor market is … [+6715 chars]",
-        "positive": 0.9999996423721313,
-        "negative": 7.70617560874598e-08,
-        "neutral": 1.992689959706695e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226197/28124/en/Oil-and-Gas-Pipeline-and-Related-Structures-Construction-Industry-Research-Report-2026-321-36-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-.html",
-        "timestamp": "2026-01-27T10:44:00+00:00",
-        "text": "Oil and Gas Pipeline and Related Structures Construction Industry Research Report 2026: $321.36 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities in the oil and gas pipeline construction sector include the expansion of global energy demand, investment in midstream infrastructure, environmentally responsible construction, automated monitoring, and modernization initiatives. Risi… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Oil and Gas Pipeline and Related Structures Construction Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe oil and gas pipel… [+5866 chars]",
-        "positive": 0.9999185800552368,
-        "negative": 6.348762440211431e-07,
-        "neutral": 8.076262020040303e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/27/3226196/28124/en/Low-Altitude-Infrastructure-Research-Report-2026-930-Mn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-        "timestamp": "2026-01-27T10:42:00+00:00",
-        "text": "Low-Altitude Infrastructure Research Report 2026: $930 Mn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F \nKey market opportunities in the low-altitude infrastructure sector include rising drone adoption, urban air mobility advancements, logistics and delivery deployment, AI navigation, solar charging infrastructure, GPS and communication system expansion, and IoT… \nDublin, Jan. 27, 2026 (GLOBE NEWSWIRE) -- The \"Low-Altitude Infrastructure Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe low-altitude infrastructure market is poised f… [+5765 chars]",
-        "positive": 0.9994630217552185,
-        "negative": 1.6866732721609878e-06,
-        "neutral": 0.0005353008164092898
-      },
-      {
-        "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6e166838-01f6-4fb2-ba99-222cf59da0ba",
-        "timestamp": "2026-01-27T10:40:00+00:00",
-        "text": "Why Shares of TMC the metals company Ripped 450.9% Higher in 2025 and Can Continue Flying Higher in 2026 \nIf you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 1.2920280823891517e-05,
-        "negative": 2.7836370009026723e-06,
-        "neutral": 0.9999843835830688
-      },
-      {
-        "source": "news",
-        "id": "https://www.hospitalitynet.org/editorial/4130599.html",
-        "timestamp": "2026-01-27T10:40:00+00:00",
-        "text": "Mark Owens on Colliers International and the New Economics of Hotel Deals \nColliers International is a global real estate services firm, but in hospitality it increasingly functions as a strategic translator between owners, lenders, and shifting traveller demand. In this Brand Insiders conversation, Mark Owens, Hospitality Practice … \nColliers International is a global real estate services firm, but in hospitality it increasingly functions as a strategic translator between owners, lenders, and shifting traveller demand. In this Br… [+4244 chars]",
-        "positive": 0.0011886813445016742,
-        "negative": 4.900213752989657e-05,
-        "neutral": 0.9987622499465942
       },
       {
         "source": "news",
@@ -1280,186 +1523,6 @@
         "positive": 0.015714602544903755,
         "negative": 1.5723657270427793e-05,
         "neutral": 0.9842697381973267
-      },
-      {
-        "source": "news",
-        "id": "https://www.hospitalitynet.org/opinion/4130596.html",
-        "timestamp": "2026-01-27T09:50:11+00:00",
-        "text": "2025 Major U.S. Hotel Sales Survey & Lodging Sector Overview \nAlthough mixed signals abound, the U.S. economy at the end of 2025 continues to show surprising resilience, defying some expectations of a slowdown. GDP growth is strong (roughly 4.3% in Q3) driven by consumer and government spending, however with a cooling a… \nAlthough mixed signals abound, the U.S. economy at the end of 2025 continues to show surprising resilience, defying some expectations of a slowdown. GDP growth is strong (roughly 4.3% in Q3) driven b… [+17486 chars]",
-        "positive": 1.0,
-        "negative": 3.796267833422462e-08,
-        "neutral": 3.174503149239172e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/german-fa-boss-says-world-cup-boycott-would-be-misguided/a-75671261",
-        "timestamp": "2026-01-27T09:46:00+00:00",
-        "text": "German FA boss says World Cup boycott would be 'misguided' \nAt the first DFL meeting of 2026, German FA boss Bernd Neuendorf spoke for the first time about a World Cup boycott. \nThe German Football Association (DFB) has broken its silence on the matter of a potential boycott of the World Cup, to be hosted by the United States this summer, with a few games also to be played i… [+2492 chars]",
-        "positive": 2.3116221200325526e-05,
-        "negative": 0.00039415369974449277,
-        "neutral": 0.9995827078819275
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/german-fa-believe-world-cup-boycott-would-be-misguided/a-75671261",
-        "timestamp": "2026-01-27T09:46:00+00:00",
-        "text": "German FA believe World Cup boycott would be 'misguided' \nAt the first DFL meeting of 2026, German FA boss Bernd Neuendorf spoke for the first time about a World Cup boycott. \nThe German Football Association (DFB) has broken its silence on the matter of a potential boycott of the World Cup, to be hosted by the United States this summer, with a few games also to be played i… [+2317 chars]",
-        "positive": 3.521146936691366e-05,
-        "negative": 0.0016130228759720922,
-        "neutral": 0.9983518123626709
-      },
-      {
-        "source": "news",
-        "id": "https://www.npr.org/2026/01/27/nx-s1-5646508/for-olympic-veterans-perspective-and-experience-are-their-secret-weapon",
-        "timestamp": "2026-01-27T09:44:45+00:00",
-        "text": "For Olympic veterans, perspective and experience are their secret weapon \nSome Olympic athletes are heading to Italy next month for their third, fourth or even fifth shot at gold. They are working \"smarter not harder\" and trading on their instincts honed over time. \nSome Olympic athletes are heading to Italy next month for their third, fourth or even fifth shot at gold. They are working \"smarter not harder\" and trading on their instincts honed over time.",
-        "positive": 0.003022689139470458,
-        "negative": 2.458971539454069e-05,
-        "neutral": 0.9969526529312134
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/fed-meeting-what-to-expect-interest-rates-jerome-powell-2026-1",
-        "timestamp": "2026-01-27T09:41:01+00:00",
-        "text": "What to expect from January's Fed meeting as Powell faces looming DOJ probe \nThe Federal Reserve will likely hold rates steady at its January meeting, even as Jerome Powell faces mounting pressure from Trump amid the DOJ probe. \nJerome Powell will leave his post in May.Al Drago/Getty Images\r\n<ul><li>Fed expected to hold interest rates steady amid stubborn inflation and disappointing jobs numbers.</li><li>Powell is facing a D… [+3827 chars]",
-        "positive": 0.00035537892836146057,
-        "negative": 0.9975583553314209,
-        "neutral": 0.0020862470846623182
-      },
-      {
-        "source": "news",
-        "id": "https://slickdeals.net/f/19143148-t-mobile-customers-t-life-app-starts-1-27-26-cinnabon-7-eleven-speedway-free-7-select-snack-sam-s-club-factor-shell-lc",
-        "timestamp": "2026-01-27T09:38:53+00:00",
-        "text": "T-Mobile Customers T Life App * Starts 1/27/26 * Cinnabon, 7-Eleven/Speedway Free 7-Select Snack, Sam's Club, Factor, Shell, LC \n* Starts 1/27/26 * \n \nCinnabon: Free 4ct BonBites when you purchase a drink \n7-Eleven/Speedway: Free 7-Select Snack \nSam's Club: $20 Club membership. For new members only \nFactor_: 55% off first box.... \n* Starts 1/27/26 *Cinnabon: Free 4ct BonBites when you purchase a drink7-Eleven/Speedway: Free 7-Select SnackSam's Club: $20 Club membership. For new members onlyFactor_: 55% off first box. Plus 15% … [+267 chars]",
-        "positive": 7.123900286387652e-05,
-        "negative": 9.925171980285086e-06,
-        "neutral": 0.9999188184738159
-      },
-      {
-        "source": "news",
-        "id": "https://www.retail-insight-network.com/news/supplier-retailer-talks-in-france-stall-as-pricing-tensions-rise/",
-        "timestamp": "2026-01-27T09:35:38+00:00",
-        "text": "Supplier-retailer talks in France stall as pricing tensions rise \nTalks between French retailers and food suppliers remain tense as annual commercial negotiations move slowly towards their legal conclusion. \nAnnual supplier-retailer negotiations in France are showing little sign of improvement as pricing disputes continue to dominate discussions across the grocery and food retail sector.\r\nAccording to a … [+3594 chars]",
-        "positive": 0.0027366175781935453,
-        "negative": 0.9959891438484192,
-        "neutral": 0.00127419491764158
-      },
-      {
-        "source": "news",
-        "id": "https://www.hospitalitynet.org/news/4130595.html",
-        "timestamp": "2026-01-27T09:30:52+00:00",
-        "text": "CoStar, Tourism Economics maintain growth projections in first U.S. hotel forecast of 2026 \nCoStar and Tourism Economics made minimal adjustments to growth projections in the first 2026-27 U.S. hotel forecast just released at the Americas Lodging Investment Summit (ALIS). \nCoStar and Tourism Economics made minimal adjustments to growth projections in the first 2026-27 U.S. hotel forecast just released at the Americas Lodging Investment Summit (ALIS).\r\nFor 2026, occupan… [+5169 chars]",
-        "positive": 3.340941475471482e-05,
-        "negative": 6.933751137694344e-05,
-        "neutral": 0.9998972415924072
-      },
-      {
-        "source": "news",
-        "id": "https://www.theregister.com/2026/01/27/salesforce_ai_gartner/",
-        "timestamp": "2026-01-27T09:30:07+00:00",
-        "text": "Salesforce AI buffet won't stay all-you-can-eat forever \nAnalysts say today's capped deals may become tomorrow's cost shock\nGartner is warning Salesforce users that a capped enterprise agreement for its AI and data platforms will not be available when they come to renew, leaving a struggle to predict costs and unde… \nGartner is warning Salesforce users that a capped enterprise agreement for its AI and data platforms will not be available when they come to renew, leaving a struggle to predict costs and understand … [+3261 chars]",
-        "positive": 7.712654769420624e-05,
-        "negative": 0.999889612197876,
-        "neutral": 3.324836143292487e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/advocates-gender-based-violence-intimate-partner-violence-epidemic-nl-9.7061918",
-        "timestamp": "2026-01-27T09:30:00+00:00",
-        "text": "Advocates renew calls for N.L. to declare gender-based violence an epidemic \nThe Transition House Association of N.L. is among the groups urging government to declare gender-based violence an epidemic, saying the province has never been in more trouble. \nAdvocates in Newfoundland and Labrador have long been calling on the province to declare gender-based violence an epidemic, and they hope a change in government will bring renewed attention to the is… [+6487 chars]",
-        "positive": 0.0014450728194788098,
-        "negative": 0.0026045911945402622,
-        "neutral": 0.9959503412246704
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/breitling-ceo-expects-trump-to-cut-tariffs-for-swiss-watchmakers",
-        "timestamp": "2026-01-27T09:29:10+00:00",
-        "text": "Breitling CEO Expects Trump to Cut Tariffs for Swiss Watchmakers \nBreitling AG’s chief executive officer expects the US to cut tariffs on Swiss watches, underscoring his bullishness on the private equity-backed firm’s biggest market even as Washington keeps the industry guessing. \n(Bloomberg) Breitling AGs chief executive officer expects the US to cut tariffs on Swiss watches, underscoring his bullishness on the private equity-backed firms biggest market even as Washington kee… [+5111 chars]",
-        "positive": 0.05037303641438484,
-        "negative": 0.9275122284889221,
-        "neutral": 0.02211477793753147
-      },
-      {
-        "source": "news",
-        "id": "https://www.phonearena.com/news/you-going-to-want-this-galaxy-z-flip-7-samsung-wont-sell-it-to-you_id177710",
-        "timestamp": "2026-01-27T09:27:43+00:00",
-        "text": "You're going to want this Galaxy Z Flip 7 – but Samsung won't sell it to you \nOlympic Edition features a blue glass back, a gold frame, and exclusive wallpapers. \nVisually, the phone stands out thanks to a rich blue back glass that ties directly into the Milano Cortina 2026 identity. The color also blends Samsungs familiar branding with a touch of Italian-insp… [+2849 chars]",
-        "positive": 5.962693103356287e-05,
-        "negative": 3.8598755054408684e-06,
-        "neutral": 0.999936580657959
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/gold/gold-hits-record-5111-silver-surges-to-117-on-safe-haven-demand/article70555982.ece",
-        "timestamp": "2026-01-27T09:22:02+00:00",
-        "text": "Gold hits record $5,111, silver surges to $117 on safe-haven demand \nOn the Multi Commodity Exchange, gold rose over 1% to approach ₹1.60 lakh per 10 grams, while silver surged approximately 6% to trade above ₹3.5 lakh per kilogram \nCOMEX gold scaled a fresh all-time high of $5,111 per ounce on Tuesday before settling near $5,067, driven by sustained safe-haven demand and central bank buying. Silver jumped to $117.75, marking it… [+1787 chars]",
-        "positive": 0.9999986886978149,
-        "negative": 7.079854640323902e-07,
-        "neutral": 5.948477337369695e-07
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-rises-as-yen-weakens-chip-related-shares-advance/articleshow/127612270.cms",
-        "timestamp": "2026-01-27T09:21:44+00:00",
-        "text": "Japan's Nikkei rises as yen weakens, chip-related shares advance \nJapan's Nikkei share ​average ended higher on Tuesday, as technology stocks extended ⁠their advance after the yen lost some gains. \nJapan's Nikkei share average ended higher on Tuesday, as technology stocks extended their advance after the yen lost some gains.The Nikkei rose 0.85% to close at 53,333.54, while the broader Topix en… [+1681 chars]",
-        "positive": 0.9983174800872803,
-        "negative": 1.1001716302416753e-05,
-        "neutral": 0.0016716500977054238
-      },
-      {
-        "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9f42b70d-7765-4120-83a6-b15c24dce22a",
-        "timestamp": "2026-01-27T09:17:17+00:00",
-        "text": "USDT’s Backing Gets More 'Macro' as Tether Adds 27 Tons of Gold \nIf you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 2.8192202080390416e-05,
-        "negative": 4.078527126694098e-06,
-        "neutral": 0.9999676942825317
-      },
-      {
-        "source": "news",
-        "id": "https://www.naftemporiki.gr/english/2064385/eldorado-announces-strong-exploration-results-in-halkidiki/",
-        "timestamp": "2026-01-27T09:16:52+00:00",
-        "text": "Eldorado announces strong exploration results in Halkidiki \nEldorado announced that it has identified a new high-grade gold and silver zone, the NW Zone, and high-grade extensions of the West Flats Zone at Olympias, as well as the…\nEldorado announces strong exploration results in Halkidiki - Η ΝΑΥΤΕΜΠΟΡΙΚΗ \nEldorado announced that it has identified a new high-grade gold and silver zone, the NW Zone, and high-grade extensions of the West Flats Zone at Olympias, as well as the discovery of a gold-copper s… [+771 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 2.4984057489518818e-08,
-        "neutral": 6.056048107438983e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/national-security/2026/01/27/delcy-rodriguez-to-sec-bessent-venezuela-does-not-accept-orders-from-any-external-factor/",
-        "timestamp": "2026-01-27T09:11:49+00:00",
-        "text": "Delcy Rodriguez to Sec. Bessent: 'Venezuela Does Not Accept Orders from Any External Factor' \n“Acting President” of Venezuela Delcy Rodríguez on Monday responded to \"irrelevant and offensive statements\" from Treasury Secretary Scott Bessent by asserting Venezuela \"does not accept orders from any external factor.\"\nThe post Delcy Rodríguez to Sec. Besse… \nActing President of Venezuela Delcy Rodríguez on Monday responded to “irrelevant and offensive statements” from Treasury Secretary Scott Bessent by asserting Venezuela “does not accept orders from an… [+3077 chars]",
-        "positive": 0.0046715508215129375,
-        "negative": 0.00385000160895288,
-        "neutral": 0.9914783835411072
-      },
-      {
-        "source": "news",
-        "id": "https://www.thebiglead.com/nfl-teams-with-most-number-of-super-bowl-appearances-v/",
-        "timestamp": "2026-01-27T09:10:59+00:00",
-        "text": "NFL: Teams with most number of Super Bowl appearances \nReaching the Super Bowl is the ultimate measure of sustained success in the NFL, and only a handful of franchises have done it time and time again. These teams didn’t just have one great season — they built cultures capable of returning to football’s biggest … \nReaching the Super Bowl is the ultimate measure of sustained success in the NFL, and only a handful of franchises have done it time and time again. These teams didnt just have one great season they b… [+4353 chars]",
-        "positive": 0.6887704730033875,
-        "negative": 0.0003913740802090615,
-        "neutral": 0.31083807349205017
-      },
-      {
-        "source": "news",
-        "id": "https://dominiquedecooman.com/becoming-intelligent-open-digital-experience-company",
-        "timestamp": "2026-01-27T09:05:22+00:00",
-        "text": "Dominique De Cooman: Becoming the Intelligent Open Digital Experience Company \nRead more\r\nIn the Dropsolid diaries series, I talk in-depth about the journey of Dropsolid company that has Drupal at its core. It contains Drupal insights, company insights, personal experiences, DXP and CMS market insights, and many other learnings I learne… \nIn the Dropsolid diaries series, I talk in-depth about the journey of Dropsolid company that has Drupal at its core. It contains Drupal insights, company insights, personal experiences, DXP and CMS m… [+28437 chars]",
-        "positive": 0.0004924447857774794,
-        "negative": 5.968133791611763e-06,
-        "neutral": 0.9995015859603882
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/ecb-study-finds-pricing-cascades-can-cause-inflationary-wave",
-        "timestamp": "2026-01-27T09:03:41+00:00",
-        "text": "ECB Study Finds ‘Pricing Cascades’ Can Cause Inflationary Wave \nA relatively contained price shock can trigger a massive inflationary episode if it hits a closely connected network of firms, according to research by the European Central Bank. \n(Bloomberg) A relatively contained price shock can trigger a massive inflationary episode if it hits a closely connected network of firms, according to research by the European Central Bank.\r\nTHIS CO… [+4252 chars]",
-        "positive": 0.000553950434550643,
-        "negative": 0.0006881550652906299,
-        "neutral": 0.9987578392028809
       },
       {
         "source": "news",
