@@ -1,8 +1,431 @@
 {
-  "timestamp": "2026-01-29T22:23:07.439936+00:00",
+  "timestamp": "2026-01-29T23:00:41.511605+00:00",
   "news": {
-    "count": 2951,
+    "count": 2955,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.techradar.com/pro/from-biology-to-black-holes-chatgpt-is-accelerating-research-openai-really-wants-you-to-use-chatgpt-as-a-research-collaborator-and-claims-8-4-million-messages-are-sent-every-week-on-science-and-math",
+        "timestamp": "2026-01-28T22:50:00+00:00",
+        "text": "'From biology to black holes, ChatGPT is accelerating research': OpenAI really wants you to use ChatGPT as a research collaborator - and claims 8.4 million messages are sent every week on science and math \nOpenAI claims ChatGPT handles millions of science and math queries weekly, supporting researchers in complex calculations and experiments. \n<ul><li>OpenAI claims 8.4 million weekly messages are sent about advanced science and mathematics</li><li>GPT-5.2 models can follow long reasoning chains and verify results independently</li><li>AI a… [+3632 chars]",
+        "positive": 4.1611110646044835e-05,
+        "negative": 8.825855388749915e-07,
+        "neutral": 0.9999575614929199
+      },
+      {
+        "source": "news",
+        "id": "https://viewfromthewing.com/southwests-earnings-just-dropped-falling-profits-show-the-turnaround-isnt-working-cheaper-jet-fuel-kept-them-profitable/",
+        "timestamp": "2026-01-28T22:49:36+00:00",
+        "text": "Southwest’s Earnings Just Dropped — Falling Profits Show The Turnaround Isn’t Working, Cheaper Jet Fuel Kept Them Profitable \nSouthwest’s full-year results are out, and the “turnaround” isn’t showing up where it should: revenue barely grew while net profit slipped versus 2024. The airline stayed in the black largely thanks to cheaper jet fuel (and cost cuts), not because bag fees an… \nSouthwest Airlines released its 2025 fourth quarter and full year financial results after market close. And the clear takeaway from these numbers seems to be that their turnaround plan is not working… [+5785 chars]",
+        "positive": 0.04633285105228424,
+        "negative": 0.9518702626228333,
+        "neutral": 0.0017969252075999975
+      },
+      {
+        "source": "news",
+        "id": "https://sports.yahoo.com/mlb/article/tarik-skubal-vs-the-tigers-what-the-arbitration-process-means-for-the-ace-the-team-and-future-arb-cases-224828870.html",
+        "timestamp": "2026-01-28T22:48:28+00:00",
+        "text": "Tarik Skubal vs. the Tigers: What the arbitration process means for the ace, the team and future arb cases \nThe back-to-back Cy Young winner wants $32 million in 2026. His team would prefer to pay him $19 million. \nIts late January, many MLB stadiums are submerged in snow, and Opening Day is two months away. Yet the best pitcher on planet Earth is actively trying to make history.\r\nTarik Skubal, the back-to-back… [+9212 chars]",
+        "positive": 0.0020724476780742407,
+        "negative": 2.6456473278813064e-05,
+        "neutral": 0.9979010820388794
+      },
+      {
+        "source": "news",
+        "id": "https://www.npr.org/2026/01/28/nx-s1-5688905/longtime-u-s-allies-are-shifting-trade-to-asia-due-to-trumps-tariffs-and-rhetoric",
+        "timestamp": "2026-01-28T22:46:23+00:00",
+        "text": "Longtime U.S. allies are shifting trade to Asia due to Trump's tariffs and rhetoric \nPresident Trump's tariffs and rhetoric have spurred some longtime U.S. allies to diversify their trade ties away from the U.S. Some are going cap-in-hand to Asian superpowers China and India. \nPresident Trump's tariffs and rhetoric have spurred some longtime U.S. allies to diversify their trade ties away from the U.S. Some are going cap-in-hand to Asian superpowers China and India.",
+        "positive": 0.0005640859017148614,
+        "negative": 0.0012027303455397487,
+        "neutral": 0.9982331991195679
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/business-news/financial/levi-strauss-q4-2025-ceo-michelle-gass-1238529556/",
+        "timestamp": "2026-01-28T22:45:34+00:00",
+        "text": "Levi Strauss CEO Michelle Gass Sees ‘True Inflection’ in Business \nLevi Strauss' Q4 2025 earnings held signs of continued momentum at the denim giant. \nLevi Strauss &amp; Co. is on something of a roll — and Michelle Gass, president and chief executive officer, is looking to keep it going.\r\nOrganic sales grew by 7 percent to $6.2 billion for the fisc… [+5079 chars]",
+        "positive": 0.9999995231628418,
+        "negative": 1.315729178941183e-07,
+        "neutral": 4.063582821345335e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.npr.org/2026/01/28/nx-s1-5691692/hope-vi-public-housing-opportunity-insights-raj-chetty",
+        "timestamp": "2026-01-28T22:45:17+00:00",
+        "text": "Can transforming neighborhoods help kids escape poverty? \nIn the 1990s, Congress created HOPE VI, a program that demolished old public housing projects and replaced them with more up-to-date ones. But the program went further than just improving public housing buildings. HOPE VI was designed to transform neighborhoo… \nYou know that feeling when your favorite band releases a new album?\r\nOkay, so, for me, that's not exactly what it's like when Harvard economist Raj Chetty and his team at Opportunity Insights release… [+21642 chars]",
+        "positive": 0.0005488093011081219,
+        "negative": 0.0002558547130320221,
+        "neutral": 0.999195396900177
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/guides/tickets/where-to-buy-harry-styles-tickets-concert-tour",
+        "timestamp": "2026-01-28T22:44:05+00:00",
+        "text": "Harry Styles 2026 tour: Dates, venues, and where to buy tickets \nSee all 2026 Harry Styles tour dates and venues. Find out where to get tickets, how much they cost, and which shows are already sold out. \nHarry Styles, one of the most popular pop stars to see live, is making a major return to the stage in 2026 with his global Together, Together tour, announced in support of his forthcoming album Kiss … [+8882 chars]",
+        "positive": 0.32465019822120667,
+        "negative": 6.059929000912234e-05,
+        "neutral": 0.6752891540527344
+      },
+      {
+        "source": "news",
+        "id": "https://siliconangle.com/2026/01/28/dynatrace-introduces-dynatrace-intelligence-advance-autonomous-software-operations/",
+        "timestamp": "2026-01-28T22:44:03+00:00",
+        "text": "Dynatrace Intelligence aims to advance autonomous software operations \nArtificial intelligence observability platform company Dynatrace Inc. today announced a set of platform updates at its Perform Conference in Las Vegas that included the debut of Dynatrace Intelligence, a new agentic operations system designed to bring enterpr… \nArtificial intelligence observability platform company Dynatrace Inc. today announced a set of platform updates at its Perform Conference in Las Vegas that included the debut of Dynatrace Intelligenc… [+4340 chars]",
+        "positive": 0.9279575347900391,
+        "negative": 1.8417214960209094e-05,
+        "neutral": 0.07202411442995071
+      },
+      {
+        "source": "news",
+        "id": "https://www.straitstimes.com/business/companies-markets/gold-crosses-us5400-on-red-hot-rally-as-uncertainties-mount",
+        "timestamp": "2026-01-28T22:41:35+00:00",
+        "text": "Gold crosses US$5,400 on red-hot rally as uncertainties mount \nGold has gained more than 25 per cent so far in 2026, after rising 64 per cent in 2025. Read more at straitstimes.com. Read more at straitstimes.com. \nBengaluru - Gold extended its record-setting rally on Jan 29, racing past US$5,400 per ounce for the first time as investors sought safety amid deepening economic and geopolitical uncertainty. \r\nSpot… [+1623 chars]",
+        "positive": 0.9997521042823792,
+        "negative": 5.103876901557669e-05,
+        "neutral": 0.000196924913325347
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/world/crying-horse-plush-chinese-new-year-9.7064465",
+        "timestamp": "2026-01-28T22:40:41+00:00",
+        "text": "An accidental crying horse that captures the vibe is galloping to online fame \nThe toy has gone viral on Chinese social media ahead of the Spring Festival holiday, which this year marks the Year of the Horse in the Chinese zodiac. \nPerhaps there's a crying horse inside us all.\r\nA sad-looking plush toy has become an unlikely, yet not entirely unexpected, bestseller and cultural symbol despite being the result of a manufacturing … [+2821 chars]",
+        "positive": 0.000296829646686092,
+        "negative": 0.9984052777290344,
+        "neutral": 0.0012979361927136779
+      },
+      {
+        "source": "news",
+        "id": "https://www.prunderground.com/elerfine-marketing-reverses-55-traffic-decline-delivers-97-growth-for-national-hospice-provider-in-9-months/00371630/",
+        "timestamp": "2026-01-28T22:40:38+00:00",
+        "text": "Elerfine Marketing Reverses 55% Traffic Decline, Delivers 97% Growth for National Hospice Provider in 9 Months | PRUnderground \nElerfine's \"rescue and rebuild\" approach recovers traffic losses from the previous vendor's poor practices while implementing a lead tracking system across 52 locations \nElerfine, a digital marketing agency for hospice providers, today announced results from a nine-month engagement that reversed a national hospice providers steep traffic decline and established the o… [+4903 chars]",
+        "positive": 0.35021281242370605,
+        "negative": 0.16480988264083862,
+        "neutral": 0.4849773049354553
+      },
+      {
+        "source": "news",
+        "id": "https://www.breitbart.com/politics/2026/01/28/exclusive-treasury-secretary-scott-bessent-trump-accounts-may-be-presidents-most-enduring-legacy-biggest-merger-in-history-be/",
+        "timestamp": "2026-01-28T22:40:26+00:00",
+        "text": "Exclusive — Treasury Secretary Scott Bessent: ‘Trump Accounts’ May Be President’s ‘Most Enduring Legacy,’ ‘Biggest Merger in History’ Between Wall Street, Main Street \nWASHINGTON — Treasury Secretary Scott Bessent told Breitbart News exclusively at the Trump Accounts launch summit at the Mellon Auditorium in downtown Washington DC on Wednesday that these accounts may end up being President Donald Trump’s most “enduring” leg… \nWASHINGTON Treasury Secretary Scott Bessent told Breitbart News exclusively at the Trump Accounts launch summit at the Mellon Auditorium in downtown Washington DC on Wednesday that these accounts may… [+6164 chars]",
+        "positive": 0.0005992279038764536,
+        "negative": 1.863573561422527e-05,
+        "neutral": 0.9993821382522583
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f578917-7e66-4086-8797-11de3380f031",
+        "timestamp": "2026-01-28T22:40:21+00:00",
+        "text": "Could gold medalist Lydia Ko excel at a Winter Olympic sport? ‘Couldn’t literally think of anything’ \nThe 28-year-old Hall of Famer won’t be doing any triple lutzes but she does have a chance to capture golf's career Grand Slam this year \nIf you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 4.525286931311712e-05,
+        "negative": 1.2859841262979899e-05,
+        "neutral": 0.9999418258666992
+      },
+      {
+        "source": "news",
+        "id": "https://www.ozbargain.com.au/node/945905",
+        "timestamp": "2026-01-28T22:38:44+00:00",
+        "text": "Little Dutch Baby Bunny Memory Box $35 Delivered (Was $69.99) @ Little Dutch \nWe're offering a massive 50% off the Little Dutch Baby Bunny Memory Box, only $35 with free shipping, when you use the discount code 50OZBARGAIN50 at the checkout. This product normally retails … \nWe're offering a massive 50% off the Little Dutch Baby Bunny Memory Box, only $35 with free shipping, when you use the discount code 50OZBARGAIN50 at the checkout. This product normally retails for $… [+1933 chars]",
+        "positive": 0.00010928304254775867,
+        "negative": 6.405935710063204e-05,
+        "neutral": 0.9998267292976379
+      },
+      {
+        "source": "news",
+        "id": "https://newsonjapan.com/article/148235.php",
+        "timestamp": "2026-01-28T22:38:36+00:00",
+        "text": "Misuse of Lost-Item Tracking Tags Under Scrutiny \nSmall tracking tags that allow users to locate lost items such as wallets or keys via smartphones have become widely popular for their convenience, but the technology is now being exploited in disturbing ways, emerging as a new social problem. (News On Japan) \nOSAKA, Jan 29 (News On Japan) -\r\n Small tracking tags that allow users to locate lost items such as wallets or keys via smartphones have become widely popular for their convenience, but the technolog… [+5380 chars]",
+        "positive": 0.191253662109375,
+        "negative": 0.05406871810555458,
+        "neutral": 0.7546776533126831
+      },
+      {
+        "source": "news",
+        "id": "http://foreignpolicy.com/2026/01/28/rubio-senate-hearing-venezuela-trump-cuba-rand-paul/",
+        "timestamp": "2026-01-28T22:37:17+00:00",
+        "text": "Rubio Faces Tough Questions From Democrats on Venezuela \nSenators attacked the Trump administration’s justification for Maduro’s capture. \nU.S. Secretary of State Marco Rubio spent nearly three hours on Wednesday parrying questions from Senate Democrats on the U.S. military incursion in Venezuela and the lack of congressional authorizat… [+6882 chars]",
+        "positive": 7.703428855165839e-05,
+        "negative": 0.9452455639839172,
+        "neutral": 0.05467738211154938
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/Politics/rubio-rules-military-action-venezuela-now/story?id=129637763",
+        "timestamp": "2026-01-28T22:36:50+00:00",
+        "text": "Rubio rules out further military action in Venezuela ... for now \nIn first public hearing since capture of Venezuelan President Maduro, Secretary of State Rubio tells senators that the U.S. has no imminent plans for military action. \nIn the first public hearing since the Jan. 3 capture of Venezuelan President Nicolás Maduro by U.S. forces, Secretary of State Marco Rubio told senators Wednesday that the U.S. has no imminent plans … [+6205 chars]",
+        "positive": 0.0005652144318446517,
+        "negative": 0.0007714160601608455,
+        "neutral": 0.9986633062362671
+      },
+      {
+        "source": "news",
+        "id": "https://www.rt.com/news/631683-eu-irgc-terrorist-organization/",
+        "timestamp": "2026-01-28T22:35:23+00:00",
+        "text": "EU could designate Iran’s Revolutionary Guard as terrorists \nEuropean Union foreign ministers are set to debate whether to designate Iran’s Islamic Revolutionary Guard Corps as a terrorist organization Read Full Article at RT.com \nEuropean Union foreign ministers are poised to debate whether to designate Iran’s Islamic Revolutionary Guard Corps (IRGC) as a terrorist organization. The proposal, long discussed and repeatedly sta… [+2250 chars]",
+        "positive": 0.00010526813275646418,
+        "negative": 0.00017547541938256472,
+        "neutral": 0.9997193217277527
+      },
+      {
+        "source": "news",
+        "id": "https://www.fool.com.au/2026/01/29/gold-hits-5300-how-far-can-this-rally-go/",
+        "timestamp": "2026-01-28T22:35:08+00:00",
+        "text": "Gold hits $5,300! How far can this rally go? \nGold has surged past US$5,300 as safe-haven demand accelerates amid global uncertainty.\nThe post Gold hits $5,300! How far can this rally go? appeared first on The Motley Fool Australia. \nGold has surged to fresh all-time highs this week, pushing above US$5,300 per ounce for the first time ever. The move extends one of the strongest rallies the precious metal has seen in decades. \r\nPr… [+2803 chars]",
+        "positive": 0.999998927116394,
+        "negative": 3.563171446785418e-07,
+        "neutral": 6.904292604303919e-07
+      },
+      {
+        "source": "news",
+        "id": "https://link.springer.com/article/10.1007/s12144-025-08768-x",
+        "timestamp": "2026-01-28T22:34:54+00:00",
+        "text": "Marketing perspective on AI-Powered chatbot service in hotels: Exploring the impact of psychological antecedents on customer attitude and the role of e-shopping enjoyment for customer satisfaction \nThis study examines the influence of psychological antecedents on users’ attitude toward chatbots while availing hotel services. Additionally, it examines how the attitude toward chatbots impact customer satisfaction and what role does e-shopping enjoyment pl… \n<li>Albanyan, Danna. (2023). Rebuilding port infrastructure heritage in Jeddah, Saudi Arabia. Blue Papers. https://doi.org/10.58981/bluepapers.2023.1.17\r\nArticle \r\nGoogle Scholar \r\n</li><li>Allil, Ka… [+19464 chars]",
+        "positive": 9.184853297483642e-06,
+        "negative": 1.4137995094642974e-06,
+        "neutral": 0.99998939037323
+      },
+      {
+        "source": "news",
+        "id": "https://www.marca.com/en/nfl/super-bowl/2026/01/28/697a8ec5268e3e4f5d8b456e.html",
+        "timestamp": "2026-01-28T22:33:52+00:00",
+        "text": "Why Tom Brady isn't calling this year's Super Bowl \nThe lights will be bright in Santa Clara, California, but Tom Brady will be watching in silence.\n\nDespite being Fox Sports&apos; lead NFL analyst, Brady will not be in the broadcas \nThe lights will be bright in Santa Clara, California, but Tom Brady will be watching in silence.\r\nDespite being Fox Sports' lead NFL analyst, Brady will not be in the broadcast booth for Super Bowl L… [+3622 chars]",
+        "positive": 2.082126957247965e-05,
+        "negative": 6.142960046418011e-05,
+        "neutral": 0.99991774559021
+      },
+      {
+        "source": "news",
+        "id": "https://www.sherdog.com/news/news/Coach-Reveals-Return-Timeline-for-Della-Maddalena-Prates-Among-Potential-Foes-199929",
+        "timestamp": "2026-01-28T22:33:13+00:00",
+        "text": "Coach Reveals Return Timeline for Della Maddalena, Prates Among Potential Foes \nWith Islam Makhachev's victory over Jack Della Maddalena to capture UFC welterweight gold, the possibilities of a matchup at the top of the division have expanded. \nJack\r\nDella Maddalena could be back in the Octagon by spring. |\r\nGetty/UFC\r\nWith Islam\r\nMakhachev's victory over Jack\r\nDella Maddalena to capture \r\nUFC welterweight gold, the possibilities of a match… [+1949 chars]",
+        "positive": 0.9997370839118958,
+        "negative": 1.263502667825378e-06,
+        "neutral": 0.0002616538549773395
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228114/0/en/Fake-dating-app-used-as-lure-in-spyware-campaign-targeting-Pakistan-ESET-Research-discovers.html",
+        "timestamp": "2026-01-28T22:33:00+00:00",
+        "text": "Fake dating app used as lure in spyware campaign targeting Pakistan, ESET Research discovers \nBRATISLAVA, Slovakia, Jan. 28, 2026 (GLOBE NEWSWIRE) -- ESET researchers have uncovered an Android spyware campaign leveraging romance scam tactics to target individuals in Pakistan. The campaign uses a malicious app posing as a chat platform that allows user… \n<ul><li>ESET researchers have uncovered an Android spyware campaign that uses romance scam tactics to target individuals in Pakistan.</li><li>The campaign leverages the GhostChat spyware, which enabl… [+5541 chars]",
+        "positive": 0.0007036291644908488,
+        "negative": 2.6503477783990093e-05,
+        "neutral": 0.9992699027061462
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/us/meta-stock-today-surges-over-9-after-meta-earnings-beat-estimates-and-ai-spending-outlook-boosts-investor-confidence/articleshow/127737954.cms",
+        "timestamp": "2026-01-28T22:32:55+00:00",
+        "text": "Meta stock today surges over 9% after Meta earnings beat estimates and AI spending outlook boosts investor confidence \nMeta stock price: Meta stock soared after a robust earnings report and a significant increase in planned spending for artificial intelligence. The company is heavily investing in AI and data centers, mirroring rivals. Despite some setbacks in its Reality Labs… \nMeta stock price today: Meta shares surged more than 9% in extended trading on Wednesday after the company delivered a strong fourth-quarter earnings report that beat Wall Street expectations, while … [+3471 chars]",
+        "positive": 1.0,
+        "negative": 5.1557353941689144e-08,
+        "neutral": 5.400606184480239e-09
+      },
+      {
+        "source": "news",
+        "id": "https://urbanomnibus.net/2026/01/wonder-is-all-around-us/",
+        "timestamp": "2026-01-28T22:32:18+00:00",
+        "text": "Wonder is All Around Us \nOrdering pad thai on an iPad in the muzak of a takeout food chain created in the pressure cooker of the post-pandemic economy.\nThe post Wonder is All Around Us appeared first on Urban Omnibus. \nAt a party, I meet a man who tells me that he studies people who believe that they are being gangstalked by forces beyond their control. He has sympathy for these people, because it is not entirely f… [+6127 chars]",
+        "positive": 7.338645809795707e-05,
+        "negative": 3.382700742804445e-05,
+        "neutral": 0.9998927116394043
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/batista-backed-fintech-picpay-prices-us-ipo-at-top-of-range",
+        "timestamp": "2026-01-28T22:31:56+00:00",
+        "text": "Batista-Backed Fintech PicPay Prices US IPO at Top of Range \nPicS NV, the Brazilian fintech controlled by the billionaire Batista family, raised $434 million in a US initial public offering that was priced at the top of the marketed range, according to people familiar with the matter. \n(Bloomberg) PicS NV, the Brazilian fintech controlled by the billionaire Batista family, raised $434 million in a US initial public offering that was priced at the top of the marketed range, accordin… [+4076 chars]",
+        "positive": 0.0003140494809485972,
+        "negative": 5.500444785866421e-06,
+        "neutral": 0.9996805191040039
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/business/gold-nears-5600oz-investors-seek-safety-silver-eyes-120-5892386",
+        "timestamp": "2026-01-28T22:31:54+00:00",
+        "text": "Gold nears $5,600/oz as investors seek safety, silver eyes $120 \nJan 29 : Spot gold extended its record-breaking rally on Thursday, edging closer to the $5,600-per-ounce level as investors sought safety amid geopolitical and economic strains, while silver came within a whisker of breaching the $120 mark.Spot gold was up 2.… \nJan 29 : Spot gold extended its record-breaking rally on Thursday, edging closer to the $5,600-per-ounce level as investors sought safety amid geopolitical and economic strains, while silver came wit… [+2689 chars]",
+        "positive": 0.9990991353988647,
+        "negative": 0.0008231400861404836,
+        "neutral": 7.77815657784231e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/business/gold-extends-record-run-races-past-5400oz-5892386",
+        "timestamp": "2026-01-28T22:31:54+00:00",
+        "text": "Gold extends record run, races past $5,400/oz \nJan 29 : Spot gold extended its record‑setting rally on Thursday, marching above the $5,400 per ounce mark as investors sought safety amid deepening economic and geopolitical uncertainty.Spot gold XAU= was up 0.3 per cent at $5,413.67 an ounce at 2209 GMT aft… \nJan 29 : Spot gold extended its recordsetting rally on Thursday, marching above the $5,400 per ounce mark as investors sought safety amid deepening economic and geopolitical uncertainty.\r\nSpot gold X… [+1591 chars]",
+        "positive": 0.999920129776001,
+        "negative": 1.471218274673447e-05,
+        "neutral": 6.522153853438795e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/business/gold-blasts-past-5500oz-record-high-safe-haven-demand-5892386",
+        "timestamp": "2026-01-28T22:31:54+00:00",
+        "text": "Gold blasts past $5,500/oz to record high on safe-haven demand \nJan 29 : Spot gold jumped to a record above $5,500 an ounce on Thursday, extending a blistering rally as investors piled into the safe-haven metal amid geopolitical and economic uncertainties, while silver also notched an all-time high.Spot gold was up 2.9 pe… \nJan 29 : Spot gold jumped to a record above $5,500 an ounce on Thursday, extending a blistering rally as investors piled into the safe-haven metal amid geopolitical and economic uncertainties, while … [+2018 chars]",
+        "positive": 0.9999954700469971,
+        "negative": 2.9683269531233236e-06,
+        "neutral": 1.5741678680569748e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2026-01-29/talison-lithium-mine-greenbushes-residents-want-home-buybacks/106262764",
+        "timestamp": "2026-01-28T22:31:15+00:00",
+        "text": "Pit-side home owners want buyouts from world's biggest lithium mine \nHome owners living beside the Greenbushes lithium mine in Western Australia are calling for a buyback or relocation scheme amid the mounting toll of blasting, dust and noise. \nHome owners living beside the world's biggest hard-rock lithium mine in Western Australia's South West region are calling on the miner to buy out their homes or offer relocation.\r\nMany locals in the … [+6896 chars]",
+        "positive": 0.00023621725267730653,
+        "negative": 3.561337143764831e-05,
+        "neutral": 0.9997281432151794
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/01/28/opinion/trump-accounts-are-for-once-a-real-investment-into-the-future-of-america/",
+        "timestamp": "2026-01-28T22:30:57+00:00",
+        "text": "Trump Accounts are, for once, a REAL investment into the future of America \nVoters may not give Republicans credit this November for launching this fantastic innovation, but it's still a fantastic step toward promoting the nation's long-term prosperity. \nUnlike virtually every other government-spending program sold as an investment in the future,” Trump Accounts look to fit that bill with 401(k)-style investment accounts for newborns that can teach t… [+2543 chars]",
+        "positive": 0.9998575448989868,
+        "negative": 4.014167643617839e-06,
+        "neutral": 0.0001384251518175006
+      },
+      {
+        "source": "news",
+        "id": "https://sneakernews.com/2026/01/28/reebok-ltd-fw26-preview/",
+        "timestamp": "2026-01-28T22:30:39+00:00",
+        "text": "Reebok’s Top Designer Just Leaked The FW26 LTD Collection \nThe line between “leak” and “preview” is increasingly blurred as principals behind the actual shoes themselves lean into the former. Take Ja Morant, who’s single-handedly...\n\n© Sneaker News, 2026. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post Reebok… \nThe line between “leak” and “preview” is increasingly blurred as principals behind the actual shoes themselves lean into the former. Take Ja Morant, who’s single-handedly seized the cycle for his Nik… [+3037 chars]",
+        "positive": 0.0008426669519394636,
+        "negative": 5.46825431229081e-05,
+        "neutral": 0.9991027116775513
+      },
+      {
+        "source": "news",
+        "id": "http://www.newsbtc.com/bitcoin-news/bitcoin-supply-loss-upward-early-bear-market-signal/",
+        "timestamp": "2026-01-28T22:30:38+00:00",
+        "text": "Bitcoin Supply In Loss Turns Upward—Early Bear Market Signal? \nOn-chain data shows the Bitcoin Supply in Loss indicator has witnessed a shift in direction that has often led into bearish phases in past cycles. 365-Day SMA Of The Bitcoin Supply In Loss Has Been Rising Recently As pointed out by an analyst in a CryptoQuant… \nKeshav is currently a senior writer at NewsBTC and has been attached to the website since June 14, 2021. Keshav has been writing for many years, first as a hobbyist and later as a freelancer. He has … [+2820 chars]",
+        "positive": 2.7761609089793637e-05,
+        "negative": 5.032297485740855e-05,
+        "neutral": 0.9999219179153442
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/prime/money-and-markets/why-commodities-are-stealing-the-spotlight-from-equity-derivatives/primearticleshow/127698363.cms",
+        "timestamp": "2026-01-28T22:30:00+00:00",
+        "text": "After Sebi tightens equity F&O trades, punters find new casino \nLong dismissed as volatile and impractical, commodities are back in favour as Indian equities stall. With gold and silver at record highs, MSCI India lagging global peers, and foreign investors exiting, traders are shifting to commodity derivatives. Brokers, … \nSynopsisLong dismissed as volatile and impractical, commodities are back in favour as Indian equities stall. With gold and silver at record highs, MSCI India lagging global peers, and foreign investo… [+141 chars]",
+        "positive": 0.028893129900097847,
+        "negative": 0.5402441024780273,
+        "neutral": 0.43086281418800354
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2026-01-29/iran-us-navy-strike-group-donald-trump-middle-east/106276852",
+        "timestamp": "2026-01-28T22:29:12+00:00",
+        "text": "US naval strike group arrives in Middle East as Trump warns Iran to make a deal \nA US aircraft carrier, supporting warships, fighter jets and air-defence systems have arrived in the Middle East, as the world waits to see to what action — if any — Donald Trump will take against Iran. \nAs Donald Trump threatens a strike on Iran that would make previous assaults look like \"peanuts\", a US aircraft carrier, supporting warships, fighter jets and air-defence systems have arrived in the … [+12393 chars]",
+        "positive": 0.001728878472931683,
+        "negative": 0.913699746131897,
+        "neutral": 0.08457137644290924
+      },
+      {
+        "source": "news",
+        "id": "https://gothamist.com/news/among-10-who-died-outside-in-nyc-cold-a-history-of-homelessness-drug-use-health-issues",
+        "timestamp": "2026-01-28T22:28:00+00:00",
+        "text": "Among 10 who died outside in NYC cold, a history of homelessness, drug use, health issues \nThe park where Nolberto Jimbo Niola, 52, was found dead in Queens on Jan. 25, 2026\n \n\nThe eight men and two women were found in different locations across the city as temperatures plummeted to dangerous lows. [ more › ] \nA man who long struggled with substance use. Another person who was recently discharged from a city-run hospital. A woman with dementia who wandered out into the cold and never returned.\r\nThese were … [+7717 chars]",
+        "positive": 0.00040186013211496174,
+        "negative": 0.06978878378868103,
+        "neutral": 0.9298092722892761
+      },
+      {
+        "source": "news",
+        "id": "https://www.memeorandum.com/260128/p112",
+        "timestamp": "2026-01-28T22:25:02+00:00",
+        "text": "Republicans Gave ICE a Slush Fund. Democrats Want to Limit It. (Michael Gold/New York Times) \nMichael Gold / New York Times:\nRepublicans Gave ICE a Slush Fund.  Democrats Want to Limit It.  —  The sweeping domestic policy law that Republicans muscled through Congress last year made ICE the highest-funded federal law enforcement agency in the country, … \nmemeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
+        "positive": 0.002133916364982724,
+        "negative": 6.07127913099248e-06,
+        "neutral": 0.9978600144386292
+      },
+      {
+        "source": "news",
+        "id": "https://www.aljazeera.com/video/inside-story/2026/1/28/what-will-be-the-impact-of-the-eu-india-trade-pact",
+        "timestamp": "2026-01-28T22:23:41+00:00",
+        "text": "What will be the impact of the EU-India trade pact? \nThe 'mother of all trade deals' comes months after the United States slapped tariffs on India and the European Union. \nThe mother of all trade deals comes months after the United States slapped tariffs on India and the European Union.One of the biggest trade deals in history has been struck by India and the European … [+536 chars]",
+        "positive": 1.373570103169186e-05,
+        "negative": 3.054483386222273e-05,
+        "neutral": 0.9999557733535767
+      },
+      {
+        "source": "news",
+        "id": "https://dailycaller.com/2026/01/28/greenies-democrat-climate-change-affordability-civil-war-internal-conflict-massachusetts/",
+        "timestamp": "2026-01-28T22:22:52+00:00",
+        "text": "Greenies And Democrats At Each Other’s Throats As Climate Change Talking Point Evaporates \nThe Sierra Club is calling for a local Democratic representative to be dismissed from his role on a key committee. \nThe Sierra Club is calling for a local Democratic representative to be dismissed from his role on a key committee, which the Democratic Massachusetts House Speaker panned as a “foolish.”\r\nState-level… [+4651 chars]",
+        "positive": 3.371881030034274e-05,
+        "negative": 0.0003628740378189832,
+        "neutral": 0.9996034502983093
+      },
+      {
+        "source": "news",
+        "id": "https://www.thewrap.com/commentary-analysis/data-analysis/avengers-doomsday-audience-anticipation-data-screenshare/",
+        "timestamp": "2026-01-28T22:22:51+00:00",
+        "text": "‘Avengers: Doomsday’ and ‘Fallout’ Rise on the Top 10 Titles Audiences Are Most Excited About | Chart \nScreenShare: A data partnership between ScreenEngine/ASI & TheWrap\nThe post ‘Avengers: Doomsday’ and ‘Fallout’ Rise on the Top 10 Titles Audiences Are Most Excited About | Chart appeared first on TheWrap. \nWhat are the entertainment offerings that consumers are most excited about? Its a question that marketers, distributors, advertisers and media publications are always asking.\r\nScreenShare, a data par… [+1784 chars]",
+        "positive": 3.885579189955024e-06,
+        "negative": 0.9993784427642822,
+        "neutral": 0.0006176577880978584
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/canada/calgary/werklund-centre-funding-shortfall-9.7065437",
+        "timestamp": "2026-01-28T22:22:43+00:00",
+        "text": "Werklund Centre revamp project facing nearly $200M shortfall \nThe transformation of the Werklund Centre, formally the Arts Commons, as part of an expanded cultural hub in downtown Calgary is nearly $200 million short of its funding goal, a council committee heard Wednesday. \nThe transformation of the Werklund Centre as part of an expanded cultural hub in downtown Calgary is nearly $200 million short of its funding goal, a city council committee heard Wednesday. \r\nThe pro… [+2882 chars]",
+        "positive": 0.00033612907282076776,
+        "negative": 0.011268829926848412,
+        "neutral": 0.9883949756622314
+      },
+      {
+        "source": "news",
+        "id": "https://www.wnd.com/2026/01/red-line-nurse-hoping-karoline-leavitt-gets-torn/",
+        "timestamp": "2026-01-28T22:18:54+00:00",
+        "text": "‘Red line’: Nurse hoping Karoline Leavitt gets torn open in childbirth has sudden trauma of her own \nMedical professional had wished: 'I hope that you [bleeping] rip from bow to stern and never [bleep] normally again, you [bleep]' \nAlexis ‘Lexie’ Lawler\r\n(WARNING: Graphic language in some videos)\r\nBOCA RATON, Florida A Florida labor and delivery nurse was banned on Wednesday from practicing in the Sunshine State after posting h… [+3765 chars]",
+        "positive": 0.0001003891957225278,
+        "negative": 0.03006148710846901,
+        "neutral": 0.9698381423950195
+      },
+      {
+        "source": "news",
+        "id": "https://www.theatlantic.com/newsletters/2026/01/white-house-east-wing-demolition-trump/685795/",
+        "timestamp": "2026-01-28T22:17:00+00:00",
+        "text": "Donald Trump, Demolition Man \nIf his East Wing project stalls out, that will serve as a potent metaphor for his presidency. \nThis is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.De… [+8670 chars]",
+        "positive": 0.37247639894485474,
+        "negative": 8.096080273389816e-05,
+        "neutral": 0.6274426579475403
+      },
+      {
+        "source": "news",
+        "id": "https://press.un.org/en/2026/db260128.doc.htm",
+        "timestamp": "2026-01-28T22:16:50+00:00",
+        "text": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General \nThe UN, its aid partners and the Government of the Democratic Republic of the Congo today launched the $1.4 billion Humanitarian Needs and Response Plan to help the country, which is suffering from one of the world’s most protracted and most neglected crises … \nThe following is a near-verbatim transcript of todays briefing by Stéphane Dujarric, Spokesman for the Secretary-General.\r\n**Secretary-Generals Press Conference\r\nAll right, good afternoon.  Just as a… [+18418 chars]",
+        "positive": 0.0011900330428034067,
+        "negative": 0.0017582650762051344,
+        "neutral": 0.9970517158508301
+      },
+      {
+        "source": "news",
+        "id": "https://www.pcgamer.com/games/horror/bloober-team-updated-its-strange-countdown-page-and-fans-of-a-controversial-cult-classic-horror-game-from-20-years-ago-are-getting-their-hopes-up-for-a-big-surprise/",
+        "timestamp": "2026-01-28T22:16:41+00:00",
+        "text": "Bloober Team updated its strange countdown page, and fans of a controversial cult-classic horror game from 20 years ago are getting their hopes up for a big surprise \nIs Rule of Rose returning? \nRemember that Bloober Team countdown with the bizarre URL that kicked off at the end of 2025? It grew a little more elaborate today, with additional images and spooky vocalizing, and some old-time ho… [+2817 chars]",
+        "positive": 0.013227059505879879,
+        "negative": 0.003983897157013416,
+        "neutral": 0.9827889800071716
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/exco-technologies-limited-announces-results-for-first-quarter-ended-december-31-2025",
+        "timestamp": "2026-01-28T22:16:26+00:00",
+        "text": "Exco Technologies Limited Announces Results for First Quarter Ended December 31, 2025 \nConsolidated Sales of $149.5 million compared to $143.6 million the prior year quarter Net Income of $4.8 million and EPS of $0.13 EBITDA of $17.4 million compared to $16.7 million the prior year quarter Quarterly dividend of $0.105 per common share to be pai… \nWe are also encouraged by broader macroeconomic trends in North America, notably increasing initiatives to reshore industrial manufacturing. These reshoring efforts are expected to boost demand for e… [+7432 chars]",
+        "positive": 0.9999997615814209,
+        "negative": 1.8660085032706775e-08,
+        "neutral": 2.022384109068298e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.storagereview.com/news/vdura-calls-out-vast-and-weka-on-flash-economics-launches-50-undercut-program",
+        "timestamp": "2026-01-28T22:15:48+00:00",
+        "text": "VDURA Calls Out VAST and WEKA on Flash Economics, Launches 50% Undercut Program \nVDURA has introduced a new “Flash Relief Program” for organizations facing sharp NAND-driven price volatility and constrained SSD supply. The company positions the offer as a direct response to escalating all-flash platform costs and extended lead times, part… \nVDURA has introduced a new Flash Relief Program for organizations facing sharp NAND-driven price volatility and constrained SSD supply. The company positions the offer as a direct response to escalat… [+6438 chars]",
+        "positive": 0.062088001519441605,
+        "negative": 0.08051926642656326,
+        "neutral": 0.8573927283287048
+      },
       {
         "source": "news",
         "id": "https://www.ozbargain.com.au/node/945903",
@@ -545,15 +968,6 @@
       },
       {
         "source": "news",
-        "id": "https://techcrunch.com/video/spacex-is-coming-to-the-public-markets-and-secondaries-are-already-on-fire/",
-        "timestamp": "2026-01-28T21:39:38+00:00",
-        "text": "SpaceX is coming to the public markets, and secondaries are already on fire | TechCrunch \nWatch as Equity host Rebecca Bellan chats with Greg Martin of Rainmaker Securities about why the SpaceX IPO feels different and what investors are actually looking for in pre-IPO shares. \npaceX is reportedly lining up four major Wall Street banks for a 2026 IPO that could provide the reset the market needs. \r\nThe company just completed a tender offer at an $800 billion valuation, and … [+655 chars]",
-        "positive": 0.001827657106332481,
-        "negative": 1.4552841093973257e-05,
-        "neutral": 0.998157799243927
-      },
-      {
-        "source": "news",
         "id": "https://www.the-independent.com/life-style/serena-williams-savannah-guthrie-tennis-b2909680.html",
         "timestamp": "2026-01-28T21:38:31+00:00",
         "text": "Savannah Guthrie asks Serena Williams if she’s ‘mad at her’ after awkward interview moment \nWilliams was a guest on Wednesday’s episode of ‘Today’ \nYour support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3271 chars]",
@@ -581,15 +995,6 @@
       },
       {
         "source": "news",
-        "id": "https://anildash.com/2026/01/27/codeless-ecosystem/",
-        "timestamp": "2026-01-28T21:37:00+00:00",
-        "text": "A Codeless Ecosystem, or hacking beyond vibe coding \nAnil Dash, \n\nJan 28, 2026\n\n\n \n \r\nAfter a career spent playing with code and creating (unsuccessful) applications, I've been pondering the same question Anil Dash ponders here: \"the ability to orchestrate coding bots, making it possible for ordinary creators t… \nThere's been a remarkable leap forward in the ability to orchestrate coding bots, making it possible for ordinary creators to command dozens of AI bots to build software without ever having to direct… [+6675 chars]",
-        "positive": 0.9999539852142334,
-        "negative": 8.97551672096597e-06,
-        "neutral": 3.702317917486653e-05
-      },
-      {
-        "source": "news",
         "id": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
         "timestamp": "2026-01-28T21:36:53+00:00",
         "text": "Microsoft reports strong cloud earnings in Q2 as gaming declines \nMicrosoft just posted the second quarter of its 2026 fiscal financial results. The software maker made $81.3 billion in revenue and a net income of $30.9 billion during Q3. Revenue is up 17 percent, and net income has increased by 23 percent. The holiday quar… \n<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t… [+4688 chars]",
@@ -599,30 +1004,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.princeton.edu/events/2026/hasidic-thought-reading-group-pathways-hasidic-texts-0",
-        "timestamp": "2026-01-28T21:36:44+00:00",
-        "text": "Hasidic Thought Reading Group---Pathways into Hasidic Texts \nThis reading group is designed to introduce Princeton undergraduates to the rich intellectual world of Hasidic Jewish texts and ideas. Emerging in the eighteenth century, Hasidic thought is a mystical tradition of religious and philosophical reflection that o… \nDiversity and Non-discrimination \r\nEqual Opportunity and Non-discrimination at Princeton University: Princeton University believes that commitment to equal opportunity for all is favorable to the fre… [+1240 chars]",
-        "positive": 0.9999940395355225,
-        "negative": 2.46566600026199e-07,
-        "neutral": 5.68633686270914e-06
-      },
-      {
-        "source": "news",
         "id": "https://www.abc.net.au/news/2026-01-29/sa-36ers-bullets-scuffle-nbl-game/106281148",
         "timestamp": "2026-01-28T21:36:37+00:00",
         "text": "Seven players ejected following brawl in 36ers win over Bullets \nFurious Adelaide coach Mike Wells has slammed the \"dangerous\" actions of two Brisbane imports after a wild scuffle led to seven ejections in the 36ers' blowout NBL win. \nFurious Adelaide coach Mike Wells has slammed the \"dangerous\" actions of two Brisbane imports after a wild scuffle led to seven ejections in the 36ers' blowout NBL win.\r\nThe ladder-leading 36ers punc… [+2850 chars]",
         "positive": 0.03254792094230652,
         "negative": 0.27765294909477234,
         "neutral": 0.6897991895675659
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitaljournal.com/business/azaris-dubai-growth-case-study-how-a-creator-system-turned-ugc-into-scalable-demand/article",
-        "timestamp": "2026-01-28T21:36:02+00:00",
-        "text": "Azari’s Dubai growth case study: How a creator system turned UGC into scalable demand \nIn a market where most influencer campaigns spike and fade within days, one Dubai fashion brand managed to sustain momentum long enough to change its category presence. Earlier this year, Azari recorded a surge in discovery, engagement, and high-intent traffi… \nOpinions expressed by Digital Journal contributors are their own.\r\nIn a market where most influencer campaigns spike and fade within days, one Dubai fashion brand managed to sustain momentum long eno… [+4081 chars]",
-        "positive": 0.9999986886978149,
-        "negative": 6.817608664277941e-07,
-        "neutral": 6.120515649854497e-07
       },
       {
         "source": "news",
@@ -653,15 +1040,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.newser.com/story/382761/fed-rate-decision-didnt-move-markets.html",
-        "timestamp": "2026-01-28T21:34:00+00:00",
-        "text": "Fed Rate Decision Didn't Move Markets \nFew ripples washed through financial markets Wednesday after the Federal Reserve decided to keep its main interest rate steady , just like virtually all of Wall Street was expecting. The US stock and bond markets both remained at virtual standstills, while th… \nSeagate Technology jumped 19.1% for the biggest gain in the S&amp;P 500 after the seller of hard drives and other data-storage products reported a bigger profit for the latest quarter than analysts e… [+1682 chars]",
-        "positive": 0.9999387264251709,
-        "negative": 5.2312028856249526e-05,
-        "neutral": 8.9747627498582e-06
-      },
-      {
-        "source": "news",
         "id": "https://www.kcci.com/article/zach-nunn-affordable-care-act-extend-enhanced-health-care-tax-credits-as-transition-to-repeal-aca/70177480",
         "timestamp": "2026-01-28T21:33:13+00:00",
         "text": "Nunn: Extend enhanced health care tax credits as transition to repealing ACA \nU.S. Rep. Zach Nunn told Republicans Wednesday he does not support the Affordable Care Act – but that without an extension of enhanced tax credits that subsidize premiums, more than 126,000 Iowans will be unable to afford health care. \nU.S. Rep. Zach Nunn told Republicans Wednesday he does not support the Affordable Care Act but that without an extension of enhanced tax credits that subsidize premiums, more than 126,000 Iowans will… [+5703 chars]",
@@ -677,15 +1055,6 @@
         "positive": 2.8521146305138245e-05,
         "negative": 0.000131720065837726,
         "neutral": 0.9998397827148438
-      },
-      {
-        "source": "news",
-        "id": "https://www.c-sharpcorner.com/article/is-providing-liquidity-safe-for-new-tokens-in-crypto/",
-        "timestamp": "2026-01-28T21:31:50+00:00",
-        "text": "Is Providing Liquidity Safe for New Tokens in Crypto \nIs providing liquidity safe for new crypto tokens. Learn the real risks rewards and red flags of LPing new tokens and how investors and founders should evaluate safety before entering liquidity pools. \nIntroduction \r\nOne of the most searched and most important questions in DeFi is whether providing liquidity is safe for new tokens. The short answer is that it can be profitable but it is also where … [+4502 chars]",
-        "positive": 0.8258465528488159,
-        "negative": 0.0051560234278440475,
-        "neutral": 0.16899743676185608
       },
       {
         "source": "news",
@@ -707,30 +1076,12 @@
       },
       {
         "source": "news",
-        "id": "https://cointelegraph.com/news/ripple-blockchain-treasury-platform-digital-assets",
-        "timestamp": "2026-01-28T21:30:56+00:00",
-        "text": "Ripple takes blockchain into the back office with new treasury platform \nBuilt on Ripple’s GTreasury acquisition, the platform integrates cash management with blockchain settlement as digital assets gain a foothold on corporate balance sheets. \nRipple has expanded its push into enterprise finance with the launch of a corporate treasury platform that combines traditional cash management tools with digital asset infrastructure.\r\nAccording to … [+3117 chars]",
-        "positive": 0.9987115859985352,
-        "negative": 4.493505002756137e-06,
-        "neutral": 0.0012839306145906448
-      },
-      {
-        "source": "news",
         "id": "https://ambcrypto.com/crypto-markets-hold-steady-after-powell-reiterates-data-dependent-stance/",
         "timestamp": "2026-01-28T21:30:45+00:00",
         "text": "Crypto markets hold steady after Powell reiterates data-dependent stance \nThe total crypto market capitalization excluding stablecoins remained largely unchanged after Jerome Powell reiterated a data-dependent policy stance. \nThe total cryptocurrency market showed limited reaction following remarks from Federal Reserve Chair Jerome Powell, as investors digested continued signals that U.S. monetary policy will remain data-… [+2706 chars]",
         "positive": 0.0732397809624672,
         "negative": 0.008253650739789009,
         "neutral": 0.9185065031051636
-      },
-      {
-        "source": "news",
-        "id": "https://www.c-sharpcorner.com/article/how-do-liquidity-providers-affect-token-price-in-crypto/",
-        "timestamp": "2026-01-28T21:30:45+00:00",
-        "text": "How Do Liquidity Providers Affect Token Price in Crypto \nLearn how liquidity providers affect token price in crypto. Understand liquidity depth slippage volatility price discovery and why LP design directly impacts token stability and long term value. \nIntroduction \r\nPeople often assume token price is driven only by hype demand or speculation. In reality, liquidity providers play a massive and often misunderstood role in how a tokens price behaves.… [+5002 chars]",
-        "positive": 6.472103268606588e-05,
-        "negative": 0.0012052446836605668,
-        "neutral": 0.9987300038337708
       },
       {
         "source": "news",
@@ -788,39 +1139,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228088/0/en/GrowGeneration-to-Participate-in-the-Oppenheimer-11th-Annual-Emerging-Growth-Conference-on-February-3-4-2026.html",
-        "timestamp": "2026-01-28T21:30:00+00:00",
-        "text": "GrowGeneration to Participate in the Oppenheimer 11th Annual Emerging Growth Conference on February 3-4, 2026 \nDENVER, Jan. 28, 2026 (GLOBE NEWSWIRE) -- GrowGeneration Corp. (NASDAQ: GRWG) (“GrowGeneration,” “GrowGen” or “the Company”), one of the nation’s largest suppliers of specialty products for controlled environment agriculture (CEA), commercial cultivation, and… \nDENVER, Jan. 28, 2026 (GLOBE NEWSWIRE) -- GrowGeneration Corp. (NASDAQ: GRWG) (GrowGeneration, GrowGen or the Company), one of the nations largest suppliers of specialty products for controlled envir… [+2565 chars]",
-        "positive": 0.0006722815451212227,
-        "negative": 1.1199740583833773e-05,
-        "neutral": 0.9993165731430054
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228092/1924/en/Toll-Brothers-to-Webcast-Its-First-Quarter-2026-Earnings-Conference-Call-Live-on-February-18-2026-at-8-30-a-m-ET.html",
-        "timestamp": "2026-01-28T21:30:00+00:00",
-        "text": "Toll Brothers to Webcast Its First Quarter 2026 Earnings Conference Call Live on February 18, 2026 at 8:30 a.m. (ET) \nFORT WASHINGTON, Pa., Jan. 28, 2026 (GLOBE NEWSWIRE) -- Toll Brothers, Inc. (NYSE:TOL), the nation’s leading builder of luxury homes, will broadcast live on its website, www.TollBrothers.com, a conference call to discuss results for its first quarter ended Ja… \nFORT WASHINGTON, Pa., Jan. 28, 2026 (GLOBE NEWSWIRE) -- Toll Brothers, Inc. (NYSE:TOL), the nations leading builder of luxury homes, will broadcast live on its website, www.TollBrothers.com, a confer… [+1888 chars]",
-        "positive": 2.3683265681029297e-05,
-        "negative": 4.1408034689993656e-07,
-        "neutral": 0.9999759197235107
-      },
-      {
-        "source": "news",
         "id": "https://www.channelnewsasia.com/business/stocks-us-fed-cut-rate-reserve-powell-trump-5892231",
         "timestamp": "2026-01-28T21:29:44+00:00",
         "text": "US Fed holds interest rates steady, defying Trump pressure \nOfficials vote 10-2 to keep rates at 3.50–3.75 per cent, awaiting more economic data. \nAsked why he attended the hearing on Cook's case at the Supreme Court this month, Powell told reporters: \"I would say that that case is perhaps the most important legal case in the Fed's 113-year his… [+1033 chars]",
         "positive": 0.0036702591460198164,
         "negative": 0.0013990472070872784,
         "neutral": 0.9949306845664978
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/01/28/betting/super-bowl-2026-mvp-odds-prediction-sam-darnold-jaxson-smith-njigba-among-favorites/",
-        "timestamp": "2026-01-28T21:29:37+00:00",
-        "text": "Super Bowl 2026 MVP odds, prediction: Sam Darnold, Jaxson Smith-Njigba among favorites \nSportsbooks have already put out a ton of betting markets for Seahawks vs. Patriots, including Super Bowl MVP odds. \nGambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nNow that we’ve had a few days to thin… [+2344 chars]",
-        "positive": 4.895460369880311e-05,
-        "negative": 1.2393312317726668e-05,
-        "neutral": 0.9999386072158813
       },
       {
         "source": "news",
@@ -848,60 +1172,6 @@
         "positive": 0.0006673837197013199,
         "negative": 3.1527484679827467e-05,
         "neutral": 0.9993010759353638
-      },
-      {
-        "source": "news",
-        "id": "https://www.tmz.com/2026/01/28/garcelle-beauvais-grateful-family-safe-after-swatting/",
-        "timestamp": "2026-01-28T21:26:23+00:00",
-        "text": "Garcelle Beauvais Is Grateful Her Family Wasn't Home When She Got 'Swatted' \nGarcelle Beauvais is still recovering after cops showed up to her Los Angeles home over the weekend ... though she's hanging on to a silver lining of the situation. We caught up with the reality television star and actress at Poppy in West… \nGarcelle Beauvais is still recovering after cops showed up to her Los Angeles home over the weekend ... though she's hanging on to a silver lining of the situation.\r\nWe caught up with the reality tel… [+1019 chars]",
-        "positive": 0.040489159524440765,
-        "negative": 0.049603674560785294,
-        "neutral": 0.9099071621894836
-      },
-      {
-        "source": "news",
-        "id": "https://www.tomshardware.com/pc-components/grab-one-of-the-best-air-coolers-on-the-market-for-usd33-thermalrights-peerless-assassin-120-se-is-15-percent-off-on-amazon",
-        "timestamp": "2026-01-28T21:26:01+00:00",
-        "text": "Grab one of the best air coolers on the market for $33 — Thermalright's Peerless Assassin 120 SE is 15% off on Amazon \nThermalright's Peerless Assassin 120 SE is on sale for $33. Get one of the best air coolers on the market right now for even cheaper. \nThermalright's high-performance Peerless Assassin 120 SE dual-tower air cooler is on sale for $33 on Amazon, a 15% discount from its usual price. The cooler is one of our favorite air coolers on the … [+1795 chars]",
-        "positive": 0.5495966076850891,
-        "negative": 0.00012936320854350924,
-        "neutral": 0.45027410984039307
-      },
-      {
-        "source": "news",
-        "id": "https://www.computerweekly.com/news/366637940/Nvidia-releases-synthetic-dataset-to-support-Singapores-AI-ambitions",
-        "timestamp": "2026-01-28T21:26:00+00:00",
-        "text": "Nvidia releases synthetic dataset to support Singapore’s AI ambitions \nThe AI chip giant has developed a synthetic dataset of personas to help developers build AI models that understand Singapore’s demographic and cultural nuances without using personally identifiable information \nNvidia has released a synthetic dataset of Singapore personas to help local developers build artificial intelligence (AI) models that better reflect the city-states cultural and linguistic diversity.… [+3548 chars]",
-        "positive": 0.2887469232082367,
-        "negative": 5.110737765789963e-05,
-        "neutral": 0.7112019658088684
-      },
-      {
-        "source": "news",
-        "id": "https://www.c-sharpcorner.com/article/what-are-the-risks-of-being-a-liquidity-provider-in-crypto/",
-        "timestamp": "2026-01-28T21:25:34+00:00",
-        "text": "What Are the Risks of Being a Liquidity Provider in Crypto \nUnderstand the real risks of being a liquidity provider in crypto including impermanent loss smart contract failures token volatility and why high APY liquidity pools often underperform in reality. \nIntroduction \r\nLiquidity providing is often marketed as passive income in DeFi. That framing is misleading. Liquidity providers earn rewards because they take on multiple layers of risk that traders … [+5082 chars]",
-        "positive": 0.0026476015336811543,
-        "negative": 0.03399025276303291,
-        "neutral": 0.9633621573448181
-      },
-      {
-        "source": "news",
-        "id": "https://ufhealth.org/news/2026/scientists-say-these-two-viruses-may-become-the-next-public-health-threats",
-        "timestamp": "2026-01-28T21:25:28+00:00",
-        "text": "Scientists say these two viruses may become the next public health threats - UF Health \nGAINESVILLE, Fla. — Two emerging pathogens with animal origins — influenza D virus and canine coronavirus — have so far been quietly flying under the radar,… \nGAINESVILLE, Fla. Two emerging pathogens with animal origins influenza D virus and canine coronavirus have so far been quietly flying under the radar, but researchers warn conditions are ripe for the… [+3913 chars]",
-        "positive": 0.005452053155750036,
-        "negative": 0.033936791121959686,
-        "neutral": 0.9606111645698547
-      },
-      {
-        "source": "news",
-        "id": "https://www.c-sharpcorner.com/article/how-do-liquidity-providers-make-money-in-crypto/",
-        "timestamp": "2026-01-28T21:24:19+00:00",
-        "text": "How Do Liquidity Providers Make Money in Crypto \nLearn exactly how liquidity providers make money in crypto through trading fees, incentive rewards, and strategy. Understand the real return drivers, hidden costs, and risks that impact LP earnings in DeFi. \nIntroduction \r\nLiquidity providers are often marketed as people who earn passive income from DeFi. That is sometimes true, but the phrase hides the real mechanics. LPs do not get paid because they de… [+9467 chars]",
-        "positive": 0.00045663260971195996,
-        "negative": 0.00014829350402578712,
-        "neutral": 0.9993950128555298
       },
       {
         "source": "news",
@@ -938,15 +1208,6 @@
         "positive": 0.15860053896903992,
         "negative": 0.05945032089948654,
         "neutral": 0.7819491624832153
-      },
-      {
-        "source": "news",
-        "id": "https://uk.pcmag.com/desktop-pcs/162848/geekom-a9-max",
-        "timestamp": "2026-01-28T21:22:00+00:00",
-        "text": "Geekom A9 Max \nYou can pack some punchy components into today's mini PCs—a paradigm epitomized by the Mac mini. The Geekom A9 Max (starts at $1,199, as tested) bears a striking resemblance to Apple’s desktop, backing up those inspired aesthetics with one of the fastest mobi… \nYou can pack some punchy components into today's mini PCsa paradigm epitomized by the Mac mini. The Geekom A9 Max (starts at $1,199, as tested) bears a striking resemblance to Apples desktop, backing… [+8414 chars]",
-        "positive": 0.0027803906705230474,
-        "negative": 7.717975677223876e-05,
-        "neutral": 0.997142493724823
       },
       {
         "source": "news",
@@ -1082,231 +1343,6 @@
         "positive": 0.02094784379005432,
         "negative": 6.759809912182391e-05,
         "neutral": 0.9789846539497375
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/home-depot-cuts-jobs-orders-staff-to-office-5-days-a-week",
-        "timestamp": "2026-01-28T21:09:50+00:00",
-        "text": "Home Depot Cuts Jobs, Orders Staff to Office 5 Days a Week \nHome Depot Inc. is cutting jobs across several teams and requiring corporate staff to return to the office, as the world’s largest home-improvement retailer contends with a slowdown in business caused by the frozen housing market. \n(Bloomberg) Home Depot Inc. is cutting jobs across several teams and requiring corporate staff to return to the office, as the worlds largest home-improvement retailer contends with a slowdown in bus… [+4599 chars]",
-        "positive": 0.0015059364959597588,
-        "negative": 0.6311411261558533,
-        "neutral": 0.3673529326915741
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcnews.com/sports/hockey/miracle-ice-players-discuss-political-climate-heading-winter-olympics-rcna256042",
-        "timestamp": "2026-01-28T21:09:01+00:00",
-        "text": "'Miracle on Ice' players discuss political climate heading into Winter Olympics \nMembers of the \"Miracle on Ice\" 1980 Olympic hockey team spoke with NBC News about the US political climate heading into the Milan Cortina Olympics. \nThe Miracle players have been keeping up with the news. Russia is viewed as an adversary by many today, but for different reasons. On the war in Ukraine, Eruzione said, How many thousands and thousan… [+3810 chars]",
-        "positive": 1.4438468497246504e-05,
-        "negative": 0.0001399155444232747,
-        "neutral": 0.9998456239700317
-      },
-      {
-        "source": "news",
-        "id": "https://www.standardmedia.co.ke/business/business/article/2001539587/why-kenyans-are-not-taking-bank-loans-despite-falling-interest-rates",
-        "timestamp": "2026-01-28T21:08:25+00:00",
-        "text": "Why Kenyans are not taking bank loans despite falling interest rates \nIndustry players cite shrinking disposable incomes due to tax hikes and rising education and health bills. \nLocal banks now say harsh economic conditions have slowed down credit uptake among households and businesses despite the drop in interest rates. \r\nBold Reporting Takes Time, Courage and Investment. S… [+239 chars]",
-        "positive": 0.00029405325767584145,
-        "negative": 0.998985230922699,
-        "neutral": 0.0007206748123280704
-      },
-      {
-        "source": "news",
-        "id": "https://news.sky.com/story/federal-reserve-opts-against-interest-rate-cut-despite-donald-trump-pressure-on-jerome-powell-13500359",
-        "timestamp": "2026-01-28T21:08:00+00:00",
-        "text": "Federal Reserve keeps interest rates unchanged despite Trump pressure \nThe Federal Reserve has voted to keep interest rates the same - despite pressure from Donald Trump to make a cut. \nThe Federal Reserve has voted to keep interest rates the same - despite pressure from Donald Trump to make a cut.\r\nThe US central bank said on Wednesday that it will keep its key lending rate between… [+2148 chars]",
-        "positive": 0.000658922828733921,
-        "negative": 0.0009360110270790756,
-        "neutral": 0.9984051585197449
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/fed-meeting-january-jerome-powell-interest-rates-key-takeaways-2026-1",
-        "timestamp": "2026-01-28T21:05:46+00:00",
-        "text": "3 key takeaways from Powell at January's Fed meeting \nAmid political pressures, Jerome Powell announced the Fed will hold rates steady. \nThe first Federal Reserve meeting of 2026 is in the books, and Chair Jerome Powell stayed tight-lipped on the central bank's biggest controversies.\r\nFrom the job market to political tensions, here ar… [+3099 chars]",
-        "positive": 0.006604408845305443,
-        "negative": 0.009408203884959221,
-        "neutral": 0.9839874505996704
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228044/0/en/TON-Strategy-Company-Announces-Leadership-Transition-and-Other-Updates.html",
-        "timestamp": "2026-01-28T21:05:00+00:00",
-        "text": "TON Strategy Company Announces Leadership Transition and Other Updates \nLAS VEGAS, Jan. 28, 2026 (GLOBE NEWSWIRE) -- TON Strategy Company (Nasdaq: TONX), a digital asset treasury company dedicated to holding Toncoin ($TON), today announced leadership and governance actions intended to strengthen the Company’s public-company found… \nLAS VEGAS, Jan. 28, 2026 (GLOBE NEWSWIRE) -- TON Strategy Company (Nasdaq: TONX), a digital asset treasury company dedicated to holding Toncoin ($TON), today announced leadership and governance actio… [+8333 chars]",
-        "positive": 0.6913049221038818,
-        "negative": 8.268755482276902e-05,
-        "neutral": 0.3086123764514923
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228046/12516/en/Main-Street-Financial-Services-Corp-Posts-Record-Quarter-Capping-a-Record-Setting-Year.html",
-        "timestamp": "2026-01-28T21:05:00+00:00",
-        "text": "Main Street Financial Services Corp. Posts Record Quarter, Capping a Record-Setting Year \nBusiness Highlights  Net income hit a record $16.7 million for the twelve months ended December 31, 2025.Return on average common tangible equity (ROCTE)... \nBusiness Highlights\r\n<ul><li>Net income hit a record $16.7 million for the twelve months ended December 31, 2025.</li><li>Return on average common tangible equity (ROCTE) increased 364 basis points t… [+39071 chars]",
-        "positive": 0.9999672174453735,
-        "negative": 1.3293160918692593e-06,
-        "neutral": 3.148796531604603e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228048/0/en/Beacon-Financial-Corporation-Announces-Fourth-Quarter-Results.html",
-        "timestamp": "2026-01-28T21:05:00+00:00",
-        "text": "Beacon Financial Corporation Announces Fourth Quarter Results \nBOSTON, Jan. 28, 2026 (GLOBE NEWSWIRE) -- Beacon Financial Corporation (NYSE: BBT) (the “Company”) today announced net income of $53.4 million, or $0.64 per basic and diluted share, for the fourth quarter of 2025. \n<ul><li>Net Income of $53.4 million, EPS of $0.64 </li><li>Operating Earnings (Non-GAAP) of $66.4 million, Operating EPS (Non-GAAP) of $0.79</li></ul>BOSTON, Jan. 28, 2026 (GLOBE NEWSWIRE) -- Beacon … [+95833 chars]",
-        "positive": 6.631997530348599e-05,
-        "negative": 6.168401341710705e-06,
-        "neutral": 0.9999275207519531
-      },
-      {
-        "source": "news",
-        "id": "https://survivalblog.com/2026/01/29/are-you-emotionally-ready-for-the-coming-collapse-part-3-by-peter-cannon/",
-        "timestamp": "2026-01-28T21:04:56+00:00",
-        "text": "Are You Emotionally Ready for the Coming Collapse? – Part 3, by Peter Cannon \n(Continued from Part 2.) In Part 2 of this series, we reviewed the Trumpet Judgments, and how the people on earth will be affected by these catastrophic events. I sincerely hope that the pre-Tribulation rapture believers are correct, and that Christians will … \n(Continued from Part 2.)\r\nIn Part 2 of this series, we reviewed the Trumpet Judgments, and how the people on earth will be affected by these catastrophic events. I sincerely hope that the pre-Tribula… [+15273 chars]",
-        "positive": 1.6308291378663853e-05,
-        "negative": 7.791164534864947e-05,
-        "neutral": 0.9999057054519653
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcnews.com/select/shopping/best-valentines-day-gifts-amazon-2026-rcna256361",
-        "timestamp": "2026-01-28T21:04:37+00:00",
-        "text": "The 16+ best Valentine’s Day gifts on Amazon to shop this year \nThis year, shop Amazon for the best Valentine’s Day gifts for your loved one, including flowers, tech, skin care and more from Apple, Lego, Kodak and more. \nValentines Day shopping is often stressful not only is it hard to figure out the perfect gift, but theres also the added stress of wondering whether itll arrive on time. Thats where this gift guide c… [+9424 chars]",
-        "positive": 0.0006277451757341623,
-        "negative": 0.000570711970794946,
-        "neutral": 0.998801589012146
-      },
-      {
-        "source": "news",
-        "id": "https://www.gamesradar.com/games/world-of-warcraft/these-people-are-just-delusional-blizzard-says-world-of-warcraft-players-can-keep-selling-services-for-in-game-currency-unless-their-business-is-non-traditional-and-gdkp-raiders-are-furious/",
-        "timestamp": "2026-01-28T21:02:11+00:00",
-        "text": "\"These people are just delusional\": Blizzard says World of Warcraft players can keep selling services for in-game currency unless their business is \"non-traditional,\" and GDKP raiders are furious \nIt might be time for a different side hustle \nWorld of Warcraft developer Blizzard has issued a moratorium on its Anniversary realms' gig economies. It'll continue to ban GDKP raids, in which players bid gold on loot and split the subsequent pot… [+1805 chars]",
-        "positive": 0.00012010435602860525,
-        "negative": 0.06225006282329559,
-        "neutral": 0.937629759311676
-      },
-      {
-        "source": "news",
-        "id": "https://fortune.com/2026/01/28/jerome-powell-says-federal-reserve-independence-donald-trump/",
-        "timestamp": "2026-01-28T21:02:09+00:00",
-        "text": "Jerome Powell says Fed independence isn’t lost… yet. ‘I certainly hope we won’t’ lose it \nPowell made clear he believes the Fed can remain independent despite attacks from the Trump administration. \nIn a press conference Wednesday following the Federal Reserves interest rate decision to hold rates steady, Chair Jerome Powell made clear his stance on the Feds independence.  We havent lost it. I d… [+2614 chars]",
-        "positive": 0.0036824697162956,
-        "negative": 0.0013207895681262016,
-        "neutral": 0.9949967861175537
-      },
-      {
-        "source": "news",
-        "id": "https://news.harvard.edu/gazette/story/2026/01/gathering-medieval-french-prayerbook-kabuki-in-america-sylvia-plaths-thoughts/",
-        "timestamp": "2026-01-28T21:01:40+00:00",
-        "text": "Gathering medieval French prayerbook, Kabuki in America, Sylvia Plath’s thoughts \nNew Houghton exhibits highlights breadth of new acquisitions — and of library’s collection. \nHarvards Houghton Library is home to more than half a million books, manuscripts, letters, photos and other ephemera spanning centuries and capturing swaths of human experience. And every year that c… [+9484 chars]",
-        "positive": 0.21643637120723724,
-        "negative": 2.4757430310273776e-06,
-        "neutral": 0.783561110496521
-      },
-      {
-        "source": "news",
-        "id": "https://prismreports.org/2026/01/27/civics-education-intellectual-freedom-centers-public-university/",
-        "timestamp": "2026-01-28T21:01:30+00:00",
-        "text": "So-Called “Intellectual Freedom Centers” Spread Right-Wing Ideologies on Campus \nThe push to reshape education has gained considerable momentum under the second Trump administration. \nSupport justice-driven, accurate and transparent news make a quick donation to Truthout today! \r\nUniversity of North Carolina at Chapel Hill student Juliana Lewis took a course on public discourse in… [+22828 chars]",
-        "positive": 0.9999860525131226,
-        "negative": 8.33620390494616e-07,
-        "neutral": 1.315441659244243e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228037/0/en/Comstock-Inc-Announces-Proposed-Public-Offering-of-Common-Stock.html",
-        "timestamp": "2026-01-28T21:01:00+00:00",
-        "text": "Comstock Inc. Announces Proposed Public Offering of Common Stock \nVIRGINIA CITY, Nev., Jan. 28, 2026 (GLOBE NEWSWIRE) -- Comstock Inc. (NYSE: LODE) (“Comstock” and the “Company”), today announced that it has commenced an underwritten public offering for the sale of its common stock. In connection with the offering, Comstock… \nVIRGINIA CITY, Nev., Jan. 28, 2026 (GLOBE NEWSWIRE) -- Comstock Inc. (NYSE: LODE) (Comstock and the Company), today announced that it has commenced an underwritten public offering for the sale of its… [+10320 chars]",
-        "positive": 0.00015317297948058695,
-        "negative": 1.4129936062090565e-05,
-        "neutral": 0.9998326301574707
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228018/0/en/The-Gross-Law-Firm-Reminds-Shareholders-of-a-Lead-Plaintiff-Deadline-of-March-13-2026-in-CoreWeave-Inc-Lawsuit-CRWV.html",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "The Gross Law Firm Reminds Shareholders of a Lead Plaintiff Deadline of March 13, 2026 in CoreWeave, Inc. Lawsuit – CRWV \nNEW YORK, Jan.  28, 2026  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of CoreWeave, Inc. (NASDAQ: CRWV). ... \nNEW YORK, Jan. 28, 2026 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of CoreWeave, Inc. (NASDAQ: CRWV).\r\nShareholders who purchased shares of CRWV during the cla… [+2423 chars]",
-        "positive": 2.182605749112554e-05,
-        "negative": 8.154977876984049e-06,
-        "neutral": 0.9999700784683228
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228022/0/en/Coupang-Inc-Sued-for-Securities-Law-Violations-Contact-The-Gross-Law-Firm-Before-February-17-2026-to-Discuss-Your-Rights-CPNG.html",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "Coupang, Inc. Sued for Securities Law Violations - Contact The Gross Law Firm Before February 17, 2026 to Discuss Your Rights – CPNG \nNEW YORK, Jan.  28, 2026  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Coupang, Inc. (NYSE: CPNG).  Shareholders... \nNEW YORK, Jan. 28, 2026 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Coupang, Inc. (NYSE: CPNG).\r\nShareholders who purchased shares of CPNG during the class p… [+2530 chars]",
-        "positive": 1.8534197806729935e-05,
-        "negative": 1.3807075447402894e-05,
-        "neutral": 0.9999676942825317
-      },
-      {
-        "source": "news",
-        "id": "https://www.bluetracker.gg/wow/topic/eu-en/24246205-gold-is-good-during-februarys-trading-post/",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "[EU] Gold is Good During February’s Trading Post \n[Blue Topic] Join the vendors at the Trading Post to commemorate another year! They’re offering more than just February fare. Visit special Outlet vendors in Dornogal to peruse many discounted and returning items! Join the celebration with a bang when you ear… \nJoin the vendors at the Trading Post to commemorate another year! Theyre offering more than just February fare. Visit special Outlet vendors in Dornogal to peruse many discounted and returning items!… [+14879 chars]",
-        "positive": 0.0025766065809875727,
-        "negative": 3.280599048594013e-05,
-        "neutral": 0.9973905682563782
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228021/0/en/Shareholders-that-lost-money-on-Integer-Holdings-Corporation-ITGR-should-contact-The-Gross-Law-Firm-about-pending-Class-Action-ITGR.html",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "Shareholders that lost money on Integer Holdings Corporation(ITGR) should contact The Gross Law Firm about pending Class Action - ITGR \nNEW YORK, Jan.  28, 2026  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Integer Holdings Corporation (NYSE: ITGR). ... \nNEW YORK, Jan. 28, 2026 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Integer Holdings Corporation (NYSE: ITGR).\r\nShareholders who purchased shares of ITGR dur… [+2604 chars]",
-        "positive": 5.5113923735916615e-05,
-        "negative": 3.805710730375722e-05,
-        "neutral": 0.9999068975448608
-      },
-      {
-        "source": "news",
-        "id": "https://www.bluetracker.gg/wow/topic/us-en/24246205-gold-is-good-during-februarys-trading-post/",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "[US] Gold is Good During February’s Trading Post \n[Blue Topic] Join the vendors at the Trading Post to commemorate another year! They’re offering more than just February fare. Visit special Outlet vendors in Dornogal to peruse many discounted and returning items! Join the celebration with a bang when you ear… \nJoin the vendors at the Trading Post to commemorate another year! Theyre offering more than just February fare. Visit special Outlet vendors in Dornogal to peruse many discounted and returning items!… [+14879 chars]",
-        "positive": 0.0023611574433743954,
-        "negative": 3.285024286014959e-05,
-        "neutral": 0.9976060390472412
-      },
-      {
-        "source": "news",
-        "id": "https://www.bluetracker.gg/wow/topic/eu-en/24246205-gold-is-good-during-februarys-trading-post-shop-the-anniversary-outlet/",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "[EU] Gold is Good During February’s Trading Post: Shop the Anniversary Outlet \n[Blue Topic] Join the vendors at the Trading Post to commemorate another year! They’re offering more than just February fare. Visit special Outlet vendors in Dornogal to peruse many discounted and returning items! Join the celebration with a bang when you ear… \nJoin the vendors at the Trading Post to commemorate another year! Theyre offering more than just February fare. Visit special Outlet vendors in Dornogal to peruse many discounted and returning items!… [+14879 chars]",
-        "positive": 0.00034907262306660414,
-        "negative": 2.24881532631116e-05,
-        "neutral": 0.9996284246444702
-      },
-      {
-        "source": "news",
-        "id": "https://www.wowhead.com/blue-tracker/news/eu/gold-is-good-during-february-s-trading-post-world-of-warcraft-blizzard-news-24246205",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "Gold is Good During February’s Trading Post — World of Warcraft — Blizzard News \nJoin the vendors at the Trading Post to commemorate another year! They’re offering more than just February fare. Visit special Outlet vendors in Dornogal to peruse many discounted and returning items!...By Blizzard Entertainment on 2026/01/28 at 3:00 PM \nJoin the vendors at the Trading Post to commemorate another year! Theyre offering more than just February fare. Visit special Outlet vendors in Dornogal to peruse many discounted and returning items!… [+14879 chars]",
-        "positive": 0.0005165926995687187,
-        "negative": 2.4896713512134738e-05,
-        "neutral": 0.9994584918022156
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228024/0/en/The-Gross-Law-Firm-Announces-the-Filing-of-a-Securities-Class-Action-on-Behalf-of-Vistagen-Therapeutics-Inc-VTGN-Shareholders.html",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "The Gross Law Firm Announces the Filing of a Securities Class Action on Behalf of Vistagen Therapeutics, Inc.(VTGN) Shareholders \nNEW YORK, Jan.  28, 2026  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Vistagen Therapeutics, Inc. (NASDAQ: VTGN).... \nNEW YORK, Jan. 28, 2026 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Vistagen Therapeutics, Inc. (NASDAQ: VTGN).\r\nShareholders who purchased shares of VTGN du… [+2878 chars]",
-        "positive": 5.0941329391207546e-05,
-        "negative": 2.1357547666411847e-05,
-        "neutral": 0.9999277591705322
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/01/28/3228019/0/en/SLM-Corporation-Sued-for-Securities-Law-Violations-Investors-Should-Contact-The-Gross-Law-Firm-for-More-Information-SLM.html",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "SLM Corporation Sued for Securities Law Violations – Investors Should Contact The Gross Law Firm for More Information – SLM \nNEW YORK, Jan.  28, 2026  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of SLM Corporation (NASDAQ: SLM). ... \nNEW YORK, Jan. 28, 2026 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of SLM Corporation (NASDAQ: SLM).\r\nShareholders who purchased shares of SLM during the class… [+2366 chars]",
-        "positive": 3.193248630850576e-05,
-        "negative": 2.5241024559363723e-05,
-        "neutral": 0.9999427795410156
-      },
-      {
-        "source": "news",
-        "id": "https://www.activistpost.com/gold-and-silver-explosion-something-big-is-happening/",
-        "timestamp": "2026-01-28T21:00:00+00:00",
-        "text": "Gold And Silver Explosion: Something Big Is Happening \nThis article was written by Brandon Smith and originally published at Birch Gold Group In early 2020 at the beginning of the pandemic hysteria I noted that the covid panic seemed to perfectly coincide with the Federal Reserve’s acceleration of interest rates … \nThis article was written by Brandon Smith and originally published at Birch Gold Group\r\nIn early 2020 at the beginning of the pandemic hysteria I noted that the covid panic seemed to perfectly coinci… [+8114 chars]",
-        "positive": 9.638740448281169e-05,
-        "negative": 1.8845488739316352e-05,
-        "neutral": 0.9998847246170044
       },
       {
         "source": "news",
@@ -26563,9 +26599,9 @@
         "neutral": 0.9998536109924316
       }
     ],
-    "nw": 0.8243427698332145,
-    "nw_norm": 91.21713849166073
+    "nw": 0.7641261287780977,
+    "nw_norm": 88.20630643890487
   },
-  "gsi": 91.21713849166073,
+  "gsi": 88.20630643890487,
   "classification": "Extremely Bullish"
 }
