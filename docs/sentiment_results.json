@@ -1,8 +1,341 @@
 {
-  "timestamp": "2026-02-08T07:18:11.346462+00:00",
+  "timestamp": "2026-02-08T08:01:06.864283+00:00",
   "news": {
-    "count": 2635,
+    "count": 2641,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/alphabet-backed-aye-finance-raises-rs-454-crore-from-anchor-investors-ahead-of-ipo-goldman-sachs-key-investor/articleshow/128025309.cms",
+        "timestamp": "2026-02-07T07:49:53+00:00",
+        "text": "Alphabet-backed Aye Finance raises Rs 454 crore from anchor investors ahead of IPO; Goldman Sachs key investor \nAlphabet-backed Aye Finance has raised Rs 454 crore from anchor investors ahead of its Rs 1,010 crore IPO opening on February 9. The anchor book includes Goldman Sachs and other global institutions, signalling strong confidence in the MSME-focused NBFC’s scal… \nAlphabet-backed Aye Finance has raised Rs 454 crore from anchor investors ahead of its IPO that opens for public subscription on February 9, providing a strong institutional endorsement to the NBFC f… [+3099 chars]",
+        "positive": 1.0,
+        "negative": 2.3668514259611584e-08,
+        "neutral": 1.8940680135415278e-08
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/blackrock-bitcoin-etf-ibit-flows-trading-price-btc-volatile",
+        "timestamp": "2026-02-07T07:48:04+00:00",
+        "text": "$231.6M pours into IBIT following ‘second-worst’ day for ETF price \nBlackRock’s Bitcoin ETF drew $231 million in inflows on Friday, following a record trading volume day on Thursday amid a volatile week for Bitcoin’s price. \nBlackRocks spot Bitcoin exchange-traded fund (ETF) saw $231.6 million in inflows on Friday, following two days of heavy outflows during a turbulent week for Bitcoin.\r\nThe iShares Bitcoin (BTC) Trust … [+2039 chars]",
+        "positive": 0.26977744698524475,
+        "negative": 0.0010669557377696037,
+        "neutral": 0.7291556000709534
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/cities/bangalore/karnataka-govt-rs-15-crore-land-under-328-temples-10518896/",
+        "timestamp": "2026-02-07T07:45:46+00:00",
+        "text": "Karnataka govt sanctions Rs 15 crore to protect, document 38,000 acres of land under 328 temples \nThe Siddaramaiah government also decided to allot Rs 16 crore for building a new guest house at Kollur Mookambika Temple in coastal Karnataka’s Udupi region. \nThe Karnataka government has approved Rs 15 crore for an initiative to protect 328 temple properties in the state from encroachments and for documentation of temple land records and properties.\r\nA Ca… [+2326 chars]",
+        "positive": 0.0018066336633637547,
+        "negative": 0.0003169968258589506,
+        "neutral": 0.9978764057159424
+      },
+      {
+        "source": "news",
+        "id": "https://www.aljazeera.com/economy/2026/2/7/in-japans-election-voters-hope-for-relief-from-rising-prices",
+        "timestamp": "2026-02-07T07:44:56+00:00",
+        "text": "In Japan’s election, voters hope for relief from rising prices \nJapanese households are finding it harder than ever to make ends meet as wages fail to keep pace with rising prices. \nTokyo, Japan In Tomoko Idas household, rice is on the menu less often than it used to be.\r\nIda, a 48-year-old graphic designer and mother of two who lives in Tokyo, finds it difficult to justify eati… [+5770 chars]",
+        "positive": 0.00017447223945055157,
+        "negative": 0.9593372344970703,
+        "neutral": 0.04048825427889824
+      },
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/industry/energy/india-us-trade-deal-russian-oil-imports-trump-tariffs-11770447835769.html",
+        "timestamp": "2026-02-07T07:44:55+00:00",
+        "text": "US panel to monitor India's oil import from Russia, says Trump's executive order \nTrump said if the US monitoring panel finds India resumed importing Russian oil directly or indirectly, Washington &nbsp;may reimpose the additional 25% tariff on imports of articles from India. \nNew Delhi: US President Donald Trump, while revoking the 25% additional tariff on India on Saturday, said a US government panel will monitor whether India resumes import of Russian oil, with the tari… [+3271 chars]",
+        "positive": 6.133353599580005e-05,
+        "negative": 0.0001783368643373251,
+        "neutral": 0.9997603297233582
+      },
+      {
+        "source": "news",
+        "id": "https://thehimalayantimes.com/business/himalayan-hideaway-resort-pokhara-opens-in-kaskikot-bringing-thai-luxury-hospitality-to-the-region",
+        "timestamp": "2026-02-07T07:44:46+00:00",
+        "text": "Himalayan Hideaway Resort Pokhara opens in Kaskikot, bringing Thai luxury hospitality to the region \nHimalayan Hideaway Resort Pokhara, part of The Centara Collection, officially marked its grand opening on Thursday, introducing Pokhara&rsquo;s first Thai luxury hospitality brand and unveiling Kaskikot as a new premium tourism destination beyond the city&rsq… \nPOKHARA, FEBRUARY 7\r\nHimalayan Hideaway Resort Pokhara, part of The Centara Collection, officially marked its grand opening on Thursday, introducing Pokhara's first Thai luxury hospitality brand and … [+2615 chars]",
+        "positive": 0.0037842898163944483,
+        "negative": 3.049846327485284e-06,
+        "neutral": 0.9962126016616821
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/education/news/rssb-rajasthan-nurse-grade-2-final-result-2026-released-at-rssb-rajasthan-gov-in-direct-link-to-download-merit-list-here/articleshow/128025002.cms",
+        "timestamp": "2026-02-07T07:44:43+00:00",
+        "text": "RSSB Rajasthan Nurse Grade 2 final result 2026 released at rssb.rajasthan.gov.in: Direct link to download merit list here \nThe Rajasthan Staff Selection Board (RSSB) has released the final result for the Contract Nurse Grade-II Recruitment examination 2025. A total of 4,466 posts were advertised, with 4,219 candidates selected in the non-scheduled area and 242 in the scheduled ar… \n<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>RSSB Rajasthan Nurse Grade 2 final result 2026 released at rssb.rajasthan.gov.in: Direct link to download merit list here</li></ul>\r\nFol… [+1823 chars]",
+        "positive": 7.356961305049481e-06,
+        "negative": 1.4301427881946438e-06,
+        "neutral": 0.9999911785125732
+      },
+      {
+        "source": "news",
+        "id": "https://zycrypto.com/market-expert-tells-when-to-expect-an-official-bitcoin-bottom/",
+        "timestamp": "2026-02-07T07:44:05+00:00",
+        "text": "Market Expert Tells When to Expect an Official Bitcoin Bottom \nAnalysts are converging on a data-driven framework to explain when Bitcoin is most likely to form a definitive market bottom, pushing back against claims that the worst is already over. Chain analyst and Alphractal CEO João Wedson insists a true Bitcoin botto… \nAnalysts are converging on a data-driven framework to explain when Bitcoin is most likely to form a definitive market bottom, pushing back against claims that the worst is already over.\r\nChain analys… [+1824 chars]",
+        "positive": 0.019465574994683266,
+        "negative": 0.0019163781544193625,
+        "neutral": 0.9786180257797241
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/research-symposium-at-india-ai-impact-summit-draws-worlds-ai-minds/articleshow/128025066.cms",
+        "timestamp": "2026-02-07T07:41:57+00:00",
+        "text": "Research symposium at India AI Impact Summit draws world's AI minds \nThe Research Symposium on 'AI and its Impact', being organised as part of the India AI Impact Summit 2026, has received a strong response from the national and global research community, with over 250 submissions. \nThe Research symposium on 'AI and its Impact', being organised as part of the India AI Impact Summit 2026, has received a strong response from the national and global research community, with over 25… [+2200 chars]",
+        "positive": 1.0,
+        "negative": 2.441922930529472e-08,
+        "neutral": 4.8583167711058195e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/companies/ahead-of-ipo-filing-bonfiglioli-transmissions-names-ravindra-pisharody-as-chairperson/article70603200.ece",
+        "timestamp": "2026-02-07T07:40:09+00:00",
+        "text": "Ahead of IPO filing, Bonfiglioli Transmissions names Ravindra Pisharody as chairperson \nBonfiglioli Transmissions appoints Ravindra Pisharody as chairperson and two independent directors ahead of its IPO filing with SEBI. \nBonfiglioli Transmissions, which is set to file its initial public offering (IPO) with markets regulator SEBI this month, has appointed Ravindra Pisharody as chairperson, people familiar with the mat… [+1896 chars]",
+        "positive": 5.235007483861409e-05,
+        "negative": 1.0028946917373105e-06,
+        "neutral": 0.9999467134475708
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/defence/news/opinion-the-donroe-doctrine-and-cold-war-2-0/articleshow/128019156.cms",
+        "timestamp": "2026-02-07T07:37:30+00:00",
+        "text": "Opinion: The Donroe doctrine and cold war 2.0 \nNews News: THE DONROE DOCTRINE - the Trump Corollary to the Monroe Doctrine, made popular through the recently released American National Security Strategy, is g. \nFollow Us On Social Media\r\nJeff Bezos loses World's 4th richest position to Mark Zuckerberg as markets is 'unhappy' with Amazon's Bigg Boss fame Suyyash Rai takes a dig at The 50 and compares it with… [+1627 chars]",
+        "positive": 0.052005842328071594,
+        "negative": 0.7590494155883789,
+        "neutral": 0.1889447271823883
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/astrology/gemstones/4-rare-crystals-from-that-work-like-talismans/articleshow/127996125.cms",
+        "timestamp": "2026-02-07T07:36:28+00:00",
+        "text": "4 Rare crystals from that work like talismans \nDiscover the astrological significance of rare Indian crystals, revered for harnessing cosmic energies. These potent talismans, including Hessonite, Cat's Eye, Red Coral, and Padparadscha Sapphire, are used in Vedic traditions to balance planetary influences,… \nFollow Us On Social Media\r\nJeff Bezos loses World's 4th richest position to Mark Zuckerberg as markets is 'unhappy' with Amazon's Bigg Boss fame Suyyash Rai takes a dig at The 50 and compares it with… [+1627 chars]",
+        "positive": 0.028484554961323738,
+        "negative": 0.002046717330813408,
+        "neutral": 0.9694687128067017
+      },
+      {
+        "source": "news",
+        "id": "https://zycrypto.com/cz-hints-at-bitcoin-making-a-massive-comeback-after-gold-and-silver-gain-momentum/",
+        "timestamp": "2026-02-07T07:36:25+00:00",
+        "text": "CZ Hints at Bitcoin Making a Massive Comeback after Gold and Silver Gain Momentum \nFormer Binance CEO Changpeng Zhao has hinted that Bitcoin could be preparing for a comeback, even as gold and silver dominate current risk-off flows. \nPlease wait while your request is being verified...",
+        "positive": 0.007606773637235165,
+        "negative": 0.005297030787914991,
+        "neutral": 0.9870961904525757
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/what-is-the-difference-between-a-short-tailed-chinchilla-and-a-long-tailed-chinchilla/",
+        "timestamp": "2026-02-07T07:36:17+00:00",
+        "text": "What is the difference between a short tailed chinchilla and a long tailed chinchilla? \nShort Tail vs. Long Tail: Decoding the Chinchilla Dichotomy The primary difference between a short tailed chinchilla and a long tailed chinchilla lies, unsurprisingly, in their tail length, but anatomical variations extend beyond just the tail, impacting thei… \nThe primary difference between a short tailed chinchilla and a long tailed chinchilla lies, unsurprisingly, in their tail length, but anatomical variations extend beyond just the tail, impacting thei… [+7485 chars]",
+        "positive": 0.0006545665673911572,
+        "negative": 9.325100108981133e-05,
+        "neutral": 0.9992521405220032
+      },
+      {
+        "source": "news",
+        "id": "https://www.dw.com/en/trump-authorizes-tariffs-on-irans-trade-partners/a-75852844",
+        "timestamp": "2026-02-07T07:31:00+00:00",
+        "text": "Trump authorizes tariffs on Iran's trade partners \nAfter threatening tariffs of up to 25%, US President Donald Trump has raised the stakes in his confrontation with Tehran. US warships add extra pressure to the row over Iran's nuclear program and a protest crackdown. \nUS President Donald Trump signed an executive order on Friday that could impose a 25% tariff on countries that continue to trade with Iran.\r\nTrump first threatened the measure last month as tensions … [+3764 chars]",
+        "positive": 0.020326994359493256,
+        "negative": 0.17859287559986115,
+        "neutral": 0.8010801076889038
+      },
+      {
+        "source": "news",
+        "id": "https://www.whitecoatinvestor.com/reasons-to-own-bonds/",
+        "timestamp": "2026-02-07T07:30:54+00:00",
+        "text": "13 Reasons I Still Own Bonds \nFor some people, it is challenging to stay the course with their investment plan when markets go down. Owning bonds can certainly help.\nThe post 13 Reasons I Still Own Bonds appeared first on The White Coat Investor - Investing & Personal Finance for Doctors. \nWhenever stocks have a great year, I become the recipient of criticism for owning bonds. So, it was no surprise I took a lot of flak in late 2024 and early 2025 after US stocks had gone up 25% a year… [+13452 chars]",
+        "positive": 0.0781169906258583,
+        "negative": 0.9131782650947571,
+        "neutral": 0.008704720064997673
+      },
+      {
+        "source": "news",
+        "id": "https://www.sportingnews.com/us/olympics/news/winter-olympics-gold-zone-stream-watch-2026-nbc-peacock/24bb186d578ff7522cf8b7e3",
+        "timestamp": "2026-02-07T07:30:01+00:00",
+        "text": "Winter Olympics Gold Zone streams, explained: How to watch 2026 whiparound show on NBC's Peacock \nHere's what to know about NBC's \"Gold Zone\" coverage of the 2026 Winter Olympics. \nWinter Olympics Gold Zone streams, explained: How to watch 2026 whiparound show on NBC's Peacock originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here… [+3528 chars]",
+        "positive": 0.0004020263731945306,
+        "negative": 9.690683327789884e-06,
+        "neutral": 0.9995883107185364
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/religion/rituals-puja/kalashtami-february-2026-date-time-puja-rituals-significance/articleshow/128023435.cms",
+        "timestamp": "2026-02-07T07:25:34+00:00",
+        "text": "Kalashtami February 2026: Date, time, puja rituals, significance \nKalashtami, dedicated to Lord Kaal Bhairav, is observed on February 9, 2026. Devotees fast from dawn to dusk and visit temples to appease the ferocious form of Lord Shiva, seeking protection from negative energies. Rituals include early baths, cleaning puja a… \nFollow Us On Social Media\r\nMessage to Pakistan? Amid trade pact, India's map shared by US trade representative grabs attentionPNB Apprentice recruitment 2026: Registration window opens tomorrow for 5… [+1463 chars]",
+        "positive": 3.861655204673298e-05,
+        "negative": 8.674388482177164e-06,
+        "neutral": 0.9999526739120483
+      },
+      {
+        "source": "news",
+        "id": "https://post.rlsbb.to/voelvens-trail-badkarma/",
+        "timestamp": "2026-02-07T07:25:30+00:00",
+        "text": "Voelvens Trail-bADkARMA \nRelease Description: In the heart of a misty Nordic forest, the wise vølve—a witch of ancient lore—stirs her cauldron, brewing a potion of great power. But mischief is afoot: two cunning crows, drawn by curiosity or malice, seize their chance. While the vølve… \nRelease Description:\r\n In the heart of a misty Nordic forest, the wise vølvea witch of ancient lorestirs her cauldron, brewing a potion of great power. But mischief is afoot: two cunning crows, drawn… [+1309 chars]",
+        "positive": 6.372041298163822e-06,
+        "negative": 1.081030313798692e-05,
+        "neutral": 0.9999828338623047
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/entertainment/events/artisans-from-across-india-gather-in-kolkata-for-a-folk-art-and-craft-market/articleshow/128024392.cms",
+        "timestamp": "2026-02-07T07:22:53+00:00",
+        "text": "Artisans from across India gather in Kolkata for a folk art and craft market \nKolkata Centre for Creativity (KCC) is hosting a four-day art and craft market showcasing India's rich folk arts, crafts, and textiles. The event features master artisans, National Award winners, and emerging makers, offering a direct connection between consu… \nFollow Us On Social Media\r\nMessage to Pakistan? Amid trade pact, India's map shared by US trade representative grabs attentionPNB Apprentice recruitment 2026: Registration window opens tomorrow for 5… [+1463 chars]",
+        "positive": 0.00021029509662184864,
+        "negative": 1.1954983847317635e-06,
+        "neutral": 0.9997885823249817
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/do-marigolds-keep-woodchucks-away/",
+        "timestamp": "2026-02-07T07:22:34+00:00",
+        "text": "Do marigolds keep woodchucks away? \nDo Marigolds Actually Keep Woodchucks Away? Unveiling the Truth The question is: Do marigolds keep woodchucks away? The answer is nuanced: While marigolds can act as a deterrent, their effectiveness varies, and they are rarely a foolproof solution to complete… \nDo Marigolds Actually Keep Woodchucks Away? Unveiling the Truth\r\nThe question is: Do marigolds keep woodchucks away? The answer is nuanced: While marigolds can act as a deterrent, their effectiveness… [+8952 chars]",
+        "positive": 0.0002025154244620353,
+        "negative": 0.0007702630828134716,
+        "neutral": 0.9990272521972656
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-america-has-stopped-short-of-indian-red-lines/articleshow/128024443.cms",
+        "timestamp": "2026-02-07T07:21:45+00:00",
+        "text": "India-US trade deal: America has stopped short of Indian red lines \nThe United States and India have agreed to an interim trade framework. This deal marks a significant step forward in bilateral economic ties. India has successfully protected its crucial agriculture and dairy sectors. The agreement focuses on specific tariff … \nThe interim trade framework announced by the United States and India on Saturday marks an important reset in bilateral economic engagement after negotiations dragging on for nearly a year. Coming day… [+6618 chars]",
+        "positive": 0.9985426664352417,
+        "negative": 1.1782195542764384e-05,
+        "neutral": 0.0014456134522333741
+      },
+      {
+        "source": "news",
+        "id": "https://thewoksoflife.com/spring-roll-dipping-sauce/",
+        "timestamp": "2026-02-07T07:21:00+00:00",
+        "text": "Spring Roll Dipping Sauce \nLooking for a spring roll dipping sauce to serve with your favorite spring roll recipe? Look no further! We have several options here—three of our favorites, as well as five alternative recipes so you can make the one that sounds tastiest to you!  Dipping Sau… \nLooking for a spring roll dipping sauce to serve with your favorite spring roll recipe? Look no further! We have several options herethree of our favorites, as well as five alternative recipes so you… [+3998 chars]",
+        "positive": 4.522698509390466e-05,
+        "negative": 3.973053753725253e-05,
+        "neutral": 0.9999151229858398
+      },
+      {
+        "source": "news",
+        "id": "https://japantoday.com/category/national/focus-digital-native-teens-given-chance-to-spot-fake-news-in-japan-election",
+        "timestamp": "2026-02-07T07:20:05+00:00",
+        "text": "Social media-savvy teens given chance to spot fake news in Japan election campaign \nSocial media-savvy, young swing voters are emerging as a key demographic for political parties and some digital platformers are trying to curb the adverse impact of disinformation and fake news on Generation Z by sharing tips ahead of Sunday's general electio… \nSocial media-savvy, young swing voters are emerging as a key demographic for political parties and some digital platformers are trying to curb the adverse impact of disinformation and fake news on Ge… [+3742 chars]",
+        "positive": 0.008286816067993641,
+        "negative": 0.01853342354297638,
+        "neutral": 0.9731797575950623
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/403402/indonesia-targets-export-growth-qris-expansion-in-apec-markets",
+        "timestamp": "2026-02-07T07:19:48+00:00",
+        "text": "Indonesia targets export growth, QRIS expansion in APEC markets \nCoordinating Minister for Economic Affairs Airlangga Hartarto has said Indonesia is seeking to boost exports and expand the use of the Quick Response Code ... \nJakarta (ANTARA) - Coordinating Minister for Economic Affairs Airlangga Hartarto has said Indonesia is seeking to boost exports and expand the use of the Quick Response Code Indonesian Standard (QRIS… [+2345 chars]",
+        "positive": 0.9748349785804749,
+        "negative": 3.0755767511436716e-05,
+        "neutral": 0.02513425052165985
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/education/news/maharashtra-police-bharti-physical-admit-card-2026-released-direct-link-to-download-hall-tickets/articleshow/128024290.cms",
+        "timestamp": "2026-02-07T07:19:27+00:00",
+        "text": "Maharashtra Police Bharti physical admit card 2026 released: Direct link to download hall tickets \nThe Maharashtra Police Bharti physical test hall ticket 2026 will be released on the official portal for candidates appearing in the upcoming ground tests across the state. The admit card carries key details such as test date, venue, and instructions, and is … \n<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Maharashtra Police Bharti physical admit card 2026 released: Direct link to download hall tickets</li></ul>\r\nFollow Us On Social Media\r\n… [+1635 chars]",
+        "positive": 2.2692234779242426e-05,
+        "negative": 2.7079843221144984e-06,
+        "neutral": 0.9999746084213257
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/us-talks-with-iran-very-good-more-negotiations-expected-trump/",
+        "timestamp": "2026-02-07T07:19:05+00:00",
+        "text": "US talks with Iran ‘very good’, more negotiations expected — Trump \nPresident Trump calls US-Iran talks ‘very good’ after an indirect dialogue in Oman, with more negotiations expected despite new US sanctions on Tehran.\n\nRead More: https://punchng.com/us-talks-with-iran-very-good-more-negotiations-expected-trump/ \nUS President Donald Trump said that Washington had “very good talks” on Iran after the two sides held an indirect dialogue in Oman, pledging another round of negotiations next week.\r\nIran, for its pa… [+4710 chars]",
+        "positive": 0.022537950426340103,
+        "negative": 0.00024559462326578796,
+        "neutral": 0.9772164821624756
+      },
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/companies/news/bithumb-south-korea-crypto-exchange-40-billion-blunder-accident-sent-promotion-customers-users-620000-bitcoins-selloff-11770444084816.html",
+        "timestamp": "2026-02-07T07:18:55+00:00",
+        "text": "$40 billion blunder! South Korean crypto exchange accidentally sent 6,20,000 Bitcoins to users — Here's what happened \nSouth Korean cryptocurrency exchange Bithumb apologised after it mistakenly transferred over $40 billion worth of bitcoins to users as part of a promotion event. Almost all tokens have been recovered and the platform said it would use its own assets to cover … \nSouth Korean cryptocurrency exchange Bithumb has apologised after it mistakenly transferred over $40 billion worth of bitcoins to customers as part of a promotion event, AFP reported on 7 February.\r\n… [+4141 chars]",
+        "positive": 0.0017852806486189365,
+        "negative": 0.005733075551688671,
+        "neutral": 0.9924817085266113
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/nation/2026/02/07/sabah-firms-urged-to-meet-global-standards-to-compete-internationally",
+        "timestamp": "2026-02-07T07:16:00+00:00",
+        "text": "Sabah firms urged to meet global standards to compete internationally \nKOTA KINABALU: Sabah companies must enhance compliance with international standards for their products and services to penetrate international markets and compete globally, says Deputy Chief Minister III Datuk Ewon Benedick. Read full story \nKOTA KINABALU: Sabah companies must enhance compliance with international standards for their products and services to penetrate international markets and compete globally, says Deputy Chief Minister… [+3102 chars]",
+        "positive": 0.0957469716668129,
+        "negative": 0.0067955548875033855,
+        "neutral": 0.8974574208259583
+      },
+      {
+        "source": "news",
+        "id": "https://mypeoplesreview.com/2026/02/07/t20-world-cup-begins-as-20-teams-including-nepal-chase-10th-title-amid-political-tension/",
+        "timestamp": "2026-02-07T07:15:00+00:00",
+        "text": "T20 World Cup begins as 20 teams, including Nepal, chase 10th title amid political tension \nKathmandu, Feb 7: The ICC Men’s T20 World Cup 2026 begins today, Saturday, marking the 10th edition of the tournament […]\nThe post T20 World Cup begins as 20 teams, including Nepal, chase 10th title amid political tension appeared first on Peoples' Review. \nKathmandu, Feb 7: The ICC Mens T20 World Cup 2026 begins today, Saturday, marking the 10th edition of the tournament in the worlds most popular cricket format. Jointly hosted by India and Sri Lanka, … [+6603 chars]",
+        "positive": 3.244235267629847e-05,
+        "negative": 1.3839515986546758e-06,
+        "neutral": 0.9999661445617676
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-fame-suyyash-rai-takes-a-dig-at-the-50-and-compares-it-with-a-badly-managed-zoo-says-many-of-them-shouldnt-have-come/articleshow/128024141.cms",
+        "timestamp": "2026-02-07T07:15:00+00:00",
+        "text": "Bigg Boss fame Suyyash Rai takes a dig at The 50 and compares it with a 'badly managed Zoo'; says 'Many of them shouldn't have come' \nReality TV figure Suyyash Rai voiced his displeasure over the controversial show 'The 50,' comparing it to a chaotic zoo, citing the questionable behavior of its contestants and the uninspired content. He lamented the participation of talented acquaintances, … \n<ul><li>News</li>\r\n<li>tv</li>\r\n<li>hindi</li>\r\n<li>Bigg Boss fame Suyyash Rai takes a dig at The 50 and compares it with a 'badly managed Zoo'; says 'Many of them shouldn't have come'</li></ul>\r\nFol… [+1659 chars]",
+        "positive": 6.772453343728557e-05,
+        "negative": 0.0077878134325146675,
+        "neutral": 0.9921444654464722
+      },
+      {
+        "source": "news",
+        "id": "https://www.indiewire.com/awards/results/kpop-demon-hunters-sinners-scl-awards-winners-1235178172/",
+        "timestamp": "2026-02-07T07:15:00+00:00",
+        "text": "‘KPop Demon Hunters’ and ‘Sinners’ Among 2026 SCL Awards Winners \nThe 2026 Society of Composers and Lyricists Awards were a big night for films like \"KPop Demon Hunters\" and \"Sinners,\" as well as TV shows like \"Severance\" and \"The White Lotus.\" \nOn Friday, February 6 the Society of Composers and Lyricists (SCL) held its 7th Annual SCL Awards at the Skirball Cultural Center in Los Angeles, awarding top film honors to “Sinners,” “KPop Demon Hu… [+4868 chars]",
+        "positive": 7.7290584158618e-05,
+        "negative": 1.1430909580667503e-05,
+        "neutral": 0.9999113082885742
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/what-was-the-population-of-tigers-in-1998/",
+        "timestamp": "2026-02-07T07:14:55+00:00",
+        "text": "What was the population of tigers in 1998? \nTigers on the Brink: Unraveling the 1998 Population Crisis Around 1998, the global tiger population was estimated to be between 5,000 and 7,000 individuals, a shockingly low number highlighting the critical conservation challenges facing these majestic creatu… \nAround 1998, the global tiger population was estimated to be between 5,000 and 7,000 individuals, a shockingly low number highlighting the critical conservation challenges facing these majestic creat… [+11338 chars]",
+        "positive": 0.0002723871439229697,
+        "negative": 0.003908098675310612,
+        "neutral": 0.9958194494247437
+      },
+      {
+        "source": "news",
+        "id": "https://www.aljazeera.com/news/2026/2/7/un-us-condemn-rsf-drone-strikes-on-aid-deliveries-in-famine-hit-sudan",
+        "timestamp": "2026-02-07T07:14:24+00:00",
+        "text": "UN, US condemn RSF drone strikes on aid deliveries in famine-hit Sudan \nThe Sudan Doctors Network calls the attack in North Kordofan a 'blatant violation of international humanitarian law'. \nSudans Rapid Support Forces (RSF) have launched a series of drone attacks targeting humanitarian aid convoys and fuel trucks across North Kordofan, killing at least one person and wounding several ot… [+2884 chars]",
+        "positive": 0.012229349464178085,
+        "negative": 0.609338104724884,
+        "neutral": 0.3784324824810028
+      },
+      {
+        "source": "news",
+        "id": "https://www.nationpress.com/sciencetech/india-us-trade-agreement-health-sector-impact",
+        "timestamp": "2026-02-07T07:13:46+00:00",
+        "text": "Is the interim bilateral trade agreement between India and the US a game changer for the health industry? \nThe recent interim trade agreement between India and the US is generating optimism in the health industry. With tariffs reduced and a focus on generic pharmaceuticals, both nations stand to gain significantly. Health leaders emphasize the importance of ensuri… \nNew Delhi, Feb 7 (NationPress) Leaders in the health sector expressed their approval on Saturday regarding the interim agreement concerning the bilateral trade arrangement between India and the Unite… [+2024 chars]",
+        "positive": 0.9997296929359436,
+        "negative": 0.0001422746281605214,
+        "neutral": 0.00012797398085240275
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/wealth/invest/fd-interest-rates-2026-after-rbi-repo-rate-announcement-highest-fixed-deposit-rates-for-senior-citizens/articleshow/128022371.cms",
+        "timestamp": "2026-02-07T07:12:39+00:00",
+        "text": "FD interest rates 2026 after RBI repo rate announcement: Highest fixed deposit rates for senior citizens \nThe RBI's decision to maintain the repo rate at 5.25% means banks are unlikely to lower fixed deposit interest rates soon. Senior citizens relying on FD income may see a decrease, though existing investments remain unaffected until maturity. Top SFBs like Utk… \nDr Ajai Chowdhry\r\nCo-Founder, HCL, Chairman EPIC Foundation, Author, Just Aspire\r\nWatch Now",
+        "positive": 0.000880509614944458,
+        "negative": 0.9296466708183289,
+        "neutral": 0.06947283446788788
+      },
+      {
+        "source": "news",
+        "id": "https://m.economictimes.com/mf/analysis/edelweiss-gold-and-silver-etf-fof-among-top-5-commodity-etfs-for-3-year-investment-period/looking-for-commodities-etfs/slideshow/128024525.cms",
+        "timestamp": "2026-02-07T07:12:30+00:00",
+        "text": "Edelweiss Gold and Silver ETF FoF among top 5 commodity ETFs for 3 year investment period \nCommodity-focused ETFs have delivered strong three-year returns, led by gold and silver funds. Edelweiss and Motilal Oswal top the list, while UTI, SBI and Quantum offerings provide diversified exposure for investors with a medium-term horizon seeking stabili… \nFeb 07, 2026, 12:51:19 PM IST\r\nAre you looking for commodity based ETFs? Here are the top 5 funds for an investor with a three year investment horizon. (Source: MF Screener)\r\nEdelweiss Gold and Silve… [+577 chars]",
+        "positive": 0.9999935626983643,
+        "negative": 1.0693963758967584e-07,
+        "neutral": 6.269276582315797e-06
+      },
       {
         "source": "news",
         "id": "https://www.sportingnews.com/us/olympics/news/lindsey-vonns-olympics-timeline-medals-records-usa-skiier/e8f0fdebfa768c77fab0f1e2",
@@ -392,6 +725,15 @@
       },
       {
         "source": "news",
+        "id": "https://slickdeals.net/f/19183834-timex-q-reissue-36mm-stainless-watch-silver-band-blue-face-59-at-woot",
+        "timestamp": "2026-02-07T06:11:36+00:00",
+        "text": "Timex Q Reissue 36mm Stainless Watch- Silver Band Blue Face $59 at Woot! \nWoot! has Timex Q Reissue 36mm Stainless Watch- Silver Band Blue Face on sale for $59. \nShipping is free w/ Prime. Otherwise shipping is $6.\n\n--\n\n\nSpecifications:- Case Width: 36 mm\n- Case Material: S \nThis collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+        "positive": 0.17513538897037506,
+        "negative": 3.2543979614274576e-05,
+        "neutral": 0.8248320817947388
+      },
+      {
+        "source": "news",
         "id": "https://ambcrypto.com/zeno-launches-public-beta-integrated-with-story-for-real-world-data-collection-powering-physical-ai/",
         "timestamp": "2026-02-07T06:06:00+00:00",
         "text": "ZenO launches public beta integrated with story for real-world data collection powering physical AI \nZenO today announced the launch of its public beta, opening access to a new platform […] \nZenO today announced the launch of its public beta, opening access to a new platform designed to collect, anonymize, and structure real-world, first-person data for training physical AI systems such … [+5829 chars]",
@@ -644,48 +986,12 @@
       },
       {
         "source": "news",
-        "id": "https://punchng.com/morning-recap-terrorist-leader-behind-kwara-carnage-unmasked-us-congress-slams-nigerias-9m-lobbying-deal-other-top-stories/",
-        "timestamp": "2026-02-07T05:56:06+00:00",
-        "text": "Morning recap: Terrorist leader behind Kwara carnage unmasked, US Congress slams Nigeria’s $9m lobbying deal, other top stories \nGet today’s top Nigerian news headlines. Read about the terrorist behind the Kwara massacre, the US slamming a $9m lobbying deal, and electoral bill news.\n\nRead More: https://punchng.com/morning-recap-terrorist-leader-behind-kwara-carnage-unmasked-us-congress… \nWelcome to the PUNCH newspaper roundup of headlines for this Saturday morning. Developments in security, politics, health, and crime dominate todays news.\r\nLeading the headlines is the unveiling of t… [+4682 chars]",
-        "positive": 0.0006011489313095808,
-        "negative": 1.9360624719411135e-05,
-        "neutral": 0.9993793964385986
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180751642",
-        "timestamp": "2026-02-07T05:52:32+00:00",
-        "text": "An AI Fight Is Threatening the Market. How to Avoid Getting Hurt. - Barron's \nAn AI Fight Is Threatening the Market. How to Avoid Getting Hurt.Barron's Are We in an AI Bubble?The Wall Street Journal Are the Bond Markets and the Equity Markets Coming Into Agreement About an AI Bubble?Nasdaq Wall Street's AI honeymoon phase is overAxios … \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.00035945119452662766,
-        "negative": 4.687529872171581e-05,
-        "neutral": 0.9995936751365662
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/economy/fta-to-boost-indian-textiles-pharma-chemicals-agri-exports-as-eu-remains-key-trade-partner-icra/article70602875.ece",
-        "timestamp": "2026-02-07T05:52:11+00:00",
-        "text": "FTA to boost Indian textiles, pharma, chemicals, agri exports as EU remains key trade partner: ICRA \nIndia's FTA with the EU boosts textiles, pharma, and agriculture exports, enhancing competitiveness and safeguarding local industries. \nIndia's recently concluded Free Trade Agreement (FTA) with the European Union is expected to deliver significant gains for several Indian sectors, including textiles, pharmaceuticals, chemicals, agri… [+3248 chars]",
-        "positive": 1.0,
-        "negative": 7.386049105662096e-09,
-        "neutral": 5.286460158515638e-09
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/stocks/news/investor-angst-turns-to-earnings-after-trade-clouds-clear/articleshow/128021914.cms",
         "timestamp": "2026-02-07T05:51:03+00:00",
         "text": "Investor angst turns to earnings after trade clouds clear \nIndian stocks are navigating challenges despite trade agreements. Corporate earnings growth is lagging, and foreign investors are looking elsewhere. Recent AI advancements also impact tech giants. While trade deals offer some relief, the focus remains on stra… \nAgreements with the US and the European Union helped ease fears that geopolitics and tariff turbulence would continue to weigh on the $5.2 trillion market. That relief, however, has done little to of… [+4817 chars]",
         "positive": 0.37412482500076294,
         "negative": 0.6254096031188965,
         "neutral": 0.00046562845818698406
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/newsletter/nl-opinion/think-over-the-week/article70603006.ece",
-        "timestamp": "2026-02-07T05:50:10+00:00",
-        "text": "Think. Over the week \nThe analysis of the Union Budget for 2026-27 was our Editorial section’s highlight of last week. The thrust on infrastructure (rail and freight), proposals on rare earth corridors, semiconductors and AI were welcomed. That this Budget was shorn of populism wa… \nOn Budget Day (February 1), we had a number of articles analysing the document. Ashima Goyal welcomes the governments stand to stick to the path of consolidation, especially at a time when most gover… [+510 chars]",
-        "positive": 0.005813855677843094,
-        "negative": 6.394530373654561e-06,
-        "neutral": 0.9941797256469727
       },
       {
         "source": "news",
@@ -725,39 +1031,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.rt.com/india/632139-trump-india-25-tariff-russian-oil/",
-        "timestamp": "2026-02-07T05:34:29+00:00",
-        "text": "Trump removes 25% tariffs on India in exchange for trade deal \nThe details of an interim agreement that lowers tariffs on Indian exports to the US from 50% to 18% have been announced Read Full Article at RT.com \nUS President Donald Trump signed an executive order on Friday that eliminates the 25% tariff imposed on India in August for importing Russian oil.\r\nThe order claims that New Delhi has agreed to stop … [+2591 chars]",
-        "positive": 0.00936452578753233,
-        "negative": 0.009292998351156712,
-        "neutral": 0.9813424944877625
-      },
-      {
-        "source": "news",
         "id": "https://abcnews.go.com/Health/wireStory/health-costs-fueling-voter-stress-democratic-campaigns-129942996",
         "timestamp": "2026-02-07T05:33:44+00:00",
         "text": "Health costs are fueling voter stress — and Democratic campaigns \nDemocrats are focusing on health care in the midterm elections, highlighting it as a key issue \nATLANTA -- President Donald Trump s second term has presented an array of opportunities for political opponents, from immigration crackdowns and lingering inflation to attacks on independent institut… [+6596 chars]",
         "positive": 0.999984860420227,
         "negative": 7.625296348123811e-06,
         "neutral": 7.569593435619026e-06
-      },
-      {
-        "source": "news",
-        "id": "https://pypi.org/project/simmer-sdk/0.7.2/",
-        "timestamp": "2026-02-07T05:33:27+00:00",
-        "text": "simmer-sdk 0.7.2 \nPython SDK for trading prediction markets with AI agents - includes Clawbot trading skills \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
-        "positive": 6.739236368957791e-07,
-        "negative": 1.4787149666517507e-05,
-        "neutral": 0.9999845027923584
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180751566",
-        "timestamp": "2026-02-07T05:32:19+00:00",
-        "text": "Lakers optimistic Luka Doni avoided major injury, out vs. Warriors - Silver Screen and Roll \nLakers optimistic Luka Doni avoided major injury, out vs. WarriorsSilver Screen and Roll Lakers' Doncic to sit vs. Warriors with strained left hamstringESPN Luka Doni leaves Lakers’ game with left leg injuryNBA Sixers takeaways: Second half turnovers, Joel Em… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.00014493722119368613,
-        "negative": 0.00016246308223344386,
-        "neutral": 0.9996926784515381
       },
       {
         "source": "news",
@@ -815,24 +1094,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.dw.com/en/us-oil-blockade-how-long-before-cuba-collapses/a-75849429",
-        "timestamp": "2026-02-07T05:27:00+00:00",
-        "text": "US oil blockade: How long before Cuba collapses? \nAs the US oil embargo on Cuba takes hold, the country is rapidly running out of fuel. The effects on the country's economy and population could be devastating, a Latin America expert in Havana told DW. For days, a cold weather front had brought polar air to C… \nFor days, a cold weather front had brought polar air to Cuba, causing temperatures to drop below freezing on some parts of the island for the first time in recorded history.\r\nBut the frosty air hasn'… [+8483 chars]",
-        "positive": 0.0005735061131417751,
-        "negative": 0.9962688684463501,
-        "neutral": 0.0031576124019920826
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com.au/video-iphone-18-pro-max-rumored-feature-massive-battery-boost-1861438",
-        "timestamp": "2026-02-07T05:26:11+00:00",
-        "text": "(VIDEO) iPhone 18 Pro Max Rumored to Feature Massive Battery Boost \nApple's upcoming iPhone 18 Pro Max is poised to deliver what could be the company's most impressive battery performance yet, with rumors pointing to a battery capacity of 5,100 to 5,200 milliamp-hours and significant efficiency gains from a next-generation 2-… \nApple's upcoming iPhone 18 Pro Max is poised to deliver what could be the company's most impressive battery performance yet, with rumors pointing to a battery capacity of 5,100 to 5,200 milliamp-hour… [+6366 chars]",
-        "positive": 1.0,
-        "negative": 8.740705048637665e-09,
-        "neutral": 1.8459295203498982e-09
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-why-the-budgets-4-3-fiscal-deficit-target-is-a-positive-for-markets-sunil-sanghai/articleshow/128021337.cms",
         "timestamp": "2026-02-07T05:25:48+00:00",
         "text": "ETMarkets Smart Talk | Why the Budget’s 4.3% fiscal deficit target is a positive for markets: Sunil Sanghai \nNovaaOne Capital’s Sunil Sanghai explains why the government’s 4.3% fiscal deficit target reassures markets despite revenue constraints. In this ETMarkets Smart Talk, he highlights the importance of capex-led growth, fiscal discipline, and lesser-noticed stru… \nAt a time when markets are closely tracking fiscal discipline amid slowing revenue growth and higher capital expenditure, the governments 4.3% fiscal deficit target has emerged as a key signal for in… [+6475 chars]",
@@ -851,48 +1112,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.cbc.ca/news/canada/british-columbia/elena-gaskell-skier-vernon-injury-olympics-milano-cortina-9.7078804",
-        "timestamp": "2026-02-07T05:25:09+00:00",
-        "text": "4 years after injury heartbreak at Beijing, Vernon skier Elena Gaskell looks for redemption \nFour years after a devastating injury rendered her unable to compete at the Beijing Winter Olympics, Vernon, B.C., skier Elena Gaskell is looking to redeem herself at the Milano-Cortina Games. \nFour years after a devastating injury rendered her unable to compete at the Beijing Winter Olympics, Vernon skier Elena Gaskell is looking to redeem herself at the Milano-Cortina Games starting Satur… [+3543 chars]",
-        "positive": 7.120374357327819e-05,
-        "negative": 0.00032372839632444084,
-        "neutral": 0.9996050000190735
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/economy/india-us-agree-on-interim-trade-pact-framework-slashing-tariffs-on-indian-goods-to-18/article70602910.ece",
-        "timestamp": "2026-02-07T05:25:01+00:00",
-        "text": "India, US agree on interim trade pact framework slashing tariffs on Indian goods to 18% \nIndia and the US establish a trade pact framework, reducing tariffs and boosting bilateral trade to $500 billion over five years. \nIndia has agreed to eliminate or reduce tariffs on all US industrial goods and a range of food and agricultural products such as fresh and processed fruit, soybean oil and wines and spirits, per the … [+3854 chars]",
-        "positive": 0.0255298875272274,
-        "negative": 0.00031913103885017335,
-        "neutral": 0.9741510152816772
-      },
-      {
-        "source": "news",
-        "id": "https://budget.house.gov/press-release/reconciliation-20-the-path-to-lower-health-care-costs",
-        "timestamp": "2026-02-07T05:22:20+00:00",
-        "text": "Reconciliation 2.0: The Path to Lower Health Care Costs \nThe Official U.S. Congressional website of The Republican Budget Committee \nWASHINGTON, D.C.In an op-ed published by RealClearHealth, Budget Committee Chairman Jodey Arrington (R-Texas) lays out his vision for using the budget reconciliation process to tackle Americas health… [+4828 chars]",
-        "positive": 0.0033786280546337366,
-        "negative": 9.149417564913165e-06,
-        "neutral": 0.9966122508049011
-      },
-      {
-        "source": "news",
         "id": "https://punchng.com/first-medals-up-for-grabs-at-winter-olympics/",
         "timestamp": "2026-02-07T05:21:58+00:00",
         "text": "First medals up for grabs at Winter Olympics \nThe first Winter Olympics medals are on the line as the Milan-Cortina Games begin, with men’s downhill skiing, snowboarding, and figure skating in focus.\n\nRead More: https://punchng.com/first-medals-up-for-grabs-at-winter-olympics/ \nMen’s downhill skiing tops the bill at the Milan-Cortina Winter Olympics on Saturday, with the first medals to be handed out hours after the Games officially opened.\r\nThe opening ceremony culminated … [+2544 chars]",
         "positive": 1.61541101988405e-05,
         "negative": 1.3073521358819562e-06,
         "neutral": 0.999982476234436
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indiaus-trade-deal-to-boost-trade-momentum-say-ficci-phdcci/articleshow/128021113.cms",
-        "timestamp": "2026-02-07T05:20:00+00:00",
-        "text": "India–US trade deal to boost trade momentum, say FICCI, PHDCCI \nIndia and the United States have announced a framework for an interim trade agreement. This deal aims to expand market access for exporters in both nations. It addresses tariffs and regulatory barriers, fostering collaboration in manufacturing and technology.… \nNew Delhi: Industry chambers FICCI and PHDCCI have hailed the India-US trade deal framework agreement, asserting that it will pave the way for expanding market access for exporters in both countries.… [+3310 chars]",
-        "positive": 0.9988434314727783,
-        "negative": 1.4293824278865941e-05,
-        "neutral": 0.0011423085816204548
       },
       {
         "source": "news",
@@ -920,42 +1145,6 @@
         "positive": 0.005025098100304604,
         "negative": 0.9949225783348083,
         "neutral": 5.2322437113616616e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/resources/united-states-india-joint-statement/article70602935.ece",
-        "timestamp": "2026-02-07T05:15:32+00:00",
-        "text": "United States-India Joint Statement \nUS and India announce a framework for an interim trade agreement, reducing tariffs to 18% as of February 7, 2026. \nThe US and India on Saturday announced they have reached a framework for an interim trade agreement, under which the US will reduce tariffs on India to 18 per cent, according to a joint statement iss… [+99 chars]",
-        "positive": 0.004805210046470165,
-        "negative": 0.0004925006651319563,
-        "neutral": 0.9947022795677185
-      },
-      {
-        "source": "news",
-        "id": "https://www.juancole.com/2026/02/becomes-killing-wisdom.html",
-        "timestamp": "2026-02-07T05:15:05+00:00",
-        "text": "When Delay becomes Killing in Gaza: Wisdom from the Talmud \nRabbinic authorities derived a <strong>broad prohibition</strong> against all forms of destruction and waste \nSilver Spring, Md. (Special to Informed Comment; Feature) – In the heat of war, the Torah or Hebrew Bible demands an unexpected restraint: Do not cut down the fruit trees.\r\nThe Jewish ecological prin… [+4084 chars]",
-        "positive": 0.0008358659688383341,
-        "negative": 0.03531435504555702,
-        "neutral": 0.9638497233390808
-      },
-      {
-        "source": "news",
-        "id": "https://fuckingyoung.es/marking-one-year-of-exotika-a-conversation-with-founder-meibi/",
-        "timestamp": "2026-02-07T05:14:12+00:00",
-        "text": "Marking One Year of EXOTIKA: A Conversation with Founder MEIBI \nSoon, EXOTIKA will celebrate its one-year anniversary at Lisbon’s Lux Frágil. What began as a Thursday night residency has become a meaningful part of the city’s queer and cultural landscape.\nThe post Marking One Year of EXOTIKA: A Conversation with Founder M… \nSoon, EXOTIKA will celebrate its one-year anniversary at Lisbons Lux Frágil. What began as a Thursday night residency has become a meaningful part of the citys queer and cultural landscape.To mark th… [+17539 chars]",
-        "positive": 0.012570512481033802,
-        "negative": 2.289752592332661e-05,
-        "neutral": 0.9874065518379211
-      },
-      {
-        "source": "news",
-        "id": "https://www.thestar.com.my/news/nation/2026/02/07/rm22mil-boost-for-sabah-rubber-smallholders-under-new-risda-initiatives",
-        "timestamp": "2026-02-07T05:14:00+00:00",
-        "text": "RM22mil boost for Sabah rubber smallholders under new Risda initiatives \nKOTA KINABALU: The government, through the Rubber Industry Smallholders Development Authority (Risda), has allocated RM22.308mil to assist Sabah's rubber smallholders through comprehensive development initiatives. Read full story \nKOTA KINABALU: The government, through the Rubber Industry Smallholders Development Authority (Risda), has allocated RM22.308mil to assist Sabahs rubber smallholders through comprehensive development… [+2442 chars]",
-        "positive": 0.9175986647605896,
-        "negative": 2.5992623704951257e-05,
-        "neutral": 0.08237531036138535
       },
       {
         "source": "news",
@@ -992,15 +1181,6 @@
         "positive": 0.00962287001311779,
         "negative": 0.21427206695079803,
         "neutral": 0.7761050462722778
-      },
-      {
-        "source": "news",
-        "id": "https://www.juancole.com/2026/02/middle-cynically-genocided.html",
-        "timestamp": "2026-02-07T05:06:29+00:00",
-        "text": "How the Middle Powers Cynically left Gaza to be Genocided \nTheir headlines tell the story of a West that is fiercely protective of its own sovereignty but indifferent to that of others \n( Middle East Monitor ) – Canadian Prime Minister Mark Carney sounded more like a populist leader than a former central banker during his address at the World Economic Forum in Davos on 20 January. B… [+6096 chars]",
-        "positive": 0.003842640668153763,
-        "negative": 0.0010891162091866136,
-        "neutral": 0.9950683116912842
       },
       {
         "source": "news",
@@ -1280,132 +1460,6 @@
         "positive": 0.0005293606081977487,
         "negative": 0.00011787837138399482,
         "neutral": 0.9993528723716736
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-bitcoin-rally-regaining-some-lost-ground-with-precious-metals/articleshow/128018973.cms",
-        "timestamp": "2026-02-07T03:51:15+00:00",
-        "text": "Global stocks, bitcoin rally, regaining some lost ground with precious metals \nGlobal stock markets saw a strong rebound on Friday. Major indices like the Dow Jones and S&P 500 registered significant gains. Technology shares, especially chipmakers, recovered from sharp declines. Bitcoin and silver also bounced back from recent selloffs.… \nMSCI's global equities gauge rallied 1.5% on Friday for its strongest advance in months, after falling in five of the prior six sessions, while bitcoin also bounced from a sharp selloff and spot gold… [+5532 chars]",
-        "positive": 0.999993085861206,
-        "negative": 6.706656677124556e-06,
-        "neutral": 2.1300905928001157e-07
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-tech-stock-shakeout-clouds-market-ahead-of-economic-data-deluge/articleshow/128018863.cms",
-        "timestamp": "2026-02-07T03:46:31+00:00",
-        "text": "Wall Street Week Ahead: Tech stock shakeout clouds market ahead of economic data deluge \nInvestors face a volatile week as artificial intelligence reshapes the technology sector. Software stocks are experiencing a significant downturn. Upcoming economic data on employment and inflation will provide crucial insights. The Federal Reserve's interest… \nAn artificial intelligence-driven shakeout in the heavyweight technology sector is set to keep stock investors on edge in the coming week while a barrage of data could shift focus to the health of th… [+4579 chars]",
-        "positive": 0.7962843775749207,
-        "negative": 0.06341789662837982,
-        "neutral": 0.1402977555990219
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcnews.com/world/iran/trump-calls-us-iran-talks-oman-good-says-will-another-meeting-rcna257857",
-        "timestamp": "2026-02-07T03:44:41+00:00",
-        "text": "Trump calls U.S. and Iran talks in Oman 'very good' and says there will be another meeting \nPresident Donald Trump said Friday that the high-stakes talks between Iran and the United States in Oman had gone well and that the two sides would meet again next week, though he did not provide any details about the meeting \"They had a very good meeting wit… \nPresident Donald Trump said Friday that the high-stakes talks between Iran and the United States in Oman had gone well and that the two sides would meet again next week, though he did not provide any… [+4265 chars]",
-        "positive": 0.5875811576843262,
-        "negative": 0.0004118825017940253,
-        "neutral": 0.41200703382492065
-      },
-      {
-        "source": "news",
-        "id": "https://abcnews.go.com/International/wireStory/bodies-found-area-mexico-search-10-missing-workers-129940368",
-        "timestamp": "2026-02-07T03:41:29+00:00",
-        "text": "Bodies found in area in Mexico where search is on for 10 missing workers from Canadian mine \nMexican authorities have discovered bodies and remains in Sinaloa \nMEXICO CITY -- Mexican authorities on Friday announced the discovery of bodies and remains in the northwestern state of Sinaloa in an area of an ongoing search for 10 missing workers from a Canadian … [+1368 chars]",
-        "positive": 0.00013605049753095955,
-        "negative": 0.00011032015027012676,
-        "neutral": 0.9997535347938538
-      },
-      {
-        "source": "news",
-        "id": "https://www.bemidjipioneer.com/sports/bemidji-aerials-earn-solid-finishes-in-fargo",
-        "timestamp": "2026-02-07T03:32:00+00:00",
-        "text": "Bemidji Aerials earn solid finishes in Fargo \nFeb. 6—FARGO — The Bemidji Aerials Gold, Diamond and Platinum Excel Gymnasts brought the heat to Fargo at the Winter Challenge, held January 24-25. In the all-around team competition, Excel Diamond captured first place with a score of 68.275. Excel Gold follo… \nFeb. 6FARGO The Bemidji Aerials Gold, Diamond and Platinum Excel Gymnasts brought the heat to Fargo at the Winter Challenge, held January 24-25.\r\nIn the all-around team competition, Excel Diamond cap… [+3014 chars]",
-        "positive": 0.00166749965865165,
-        "negative": 1.3296113138494547e-05,
-        "neutral": 0.9983190894126892
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-news/4365780/posts",
-        "timestamp": "2026-02-07T03:30:46+00:00",
-        "text": "American Workers Are Doing Well Overall, But the Biden Years Sucked \nThe Washington Post editorial board has a good piece up today about some new data put out by the Cato Institute. What the data is looking at is purchasing power. Over time, workers are caught in a balance between rising inflation and rising wages. This data i… \nSkip to comments.\r\nAmerican Workers Are Doing Well Overall, But the Biden Years SuckedHotair ^\r\n | 02/06/2026\r\n | John Sexton\r\nPosted on 02/06/2026 7:30:46 PM PST by SeekAndFind\r\nThe Washington Post … [+5490 chars]",
-        "positive": 0.18761572241783142,
-        "negative": 0.00011166627518832684,
-        "neutral": 0.8122726082801819
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/02/07/3234137/673/en/ROSEN-GLOBAL-INVESTOR-RIGHTS-COUNSEL-Encourages-Smart-Digital-Group-Ltd-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-SDM.html",
-        "timestamp": "2026-02-07T03:27:00+00:00",
-        "text": "ROSEN, GLOBAL INVESTOR RIGHTS COUNSEL, Encourages Smart Digital Group Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SDM \nNEW YORK, Feb. 06, 2026 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Smart Digital Group Ltd. (NASDAQ: SDM) between May 5, 2025 and September 26, 2025 at 9:34 AM EST, both dates inclusive (the… \nNEW YORK, Feb. 06, 2026 (GLOBE NEWSWIRE) -- \r\nWHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Smart Digital Group Ltd. (NASDAQ: SDM) between May 5, 2025 an… [+4288 chars]",
-        "positive": 0.0002683614147827029,
-        "negative": 2.992307963722851e-05,
-        "neutral": 0.9997016787528992
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/economy/indicators/inflation-needs-monitoring-in-fy27-as-new-cpi-series-kicks-in-sbi-research/articleshow/128018400.cms",
-        "timestamp": "2026-02-07T03:24:32+00:00",
-        "text": "Inflation needs monitoring in FY27 as new CPI series kicks in: SBI Research \nThe Reserve Bank of India's monetary policy decisions for 2026-27 will depend on inflation trends. A new Consumer Price Index series begins soon. The RBI maintained its repo rate at 5.25 percent. GDP growth forecasts are positive. Retail inflation is projecte… \nThe trajectory of inflation needs to be monitored before taking a monetary policy call by the Reserve Bank in 2026-27, with the Consumer Price Index (CPI) series set to come into effect soon, said SB… [+2301 chars]",
-        "positive": 0.9642866253852844,
-        "negative": 2.9140668630134314e-05,
-        "neutral": 0.03568418696522713
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/can-a-cardinal-and-a-blue-jay-have-a-baby/",
-        "timestamp": "2026-02-07T03:22:12+00:00",
-        "text": "Can a cardinal and a blue jay have a baby? \nCan Cardinals and Blue Jays Produce Offspring? Exploring Avian Hybridization The answer to the question, “Can a cardinal and a blue jay have a baby?” is a resounding no. These birds belong to different genera and families, making successful hybridization biol… \nThe answer to the question, “Can a cardinal and a blue jay have a baby?” is a resounding no. These birds belong to different genera and families, making successful hybridization biologically impossib… [+6781 chars]",
-        "positive": 0.00011108784383395687,
-        "negative": 0.000669607543386519,
-        "neutral": 0.9992192983627319
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-news/4365777/posts",
-        "timestamp": "2026-02-07T03:19:27+00:00",
-        "text": "Olympic Boxing Scandal Explodes: Fighter Who Brutalized Female Athletes Finally Admits the Truth \nThe truth about Algerian boxer Imane Khelif has finally come out, and it comes directly from Khelif himself. He is, admits the man who won the gold medal in women's welterweight boxing at the 2024 Summer Olympics in Paris, a biological male.In an interview wi… \nThe truth about Algerian boxer Imane Khelif has finally come out, and it comes directly from Khelif himself. He is, admits the man who won the gold medal in women's welterweight boxing at the 2024 Su… [+4894 chars]",
-        "positive": 0.0008117090328596532,
-        "negative": 0.00010996822675224394,
-        "neutral": 0.9990783929824829
-      },
-      {
-        "source": "news",
-        "id": "https://www.npr.org/2026/02/06/nx-s1-5704815/iran-protests-us-sanctions",
-        "timestamp": "2026-02-07T03:16:10+00:00",
-        "text": "Iran, protests, and sanctions \nBook tour tickets and details here.The recent protests in Iran are about so many things. Human rights, corruption, freedom. But this time – they are also motivated by economic hardship. Hardship caused, in part, by US sanctions. The US has been sanctioning Ir… \nBook tour tickets and details here.\r\nThe recent protests in Iran are about so many things. Human rights, corruption, freedom. But this time they are also motivated by economic hardship. Hardship caus… [+980 chars]",
-        "positive": 0.0035533250775188208,
-        "negative": 0.01770133338868618,
-        "neutral": 0.9787453413009644
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180751234",
-        "timestamp": "2026-02-07T03:12:15+00:00",
-        "text": "See the best Olympic opening ceremony outfits of the 2026 Winter Games - cbsnews.com \nSee the best Olympic opening ceremony outfits of the 2026 Winter Gamescbsnews.com Most eye-catching winter styles at 2026 Olympics opening ceremonyUSA Today The Best Olympic 2026 Uniforms to Look For at the Winter GamesVogue Milan Cortina is going for Olympic… \nIntroducing, the 1010, a one-bit processor.\r\n0NOPNo Operation\r\n1JMPJump (address specified by next 2 bits)",
-        "positive": 0.05187192186713219,
-        "negative": 2.480167313478887e-05,
-        "neutral": 0.9481033682823181
-      },
-      {
-        "source": "news",
-        "id": "https://cointelegraph.com/news/bitcoin-bull-market-catalyst-us-federal-reserve-interest-rates-fall",
-        "timestamp": "2026-02-07T03:11:15+00:00",
-        "text": "Bitcoin’s next bull market may not come from more 'accommodative policies' \nBitcoin may not benefit as much as it has in the past from \"accommodative policies,\" and its \"endgame\" could come from a change in direction, according to crypto executive Jeff Park. \nBitcoins next major catalyst may come from the common assumption being flipped on its head that interest rates are bullish for Bitcoin only when they fall, according to a crypto analyst.\r\nI think we … [+2275 chars]",
-        "positive": 0.9812104105949402,
-        "negative": 0.0007487694383598864,
-        "neutral": 0.018040861934423447
-      },
-      {
-        "source": "news",
-        "id": "https://www.sportingnews.com/us/nhl/washington-capitals/news/tj-oshie-represents-usa-hockey-super-bowl-commercial/c1c141d911b552e7cf160f5e",
-        "timestamp": "2026-02-07T03:04:09+00:00",
-        "text": "TJ Oshie represents USA Hockey in upcoming Super Bowl Commercial \nTJ Oshie spoke with The Sporting News in an exclusive interview to provide key details on his appearance in Michelob ULTRA's Super Bowl LX commercial. \nTJ Oshie represents USA Hockey in upcoming Super Bowl Commercial originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nMichelob ULTRA has proven to … [+3791 chars]",
-        "positive": 0.010722615756094456,
-        "negative": 3.590634878491983e-05,
-        "neutral": 0.9892415404319763
       },
       {
         "source": "news",
@@ -23719,9 +23773,9 @@
         "neutral": 0.00010591644240776077
       }
     ],
-    "nw": 0.9692427164298798,
-    "nw_norm": 98.46213582149399
+    "nw": 0.6236752243344925,
+    "nw_norm": 81.18376121672462
   },
-  "gsi": 98.46213582149399,
+  "gsi": 81.18376121672462,
   "classification": "Extremely Bullish"
 }
