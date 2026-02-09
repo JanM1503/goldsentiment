@@ -1,8 +1,710 @@
 {
-  "timestamp": "2026-02-09T16:24:27.211367+00:00",
+  "timestamp": "2026-02-09T17:24:55.989646+00:00",
   "news": {
     "count": 2462,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/wedbush-lowers-applovin-app-pt-171728666.html",
+        "timestamp": "2026-02-08T17:17:28+00:00",
+        "text": "Wedbush Lowers AppLovin (APP) PT to $465, Cites Valuation Reset, Industry Headwinds \nAppLovin Corporation (NASDAQ:APP) is one of the most profitable new stocks to buy right now. On February 5, Wedbush analyst Michael Pachter lowered the... \nAppLovin Corporation (NASDAQ:APP) is one of the most profitable new stocks to buy right now. On February 5, Wedbush analyst Michael Pachter lowered the firms price target on AppLovin from $800 to $46… [+1852 chars]",
+        "positive": 0.39930465817451477,
+        "negative": 0.5814998745918274,
+        "neutral": 0.019195444881916046
+      },
+      {
+        "source": "news",
+        "id": "https://sports.yahoo.com/articles/olympic-court-rejects-italian-curlers-171633468.html",
+        "timestamp": "2026-02-08T17:16:33+00:00",
+        "text": "Olympic court rejects Italian curler's claim of nepotism for losing place to official's daughter \nAn Italian curling athlete who blamed nepotism for her non-selection for the Milan Cortina Olympics had her appeal rejected Sunday. The Court of Arbitration for Sport said its judge rejected the argument of Angela Romei that there was a “conflict of interest”… \nMILAN (AP) An Italian curling athlete who blamed nepotism for her non-selection for the Milan Cortina Olympics had her appeal rejected Sunday.\r\nThe Court of Arbitration for Sport said its judge rejec… [+1264 chars]",
+        "positive": 0.0009942156029865146,
+        "negative": 0.05049722641706467,
+        "neutral": 0.9485085606575012
+      },
+      {
+        "source": "news",
+        "id": "https://screenrant.com/star-trek-starfleet-academy-deep-space-nine-station-discovery-confirmed/",
+        "timestamp": "2026-02-08T17:15:18+00:00",
+        "text": "Deep Space Nine Confirmed To Exist In Star Trek: Starfleet Academy's 32nd Century \nStar Trek: Discovery already answered the question of whether Deep Space Nine's space station still exists during Star Trek: Starfleet Academy. \nWarning: SPOILERS for Star Trek: Starfleet Academy Season 1, Episode 5 - \"Series Acclimation Mil\"Deep Space Nine, the space station, was confirmed to exist in Star Trek: Starfleet Academy's 32nd cent… [+4041 chars]",
+        "positive": 0.00016050119302235544,
+        "negative": 0.0016172748291864991,
+        "neutral": 0.9982221722602844
+      },
+      {
+        "source": "news",
+        "id": "https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/",
+        "timestamp": "2026-02-08T17:15:17+00:00",
+        "text": "The First Sodium-Ion Battery EV Is a Winter Range Monster \nIt’s the beginning of a “dual chemistry era” as sodium-ion batteries have overcome all hurdles to enter mass production.\n​ \n<ul><li>The Changan Nevo A06 is the world's first mass-produced car powered by a sodium-ion battery.</li><li>It has a CLTC range of about 250 miles and can run with little to no range loss even in -4… [+3673 chars]",
+        "positive": 0.005834178999066353,
+        "negative": 1.8704067770158872e-05,
+        "neutral": 0.9941470623016357
+      },
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/opinion/david-marcus-rural-virginia-mixed-signals-trump-gop",
+        "timestamp": "2026-02-08T17:14:16+00:00",
+        "text": "DAVID MARCUS: In rural Virginia, mixed signals for Trump and the GOP \nTrump's poll numbers show wild swings, but what do voters really think? A Virginia trip reveals the complex reality behind conflicting polling surveys. \nLEXINGTON, Va. President Donald Trumps poll numbers are a bit all over the place these days. The averages have him about seven points underwater, while some surveys show him down as much as 19. And t… [+5219 chars]",
+        "positive": 6.445862254622625e-06,
+        "negative": 0.00013082020450383425,
+        "neutral": 0.9998626708984375
+      },
+      {
+        "source": "news",
+        "id": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260208-99-430334/",
+        "timestamp": "2026-02-08T17:13:26+00:00",
+        "text": "Norway's Eitrem sets Olympic record to win 5,000m speed skating gold \nNorway's Sander Eitrem set an Olympic record on his way to claiming men's 5,000 metres speed skating gold at the Milano/Cortina Winter Games on Sunday. Eitrem clocked 6 minutes 03. \nNorway's Sander Eitrem set an Olympic record on his way to claiming men's 5,000 metres speed skating gold at the Milano/Cortina Winter Games on Sunday.\r\nEitrem clocked 6 minutes 03.95 seconds, which … [+355 chars]",
+        "positive": 0.0006921206950210035,
+        "negative": 7.774822734063491e-05,
+        "neutral": 0.999230146408081
+      },
+      {
+        "source": "news",
+        "id": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/02/08/movsar-evloev-no-excuses-ufc-title-shot-lerone-murphy-win/88578351007/",
+        "timestamp": "2026-02-08T17:10:39+00:00",
+        "text": "Movsar Evloev: No excuses for UFC title shot with Lerone Murphy win \nMovsar Evloev plans to give UFC no choice but to give him Alexander Volkanovski with a finish of Lerone Murphy in London. \nMovsar Evloev is healthy and motivated to get his hands on the UFC featherweight title in 2026.\r\nEvloev (19-0 MMA, 9-0 UFC) will try to finally secure his first shot at gold when he takes on fellow u… [+2748 chars]",
+        "positive": 0.17706304788589478,
+        "negative": 0.0005495700752362609,
+        "neutral": 0.8223873972892761
+      },
+      {
+        "source": "news",
+        "id": "https://www.usatoday.com/story/sports/olympics/2026/02/08/lindsey-vonn-crash-reaction-winter-olympics/88578056007/",
+        "timestamp": "2026-02-08T17:08:40+00:00",
+        "text": "The moment Lindsey Vonn crashed at Olympics and the silence that followed \nLindsey Vonn made a comeback within a comeback to ski in the 2026 Olympics. But she crashed hard in Cortina Sunday, shaking fans and fellow skiers. \nCORTINA D'AMPEZZO, Italy The No. 1 rule in sports journalism is no cheering or jeering in the press box.\r\nMore than a Dozen of reporters with more than a century of experience covering Americas most … [+5856 chars]",
+        "positive": 0.0006019091815687716,
+        "negative": 0.00011361147335264832,
+        "neutral": 0.9992844462394714
+      },
+      {
+        "source": "news",
+        "id": "https://nationalpost.com/sports/olympics/off-the-ice-natalie-spooner-is-a-tiktok-star-on-it-shes-one-of-team-canadas-heartbeats",
+        "timestamp": "2026-02-08T17:08:29+00:00",
+        "text": "Off the ice Natalie Spooner is a TikTok star. On it she's one of Team Canada's heartbeats \nFrom motherhood to a potentially career-ending injury forward Natalie Spooner's journey back to the Olympics has been inspiring \nMILAN Even before she stepped on the ice for her first game as a four-time Canadian Olympian, Natalie Spooners influence has been a force of irrepressible joy.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBE… [+4841 chars]",
+        "positive": 0.14754410088062286,
+        "negative": 0.0002387432032264769,
+        "neutral": 0.8522171974182129
+      },
+      {
+        "source": "news",
+        "id": "https://worldsoccertalk.com/news/cristiano-ronaldos-drama-reportedly-pushes-a-premier-league-star-closer-to-a-saudi-pro-league-move-in-the-2026-27/",
+        "timestamp": "2026-02-08T17:08:22+00:00",
+        "text": "Cristiano Ronaldo’s drama reportedly pushes a Premier League star closer to a Saudi Pro League move in the 2026-27 \nFollowing Al Nassr’s complicated transfer window, Cristiano Ronaldo is reportedly threatening to leave the Saudi Pro League. Amid this drama involving the Portuguese star, a Premier League standout is reportedly moving closer to the league for the 2026–27 sea… \nAfter starting the 202526 season in top form, Cristiano Ronaldos Al Nassr appeared to establish themselves as the clear favorites to win the league title. However, the Portuguese stars future has tak… [+2705 chars]",
+        "positive": 0.0006260125082917511,
+        "negative": 0.030804220587015152,
+        "neutral": 0.9685696959495544
+      },
+      {
+        "source": "news",
+        "id": "https://www.israelnationalnews.com/news/422123",
+        "timestamp": "2026-02-08T17:08:00+00:00",
+        "text": "Jeffrey Epstein - or the decadence of the Western élite \nEpstein was not a solitary monster. He was a facilitator. A maître d’hôtel of nothingness. He organized the banquet for elites who no longer hungered for anything except confirmation that the rules do not apply to them. Opinion. \nIt feels like reading The Possibility of an Island\" by Michel Houellebecq. If Balzac chronicled the rise and fall of the mercantile bourgeoisie, Houellebecq has become the cynical and disenchanted si… [+6399 chars]",
+        "positive": 0.0016326578333973885,
+        "negative": 5.5120464821811765e-05,
+        "neutral": 0.99831223487854
+      },
+      {
+        "source": "news",
+        "id": "https://freerepublic.com/focus/f-chat/4365976/posts",
+        "timestamp": "2026-02-08T17:06:49+00:00",
+        "text": "Diamonds & Private Jets: South Florida woman arrested for $1.2M fraud scheme \nDEERFIELD BEACH, Fla. (CBS12) — A South Florida woman was arrested Wednesday after allegedly funding a $1.2 million spree of private jets, mansions, and diamonds by swindling an event decor business. Broward Sheriff's Office Deerfield Beach detectives say the… \nSkip to comments.\r\nDiamonds &amp; Private Jets: South Florida woman arrested for $1.2M fraud schemeCBS12 ^\r\n | 2/62026\r\n | Grace Bellinghausen\r\nPosted on 02/08/2026 9:06:49 AM PST by simpson96\r\nDEERF… [+3456 chars]",
+        "positive": 0.0022608463186770678,
+        "negative": 0.040515441447496414,
+        "neutral": 0.9572237133979797
+      },
+      {
+        "source": "news",
+        "id": "https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/",
+        "timestamp": "2026-02-08T17:05:56+00:00",
+        "text": "TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business? | TechCrunch \nWelcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. \nWelcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nWaymos ac… [+9375 chars]",
+        "positive": 0.10072639584541321,
+        "negative": 0.0002067742170765996,
+        "neutral": 0.8990669250488281
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbssports.com/olympics/news/2026-winter-olympics-mens-hockey-odds-futures-betting-predictions-expert-picks/",
+        "timestamp": "2026-02-08T17:05:15+00:00",
+        "text": "2026 Winter Olympics men's hockey odds, predictions: Futures picks from expert on 26-12 roll \nMatt Severance reveals his best bets for men's hockey at the 2026 Winter Olympics from Milano Cortina, Italy \nWith the return of NHL players to the 2026 Winter Olympics in Italy, Canada comes into the 2026 Games as the odds-on favorites to bring home the gold medal. Canada is at +130 to win it all in the Win… [+2791 chars]",
+        "positive": 0.6390044689178467,
+        "negative": 8.92150928848423e-05,
+        "neutral": 0.36090630292892456
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/cities/pune/ahead-of-valentines-day-rose-prices-bloom-profits-wilt-for-florists-10521319/",
+        "timestamp": "2026-02-08T17:04:04+00:00",
+        "text": "Ahead of Valentine’s Day, rose prices bloom, profits wilt for florists \nShubham from Sayali Florist on FC Road, said the price of a single red rose, which earlier ranged between Rs 20 and Rs 30, has now climbed to anywhere between Rs 40 and Rs 100 per piece. \nAs Valentine’s Day week fuels demand for flowers, florists across the city say soaring wholesale prices and shifting market dynamics have pushed their businesses into losses instead of profits.Rajesh… [+3032 chars]",
+        "positive": 0.026622729375958443,
+        "negative": 0.2583676278591156,
+        "neutral": 0.7150096893310547
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/sport/biathlon-homecoming-queen-wierer-helps-italy-mixed-relay-silver-5916201",
+        "timestamp": "2026-02-08T17:02:24+00:00",
+        "text": "Biathlon-Homecoming queen Wierer helps Italy to mixed relay silver \nANTERSELVA, Italy, Feb 8 : Hometown hero Dorotea Wierer did her part in delivering a silver medal in Sunday's mixed relay that lifted the hearts of biathlon fans in northern Italy, heralding her second place as if she had won gold. The 35-year-old first lady … \nANTERSELVA, Italy, Feb 8 : Hometown hero Dorotea Wierer did her part in delivering a silver medal in Sunday's mixed relay that lifted the hearts of biathlon fans in northern Italy, heralding her seco… [+1777 chars]",
+        "positive": 0.0006103130872361362,
+        "negative": 3.291015309514478e-05,
+        "neutral": 0.9993568062782288
+      },
+      {
+        "source": "news",
+        "id": "https://fstoppers.com/documentary/case-imperfect-photographs-era-artificial-perfection-721278",
+        "timestamp": "2026-02-08T17:02:01+00:00",
+        "text": "The Case for Imperfect Photographs in an Era of Artificial Perfection \nPhotography has never been cleaner, sharper, or more technically flawless. Paradoxically, it has never felt easier to hesitate before pressing the shutter or posting the image.  \n[Read More] \nPhotography has never been cleaner, sharper, or more technically flawless. Paradoxically, it has never felt easier to hesitate before pressing the shutter or posting the image.\r\nWe live in a moment w… [+6161 chars]",
+        "positive": 0.00017926140571944416,
+        "negative": 0.002522892551496625,
+        "neutral": 0.9972978234291077
+      },
+      {
+        "source": "news",
+        "id": "https://www.rawstory.com/raw-investigates/trump-iran-2675086614/",
+        "timestamp": "2026-02-08T17:01:34+00:00",
+        "text": "This Trump obsession has caused only harm — and remains a danger to the whole world \nWhenever Donald Trump mucks around in any serious international situation, as the world’s self-anointed savior, odds are things will only get worse. Iran is a good example.In 2015, the US was part of an international coalition that reached agreement with Iran… \nWhenever Donald Trump mucks around in any serious international situation, as the worlds self-anointed savior, odds are things will only get worse. Iran is a good example.\r\nIn 2015, the US was part o… [+5480 chars]",
+        "positive": 0.0019343086751177907,
+        "negative": 0.993384063243866,
+        "neutral": 0.004681636579334736
+      },
+      {
+        "source": "news",
+        "id": "https://coed.com/2026/02/08/giannis-antetokounmpo-criticized-for-kalshi-partnership-following-nba-trade-deadline/",
+        "timestamp": "2026-02-08T17:01:29+00:00",
+        "text": "Giannis Antetokounmpo Criticized for Kalshi Partnership Following NBA Trade Deadline \nGiannis Antetokounmpo just announced a partnership with Kalshi — a prediction market platform that’s careful not to call itself gambling — and the timing’s raising some serious eyebrows. \nGiannis Antetokounmpo just announced a partnership with Kalshi a prediction market platform thats careful not to call itself gambling and the timings raising some serious eyebrows.\r\nThe Milwaukee Buc… [+2655 chars]",
+        "positive": 0.0006441105506382883,
+        "negative": 4.532097591436468e-05,
+        "neutral": 0.9993106126785278
+      },
+      {
+        "source": "news",
+        "id": "https://www.decanter.com/decanter-world-wine-awards/the-best-of-bordeaux-574409/",
+        "timestamp": "2026-02-08T17:00:45+00:00",
+        "text": "The Best of Bordeaux \nSunset over the vineyards of Montagne near Saint Emilion. \r\nDiscover top-scoring Bordeaux red blends from the 2025 competition...\nThe post The Best of Bordeaux appeared first on Decanter. \nIts the Gironde river, where the Garonne and Dordogne meet, that splits the region in half to create its key Right Bank and Left Bank zones. And the third major zone, in between the rivers, is known … [+5858 chars]",
+        "positive": 4.486665056901984e-05,
+        "negative": 1.6881690498848911e-06,
+        "neutral": 0.9999535083770752
+      },
+      {
+        "source": "news",
+        "id": "https://cryptoslate.com/do-cme-gaps-always-have-to-fill-bitcoins-60k-flush-says-no/",
+        "timestamp": "2026-02-08T17:00:36+00:00",
+        "text": "Do CME gaps always have to fill? Bitcoin’s $60k flush says no \nBitcoin trades every minute of every day, but CME Bitcoin futures stop for the weekend. That mismatch is how a CME gap is born, and why it keeps turning up in the middle of the most stressful weeks. A CME gap is the blank space on a CME futures chart between … \nBitcoin trades every minute of every day, but CME Bitcoin futures stop for the weekend. That mismatch is how a CME gap is born, and why it keeps turning up in the middle of the most stressful weeks.\r… [+7623 chars]",
+        "positive": 0.0006972122937440872,
+        "negative": 0.0018548441585153341,
+        "neutral": 0.9974479675292969
+      },
+      {
+        "source": "news",
+        "id": "https://ambcrypto.com/bitcoin-heres-why-60k-remains-the-key-structural-level-for-traders/",
+        "timestamp": "2026-02-08T17:00:35+00:00",
+        "text": "Bitcoin – Here’s why $60K remains the ‘key structural level’ for traders \nNext few weeks will be critical for Bitcoin's 2026 projections. \nThe last few weeks have seenn crypto markets fall across the board. This has left many analysts and market participants wondering what may be the cause. While the crash might just be the product of a… [+3105 chars]",
+        "positive": 0.00011596771946642548,
+        "negative": 0.002250183140859008,
+        "neutral": 0.9976338148117065
+      },
+      {
+        "source": "news",
+        "id": "https://the-gadgeteer.com/2026/02/08/edc-gear-kids-actually-want-to-carry-every-day/",
+        "timestamp": "2026-02-08T17:00:20+00:00",
+        "text": "EDC Gear Kids Actually Want to Carry Every Day \nMost adults think kids’ EDC is just smaller versions of what they carry. That misses the point entirely. Kids don’t need tactical pens or multi-tools with 14 functions they’ll never use. They need gear that solves the specific problems they face between reces… \nIf you buy something from a link in this article, we may earn a commission. Learn more\r\nMost adults think kids EDC is just smaller versions of what they carry. That misses the point entirely. Kids do… [+13126 chars]",
+        "positive": 0.0002792082668747753,
+        "negative": 0.001013978966511786,
+        "neutral": 0.9987068176269531
+      },
+      {
+        "source": "news",
+        "id": "https://sneakernews.com/2026/02/08/all-star-sneaker-releases/",
+        "timestamp": "2026-02-08T17:00:03+00:00",
+        "text": "2026 All-Star Sneaker Release Rundown \nIt’s finally here. Always a highlight of any year in sneakers, All-Star Weekend is finally upon us. As sports and sneaker media alike descend on...\n\n© Sneaker News, 2026. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post 2026 All-Star Sneaker Release Ru… \nIt’s finally here. Always a highlight of any year in sneakers, All-Star Weekend is finally upon us.\r\nAs sports and sneaker media alike descend on Los Angeles, we’ve got you covered with a special edi… [+6534 chars]",
+        "positive": 2.8182095775264315e-05,
+        "negative": 1.339996970273205e-06,
+        "neutral": 0.999970555305481
+      },
+      {
+        "source": "news",
+        "id": "https://winteriscoming.net/10-books-for-fans-slow-burn-character-driven-science-fiction",
+        "timestamp": "2026-02-08T17:00:02+00:00",
+        "text": "10 books for fans of slow burn, character-driven science fiction \nThese 10 sci-fi books are perfect for readers who enjoy getting lost in character-driven stories that unfold at their own pace. \nScience fiction is often known for big ideas and high-stakes plots that move quickly from one moment to the next. It's a genre that usually thrives on faced-paced storytelling that keeps readers hook… [+16406 chars]",
+        "positive": 0.11598742008209229,
+        "negative": 3.4432265238137916e-05,
+        "neutral": 0.8839780688285828
+      },
+      {
+        "source": "news",
+        "id": "https://slate.com/advice/2026/02/penis-size-advice-sex-men-male-dirty-talk.html",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "My New Guy Asked Me the Most Awkward Question During Sex. I Don’t Think He Wants to Hear My Answer. \nHe really put me on the spot! \nHow to Do It is Slates sex advice column. Have a question? Send it to Stoya and Rich here. Its anonymous!\r\nDear How to Do It,\r\nI was recently hooking up with someone new and he really threw me off. W… [+11825 chars]",
+        "positive": 0.00038495383341796696,
+        "negative": 0.0009203123045153916,
+        "neutral": 0.9986948370933533
+      },
+      {
+        "source": "news",
+        "id": "https://www.tvline.com/2095084/the-masked-singer-pangolin-costume-best-tv-quotes/",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "Quotes Of The Week: High Potential, St. Denis Medical, School Spirits, Chicago Med, And More \nThis week's best lines come from High Potential, The Masked Singer, School Spirits and more. \nAs Team USA grabs gold in Milan, Team TVLine is staying stateside to celebrate TV's winning dialogue.\r\nIn our list below which rounds up the best sound bites of the past seven days you'll find a doze… [+677 chars]",
+        "positive": 0.5984550714492798,
+        "negative": 0.000290919590042904,
+        "neutral": 0.4012540280818939
+      },
+      {
+        "source": "news",
+        "id": "https://www.superpunch.net/2026/02/todays-news-and-jokes_01694568066.html",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "Today's news and jokes \nThis photo is funnier than it has any business being\n\npeople.com/hairdresser-...[image or embed]\r\n— Parker Molloy (@parkermolloy.com) February 7, 2026 at 7:13 AM\n @chelseafalcetti Fresh new pair of 22s for tha babyyy #beingagirlisfun @AQUA Hair Extensions @th… \nThis photo is funnier than it has any business being\r\npeople.com/hairdresser-...\r\n[image or embed]\r\n— Parker Molloy (@parkermolloy.com) February 7, 2026 at 7:13 AM\r\n@chelseafalcetti Fresh new pair of… [+4341 chars]",
+        "positive": 6.152925925562158e-05,
+        "negative": 1.5224622984533198e-05,
+        "neutral": 0.9999232292175293
+      },
+      {
+        "source": "news",
+        "id": "https://www.theamericanconservative.com/denuclearizing-north-korea-is-unrealistic/",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "Denuclearizing North Korea Is Unrealistic \nThe Trump administration should prioritize arms control and stable relations with Pyongyang.\nThe post Denuclearizing North Korea Is Unrealistic appeared first on The American Conservative. \nThe Trump administrations recently released National Defense Strategy (NDS) and the December National Security Strategy (NSS) displayed an unusual pattern on North Korea. Neither document mentioned N… [+11608 chars]",
+        "positive": 0.003969384822994471,
+        "negative": 0.00037360552232712507,
+        "neutral": 0.9956569671630859
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/2026/02/08/yesterdays-comments-of-note-2356/",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "Yesterday’s comments of note \nA few of the comments that stood out to us yesterday:\n\n\n\n \n \n \n \r\n\n \n \"I love old cars & history.....and can't wait to meet the seller to enjoy it together. Who wants a restored one, anyone can have one of those.\"\r\n\n\r\n\n \n \n \n 21\n \n \n pdunphey1 commented on No… \n\"For reference, the H2R is capable of pushing speeds well over 225, with some claims upwards of 250 mph, while cranking out almost 330 hp. The supercharger has to spin almost 10 times faster than the… [+271 chars]",
+        "positive": 0.3901990056037903,
+        "negative": 0.0003008029016200453,
+        "neutral": 0.6095001697540283
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/nz/reforms-threaten-waitakere-ranges-gary-taylor-and-greg-severinsen/premium/3HPBJB6BPFFQHHVFCEGEWSB4DU/",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "Reforms threaten Waitākere Ranges – Gary Taylor and Greg Severinsen \nOPINION: The new bills would strip legal backing from the Waitākere Ranges Heritage Act. \nThe Unitary Plan contains rules that limit subdivision and development and protect native forest and trees. In some parts of the ranges, subdivision is prohibited in order to protect outstanding land… [+4510 chars]",
+        "positive": 4.940994404023513e-05,
+        "negative": 0.0005552460206672549,
+        "neutral": 0.9993952512741089
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/02/08/betting/best-patriots-vs-seahawks-2026-sportsbooks-betting-sites-apps/",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "Best Super Bowl 2026 sportsbooks, betting sites, apps \nCheck out the best sports betting sites and apps for Super Bowl 2026. \nGambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nThere is nothing like The Big Game.\r\n… [+2818 chars]",
+        "positive": 0.00019370715017430484,
+        "negative": 1.538980177429039e-05,
+        "neutral": 0.9997909665107727
+      },
+      {
+        "source": "news",
+        "id": "http://comicbook.com/comics/list/10-most-overpowered-versions-of-dc-characters-ranked/",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "10 Most Overpowered Versions of DC Characters, Ranked \nStill, there’s something compelling about seeing the ultimate “what if” versions of these characters. \nSome versions of DC characters get so ridiculously powerful that the word overpowered feels like an understatement. You know those moments when a hero stops being a hero and starts being a narrative … [+6360 chars]",
+        "positive": 0.29402023553848267,
+        "negative": 0.002315784804522991,
+        "neutral": 0.7036639451980591
+      },
+      {
+        "source": "news",
+        "id": "https://www.covers.com/super-bowl/printable-prop-bet-sheet-seahawks-vs-patriots-2026",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "Free Printable Super Bowl 2026 Prop Sheet: Seahawks vs. Patriots PDF Download for Your Party \nFree downloadable Super Bowl party prop bet sheet. Our printable PDF for Seahawks vs. Patriots 2026 features the most popular Super Bowl props. \nThe Big Game is finally here, and were making sure your watch party is just as sweaty as the action on the field, with our 2026 Super Bowl party prop bet sheet!\r\nFrom the National Anthem to the award… [+5403 chars]",
+        "positive": 0.0030217422172427177,
+        "negative": 2.041828520304989e-05,
+        "neutral": 0.9969577789306641
+      },
+      {
+        "source": "news",
+        "id": "https://www.activistpost.com/dont-politicize-the-holocaust-says-pro-genocide-board/",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "‘Don’t Politicize the Holocaust’ Says Pro-Genocide Board \nMinnesota Governor Tim Walz, describing fear and disorder tied to federal immigration enforcement and street-level unrest, reached for a loaded analogy. “We have got children in Minnesota hiding in their houses, afraid to go outside. Many of us grew up readin… \nMinnesota Governor Tim Walz, describing fear and disorder tied to federal immigration enforcement and street-level unrest, reached for a loaded analogy. We have got children in Minnesota hiding in th… [+9870 chars]",
+        "positive": 0.00024294410832226276,
+        "negative": 5.41385161341168e-05,
+        "neutral": 0.9997028708457947
+      },
+      {
+        "source": "news",
+        "id": "https://variety.com/2026/streaming/news/how-to-watch-super-bowl-lx-patriots-vs-seahawks-live-online-1236654777/",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "How to Watch Super Bowl LX Live Online \nThe Seattle Seahawks and New England Patriots officially go head to head at Santa Clara’s Levi’s Stadium this Sunday, Feb. 8 for Super Bowl LX. The Big Game, which kicks off at 6:30 p.m. ET, will broadcast on NBC and stream live on Peacock. Cable-cutters can … \nThe Seattle Seahawks and New England Patriots officially go head to head at Santa Clara’s Levi’s Stadium this Sunday, Feb. 8 for Super Bowl LX. The Big Game, which kicks off at 6:30 p.m. ET, will bro… [+1554 chars]",
+        "positive": 1.2011875696771313e-05,
+        "negative": 6.173426299938001e-06,
+        "neutral": 0.9999817609786987
+      },
+      {
+        "source": "news",
+        "id": "https://www.arrowheadpride.com/kansas-city-chiefs-discussions/193787/super-bowl-predictions-2026-seahawks-patriots-winner-picks",
+        "timestamp": "2026-02-08T17:00:00+00:00",
+        "text": "Super Bowl predictions 2026: Chiefs fans pick Seahawks to win \nKansas City picks the last NFL game of the season. \nWelcome to SB Nation Reacts, a survey of fans across the NFL. Each week, we send out questions to the most plugged-in Kansas City Chiefs fans. You can see all of the recent survey results here.\r\nAnd … [+1608 chars]",
+        "positive": 0.00010496436880202964,
+        "negative": 0.00012063375470461324,
+        "neutral": 0.9997743964195251
+      },
+      {
+        "source": "news",
+        "id": "https://screenrant.com/matrix-keanu-reeves-live-action-anime-franchise-change/",
+        "timestamp": "2026-02-08T16:55:18+00:00",
+        "text": "Keanu Reeves' Four-Part Live-Action Anime Franchise Changed Action Movies Forever \nThis groundbreaking franchise fronted by Keanu Reeves changed action movies forever, and is still one of the best live-action takes on anime. \nThe Matrix was always designed as a live-action anime, and the Keanu Reeves-fronted saga totally reinvented the action genre. While Keanu Reeves' action movies weren't a new invention in 1999 - as th… [+3472 chars]",
+        "positive": 0.9827665090560913,
+        "negative": 0.00048240754404105246,
+        "neutral": 0.016750982031226158
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/1976-jeep-cherokee-10/",
+        "timestamp": "2026-02-08T16:55:07+00:00",
+        "text": "Fuel-Injected 1976 Jeep Cherokee S \nThis 1976 Jeep Cherokee S two-door is said to have registration history in Arizona since new, and remained under the care of a single family until the seller's 2022 purchase. The seller tells us that the original owner had started refurbishing the truck, whic… \nThis 1976 Jeep Cherokee S two-door is said to have registration history in Arizona since new, and remained under the care of a single family until the seller’s 2022 purchase. The seller tells us that… [+3003 chars]",
+        "positive": 0.0015933879185467958,
+        "negative": 8.000951493158937e-05,
+        "neutral": 0.9983265995979309
+      },
+      {
+        "source": "news",
+        "id": "https://www.gbnews.com/sport/winter-olympics/lindsey-vonn-health-update-winter-olympics-crash",
+        "timestamp": "2026-02-08T16:54:47+00:00",
+        "text": "Major Lindsey Vonn health update after Winter Olympics star was involved in awful crash \nLindsey Vonn remains in stable condition following a horrific crash during the women's downhill final at the 2026 Winter Olympics, the U.S. Ski & Snowboard Team has confirmed.The American skiing legend, 41, is receiving treatment from both American and Italia… \nLindsey Vonn remains in stable condition following a horrific crash during the women's downhill final at the 2026 Winter Olympics, the U.S. Ski &amp; Snowboard Team has confirmed.\r\nThe American skiin… [+2916 chars]",
+        "positive": 0.0014611274236813188,
+        "negative": 0.00023981726553756744,
+        "neutral": 0.9982990622520447
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/sports/olympics/winter/speed-skating/olympics-long-track-speed-skating-men-5000-final-9.7079590",
+        "timestamp": "2026-02-08T16:51:56+00:00",
+        "text": "Calgary's Bloemen held off 5,000-metre speed skating medal podium at his final Olympics \nTed-Jan Bloemen of Calgary will end his Olympic speed skating career with one medal over 5,000 metres, a silver in 2018, after placing 13th in the men's event on Sunday in Italy. \nTed-Jan Bloemen of Calgary will end his Olympic speed skating career with one medal over 5,000 metres, a silver in 2018, after placing 13th in the men's event on Sunday in Italy.\r\nThe 39-year-old Dut… [+272 chars]",
+        "positive": 1.3134038454154506e-05,
+        "negative": 3.3303831514785998e-06,
+        "neutral": 0.999983549118042
+      },
+      {
+        "source": "news",
+        "id": "https://www.nbcsports.com/nba/news/giannis-antetokounmpo-joins-kalshi-as-a-shareholder",
+        "timestamp": "2026-02-08T16:49:51+00:00",
+        "text": "Giannis Antetokounmpo joins Kalshi as a shareholder \nKalshi is a prediction market where more than $23 million was bet on whether Antetokounmpo would be traded at deadline. \nMilwaukee Bucks star Giannis Antetokounmpo has become a shareholder in Kalshi, a major prediction market with a wide array of sports trading opportunities. Antetokounmpo announced the partnership Fri… [+2691 chars]",
+        "positive": 0.06180575117468834,
+        "negative": 5.653208791045472e-05,
+        "neutral": 0.9381377100944519
+      },
+      {
+        "source": "news",
+        "id": "http://twistedsifter.com/2026/02/the-ceo-publicly-bragged-about-record-earnings-but-that-didnt-stop-them-from-stiffing-all-their-employees/",
+        "timestamp": "2026-02-08T16:48:30+00:00",
+        "text": "The CEO Publicly Bragged About Record Earnings, But That Didn’t Stop Them From Stiffing All Their Employees \nBoundaries with work are the key to a fulfilling life. \nPexels/Reddit\r\nWorking for a corporation that puts profits over people is nothing short of exhausting.\r\nWhat would you do if your boss made a show of how much money everyone had except the people who… [+1907 chars]",
+        "positive": 0.0002638121077325195,
+        "negative": 0.00018803845159709454,
+        "neutral": 0.9995481371879578
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/india/kuki-zo-council-cautions-community-employees-against-postings-in-meitei-areas-amid-continuing-tensions/articleshow/128078446.cms",
+        "timestamp": "2026-02-08T16:48:29+00:00",
+        "text": "Kuki-Zo Council cautions community employees against postings in Meitei areas amid continuing tensions \nThe Kuki-Zo Council has issued a strong advisory. Community members working for the government are cautioned against travelling to or accepting postings in Meitei-dominated areas. The council states the conflict remains unresolved and safety cannot be guarant… \nGuwahati : The Kuki-Zo Council (KZC), the apex body of Kuki-Zo communities, on Sunday advised and cautioned all state and Central government employes belonging to the community, against travelling to… [+3296 chars]",
+        "positive": 0.005283892620354891,
+        "negative": 0.04135779291391373,
+        "neutral": 0.9533582925796509
+      },
+      {
+        "source": "news",
+        "id": "https://www.eurogamer.net/epic-games-store-plans-to-launch-on-the-next-xbox-console-on-day-one",
+        "timestamp": "2026-02-08T16:48:25+00:00",
+        "text": "Epic Games Store plans to launch on the next Xbox console \"on day one\" \nEpic Games Store plans to be available on the next Xbox console at launch. Read more \nEpic Games Store plans to be available on the next Xbox console at launch.\r\nIn an interview with Game File, Epic Games' Steve Allison said Xbox had \"welcome[d]\" the idea of including Epic's storefron… [+2440 chars]",
+        "positive": 0.0001272642402909696,
+        "negative": 2.526090156607097e-06,
+        "neutral": 0.9998701810836792
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/sport/speed-skating-norways-eitrem-wins-mens-5000m-gold-milano-cortina-5916186",
+        "timestamp": "2026-02-08T16:47:15+00:00",
+        "text": "Speed skating-Norway's Eitrem wins men's 5,000m gold at Milano Cortina \nMILAN, Feb 8 : Norwegian Sander Eitrem captured the men's 5,000 metres speed skating title in Olympic-record time at the Milano Cortina Winter Olympics on Sunday, stopping the clock at six minutes 03.95 seconds.Czech Republic's Metodej Jilek and Italy's Ricca… \nMILAN, Feb 8 : Norwegian Sander Eitrem captured the men's 5,000 metres speed skating title in Olympic-record time at the Milano Cortina Winter Olympics on Sunday, stopping the clock at six minutes 03… [+109 chars]",
+        "positive": 0.0001758600410539657,
+        "negative": 2.398481228738092e-05,
+        "neutral": 0.9998001456260681
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/sport/speed-skating-norways-eitrem-crushes-field-seize-5000m-crown-5916186",
+        "timestamp": "2026-02-08T16:47:15+00:00",
+        "text": "Speed skating-Norway's Eitrem crushes field to seize 5,000m crown \nMILAN, Feb 8 : World record holder Sander Eitrem lived up to his billing as the favourite, as the Norwegian stormed to gold in the 5,000 metres at the Milano Cortina Winter Olympics on Sunday.Czech Republic's Metodej Jilek claimed silver, while Italy's Riccar… \nMILAN, Feb 8 : World record holder Sander Eitrem lived up to his billing as the favourite, as the Norwegian stormed to gold in the 5,000 metres at the Milano Cortina Winter Olympics on Sunday.\r\nCzech… [+956 chars]",
+        "positive": 0.0001544420374557376,
+        "negative": 4.075990364071913e-05,
+        "neutral": 0.9998047947883606
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/economy/every-trade-deal-provides-for-a-re-balancing-of-concessions-goyal/article70608400.ece",
+        "timestamp": "2026-02-08T16:46:14+00:00",
+        "text": "Every trade deal provides for a re-balancing of concessions: Goyal \nUnion Minister Piyush Goyal discusses India's trade deal with the US amidst concerns over Russian oil purchases and tariff implications. \nUnion Commerce Minister Piyush Goyal declined to spell out the specifics of the American claim that India committed to stop purchasing Russian oil as part of the India-US framework interim trade agre… [+2589 chars]",
+        "positive": 0.000917032768484205,
+        "negative": 0.030672695487737656,
+        "neutral": 0.9684102535247803
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestreet.com/investing/cathie-wood-buys-43-million-of-alphabet-stock",
+        "timestamp": "2026-02-08T16:46:09+00:00",
+        "text": "Cathie Wood buys $43 million of megacap tech stock \nIt’s been a rocky start to the year for Cathie Wood, the head of Ark Investment Management. As of Feb. 6, Wood’s flagship Ark Innovation ETF (ARKK) was down ... \nIts been a rocky start to the year for Cathie Wood, the head of Ark Investment Management.\r\nAs of Feb. 6, Woods flagship Ark Innovation ETF (ARKK) was down 9.58% year to date, while the S&amp;P 500 g… [+5000 chars]",
+        "positive": 4.5989399950485677e-05,
+        "negative": 0.9997416138648987,
+        "neutral": 0.00021241689682938159
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/1994-lexus-ls400-21/",
+        "timestamp": "2026-02-08T16:45:17+00:00",
+        "text": "20k-Mile 1994 Lexus LS400 at No Reserve \nThis 1994 Lexus LS400 was initially delivered to Putnam Lexus of Redwood City, California, and remained with its original owner until 2025. It has 20k miles and is powered by a 4.0-liter V8 paired with a four-speed automatic transmission. Finished in Champagn… \nThis 1994 Lexus LS400 was initially delivered to Putnam Lexus of Redwood City, California, and remained with its original owner until 2025. It has 20k miles and is powered by a 4.0-liter V8 paired wi… [+1963 chars]",
+        "positive": 0.00022382548195309937,
+        "negative": 1.6316347682732157e-05,
+        "neutral": 0.9997598528862
+      },
+      {
+        "source": "news",
+        "id": "https://www.wnd.com/2026/02/rats-are-leaving-ship-scott-bessent-says-u/",
+        "timestamp": "2026-02-08T16:45:03+00:00",
+        "text": "‘Rats are leaving the ship’: Scott Bessent says U.S. Treasury has new goal as ‘economic chaos’ in Iran becomes ‘crazy’ \n'What doesn't work is handing the regime pallets of cash like we saw in Democratic administrations' \nU.S. Treasury Secretary Scott Bessent (Official White House photo by Daniel Torok)\r\nAs President Donald Trump is set to meet Wednesday with Israel Prime Minister Benjamin Netanyahu to discuss negotia… [+3735 chars]",
+        "positive": 0.00934203714132309,
+        "negative": 5.330117710400373e-05,
+        "neutral": 0.9906046986579895
+      },
+      {
+        "source": "news",
+        "id": "https://pypi.org/project/replymarketing/",
+        "timestamp": "2026-02-08T16:44:47+00:00",
+        "text": "replymarketing added to PyPI \nReply Cash Marketing Hub CLI - AI-powered marketing assistant \nAI-powered marketing assistant for Reply Cash - Create content, remix viral posts, run SEO audits, and manage your entire marketing workflow.\r\nFeatures\r\n<ul><li>Multi-Provider Support - Kimi CLI, Ope… [+8133 chars]",
+        "positive": 0.00244418578222394,
+        "negative": 3.222027953597717e-05,
+        "neutral": 0.9975236058235168
+      },
+      {
+        "source": "news",
+        "id": "https://www.nbcnews.com/video/shorts/breezy-johnson-wins-first-u-s-gold-revels-in-anthem-257355845558",
+        "timestamp": "2026-02-08T16:43:25+00:00",
+        "text": "Breezy Johnson wins first U.S. gold, revels in anthem \nBreezy Johnson wins first U.S. gold, revels in anthem \nWatch the 2026 Milan Cortina Olympics on NBC and streaming on Peacock",
+        "positive": 0.04487927258014679,
+        "negative": 3.247503627790138e-05,
+        "neutral": 0.9550882577896118
+      },
+      {
+        "source": "news",
+        "id": "https://hackread.com/uk-construction-firm-prometei-botnet-windows-server/",
+        "timestamp": "2026-02-08T16:42:52+00:00",
+        "text": "UK Construction Firm Hit by Prometei Botnet Hiding in Windows Server \nCybersecurity firm eSentire's TRU break down the Russian Prometei botnet attack on a UK firm, detailing its TOR usage, password theft and decoy tactics. \nIn January 2026, a UK construction firm discovered a digital “tenant from hell” hiding on its Windows Server. Security experts from the eSentire Threat Response Unit (TRU) identified the intruder as … [+2512 chars]",
+        "positive": 0.0009346831357106566,
+        "negative": 0.003912682645022869,
+        "neutral": 0.9951525926589966
+      },
+      {
+        "source": "news",
+        "id": "https://www.highsnobiety.com/p/nike-pegasus-premium-natural/",
+        "timestamp": "2026-02-08T16:42:02+00:00",
+        "text": "Nike’s Freshest Running Shoe Looks Better in Its Natural Swooshless State \nNike reveals another \"swooshless\" Pegasus Premium running sneaker, this time dressed in a clean \"Natural\" colorway. \nNike's Pegasus Premium sneaker looks good in just about any colorway. But it's really a treat in its natural state.\r\nThe newest color scheme is even dubbed \"Natural,\" emerging as this cream-white tak… [+1518 chars]",
+        "positive": 0.999882698059082,
+        "negative": 1.5496899550271337e-06,
+        "neutral": 0.00011572345101740211
+      },
+      {
+        "source": "news",
+        "id": "https://pleated-jeans.com/2026/02/08/home-design-regrets/",
+        "timestamp": "2026-02-08T16:41:04+00:00",
+        "text": "“Not Worth It” — 16 Homeowners Share The Home Decor Trends They Followed But Regretted \nMost “revolutionary” home design trends are really just clever ways to trick you into paying $15,000 for a kitchen that is impossible to keep clean. It’s all fun and games in a glossy magazine spread until you’re actually living in a house where every sneeze … \nMost “revolutionary” home design trends are really just clever ways to trick you into paying $15,000 for a kitchen that is impossible to keep clean.\r\nIts all fun and games in a glossy magazine spread… [+5854 chars]",
+        "positive": 8.845889533404261e-05,
+        "negative": 0.00015389650070574135,
+        "neutral": 0.999757707118988
+      },
+      {
+        "source": "news",
+        "id": "https://www.themarginalian.org/2026/02/08/samin-nosrat-yo-yo-ma-interview/",
+        "timestamp": "2026-02-08T16:40:25+00:00",
+        "text": "The Blessing of Burnout: Samin Nosrat on the Faustian Bargain of Achievement and the Simple Substance of the Good Life \nWe live in a bipolar epoch — on one end, the blamethirsty finger of cancel culture and politicized othering; on the other, the zeal for designating people, real human beings with real human lives, as secular saints expected to give us unremitting consolation,… \nWe live in a bipolar epoch — on one end, the blamethirsty finger of cancel culture and politicized othering; on the other, the zeal for designating people, real human beings with real human lives, as… [+4375 chars]",
+        "positive": 1.4375498722074553e-05,
+        "negative": 0.0015911499503999949,
+        "neutral": 0.9983944296836853
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/02/08/tech/apps-to-boycott-us-goods-over-greenland/",
+        "timestamp": "2026-02-08T16:40:14+00:00",
+        "text": "Boycott on US goods in Greenland surges as app sees massive spike in downloads \nThe creator of the “Made O’Meter” app, Ian Rosenfeldt, said he saw around 30,000 downloads of the free app in just three days at the height of the trans-Atlantic diplomatic crisis in late January out of more than 100,000 since it was launched in March. \nCOPENHAGEN The makers of mobile apps designed to help shoppers identify and boycott American goods say they saw a surge of interest in Denmark and beyond after the recent flare-up in tensions over U.… [+5265 chars]",
+        "positive": 0.9964885711669922,
+        "negative": 0.00030382268596440554,
+        "neutral": 0.003207528032362461
+      },
+      {
+        "source": "news",
+        "id": "http://comicbook.com/gaming/news/another-xbox-game-pass-price-increase-may-be-coming-soon/",
+        "timestamp": "2026-02-08T16:39:00+00:00",
+        "text": "Another Xbox Game Pass Price Increase May Be Coming Soon \nIt sounds like another Xbox Game Pass price increase is coming soon. Last year, Xbox Game Pass Ultimate got a massive price increase, bringing it from $20 to $30 a month. There are cheaper tiers than this, like PC Game Pass, which costs $16.49 a month. Meanwh… \nIt sounds like another Xbox Game Pass price increase is coming soon. Last year, Xbox Game Pass Ultimate got a massive price increase, bringing it from $20 to $30 a month. There are cheaper tiers than… [+2355 chars]",
+        "positive": 0.08008181303739548,
+        "negative": 0.0003941537288483232,
+        "neutral": 0.9195240139961243
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/india/pm-modi-vows-stronger-india-malaysia-ties-in-strategic-pivot-says-no-room-for-double-standards-on-terror/articleshow/128078170.cms",
+        "timestamp": "2026-02-08T16:38:49+00:00",
+        "text": "PM Modi vows stronger India-Malaysia ties in strategic pivot; says no room for double standards on terror \nIndia and Malaysia are set to boost cooperation in key sectors like trade, investment, and semiconductors. Prime Ministers Narendra Modi and Anwar Ibrahim committed to peace and stability in the Indo-Pacific. Both nations signed 11 agreements, strengthening t… \nKuala Lumpur: India and Malaysia on Sunday vowed to expand their ties in the high-priority sectors of trade and investment, defence, energy, advanced manufacturing and semiconductors with Prime Minis… [+5850 chars]",
+        "positive": 0.9803653359413147,
+        "negative": 0.00011356795585015789,
+        "neutral": 0.019520994275808334
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/sport/alpine-skiing-cortina-smiles-johnson-after-previous-pain-5916181",
+        "timestamp": "2026-02-08T16:38:23+00:00",
+        "text": "Alpine skiing-Cortina smiles on Johnson after previous pain \nCORTINA D'AMPEZZO, Italy, Feb 8 : Cortina d'Ampezzo's Olimpia della Tofane piste wrecked Breezy Johnson's Olympic downhill hopes four years ago but made amends on Sunday, even if the gold medal came apart minutes after being hung round her neck.Johnson held u… \nCORTINA D'AMPEZZO, Italy, Feb 8 : Cortina d'Ampezzo's Olimpia della Tofane piste wrecked Breezy Johnson's Olympic downhill hopes four years ago but made amends on Sunday, even if the gold medal came … [+2495 chars]",
+        "positive": 7.547869608970359e-05,
+        "negative": 2.849982956831809e-05,
+        "neutral": 0.9998960494995117
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5832bf8-97f2-4222-972b-ffd294e1ed8d",
+        "timestamp": "2026-02-08T16:38:00+00:00",
+        "text": "Seahawks vs Patriots Predictions: Best Player Prop Markets Like Kalshi \nDiscover how to trade player props and other Super Bowl 60 markets on Kalshi before the big game! \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 1.9796254491666332e-05,
+        "negative": 1.0482724974281155e-05,
+        "neutral": 0.9999697208404541
+      },
+      {
+        "source": "news",
+        "id": "https://screenrant.com/send-help-box-office-50-million-global-milestone/",
+        "timestamp": "2026-02-08T16:36:25+00:00",
+        "text": "Sam Raimi's New R-Rated Thriller Becomes His Second Horror Movie Ever To Pass Major Box Office Milestone \nSam Raimi's new survival thriller Send Help hits a global box office milestone that been passed by only one other horror movie from the director. \nSend Help has scared up a major box office milestone.\r\nThe movie, which stars Rachel McAdams and Dylan O'Brien as coworkers who get stranded on a desert island, is the newest horror outing from The E… [+3044 chars]",
+        "positive": 0.046151526272296906,
+        "negative": 0.027762310579419136,
+        "neutral": 0.9260861873626709
+      },
+      {
+        "source": "news",
+        "id": "https://www.niemanlab.org/2026/02/journalism-lost-its-culture-of-sharing-heres-how-we-rebuild-it/",
+        "timestamp": "2026-02-08T16:35:43+00:00",
+        "text": "Journalism lost its culture of sharing. Here’s how we rebuild it \nIf you’ve worked in a technical role in news for long enough, you likely remember when the “show your work” spirit was everywhere. Newsroom nerds shared code on GitHub, swapped tips on social media and unfurled long blogs guiding others on how to get things d… \nThis story was originally published by Source, a website from OpenNews that amplifies the impact of journalism code and the community of developers, designers, journalists, and editors who make it.\r\n… [+12492 chars]",
+        "positive": 0.0005704828654415905,
+        "negative": 0.3068407475948334,
+        "neutral": 0.6925886869430542
+      },
+      {
+        "source": "news",
+        "id": "https://www.indystar.com/story/sports/high-school/2026/02/08/ihsaa-wrestling-see-which-indy-area-wrestlers-advanced-to-semistate/88578660007/",
+        "timestamp": "2026-02-08T16:35:24+00:00",
+        "text": "On to semistate: See which Indy-area wrestlers advance through regionals \nCheck out which Indy-area wrestlers advanced through regional meets into Saturday's semistate meets. \nThe high school wrestling season will move to the semistate round next week. Here is a look at the Central Indiana wrestlers who advanced though the regional meets on Saturday:\r\n<ol><li>Zionsville 13… [+9216 chars]",
+        "positive": 2.1838911834493047e-06,
+        "negative": 1.2125960893172305e-06,
+        "neutral": 0.9999966621398926
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/2006-lexus-lx470-72/",
+        "timestamp": "2026-02-08T16:35:10+00:00",
+        "text": "2006 Lexus LX470 \nThis 2006 Lexus LX470 is finished in Classic Silver Metallic over gray leather, and it is powered by a 4.7-liter V8 linked with a five-speed automatic transmission, a dual-range transfer case, and a locking center differential. Features include a power sunroo… \nThis 2006 Lexus LX470 is finished in Classic Silver Metallic over gray leather, and it is powered by a 4.7-liter V8 linked with a five-speed automatic transmission, a dual-range transfer case, and a … [+2175 chars]",
+        "positive": 0.00020603893790394068,
+        "negative": 1.093035280064214e-05,
+        "neutral": 0.9997829794883728
+      },
+      {
+        "source": "news",
+        "id": "https://www.rt.com/news/632169-canada-france-open-consulates-greenland-us-rift-trump/",
+        "timestamp": "2026-02-08T16:33:14+00:00",
+        "text": "Canada and France move into Greenland as US eyes the island \nCanada and France have established consulates in Greenland after President Donald Trump doubled down on the US claim to the Danish territory Read Full Article at RT.com \nCanada and France have established consulates in Greenland amid a rift between the US and other NATO member states over the Danish-controlled autonomous territory.\r\nUS President Donald Trump recently… [+2144 chars]",
+        "positive": 0.004525871481746435,
+        "negative": 0.00022087479010224342,
+        "neutral": 0.9952532052993774
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/sport/olympic-biathlon-simons-mental-strength-delivers-glorious-french-relay-gold-5916166",
+        "timestamp": "2026-02-08T16:31:44+00:00",
+        "text": "Olympic-Biathlon-Simon's mental strength delivers glorious French relay gold \nANTERSELVA, Italy, Feb 8 : Favourites France delivered an expected gold medal in the first biathlon event of the Milano Cortina Games, leaning on the instincts of anchorwoman Julia Simon whose imperious final leg secured them a perfect start to the competitio… \nANTERSELVA, Italy, Feb 8 : Favourites France delivered an expected gold medal in the first biathlon event of the Milano Cortina Games, leaning on the instincts of anchorwoman Julia Simon whose imperi… [+1789 chars]",
+        "positive": 0.08253362774848938,
+        "negative": 8.808510756352916e-05,
+        "neutral": 0.9173783659934998
+      },
+      {
+        "source": "news",
+        "id": "https://www.c-sharpcorner.com/article/turning-your-knowledge-graph-into-an-mcp-server-with-fastmcp/",
+        "timestamp": "2026-02-08T16:31:18+00:00",
+        "text": "Turning your Knowledge Graph into an MCP Server with FastMCP \nExpose your GraphRAG knowledge graph as an MCP server using FastMCP! Enable AI agents to discover & query it automatically. Build a universal AI tool connector. \nIntroduction\r\nIn Part 1, we built a knowledge graph from company documents using Microsoft GraphRAG and Azure OpenAI. We ended up with 40 entities, 45 relationships, and the ability to answer complex… [+17099 chars]",
+        "positive": 0.16150695085525513,
+        "negative": 3.611093052313663e-05,
+        "neutral": 0.838456928730011
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/02/08/betting/betmgm-bonus-code-nypdm1500-get-a-20-first-deposit-match-up-to-1500-for-seahawks-vs-patriots-octopus-bets/",
+        "timestamp": "2026-02-08T16:30:00+00:00",
+        "text": "BetMGM bonus code NYPDM1500: Get a 20% first deposit match up to $1,500 for Super Bowl 2026 Octopus \nGet a 20% first deposit match up to $1,500 in sports bonus for Seahawks vs. Patriots. \nGambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nWe’re just hours away from the bigges… [+2547 chars]",
+        "positive": 0.0001590605388628319,
+        "negative": 3.3057483506127028e-06,
+        "neutral": 0.9998375177383423
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/indiaincdelivers-well-in-q3-fy26/article70607870.ece",
+        "timestamp": "2026-02-08T16:28:19+00:00",
+        "text": "India Inc delivers well in Q3 FY26 \nIndia Inc reports solid Q3 FY26 growth, driven by GST cuts, but faces potential headwinds from rising commodity costs. \nIndia Inc continued to report good top and bottomline growth in Q3FY26. Out of the 1,180 companies that reported results till February 5, revenue and PAT growth was at 10.6/13 per cent YoY.\r\nExcludin… [+3045 chars]",
+        "positive": 1.0,
+        "negative": 6.6083973848662936e-09,
+        "neutral": 4.442942902471714e-09
+      },
+      {
+        "source": "news",
+        "id": "https://www.antiwar.com/blog/2026/02/08/a-diminishing-special-providence-a-plea-for-humility-and-self-awareness-prior-to-war-with-iran/",
+        "timestamp": "2026-02-08T16:27:02+00:00",
+        "text": "A Diminishing Special Providence: A Plea for Humility and Self-Awareness Prior to War With Iran \nGod has a special providence for fools, drunkards and the United States of America. ~Otto von Bismarck (attributed) It is the same in all wars; the soldiers do the fighting, the journalists do the shouting, and no true patriot ever gets near a front-line tren… \nThe Air Force has its own manpower and maintenance problems, and its ability to surge additional squadrons to the Middle East is further constrained by commitments worldwide. In 2024 (latest data ava… [+16865 chars]",
+        "positive": 0.010511881671845913,
+        "negative": 0.0991322323679924,
+        "neutral": 0.8903558850288391
+      },
+      {
+        "source": "news",
+        "id": "https://www.ladbible.com/news/sport/lindsey-vonn-ski-slope-acl-update-247907-20260208",
+        "timestamp": "2026-02-08T16:26:43+00:00",
+        "text": "Update on Lindsey Vonn's condition after being helicoptered off slope \nShe ruptured her ACL nine days before competing in the Winter Olympics \nLindsey Vonn crashed out during the women's downhill competition at the Milan-Cortina Winter Olympic Games earlier today (8 February).\r\nAnd this came following her announcement just over a week ago t… [+1131 chars]",
+        "positive": 0.01409806776791811,
+        "negative": 0.024616828188300133,
+        "neutral": 0.9612850546836853
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/city/ranchi/ranchi-family-planning-low-male-sterilization-rates-highlight-gender-gap/articleshow/128077759.cms",
+        "timestamp": "2026-02-08T16:25:08+00:00",
+        "text": "Ranchi Family Planning: Low Male Sterilization Rates Highlight Gender Gap \nMale participation in permanent family planning in Ranchi remains significantly low, with only 44 vasectomies performed last year compared to over 2,845 female sterilizations. Deep-rooted myths, lack of awareness, and social stigma contribute to this disparit… \nFollow Us On Social Media\r\nBigg Boss Marathi 6 Eviction: After Divya Shinde, Omkar Raut eliminated from the Riteish Deshmukh's showRedmi Note 15 review: Balanced performance with stylish designIs the… [+1714 chars]",
+        "positive": 1.7926771761267446e-05,
+        "negative": 0.9983982443809509,
+        "neutral": 0.0015838021645322442
+      },
+      {
+        "source": "news",
+        "id": "https://www.covers.com/olympics/canada-vs-czechia-prediction-picks-best-bets-february-9-2026",
+        "timestamp": "2026-02-08T16:24:00+00:00",
+        "text": "Canada vs Czechia Prediction, Picks & Odds for Monday’s Women's Olympic Hockey Game \nCordell's prediction: Expect a convincing victory for Canada over Czechia. \nThe powerhouse United States played Czechia to open their tournament and won in blowout fashion.\r\nMy Canada vs. Czechia predictions see the red and white putting forth a similarly decisive performanc… [+2608 chars]",
+        "positive": 0.9996354579925537,
+        "negative": 0.00018172977434005588,
+        "neutral": 0.00018277872004546225
+      },
+      {
+        "source": "news",
+        "id": "https://zycrypto.com/zkp-ipo-genie-pepeto-and-blockchainfx-worth-watching-amongst-top-crypto-presale-list-for-2026/",
+        "timestamp": "2026-02-08T16:23:01+00:00",
+        "text": "ZKP, IPO Genie, Pepeto, and BlockchainFX Worth Watching Amongst Top Crypto Presale List for 2026 \nThe ongoing market pullback has pushed Bitcoin below $78,000, creating uncertainty across many retail portfolios. Still, this kind of decline often helps surface strong top crypto presale opportunities for those thinking long term. When major assets become un… \nDisclaimer: The below article is sponsored, and the views in it do not represent those of ZyCrypto. Readers should conduct independent research before taking any actions related to the project mentio… [+6156 chars]",
+        "positive": 0.0031210477463901043,
+        "negative": 0.01721661165356636,
+        "neutral": 0.979662299156189
+      },
+      {
+        "source": "news",
+        "id": "https://www.cosmopolitan.com/entertainment/a70279235/lindsey-vonn-crashes-olympic-downhill-medal-attempt-acl-tear/",
+        "timestamp": "2026-02-08T16:21:00+00:00",
+        "text": "Lindsey Vonn Crashes While Skiing During Her Olympic Downhill Medal Attempt, Days After Tearing Her ACL \nLindsey Vonn crashed while attempting to medal for Team USA in the women's Winter Olympic downhill on February 9. ﻿The athlete's accident comes days after a torn ACL. \n<ul><li>Lindsey Vonn crashed while attempting to win a medal for Team USA in the women's Winter Olympic downhill on Sunday. </li><li>The athlete's pole snagged a gate 13 seconds into her attempt, whi… [+2826 chars]",
+        "positive": 0.0005527462344616652,
+        "negative": 0.00461072800680995,
+        "neutral": 0.9948365688323975
+      },
+      {
+        "source": "news",
+        "id": "https://www.nbcsports.com/nba/news/how-to-watch-oklahoma-city-thunder-vs-los-angeles-lakers-tv-live-stream-info-for-mondays-game",
+        "timestamp": "2026-02-08T16:19:36+00:00",
+        "text": "How to watch Oklahoma City Thunder vs. Los Angeles Lakers: TV/live stream info for Monday's game \nShort-handed Western Conference powerhouses collide Monday as the Thunder face the Lakers on Peacock. \nWestern Conference powerhouses collide on Monday when the Oklahoma City Thunder take on the Los Angeles Lakers at 10:00 PM ET. This marquee matchup is the second game of a doubleheader on Peacock aft… [+4281 chars]",
+        "positive": 8.333969162777066e-05,
+        "negative": 4.334470304456772e-06,
+        "neutral": 0.9999123811721802
+      },
       {
         "source": "news",
         "id": "https://timesofindia.indiatimes.com/city/ranchi/lok-bhavan-garden-ranchi-extended-opening-due-to-massive-public-demand-rose-varieties-history-draw-crowds/articleshow/128077532.cms",
@@ -302,33 +1004,6 @@
       },
       {
         "source": "news",
-        "id": "https://radaronline.com/p/ex-nypd-stuns-fox-news-nancy-guthrie-alleged-kidnappers-unable-prove-alive/",
-        "timestamp": "2026-02-08T16:00:00+00:00",
-        "text": "Ex-NYPD Inspector Stuns Fox News Hosts With Grim Claim Nancy Guthrie's Alleged Kidnappers May Be 'Unable' to Prove She's Alive \nEx-NYPD inspector stuns Fox News with a grim theory about Nancy Guthrie's disappearance. \nAs the search for Nancy entered its seventh day, investigators carried out a renewed late-night operation in Tucson, Arizona.\r\nLaw enforcement officers were seen returning to the home of Savannah Gut… [+842 chars]",
-        "positive": 0.009035090915858746,
-        "negative": 0.0021297461353242397,
-        "neutral": 0.9888351559638977
-      },
-      {
-        "source": "news",
-        "id": "http://robbreport.com/shelter/home-design/pantelleria-dammuso-home-renovation-1237510685/",
-        "timestamp": "2026-02-08T16:00:00+00:00",
-        "text": "Inside a Remote Sicilian Estate That’s Been Transformed Into a Luxe Family Retreat \nOn the remote island of Pantelleria, a Milanese architect and her husband transformed a Sicilian dammuso into a family retreat. Here's how. \nFor Isabella Franco, founder of Lupettatelier, the idea of a home by the sea had been quietly forming for decades. The Milan-based architect and her husband, Riccardo Proni, spent years traveling acr… [+10719 chars]",
-        "positive": 0.017626788467168808,
-        "negative": 0.00017768205725587904,
-        "neutral": 0.9821954369544983
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/02/08/betting/super-bowl-2026-gatorade-color-odds-prediction-for-patriots-vs-seahawks/",
-        "timestamp": "2026-02-08T16:00:00+00:00",
-        "text": "Super Bowl 2026 Gatorade color odds, prediction for Patriots vs. Seahawks \nOne of the hottest markets for the Super Bowl has very little to do with the actual game. \nGambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nOne of the hottest markets for Super … [+2670 chars]",
-        "positive": 9.392988431500271e-06,
-        "negative": 2.746083509919117e-06,
-        "neutral": 0.9999878406524658
-      },
-      {
-        "source": "news",
         "id": "https://sports.yahoo.com/articles/nhl-players-arrive-milan-returning-155640349.html",
         "timestamp": "2026-02-08T15:56:40+00:00",
         "text": "NHL players arrive in Milan, returning to the Winter Olympics after a 12-year absence \nLukas Dostal was in a rush to get to the Olympics. Earlier this week, the Czech goaltender became the first NHL player to take the ice for practice with his national team. Sweden was the first of the teams made up of almost exclusively NHL talent to take the … \nMILAN (AP) Lukas Dostal was in a rush to get to the Olympics. Earlier this week, the Czech goaltender became the first NHL player to take the ice for practice with his national team.\r\nWhat would I do… [+2636 chars]",
@@ -344,33 +1019,6 @@
         "positive": 0.03965713456273079,
         "negative": 0.00023615524696651846,
         "neutral": 0.9601067304611206
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/opinion/editorial/editorial-trade-reset/article70607874.ece",
-        "timestamp": "2026-02-08T15:53:58+00:00",
-        "text": "Editorial. Trade reset \nUS tariff cuts are welcome but energy security is paramount \nIndia and the United States have announced the finalisation of the framework for an interim agreement, which is a precursor to a trade deal, that signals a partial reset in bilateral commercial ties.… [+3023 chars]",
-        "positive": 0.2434324473142624,
-        "negative": 0.000887773057911545,
-        "neutral": 0.7556797862052917
-      },
-      {
-        "source": "news",
-        "id": "https://www.mensjournal.com/news/tommaso-cioni-annie-guthrie-nancy-guthrie-son-in-law-house",
-        "timestamp": "2026-02-08T15:52:39+00:00",
-        "text": "Tommaso Cioni, Annie Guthrie House Receives Flurry of Law Enforcement Attention \nLaw enforcement has given new attention to the Tucson home of Nancy Guthrie's daughter, Annie Guthrie, and her husband, Tommaso Cioni. According to Fox News ... \nLaw enforcement has given new attention to the Tucson home of Nancy Guthrie's daughter, Annie Guthrie, and her husband, Tommaso Cioni.\r\nAccording to Fox News reporter Sarah Rumpf Whitten, investigato… [+3671 chars]",
-        "positive": 0.004890096373856068,
-        "negative": 0.000446624297183007,
-        "neutral": 0.9946632385253906
-      },
-      {
-        "source": "news",
-        "id": "https://en.antaranews.com/news/403546/indonesia-prepares-emergency-measures-to-save-mahakam-dolphins",
-        "timestamp": "2026-02-08T15:52:01+00:00",
-        "text": "Indonesia prepares emergency measures to save Mahakam dolphins \nThe Indonesian Ministry of Environment is currently preparing emergency measures to save the Mahakam dolphin (Orcaella brevirostris) population, which has ... \nKutai Kartanegara, E Kalimanta (ANTARA) - The Indonesian Ministry of Environment is currently preparing emergency measures to save the Mahakam dolphin (Orcaella brevirostris) population, which has re… [+2244 chars]",
-        "positive": 8.694103598827496e-05,
-        "negative": 3.10164614347741e-05,
-        "neutral": 0.9998821020126343
       },
       {
         "source": "news",
@@ -392,39 +1040,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.ubergizmo.com/2026/02/global-innovation-forum-2026-judging-startups/",
-        "timestamp": "2026-02-08T15:49:59+00:00",
-        "text": "Inside The Global Innovation Forum 2026: Judging the World’s Promising Startups \nAttending the Global Innovation Forum at CES 2026 gave me a rare, concentrated look at how innovation is taking shape across the world’s leading startup ecosystems. This year again, I participated as one of the judges for the forum’s international pitching co… \nAttending the Global Innovation Forum at CES 2026 gave me a rare, concentrated look at how innovation is taking shape across the worlds leading startup ecosystems. This year again, I participated as … [+3194 chars]",
-        "positive": 0.004502406343817711,
-        "negative": 2.4251856302726083e-05,
-        "neutral": 0.995473325252533
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/india-expected-to-see-surge-in-parkinsons-disease-becoming-2nd-highest-in-5-yrs-experts-at-6th-international-annual-symposium-2026-in-kerala/articleshow/128076658.cms",
-        "timestamp": "2026-02-08T15:49:42+00:00",
-        "text": "India expected to see surge in Parkinson's disease, becoming 2nd-highest in 5 yrs: Experts at 6th International Annual Symposium-2026 in Kerala \nIndia faces a surge in Parkinson's disease cases, potentially becoming second globally. Young-onset Parkinson's is a growing concern in Southeast Asia. Experts at a Kerala symposium highlighted the need for region-specific research and affordable treatments. … \nThiruvananthapuram (Kerala): India is expected to see a significant surge in Parkinson's disease cases, potentially becoming the country with the second-highest number of patients globally. Experts a… [+3945 chars]",
-        "positive": 0.9779946208000183,
-        "negative": 0.021083714440464973,
-        "neutral": 0.0009215783793479204
-      },
-      {
-        "source": "news",
         "id": "https://news.sky.com/story/d-day-survivor-dedicated-to-fallen-comrades-dies-aged-100-13504960",
         "timestamp": "2026-02-08T15:49:00+00:00",
         "text": "D-Day survivor 'dedicated' to 'fallen comrades' dies aged 100 \nStan Ford, of Bath, suffered life-changing injuries onboard the HMS Fratton when it was sunk off the coast of Normandy on 18 August 1944. \nA veteran who survived the D-Day landings has died at the age of 100. \r\nStan Ford \"dedicated himself to keeping alive the memory of his fallen comrades\", according to the Normandy Memorial Trust.\r\nMr… [+2293 chars]",
         "positive": 0.044733453541994095,
         "negative": 0.41731566190719604,
         "neutral": 0.5379509329795837
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/politics/2026/02/08/protest-targeting-bord-bia-over-chairmans-brazilian-beef-imports-very-disappointing-minister-says/",
-        "timestamp": "2026-02-08T15:48:48+00:00",
-        "text": "Protest targeting Bord Bia over chairman’s Brazilian beef imports ‘very disappointing’, Minister says \nHildegarde Naughton: farming lobby protests ‘potentially very damaging’ to agri-food sector \nThe farming lobbys targeting Bord Bia and its chair Larry Murrin over beef imports is very disappointing, Minister for Education Hildegarde Naughton has said.\r\nThe Fine Gael TD said protests by farm … [+3935 chars]",
-        "positive": 0.00015623163199052215,
-        "negative": 0.9996441602706909,
-        "neutral": 0.00019959532073698938
       },
       {
         "source": "news",
@@ -443,24 +1064,6 @@
         "positive": 0.0017060121754184365,
         "negative": 0.023126957938075066,
         "neutral": 0.9751670360565186
-      },
-      {
-        "source": "news",
-        "id": "https://www.thegatewaypundit.com/2026/02/watch-savannah-guthrie-echoed-iconic-silence-lambs-line/",
-        "timestamp": "2026-02-08T15:45:39+00:00",
-        "text": "WATCH: Savannah Guthrie Echoed Iconic ‘Silence of the Lambs’ Line Word for Word in Tearful Plea for Kidnapped Mother’s Release \nNBC “Today” show co-anchor Savannah Guthrie delivered a video plea for the safe return of her kidnapped mother, Nancy Guthrie, that eerily mirrored a famous line from the 1991 film The Silence of the Lambs.\nThe post WATCH: Savannah Guthrie Echoed Iconic ‘Sile… \nNBC “Today” show co-anchor Savannah Guthrie delivered a video plea for the safe return of her kidnapped mother, Nancy Guthrie, that eerily mirrored a famous line from the 1991 film The Silence of the… [+1797 chars]",
-        "positive": 0.00039008582825772464,
-        "negative": 4.4503995013656095e-05,
-        "neutral": 0.9995654225349426
-      },
-      {
-        "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_75ed2ac9-d828-497e-8f77-78de9999ad13",
-        "timestamp": "2026-02-08T15:44:00+00:00",
-        "text": "Will Tariffs & EVs Destroy This Top Stock's Bottom Line in 2026? \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 1.6274578229058534e-05,
-        "negative": 6.152000878500985e-06,
-        "neutral": 0.9999774694442749
       },
       {
         "source": "news",
@@ -491,24 +1094,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.rawstory.com/trump-national-police-association-fight/",
-        "timestamp": "2026-02-08T15:38:31+00:00",
-        "text": "Conservative police group takes fight to Fox reporter while accusing Trump of breaking law \nThe National Police Association supported Trump's Stop ANTIFA Act of 2025 and endorsed his pick of Kash Patel to head the FBI, but now the group is calling out the Trump administration for breaking the law.FOX Biz senior correspondent Charles Gasparino, who r… \nThe National Police Association supported Trump's Stop ANTIFA Act of 2025 and endorsed his pick of Kash Patel to head the FBI, but now the group is calling out the Trump administration for breaking t… [+1238 chars]",
-        "positive": 0.00227171229198575,
-        "negative": 0.0014180779689922929,
-        "neutral": 0.9963101744651794
-      },
-      {
-        "source": "news",
-        "id": "https://petapixel.com/2026/02/08/my-photography-boomed-when-i-stopped-looking-at-social-media/",
-        "timestamp": "2026-02-08T15:36:42+00:00",
-        "text": "My Photography Boomed When I Stopped Looking at Social Media \nSocial media was once the backbone of marketing for photography businesses. However, we now have strong reasons to leave it behind and adopt a different approach to photography. Why did my recent behavior change prove this to be true?\n[Read More] \nSocial media was once the backbone of marketing for photography businesses. However, we now have strong reasons to leave it behind and adopt a different approach to photography. Why did my recent beh… [+11830 chars]",
-        "positive": 0.9976759552955627,
-        "negative": 3.49329857272096e-05,
-        "neutral": 0.0022891093976795673
-      },
-      {
-        "source": "news",
         "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1cd9bfc2-8386-42ba-af74-bc6fe047224c",
         "timestamp": "2026-02-08T15:35:00+00:00",
         "text": "Gold Soars While Bitcoin Slips Below $90,000. Should Fans of the Leading Crypto Be Worried? \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
@@ -518,66 +1103,12 @@
       },
       {
         "source": "news",
-        "id": "http://www.toffeeweb.com/season/25-26/news/47257.html",
-        "timestamp": "2026-02-08T15:35:00+00:00",
-        "text": "Fulham vs Everton: Preview, Prediction and Where to Watch \nEverton, unbeaten in their last four matches, will face Fulham at Craven Cottage on Saturday.The Blues are 10th in the league table as things stand and are five points away from the top six. They will... \nEverton, unbeaten in their last four matches, will face Fulham at Craven Cottage on Saturday.\r\nThe Blues are 10th in the league table as things stand and are five points away from the top six. They w… [+21336 chars]",
-        "positive": 4.203349453746341e-05,
-        "negative": 3.1573006708640605e-05,
-        "neutral": 0.9999263286590576
-      },
-      {
-        "source": "news",
-        "id": "https://www.coindesk.com/markets/2026/02/08/odds-of-jesus-christ-appearing-in-2026-double-beating-return-on-bitcoin",
-        "timestamp": "2026-02-08T15:33:32+00:00",
-        "text": "Odds of Jesus Christ appearing in 2026 double, beating return on bitcoin \nThe Polymarket bet is a reminder that the weirdest corners of crypto are sometimes the only ones going up. \nTraders on prediction market Polymarket have doubled the implied odds of the Second Coming of Jesus Christ occurring by year-end, turning one of the platforms stranger contracts into a better perform… [+2197 chars]",
-        "positive": 0.9998351335525513,
-        "negative": 1.843872269091662e-06,
-        "neutral": 0.00016304690507240593
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/companies/india-us-deal-premium-us-brands-to-get-more-accessible-for-indian-consumers/article70608007.ece",
-        "timestamp": "2026-02-08T15:33:13+00:00",
-        "text": "India-US deal : Premium US brands to get more accessible for Indian consumers \nThe India-US trade deal enhances access to premium American brands for Indian consumers while boosting local exports and retail supply chains. \nThe India-US trade framework is expected to widen Indian consumers access to American brands especially at the premium end in categories such as cosmetics, personal care, wines and alcoholic beverage… [+2711 chars]",
-        "positive": 0.9999983310699463,
-        "negative": 4.5573475659921314e-08,
-        "neutral": 1.6106777138702455e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.thegatewaypundit.com/2026/02/investigators-one-wearing-blue-gloves-carry-late-night/",
-        "timestamp": "2026-02-08T15:30:58+00:00",
-        "text": "Investigators, One Wearing BLUE GLOVES, Carry Out Late-Night Search of Home of Savannah Guthrie’s Sister – Mysterious Silver Briefcase Also Emerges as Authorities Take Photos (VIDEO) \nThe search for Nancy Guthrie may have reached a new, potentially heartbreaking stage, with an unexpected late-night search.\nThe post Investigators, One Wearing BLUE GLOVES, Carry Out Late-Night Search of Home of Savannah Guthrie’s Sister – Mysterious Silver B… \nInvestigators searched Annie Guthrie’s home late Saturday night. Credit: Brian Entin X\r\nThe search for Nancy Guthrie may have reached a new, potentially heartbreaking stage, with an unexpected late-n… [+2215 chars]",
-        "positive": 0.00011467502918094397,
-        "negative": 1.1317241842334624e-05,
-        "neutral": 0.9998739957809448
-      },
-      {
-        "source": "news",
         "id": "http://futurism.com/science-energy/golden-dome-tax-trump",
         "timestamp": "2026-02-08T15:30:00+00:00",
         "text": "There’s Not Enough Money in the World for Trump’s Golden Dome \nOn top of being wildly impractical, Donald Trump's Golden Dome missile defense system will come at an astonishing cost to taxpayers. \nAt $175 billion, Donald Trump’s Golden Dome missile defense system already came with an astonishing price tag. Yet according to one new analysis by the group Taxpayers for Common Sense, that early es… [+2622 chars]",
         "positive": 0.0018483275780454278,
         "negative": 0.0029531121253967285,
         "neutral": 0.9951985478401184
-      },
-      {
-        "source": "news",
-        "id": "https://www.sfchronicle.com/tech/article/waymo-robotaxis-remote-workers-21338183.php",
-        "timestamp": "2026-02-08T15:30:00+00:00",
-        "text": "Those ‘Self-Driving’ Cars Are Often Piloted By Humans 8,000 Miles From San Francisco \nYes, Soylent Green is people, and … so is Waymo? “The autonomous vehicle company uses remote workers in the Philippines to assist its self-driving cars, including those operating daily on Bay Area roads.” – San Francisco Chronicle (Yahoo) \nWaymo's robotaxis roaming San Francisco streets sometimes call for help - help that can come from halfway around the world.\r\nIn testimony before the U.S. Senate this week, held after a Waymo struck a… [+2140 chars]",
-        "positive": 4.617070953827351e-05,
-        "negative": 1.021567004499957e-05,
-        "neutral": 0.9999436140060425
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/02/08/betting/kalshi-promo-code-nypmax-trade-10-get-10-on-super-bowl-mvp-markets/",
-        "timestamp": "2026-02-08T15:30:00+00:00",
-        "text": "Kalshi promo code NYPMAX: Trade $10, get $10 on Super Bowl MVP markets \nGet $10 at Kalshi to trade on the Big Game MVP market. \nGambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nOf the 59 past Super Bowl MVPs, 34 of… [+2623 chars]",
-        "positive": 3.871877561323345e-05,
-        "negative": 1.1278642887191381e-05,
-        "neutral": 0.9999499320983887
       },
       {
         "source": "news",
@@ -599,15 +1130,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/forex/rupee-could-strengthen-in-near-term-on-back-of-india-us-trade-deal/article70608187.ece",
-        "timestamp": "2026-02-08T15:27:08+00:00",
-        "text": "Rupee could strengthen in near-term on back of India-US trade deal \nRupee expected to strengthen towards 89 against USD following positive India-US trade deal, reversing recent depreciation trends. \nThe rupee could find short-term support in the wake of India and the US reaching a framework for an Interim Agreement regarding reciprocal and mutually beneficial trade, with market experts seeing th… [+1596 chars]",
-        "positive": 0.9999978542327881,
-        "negative": 4.0473474882674054e-07,
-        "neutral": 1.8237146832689177e-06
-      },
-      {
-        "source": "news",
         "id": "https://www.businessinsider.com/bad-bunny-style-best-worst",
         "timestamp": "2026-02-08T15:27:01+00:00",
         "text": "12 of Bad Bunny's best and worst looks throughout his career \nFrom bold red carpets to headline-making performances, take a look at Bad Bunny's best and worst fashion moments over the years. \nBad Bunny's 2026 style is far from what he wore in 2017.Amy Sussman/Getty Images/Alberto Rodriguez/Telemundo/NBCU Photo Bank/NBCUniversal via Getty Images\r\n<ul><li>Bad Bunny is headlining the Super B… [+9233 chars]",
@@ -617,39 +1139,12 @@
       },
       {
         "source": "news",
-        "id": "https://finance.yahoo.com/news/strong-top-line-growth-drives-152657858.html",
-        "timestamp": "2026-02-08T15:26:57+00:00",
-        "text": "Strong Top-Line Growth Drives Analyst Sentiment on Mastercard (MA) \nMastercard Incorporated (NYSE:MA) is included in our list of the 13 Best Extremely Profitable Stocks to Invest in Now. On February 1, 2026, BofA lowered its ... \nMastercard Incorporated (NYSE:MA) is included in our list of the 13 Best Extremely Profitable Stocks to Invest in Now.\r\nStrong Top-Line Growth Drives Analyst Sentiment on Mastercard (MA)\r\nBornfree / … [+1847 chars]",
-        "positive": 0.0010626293951645494,
-        "negative": 0.0007565661217086017,
-        "neutral": 0.9981808662414551
-      },
-      {
-        "source": "news",
-        "id": "https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19",
-        "timestamp": "2026-02-08T15:26:33+00:00",
-        "text": "The iPhone 17e could launch soon with MagSafe and an A19 chip \nAlmost exactly one year after launching the iPhone 16e, Apple is preparing to launch the 17e, according to Mark Gurman. The iPhone 17e will feature an upgraded A19 chip from the iPhone 17 lineup, plus MagSafe charging, and move Apple's in-house cellular chips… \n<ul><li></li><li></li><li></li></ul>\r\nAn updated iPad and iPad Air should land around the same time.\r\nAn updated iPad and iPad Air should land around the same time.\r\nby\r\nTerrence O'BrienClose\r\nPosts … [+2334 chars]",
-        "positive": 0.0013851337134838104,
-        "negative": 1.5633100701961666e-05,
-        "neutral": 0.9985992312431335
-      },
-      {
-        "source": "news",
         "id": "https://www.cbc.ca/sports/olympics/winter/hockey/sidney-crosby-captain-team-canada-milano-cortina-team-canada-feb8-9.7079794",
         "timestamp": "2026-02-08T15:25:48+00:00",
         "text": "Sidney Crosby named captain of Canada's men's hockey team \nTwo-time Olympic gold medallist Sidney Crosby was been named captain of Canada's men's hockey team at the Milan Cortina Games. \nTwo-time Olympic gold medallist Sidney Crosby has been named captain of Canada's men's hockey team at the Milan Cortina Games.\r\nThe Pittsburgh Penguins superstar captained Canada to a gold medal the … [+1349 chars]",
         "positive": 0.00024399741960223764,
         "negative": 0.00012414103548508137,
         "neutral": 0.9996317625045776
-      },
-      {
-        "source": "news",
-        "id": "https://hirdeshmatai.com/blog/articles-by-hirdesh-matai-1/why-influencer-marketing-feels-powerful-and-still-makes-many-founders-uneasy-4",
-        "timestamp": "2026-02-08T15:25:47+00:00",
-        "text": "Is Influencer Marketing right for D2C brands? \nInfluencer marketing looks low-risk, but many D2C founders question its long-term impact. This article explores influencer marketing risks & brand value. \nInfluencer marketing looks attractive from the outside.\r\nIt promises reach without the complexity of ads. It promises trust without years of brand building. And often, it promises safety because paym… [+4521 chars]",
-        "positive": 0.9999884366989136,
-        "negative": 1.9357125893293414e-06,
-        "neutral": 9.684277756605297e-06
       },
       {
         "source": "news",
@@ -689,15 +1184,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.lawyersgunsmoneyblog.com/2026/02/election-of-the-weekend-ii-thailand",
-        "timestamp": "2026-02-08T15:22:19+00:00",
-        "text": "Election of the Weekend II: Thailand \nJoining Japan in holding a national election this weekend is the Kingdom of Thailand. All 500 seats in the House of Representatives are up, and Thai voters will be voting on a new constitution, as well. Thanks to a 2021 amendment to the 2017 constitution, the… \nJoining Japan in holding a national election this weekend is the Kingdom of Thailand. All 500 seats in the House of Representatives are up, and Thai voters will be voting on a new constitution, as we… [+4299 chars]",
-        "positive": 0.0016369168879464269,
-        "negative": 2.7788149964180775e-05,
-        "neutral": 0.9983354210853577
-      },
-      {
-        "source": "news",
         "id": "https://www.cbsnews.com/news/a-centuries-old-diamond-hub-is-under-strain-like-never-before/",
         "timestamp": "2026-02-08T15:21:58+00:00",
         "text": "Diamonds endure as the industry feels the pressure \nFor over five centuries, Antwerp's diamond district has been the cornerstone of the global diamond trade. Now, that legacy is under strain. \nDiamonds are the ultimate status symbol, but are they really forever?\r\nFor over five centuries, Antwerp's diamond district in Belgium has been the cornerstone of the global diamond trade, through whi… [+3473 chars]",
@@ -707,39 +1193,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.cbsnews.com/news/book-excerpt-american-kings-a-biography-of-the-quarterback-seth-wickersham/?ftag=YHF4eb9d17",
-        "timestamp": "2026-02-08T15:21:48+00:00",
-        "text": "Book excerpt: \"American Kings: A Biography of the Quarterback\" \nSeth Wickersham, author of \"American Kings: A Biography of the Quarterback,\" helps us understand why quarterbacks are among the toughest positions in sports. \nWe may receive an affiliate commission from anything you buy from this article.\r\nRead an excerpt below.\r\nGet the book here:\r\n\"American Kings: A Biography of the Quarterback\"\r\nPrefer to listen? Audibl… [+26919 chars]",
-        "positive": 0.03850642591714859,
-        "negative": 0.00021844358707312495,
-        "neutral": 0.9612751603126526
-      },
-      {
-        "source": "news",
         "id": "https://nypost.com/2026/02/08/sports/olympics-tv-announcer-chemmy-alcott-breaks-down-over-lindsey-vonn-crash/",
         "timestamp": "2026-02-08T15:21:04+00:00",
         "text": "Olympics TV announcer breaks down over ‘brutal’ Lindsey Vonn crash \nWhile the crowd was silent following Lindsey Vonn's scary crash, a BBC broadcaster was holding back tears. \nWhile the crowd was silent following Lindsey Vonn’s scary crash, a BBC broadcaster was holding back tears.\r\nEmotion took over former British downhill skier Chemmy Alcott, who raced with Vonn during h… [+2777 chars]",
         "positive": 0.00019112098379991949,
         "negative": 0.001744984881952405,
         "neutral": 0.9980639815330505
-      },
-      {
-        "source": "news",
-        "id": "https://www.realtor.com/news/trends/home-buyer-purchase-agreement-cancel/",
-        "timestamp": "2026-02-08T15:20:51+00:00",
-        "text": "US metros where homebuying deals are crumbling \nSome areas see far more contract cancellations than others. \nIn today’s volatile market, a growing number of home purchase agreements are falling apart before reaching the closing table.\r\nLast year, 7.1% of homes fell out of contract and returned to being for … [+8821 chars]",
-        "positive": 0.0007885393570177257,
-        "negative": 0.9898223876953125,
-        "neutral": 0.009389117360115051
-      },
-      {
-        "source": "news",
-        "id": "https://www.psychologytoday.com/us/blog/parenting-redefined/202602/how-to-talk-about-vaping-risk-with-teens",
-        "timestamp": "2026-02-08T15:20:38+00:00",
-        "text": "How to Talk About Vaping Risk with Teens \nTalking to kids about vaping can be challenging. Parents can better understand the reasons behind vaping and how to talk to them about its dangers. \nIf youre a parent today, chances are youre worried about vapingeven if you havent said it out loud. E-cigarettes and vape devices are everywhere teens are: on social media, in school bathrooms, at pa… [+5963 chars]",
-        "positive": 0.00014555323286913335,
-        "negative": 0.6344709396362305,
-        "neutral": 0.3653835356235504
       },
       {
         "source": "news",
@@ -761,48 +1220,12 @@
       },
       {
         "source": "news",
-        "id": "https://joehoft.com/wow-a-comprehensive-list-of-trumps-accomplishments-this-term-shows-miraculous-results/",
-        "timestamp": "2026-02-08T15:19:39+00:00",
-        "text": "WOW – A Comprehensive List of Trump’s Accomplishments This Term Shows Miraculous Results \nHere is a list of President Trump’s accomplishments this term.   This list, prepared by Real Political Data on Twitter, is outstanding, not only for the effort in putting this … Read more\nThe post WOW – A Comprehensive List of Trump’s Accomplishments This Ter… \nThis list, prepared by Real Political Data on Twitter, is outstanding, not only for the effort in putting this together but also for the length of this list of incredible work accomplished by Preside… [+16252 chars]",
-        "positive": 0.9966548681259155,
-        "negative": 8.5806832430535e-06,
-        "neutral": 0.0033365883864462376
-      },
-      {
-        "source": "news",
-        "id": "https://onefootball.com/en/news/breaking-liverpool-and-man-city-name-teams-for-huge-pl-clash-42378807",
-        "timestamp": "2026-02-08T15:19:00+00:00",
-        "text": " BREAKING: Liverpool and Man City name teams for huge PL clash \nLiverpool and Manchester City have named their teams for today's mammoth Premier League clash at Anfield.  Arne Slot names an unchanged lineup from last weekend's impressive 4-1 win over Newcastle wi... \nLiverpool and Manchester City have named their teams for today's mammoth Premier League clash at Anfield.\r\nArne Slot names an unchanged lineup from last weekend's impressive 4-1 win over Newcastle wi… [+762 chars]",
-        "positive": 0.8012880086898804,
-        "negative": 0.00012243095261510462,
-        "neutral": 0.1985895037651062
-      },
-      {
-        "source": "news",
-        "id": "https://cryptobriefing.com/jack-dorsey-block-workforce-reduction/",
-        "timestamp": "2026-02-08T15:18:13+00:00",
-        "text": "Jack Dorsey’s Block may cut workforce by 10%: Report \nBlock's workforce reduction reflects a broader tech industry trend of streamlining operations amid economic challenges and strategic shifts.\nThe post Jack Dorsey’s Block may cut workforce by 10%: Report appeared first on Crypto Briefing. \nCuts are being made across multiple teams during evaluation cycles that continue through late February. Block, the fintech firm behind payment tools and blockchain-based financial services led by Bit… [+1550 chars]",
-        "positive": 0.010043224319815636,
-        "negative": 0.004610529635101557,
-        "neutral": 0.9853461980819702
-      },
-      {
-        "source": "news",
         "id": "https://www.mediaite.com/media/sports/ski-legend-lindsey-vonn-competing-with-torn-acl-takes-nasty-spill-in-olympic-race-airlifted-off-mountain/",
         "timestamp": "2026-02-08T15:18:04+00:00",
         "text": "Ski Legend Lindsey Vonn — Competing With Torn ACL — Takes Nasty Spill in Olympic Race, Airlifted Off Mountain \nLegendary skier Lindsey Vonn suffered a nasty spill during her run in the women’s downhill at the 2026 Olympics in Milan — where she was competing just days after tearing her ACL. The scary moment happened just seconds into her run. Vonn clipped a gate in mid… \nUnited States’ Lindsey Vonn is assisted after crashing during the women’s super G at the alpine ski World Championships, in Are, Sweden, Tuesday, Feb. 5, 2019. (Pontus Lundahl/TT News Agency via AP, … [+1292 chars]",
         "positive": 0.0006291228928603232,
         "negative": 0.004563982132822275,
         "neutral": 0.9948069453239441
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/2005-cadillac-escalade-esv-13/",
-        "timestamp": "2026-02-08T15:15:08+00:00",
-        "text": "2005 Cadillac Escalade ESV Platinum at No Reserve \nThis 2005 Cadillac Escalade ESV Platinum remained registered to the original owner in California through 2025 and now has 101k miles. It is finished in White Diamond over Shale leather and powered by a 6.0-liter Vortec V8 that drives all four wheels through a… \nThis 2005 Cadillac Escalade ESV Platinum remained registered to the original owner in California through 2025 and now has 101k miles. It is finished in White Diamond over Shale leather and powered by… [+2331 chars]",
-        "positive": 0.00021630573610309511,
-        "negative": 1.4194167306413874e-05,
-        "neutral": 0.9997695088386536
       },
       {
         "source": "news",
@@ -833,33 +1256,6 @@
       },
       {
         "source": "news",
-        "id": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-super-bowl-2026-patriots-seahawks-online-free-1235512229/",
-        "timestamp": "2026-02-08T15:11:00+00:00",
-        "text": "Super Bowl LX Livestream: How to Watch the Patriots vs. Seahawks Game Online \nIt’s a rematch of Super Bowl XLIX on Sunday when the Pats face the Seahawks for the Lombardi Trophy. Here’s where to stream the game without cable \nIf you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nSuper Bowl LX has arrived. On Sunday, the New England P… [+3742 chars]",
-        "positive": 8.337450708495453e-05,
-        "negative": 1.0950131581921596e-05,
-        "neutral": 0.9999057054519653
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com.au/video-how-watch-super-bowl-2026-live-patriots-vs-seahawks-who-will-win-10-best-super-bowl-1861457",
-        "timestamp": "2026-02-08T15:10:53+00:00",
-        "text": "(VIDEO) How to Watch Super Bowl 2026 Live: Patriots vs. Seahawks Who Will Win? 10 Best Super Bowl Commercials \nSuper Bowl LX, the championship showdown between the New England Patriots and Seattle Seahawks, takes place Sunday, Feb. 8, 2026, at Levi's Stadium in Santa Clara, California, with kickoff set for 6:30 p.m. ET (3:30 p.m. PT). \nSuper Bowl LX, the championship showdown between the New England Patriots and Seattle Seahawks, takes place Sunday, Feb. 8, 2026, at Levi's Stadium in Santa Clara, California, with kickoff set for 6:… [+4515 chars]",
-        "positive": 3.6827420899498975e-06,
-        "negative": 2.7226667498325696e-06,
-        "neutral": 0.9999935626983643
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/?p=2058558",
-        "timestamp": "2026-02-08T15:09:28+00:00",
-        "text": "NLC threatens protests over Electoral Act amendment \nThe Nigeria Labour Congress warns of nationwide protests over the Senate’s confusing position on the Electoral Act amendment, demanding mandatory electroni\n\nRead More: https://punchng.com/nlc-threatens-protests-over-electoral-act-amendment/ \nThe Nigeria Labour Congress has warned of potential nationwide protests and election boycotts over what it described as confusion and contradictory positions by the Senate on amendments to the Electo… [+3766 chars]",
-        "positive": 0.07633721083402634,
-        "negative": 0.4925321042537689,
-        "neutral": 0.43113064765930176
-      },
-      {
-        "source": "news",
         "id": "https://www.saastr.com/340-billion-in-vc-but-fewer-deals-than-any-year-this-decade-10-things/",
         "timestamp": "2026-02-08T15:08:36+00:00",
         "text": "$340 Billion in VC, But Fewer Deals Than Any Year This Decade: the Latest from SVB’s 2026 State of the Markets \nSVB just released their latest 2026 State of the Markets report, and it’s a great data-rich snapshots of the venture and startup ecosystem I’ve seen in a while. We dug through all 39 pages so you don’t have to. Here are the 10 biggest takeaways — and what the… \nSVB just released their latest 2026 State of the Markets report, and it’s a great data-rich snapshots of the venture and startup ecosystem I’ve seen in a while. We dug through all 39 pages so you don… [+13135 chars]",
@@ -878,33 +1274,6 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/politics-and-nation/us-trade-deal-terms-unfair-says-siddaramaiah-seeks-pms-resignation/articleshow/128075574.cms",
-        "timestamp": "2026-02-08T15:07:24+00:00",
-        "text": "US trade deal terms unfair, says Siddaramaiah, seeks PM’s resignation \nKarnataka Chief Minister Siddaramaiah demanded Prime Minister Narendra Modi's resignation, accusing him of compromising India's interests in US trade negotiations. He stated that the interim trade deal was a result of US pressure, not fair negotiation, and wo… \nChief Minister Siddaramaiah on Sunday said Prime Minister Narendra Modi must resign taking responsibility for compromising on Indias interests in US trade negotiations.This is not a series of isolate… [+2295 chars]",
-        "positive": 0.0009376954403705895,
-        "negative": 0.04571652039885521,
-        "neutral": 0.9533458352088928
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/ipob-orders-total-cancellation-of-sit-at-home-in-south-east/",
-        "timestamp": "2026-02-08T15:05:45+00:00",
-        "text": "IPOB orders total cancellation of sit-at-home in South East \nThe Indigenous People of Biafra (IPOB) announces the permanent cancellation of the Monday sit-at-home order, following a direct command from its leader, Nn\n\nRead More: https://punchng.com/ipob-orders-total-cancellation-of-sit-at-home-in-south-east/ \nThe proscribed Indigenous People of Biafra has said that its leader, Nnamdi Kanu, ordered the total cancellation of the Monday sit-at-home across the South-East, with effect from February 9, 2026.\r\nT… [+3551 chars]",
-        "positive": 0.00011733437713701278,
-        "negative": 0.002046228852123022,
-        "neutral": 0.9978365302085876
-      },
-      {
-        "source": "news",
-        "id": "https://www.franchising.com/articles/20251228_cmo_roundtable_with_jamie_eslinger_chief_marketing_officer_at_shoot_360.html",
-        "timestamp": "2026-02-08T15:04:39+00:00",
-        "text": "CMO Roundtable with Jamie Eslinger, Chief Marketing Officer at Shoot 360 \nCMO Roundtable with Jamie Eslinger, Chief Marketing Officer at Shoot 360franchising.com \nJamie EslingerChief Marketing OfficerShoot 360\r\nIn franchising, the real magic happens when global branding meets local storytelling. At Shoot 360, one of my top priorities is building that balance b… [+2060 chars]",
-        "positive": 0.00016415948630310595,
-        "negative": 3.7137087929295376e-05,
-        "neutral": 0.9997987151145935
-      },
-      {
-        "source": "news",
         "id": "https://www.portlandmercury.com/newsblast/2026/02/08/48299562/your-sunday-reading-list-portlands-epstein-connection-ice-gasses-children-and-eek-mummies",
         "timestamp": "2026-02-08T15:01:00+00:00",
         "text": "YOUR SUNDAY READING LIST: Portland's Epstein Connection, ICE Gasses Children, and EEK! MUMMIES!! \nby Wm. Steven Humphrey\n \n \n \n GOOD MORNING, SUNDAY! It's the perfect time to catch up on some of the great reporting and stories the Mercury churned out this week! (PRO TIP: If you despise being \"the last to know,\" then be one of the first to know by signing … \nGOOD MORNING, SUNDAY! It's the perfect time to catch up on some of the great reporting and stories the Mercury churned out this week! (PRO TIP: If you despise being \"the last to know,\" then be one of… [+3184 chars]",
@@ -914,48 +1283,12 @@
       },
       {
         "source": "news",
-        "id": "https://finance.yahoo.com/news/why-hedge-funds-favor-cushman-150054165.html",
-        "timestamp": "2026-02-08T15:00:54+00:00",
-        "text": "Here Is Why Hedge Funds Favor Cushman & Wakefield (CWK) \nCushman & Wakefield (NYSE:CWK) is one of the 10 best real estate services stocks to buy according to hedge funds. On January 17, the price target on Cushman ... \nCushman &amp; Wakefield (NYSE:CWK) is one of the 10 best real estate services stocks to buy according to hedge funds.\r\nOn January 17, the price target on Cushman &amp; Wakefield (NYSE:CWK) was raised… [+1878 chars]",
-        "positive": 0.060844868421554565,
-        "negative": 2.7384750865167007e-05,
-        "neutral": 0.9391276836395264
-      },
-      {
-        "source": "news",
-        "id": "https://finance.yahoo.com/news/bmo-capital-maintains-outperform-rating-150051079.html",
-        "timestamp": "2026-02-08T15:00:51+00:00",
-        "text": "BMO Capital Maintains Outperform Rating on FirstService Corporation (FSV) \nFirstService Corporation (NASDAQ:FSV) is one of the 10 best real estate services stocks to buy according to hedge funds. On February 6, BMO Capital reduced... \nFirstService Corporation (NASDAQ:FSV) is one of the 10 best real estate services stocks to buy according to hedge funds.\r\nOn February 6, BMO Capital reduced its price target estimate for FirstService… [+2097 chars]",
-        "positive": 0.006090712267905474,
-        "negative": 0.9467719793319702,
-        "neutral": 0.04713734984397888
-      },
-      {
-        "source": "news",
-        "id": "https://ambcrypto.com/sirens-174-surge-after-hitting-a-new-ath-is-downside-next-for-the-memecoin/",
-        "timestamp": "2026-02-08T15:00:50+00:00",
-        "text": "SIREN’s 174% surge – After hitting a new ATH, is downside next for the memecoin? \nSIREN surged to a new all-time high of $0.36 driven by speculative demand. \nAfter a prolonged period of sideways movement on the charts, SIREN finally broke out and rallied to a new all-time high of $0.36. Shortly after hitting these levels, it noted a sharp pullback too tho… [+3344 chars]",
-        "positive": 0.9976115226745605,
-        "negative": 0.0011636599665507674,
-        "neutral": 0.0012247547274455428
-      },
-      {
-        "source": "news",
         "id": "http://foreignpolicy.com/2026/02/08/milan-cortina-winter-olympics-games-geopolitics/",
         "timestamp": "2026-02-08T15:00:49+00:00",
         "text": "Will Geopolitics Overshadow the Milan Cortina Olympics? \nWhat to know as the Winter Games kick off. \nAs the Winter Olympics kick off in northern Italy, geopolitical tensions are palpable. From unconventional protests against the presence of U.S. Immigration and Customs Enforcement officials to heate… [+3682 chars]",
         "positive": 0.0029467614367604256,
         "negative": 0.036504536867141724,
         "neutral": 0.9605487585067749
-      },
-      {
-        "source": "news",
-        "id": "https://finance.yahoo.com/news/off-market-sale-203-million-150049536.html",
-        "timestamp": "2026-02-08T15:00:49+00:00",
-        "text": "Off-Market Sale of $203 Million Portfolio Leads to Bullish Sentiment for Newmark (NMRK) \nNewmark Group (NASDAQ:NMRK) is one of the 10 best real estate services stocks to buy according to hedge funds. On January 8, Alex Bond from Keefe Bruyette... \nNewmark Group (NASDAQ:NMRK) is one of the 10 best real estate services stocks to buy according to hedge funds.\r\nOn January 8, Alex Bond from Keefe Bruyette raised his price target on Newmark Group (N… [+1645 chars]",
-        "positive": 0.7046207189559937,
-        "negative": 0.00012084029731340706,
-        "neutral": 0.29525846242904663
       },
       {
         "source": "news",
@@ -1037,339 +1370,6 @@
         "positive": 0.3253093659877777,
         "negative": 0.00017588377522770315,
         "neutral": 0.6745147705078125
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/women/life-love-self/clinical-psychologist-dona-singh-emotional-betrayal-feels-more-damaging-as-it-hits-the-foundation-of-trust-exclusive/articleshow/128074941.cms",
-        "timestamp": "2026-02-08T14:48:01+00:00",
-        "text": "Clinical psychologist Dona Singh: ‘Emotional betrayal feels more damaging, as it hits the foundation of trust’ - Exclusive \nClinical psychologist Dona Singh explains that emotional fidelity is increasingly valued over physical fidelity in modern relationships. She notes a societal shift from possession to connection, where emotional betrayal cuts deeper as it ruptures trust and sa… \n<ul><li>News</li>\r\n<li>Clinical psychologist Dona Singh: Emotional betrayal feels more damaging, as it hits the foundation of trust - Exclusive</li></ul>\r\nFollow Us On Social Media\r\nRussian FSB Arres… [+1641 chars]",
-        "positive": 0.005271877162158489,
-        "negative": 0.0038102406542748213,
-        "neutral": 0.9909178614616394
-      },
-      {
-        "source": "news",
-        "id": "https://montanarcc.substack.com/p/journey-of-worlds-teachings-and-life-f4d",
-        "timestamp": "2026-02-08T14:46:54+00:00",
-        "text": "“Journey of Worlds: Teachings and Life of Bô Yin Râ.” Part III \n…\nThe post “Journey of Worlds: Teachings and Life of Bô Yin Râ.” Part III appeared first on Global Research. \nJourney of Worlds:Teachings and Life of Bô Yin Râ: Part 3 of 3\r\nBy Dr. Sc. Nat. ETH Otto G. Lienert\r\nIntroduction by Richard C. Cook, Editor, Three Sages\r\nAs readers of Three Sages are aware, for the… [+25622 chars]",
-        "positive": 0.00022238904784899205,
-        "negative": 1.3066665815131273e-05,
-        "neutral": 0.9997645020484924
-      },
-      {
-        "source": "news",
-        "id": "https://screenrant.com/movies-vhs-most-common/",
-        "timestamp": "2026-02-08T14:45:19+00:00",
-        "text": "10 Movies Everyone Had On VHS \nIf you had a VCR back in the day, chances are you had at least a few of these extremely common tapes that were part of nearly every movie collection. \nDuring the heyday of home video, nearly everyone had at least a few of these movies in their VHS collection. Beginning in the middle of the 1970s, technology like VHS and Betamax completely revolutio… [+7717 chars]",
-        "positive": 2.289347685291432e-05,
-        "negative": 3.6669563996838406e-05,
-        "neutral": 0.9999403953552246
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/germanys-aicher-wins-olympic-ski-silver-as-vonn-crashes/a-75861484",
-        "timestamp": "2026-02-08T14:45:00+00:00",
-        "text": "Germany's Aicher wins Olympic ski silver as Vonn crashes \nGermany has earned its first medal of the Winter Games as Emma Aicher finished second in a tight downhill ski race. The event was disrupted after US skier Lindsey Vonn was airlifted away following a severe fall. German skier Emma Aicher won silver in a dramat… \nGerman skier Emma Aicher won silver in a dramatic Olympic downhill race in Italy's Cortina d'Ampezzo on Sunday, securing Germany's first medal of the 2026 Winter Olympics.\r\nHowever, celebrations on t… [+2596 chars]",
-        "positive": 0.007584834937006235,
-        "negative": 0.510176420211792,
-        "neutral": 0.4822388291358948
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/education/news/bseb-starts-d-el-ed-2026-online-applications-deadlines-and-backlog-rules-announced-check-details-here/articleshow/128074742.cms",
-        "timestamp": "2026-02-08T14:44:18+00:00",
-        "text": "BSEB starts D.El.Ed. 2026 online applications; deadlines and backlog rules announced: Check details here \nThe Bihar School Examination Board (BSEB) has opened the online application for D.El.Ed. 2026, covering students of the 2025–27 session and second-year 2024–26 candidates. The portal opens on February 9, 2026, with regular submission till February 18 and late… \n<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>BSEB starts D.El.Ed. 2026 online applications; deadlines and backlog rules announced: Check details here</li></ul>\r\nFollow Us On Social … [+1665 chars]",
-        "positive": 7.845062100386713e-06,
-        "negative": 1.3124799806973897e-06,
-        "neutral": 0.9999908208847046
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/cities/bangalore/bangalore-metro-rail-corporation-puts-hold-namma-metro-price-hike-10521163/",
-        "timestamp": "2026-02-08T14:44:18+00:00",
-        "text": "Bangalore Metro Rail Corporation puts Namma Metro price hike on hold \nThe increase had come exactly one year after fares were raised by an average of 51.55 per cent before discounts and 46.39 per cent after discounts in February 2025. \nDays after Bangalore Metro Rail Corporation Limited (BMRCL) announced 5 per cent hike in Namma Metro prices, on Sunday it said that the hike has been kept on hold till further orders.\r\nIn a statement… [+1924 chars]",
-        "positive": 0.0004160537791904062,
-        "negative": 0.00012589180551003665,
-        "neutral": 0.9994580149650574
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/business/get-ready-for-double-whammy-of-us-jobs-and-inflation/articleshow/128074366.cms",
-        "timestamp": "2026-02-08T14:39:33+00:00",
-        "text": "Get ready for double whammy of US jobs and inflation \nA significant week for global economic data is unfolding. Key US reports on jobs and inflation are set to be released. Investors will also monitor economic indicators from China, Japan, Australia, and Europe. Central bank decisions from Canada, Russia, and Pe… \nInvestors and policymakers are gearing up for a busy week of US economic reports that includes arguably the two most consequential data snapshots employment and inflation.The January jobs report on W… [+9194 chars]",
-        "positive": 0.0007463209331035614,
-        "negative": 2.993049201904796e-05,
-        "neutral": 0.9992238283157349
-      },
-      {
-        "source": "news",
-        "id": "https://apnews.com/article/lindsey-vonn-milan-cortina-olympics-90b10c0a145053f3bbfb573c4024653a",
-        "timestamp": "2026-02-08T14:38:00+00:00",
-        "text": "Lindsey Vonn clips gate and crashes in Winter Olympic downhill, taken away by helicopter \nLindsey Vonn's pursuit of a second Olympic downhill gold medal is over. The 41-year-old American, skiing with a badly injured left knee, crashed early in Sunday's race in Italy. She was taken off the course by helicopter after receiving medical… \nCORTINA D'AMPEZZO, Italy (AP) Lindsey Vonn 's defiant bid to win the Winter Olympic downhill at the age of 41, on a rebuilt right knee and a badly injured left knee, ended Sunday in a frightening cra… [+5452 chars]",
-        "positive": 0.022176923230290413,
-        "negative": 0.12440294772386551,
-        "neutral": 0.8534201383590698
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/sports/2026/02/08/video-lindsey-vonn-crashes-out-of-winter-olympics-evacuated-by-helicopter-to-hospital/",
-        "timestamp": "2026-02-08T14:34:14+00:00",
-        "text": "Video: Lindsey Vonn Crashes out of Winter Olympics, Evacuated by Helicopter to Hospital \nU.S. ski star Lindsey Vonn's hopes of an Olympic comeback ended in brutal fashion Sunday when she crashed out of the women's downhill event after seeking to compete in Italy with a ruptured anterior cruciate ligament.\nThe post Video: Lindsey Vonn Crashes out … \nU.S. ski star Lindsey Vonn’s hopes of an Olympic comeback ended in brutal fashion Sunday when she crashed out of the women’s downhill event after seeking to compete in Italy with a ruptured anterior … [+2368 chars]",
-        "positive": 4.783136319019832e-05,
-        "negative": 5.784946552012116e-05,
-        "neutral": 0.999894380569458
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/teyana-taylor-best-red-carpet-outfits",
-        "timestamp": "2026-02-08T14:34:01+00:00",
-        "text": "20 of Teyana Taylor's best red-carpet looks through the years \nTeyana Taylor has been wearing eye-catching red-carpet looks for years, favoring bold cutouts and daring fabrics. \nTeyana Taylor at the Golden Globes in January 2026.Taylor Hill/FilmMagic/Getty Images\r\n<ul><li>Teyana Taylor is nominated for her first Oscar for her performance in \"One Battle After Another.\"</li><l… [+12533 chars]",
-        "positive": 0.0026517296209931374,
-        "negative": 1.9184699340257794e-06,
-        "neutral": 0.9973462820053101
-      },
-      {
-        "source": "news",
-        "id": "https://www.ladbible.com/news/sport/lindsey-vonn-winter-olympics-family-statement-skiing-crash-680923-20260208",
-        "timestamp": "2026-02-08T14:31:35+00:00",
-        "text": "Lindsey Vonn's family speak out on crash as Olympic skier crashes on slope after rupturing ACL \nThe legendary skier's family has addressed the horrific accident at the Winter Olympics \nThe sister of Team USA skiing icon Lindsey Vonn, has spoken out about the athlete's horrific crash during today's (8 February) event.\r\nVonn, 41, crashed during the women's downhill competition at the… [+2508 chars]",
-        "positive": 0.00015060849545989186,
-        "negative": 0.00022963015362620354,
-        "neutral": 0.999619722366333
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/articles/drake-curse-rapper-makes-huge-143120416.html",
-        "timestamp": "2026-02-08T14:31:20+00:00",
-        "text": "Drake Curse? Rapper Makes Huge Bet On Super Bowl LX \nThe American Gaming Association (AGA) expects there to be nearly $2 billion wagered on Super Bowl LX. Drake contributed to that number on Saturday. No, we’re not talking about New England Patriots quarterback Drake Maye or Seattle Seahawks linebacker Drake Th… \nThe American Gaming Association (AGA) expects there to be nearly $2 billion wagered on Super Bowl LX.\r\nDrake contributed to that number on Saturday.\r\nNo, we’re not talking about New England Patriots … [+1139 chars]",
-        "positive": 2.2582378733204678e-05,
-        "negative": 6.453577225329354e-05,
-        "neutral": 0.9999129772186279
-      },
-      {
-        "source": "news",
-        "id": "https://www.thegatewaypundit.com/2026/02/woke-team-usa-figure-skater-amber-glenn-whines/",
-        "timestamp": "2026-02-08T14:30:14+00:00",
-        "text": "Woke Team USA Figure Skater Amber Glenn Whines About LGBTQ Issues to Reporters (Video) \nTeam USA figure skater Amber Glenn spoke with reporters at the 2026 Winter Olympics in Milan-Cortina, Italy.\nThe post Woke Team USA Figure Skater Amber Glenn Whines About LGBTQ Issues to Reporters (Video) appeared first on The Gateway Pundit. \nAmber Glenn/ Image: Video screenshot @ImMeme0/X\r\nTeam USA figure skater Amber Glenn spoke with reporters at the 2026 Winter Olympics in Milan-Cortina, Italy.\r\nToday reports, “Glenn, who identifies as… [+2800 chars]",
-        "positive": 0.00019952483125962317,
-        "negative": 1.940575566550251e-05,
-        "neutral": 0.99978107213974
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2026/02/08/trump-big-beautiful-bill-college-education.html",
-        "timestamp": "2026-02-08T14:30:01+00:00",
-        "text": "Trump’s 'big beautiful bill' may spur significant changes to higher education in 2026 and the rise of 'un-college,' experts say \nThe trend toward a two-year degree or even shorter-term credential — also dubbed \"un-college\" — will gain steam in 2026, experts say. \nFor years, a growing number of students have been considering alternatives to a four-year degree. Now the trend toward a two-year program or even shorter-term credential also dubbed \"un-college\" is g… [+5979 chars]",
-        "positive": 0.9998010993003845,
-        "negative": 5.5786649681977e-06,
-        "neutral": 0.00019330311624798924
-      },
-      {
-        "source": "news",
-        "id": "https://finance.yahoo.com/news/trumps-big-beautiful-bill-includes-143000014.html",
-        "timestamp": "2026-02-08T14:30:00+00:00",
-        "text": "Trump's Big Beautiful Bill includes a new $6K tax break for seniors. How to maximize the time-limited deduction \nThe deduction may shift the financial landscape for retirees significantly. \nThe financial landscape for retirees has shifted significantly with the arrival of a $6,000 senior deduction (1) as part of President Trumps One, Big, Beautiful Bill Act. The new and time-limited tax… [+5713 chars]",
-        "positive": 0.028361773118376732,
-        "negative": 0.0005730286939069629,
-        "neutral": 0.9710652232170105
-      },
-      {
-        "source": "news",
-        "id": "https://www.slashfilm.com/2095499/before-margot-robbie-wuthering-heights-laurence-olivier-1939-version-streaming-free/",
-        "timestamp": "2026-02-08T14:30:00+00:00",
-        "text": "Before Margot Robbie's Wuthering Heights, Stream Laurence Olivier's 1939 Version For Free \nWuthering Heights is returning to the big screen with Margot Robbie and Jacob Elordi, but the 1939 adaptation starring Laurence Olivier is still a must-watch. \nWilliam Wyler's \"Wuthering Heights\" was highly celebrated by the Academy, and was nominated for eight Oscars, including Best Picture (back when the category was called \"Outstanding Production\"), Best… [+1495 chars]",
-        "positive": 0.005906770937144756,
-        "negative": 2.2512589566758834e-05,
-        "neutral": 0.9940707087516785
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/02/08/sports/how-to-watch-day-3-of-olympics-2026-figure-skating-team-event/",
-        "timestamp": "2026-02-08T14:30:00+00:00",
-        "text": "How to watch Olympics figure skating team event day 3: Livestream, schedule \nThe first figure skating medal of the Winter Olympics will be awarded today. \nNew York Post may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nThe first figure skating medal of the 2026 Winte… [+5519 chars]",
-        "positive": 4.010272095911205e-05,
-        "negative": 5.744200279877987e-06,
-        "neutral": 0.9999542236328125
-      },
-      {
-        "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_96416f63-1921-4e49-b81d-40927a3fa960",
-        "timestamp": "2026-02-08T14:28:54+00:00",
-        "text": "France takes gold in the first biathlon race of the Winter Olympics \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 3.257603748352267e-05,
-        "negative": 3.327559852550621e-06,
-        "neutral": 0.9999641180038452
-      },
-      {
-        "source": "news",
-        "id": "https://www.aljazeera.com/economy/2026/2/8/understanding-the-value-of-gold-prices-global-reserves-and-market-trends",
-        "timestamp": "2026-02-08T14:27:04+00:00",
-        "text": "Understanding the value of gold: Prices, global reserves, and market trends \nGold prices have quadrupled in one decade, attracting investors amid economic uncertainty and geopolitical tensions. \nInterest in gold has skyrocketed in recent weeks, with the price of one ounce hitting an all time high of $5,600 on January 29 before settling back to just under $5,000 on Sunday.\r\nAs economic condit… [+4438 chars]",
-        "positive": 0.9977483153343201,
-        "negative": 0.0018243123777210712,
-        "neutral": 0.000427395076258108
-      },
-      {
-        "source": "news",
-        "id": "https://www.usatoday.com/story/sports/nfl/2026/02/08/bill-belichick-not-in-hall-of-fame-why/88577732007/",
-        "timestamp": "2026-02-08T14:26:13+00:00",
-        "text": "Bill Belichick didn't make the Pro Football Hall of Fame. Here's why. \nThe longtime New England Patriots head coach didn't make it into the 2026 Hall of Fame class. Here's why that might have happened. \nEditor's note: Follow along for live updates for Super Bowl 60 throughout the day.\r\nThe 2026 Pro Football Hall of Fame class will contain 100% less hoodie.\r\nThat's because Bill Belichick, who famousl… [+3561 chars]",
-        "positive": 1.2619868357433006e-05,
-        "negative": 5.436876108433353e-06,
-        "neutral": 0.9999818801879883
-      },
-      {
-        "source": "news",
-        "id": "https://himaginary.hatenablog.com/entry/20260208/a-decomposition-of-balance-sheet-reduction",
-        "timestamp": "2026-02-08T14:25:48+00:00",
-        "text": "バランスシート減少の要因分解 \nというFRBのレポートをMostly Economicsが紹介している。原題は「A Decomposition of Balance Sheet Reduction」で、著者はBenjamin Eyal、Dave Na、Arsenios Skaperdas。 以下はその冒頭。 Since the Global Financial Crisis, central banks have used the size and composition of their balance sheets to influence… \nというFRBのレポートをMostly Economicsが紹介している。原題は「A Decomposition of Balance Sheet Reduction」で、著者はBenjamin Eyal、Dave Na、Arsenios Skaperdas。\n以下はその冒頭。\n\n \n Since the Global Financial Crisis, central banks have us… [+1572 chars]",
-        "positive": 0.0004365870845504105,
-        "negative": 9.70290602708701e-06,
-        "neutral": 0.9995537400245667
-      },
-      {
-        "source": "news",
-        "id": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260208-99-428319/",
-        "timestamp": "2026-02-08T14:21:01+00:00",
-        "text": "Karl and Maděrová win parallel giant slalom golds after Ledecká flops \nFresh face Zuzana Maděrová and veteran Benjamin Karl triumphed in the Olympic snowboarding parallel giant slalom finals on Sunday after Czech icon Ester Ledecká had surprisingly gone out in the last eight. New Czech snowboarding star Maděrová, 22, took an ear… \nFresh face Zuzana Madrová and veteran Benjamin Karl triumphed in the Olympic snowboarding parallel giant slalom finals on Sunday after Czech icon Ester Ledecká had surprisingly gone out in the last e… [+1661 chars]",
-        "positive": 0.0012285052798688412,
-        "negative": 0.0015093863476067781,
-        "neutral": 0.9972621202468872
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbc.ca/sports/olympics/winter/snowboard/olympics-snowboard-pgs-milano-cortina-9.7079581",
-        "timestamp": "2026-02-08T14:18:39+00:00",
-        "text": "Ledecka's quest for Olympic snowboarding 3-peat comes to a shocking halt \nEster Ledecka's quest to become the first snowboarder to win gold medals in three straight Olympics came to a surprisingly early end Sunday in Livigno, Italy. \nEster Ledecka's quest to become the first snowboarder to win gold medals at three straight Olympics came to a surprisingly early end Sunday.\r\nShe lost her quarterfinal race in the sport's parallel gi… [+2854 chars]",
-        "positive": 0.005651167128235102,
-        "negative": 0.9907218217849731,
-        "neutral": 0.00362702296115458
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/sport/biathlon-simon-shows-nerves-steel-france-sweep-mixed-relay-gold-5915986",
-        "timestamp": "2026-02-08T14:17:03+00:00",
-        "text": "Biathlon-Simon shows nerves of steel as France sweep to mixed relay gold \nANTERSELVA, Italy, Feb 8 : Julia Simon hit all 10 of her shots as she stormed through the final leg to secure gold for France in a thrilling biathlon mixed relay at the Antholz-Anterselva Biathlon Arena on Sunday.Lisa Vittozzi anchored host nation Italy to th… \nANTERSELVA, Italy, Feb 8 : Julia Simon hit all 10 of her shots as she stormed through the final leg to secure gold for France in a thrilling biathlon mixed relay at the Antholz-Anterselva Biathlon Ar… [+1737 chars]",
-        "positive": 0.004134929273277521,
-        "negative": 0.0004644423897843808,
-        "neutral": 0.995400607585907
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/sport/biathlon-france-sweep-mixed-relay-gold-milano-cortina-games-5915986",
-        "timestamp": "2026-02-08T14:17:03+00:00",
-        "text": "Biathlon-France sweep to mixed relay gold at Milano Cortina Games \nANTERSELVA, Italy, Feb 8 : Julia Simon hit all 10 of her shots as she stormed through the final leg to secure gold for France in a thrilling biathlon mixed relay at the Antholz-Anterselva Biathlon Arena on Sunday.  Lisa Vittozzi anchored host nation Italy to … \nANTERSELVA, Italy, Feb 8 : Julia Simon hit all 10 of her shots as she stormed through the final leg to secure gold for France in a thrilling biathlon mixed relay at the Antholz-Anterselva Biathlon Ar… [+114 chars]",
-        "positive": 0.0074564735405147076,
-        "negative": 0.0005840653320774436,
-        "neutral": 0.9919595122337341
-      },
-      {
-        "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0a0b6040-b76e-4388-b68f-d5faa29e7bc7",
-        "timestamp": "2026-02-08T14:12:47+00:00",
-        "text": "Why was Olympic gold medalist Breezy Johnson suspended in 2023? \n2026 Olympic women's downhill champion Breezy Johnson was hit with a 14-month ban in 2023 under the USADA's anti-doping policy. Here are the details. \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 0.0001649306941544637,
-        "negative": 0.0002999124408233911,
-        "neutral": 0.9995352029800415
-      },
-      {
-        "source": "news",
-        "id": "https://www.mediaite.com/media/news/andy-mccarthy-destroys-trump-familys-sordid-crypto-gambit-in-scathing-national-review-column/",
-        "timestamp": "2026-02-08T14:11:28+00:00",
-        "text": "Andy McCarthy Destroys Trump Family’s ‘Sordid’ Crypto Gambit in Scathing National Review Column \nMcCarthy — a Fox News contributor — tore into the \"sordid\" story involving Trump and the crypto business he co-founded, which has raked in billions.\nThe post Andy McCarthy Destroys Trump Family’s ‘Sordid’ Crypto Gambit in Scathing National Review Column first… \nScreenshot\r\nFormer federal prosecutor Andy McCarthy a Fox News contributor and National Review columnist tore into what he called the “sordid” story involving President Donald Trump, his family, spec… [+2864 chars]",
-        "positive": 0.0007360557792708278,
-        "negative": 3.782552448683418e-05,
-        "neutral": 0.9992260932922363
-      },
-      {
-        "source": "news",
-        "id": "https://www.backyardgardenlover.com/15-warning-signs-of-a-looming-retirement-financial-crisis/",
-        "timestamp": "2026-02-08T14:10:29+00:00",
-        "text": "15 Warning Signs of a Looming Retirement Financial Crisis \nRetirement, that divine phase of life filled with leisure and freedom, might end up just being a mirage for many. A comfortable retirement necessitates... \nImage Credit: Shutterstock.\r\nRetirement, that divine phase of life filled with leisure and freedom, might end up just being a mirage for many. A comfortable retirement necessitates careful planning, … [+8648 chars]",
-        "positive": 2.906426743720658e-05,
-        "negative": 5.289612818160094e-05,
-        "neutral": 0.9999179840087891
-      },
-      {
-        "source": "news",
-        "id": "https://www.sportingnews.com/us/olympics/news/austrian-snowboarder-strips-down-shirtless-flexes-chiseled-muscles-winning-olympic-gold-medal/1a61038f99b842e76536d205",
-        "timestamp": "2026-02-08T14:09:47+00:00",
-        "text": "Austrian snowboarder strips down shirtless, flexes chiseled muscles immediately after winning Olympic gold medal \nAn immediate legend at the Olympics. \nAustrian snowboarder strips down shirtless, flexes chiseled muscles immediately after winning Olympic gold medal originally appeared on The Sporting News. Add The Sporting News as a Preferred Source … [+1153 chars]",
-        "positive": 5.461573528009467e-05,
-        "negative": 3.796526652877219e-05,
-        "neutral": 0.999907374382019
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/sport/2026/02/08/irelands-thomas-maloney-westgard-enjoys-best-result-in-winter-olympics-skiathlon/",
-        "timestamp": "2026-02-08T14:08:44+00:00",
-        "text": "Ireland’s Thomas Maloney Westgård enjoys best result in Winter Olympics skiathlon \nIn his third Games, Maloney Westgård finished 35th in the gruelling 20km cross-country race \nThomas Maloney Westgård marked his third Winter Olympics appearance on Sunday with his best result in the cross-country skiathlon at Milano Cortina, finishing 35th over the 20km race which combines t… [+3450 chars]",
-        "positive": 0.9999974966049194,
-        "negative": 9.601269113090893e-08,
-        "neutral": 2.3627051177754765e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/business-tech/rdi-scheme-could-be-operationalised-this-year/article70607893.ece",
-        "timestamp": "2026-02-08T14:06:05+00:00",
-        "text": "RDI scheme could be operationalised this year \n₹1 lakh crore corpus for ‘deep-tech fund of funds’ raises hopes for operationalisation of RDI scheme in 2026-27 \nBudget 2026-27 has provided 20,000 crore under the capital head to the Research, Development and Innovation (RDI) scheme, whereby a 1 lakh crore corpus is being put together for a deep-tech fund of f… [+4585 chars]",
-        "positive": 8.848462130117696e-06,
-        "negative": 4.184016688668635e-06,
-        "neutral": 0.999987006187439
-      },
-      {
-        "source": "news",
-        "id": "http://comicbook.com/comics/list/dcs-first-10-superhero-teams-ranked-by-legacy/",
-        "timestamp": "2026-02-08T14:05:00+00:00",
-        "text": "DC’s First 10 Superhero Teams, Ranked by Legacy \nImage Courtesy of DC Comics\n\nDC Comics practically invented the superhero genre. Starting in 1939 with the debut of Superman, DC popularized the idea of costumed crimefighters saving the day and defeating the forces of evil. Naturally, DC began capitalizing o… \nDC Comics practically invented the superhero genre. Starting in 1939 with the debut of Superman, DC popularized the idea of costumed crimefighters saving the day and defeating the forces of evil. Nat… [+8591 chars]",
-        "positive": 0.2837334871292114,
-        "negative": 0.0005167073104530573,
-        "neutral": 0.7157497406005859
-      },
-      {
-        "source": "news",
-        "id": "https://www.fratellowatches.com/introducing-the-parmigiani-fleurier-tonda-pf-micro-rotor-agave-blue/",
-        "timestamp": "2026-02-08T14:00:59+00:00",
-        "text": "Introducing: The Parmigiani Fleurier Tonda PF Micro-Rotor Agave Blue \nIf you’ve listened to Balazs and me on Fratello On Air, you’ll know that I have a huge crush on Parmigiani Fleurier. Specifically, the Tonda PF 36mm is on my radar, but if my wrist were larger, today’s watch would be a likely candidate. Specifically, the bran… \nIf you’ve listened to Balazs and me on Fratello On Air, you’ll know that I have a huge crush on Parmigiani Fleurier. Specifically, the Tonda PF 36mm is on my radar, but if my wrist were larger, today… [+2805 chars]",
-        "positive": 0.00014590223145205528,
-        "negative": 6.008775017107837e-05,
-        "neutral": 0.999794065952301
-      },
-      {
-        "source": "news",
-        "id": "https://www.steynonline.com/15974/if-you-were-the-only-girl-in-the-world",
-        "timestamp": "2026-02-08T14:00:00+00:00",
-        "text": "If You Were the Only Girl in the World \nWell, the Winter Olympics are underway in Milan, so I thought we should have a song by an Olympic gold medallist. Er... okay... hang on, give me a minute... And then I remembered: the English lyricist Clifford Grey. He wrote a big hit for Sting in the \nWell, the Winter Olympics are underway in Milan, so I thought we should have a song by an Olympic gold medallist.\r\nEr... okay... hang on, give me a minute...\r\nAnd then I remembered: the English lyric… [+6035 chars]",
-        "positive": 2.5580764486221597e-05,
-        "negative": 0.000511624850332737,
-        "neutral": 0.9994627833366394
-      },
-      {
-        "source": "news",
-        "id": "https://brickset.com/article/127310/review-71856-jay-s-transforming-car",
-        "timestamp": "2026-02-08T14:00:00+00:00",
-        "text": "Review: 71856 Jay's Transforming Car \nOff-road vehicles have appeared in NINJAGO on multiple occasions and the latest edition, 71856 Jay's Transforming Car, looks superb. Predictably, the model is designed around a transformation function, as the whole forward section twists to reveal some animal… \nPosted by CapnRex101, 08 Feb 2026 14:00\r\nSponsored\r\nOff-road vehicles have appeared in NINJAGO on multiple occasions and the latest edition, 71856 Jay's Transforming Car, looks superb. Predictably, t… [+8559 chars]",
-        "positive": 0.0005717136082239449,
-        "negative": 6.16126271779649e-06,
-        "neutral": 0.9994220733642578
-      },
-      {
-        "source": "news",
-        "id": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260208-99-428451/",
-        "timestamp": "2026-02-08T13:59:29+00:00",
-        "text": "One gold done, five to go - Klæbo starts bid for Olympic immortality \nNorwegian superstar Johannes Høsflot Klæbo started his quest for Olympic immortality with a convincing victory in cross country's skiathlon on Sunday. Klæbo destroyed a five-strong leader group on the last short uphill in the event over 20 kilometres and coul… \nNorwegian superstar Johannes Høsflot Klæbo started his quest for Olympic immortality with a convincing victory in cross country's skiathlon on Sunday.\r\nKlæbo destroyed a five-strong leader group on t… [+2240 chars]",
-        "positive": 0.8293493986129761,
-        "negative": 0.08681559562683105,
-        "neutral": 0.08383508026599884
-      },
-      {
-        "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1adeadc3-d125-4c47-a020-b698b96b668b",
-        "timestamp": "2026-02-08T13:59:22+00:00",
-        "text": "One gold done, five to go - Klæbo starts bid for Olympic immortality \nNorwegian superstar Johannes Høsflot Klæbo started his quest for Olympic immortality with a convincing victory in cross country's skiathlon on Sunday. Klæbo destroyed a five-strong leader group on the last short uphill in the event over 20 kilometres and coul… \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 0.04118926078081131,
-        "negative": 0.9451064467430115,
-        "neutral": 0.01370429527014494
       },
       {
         "source": "news",
