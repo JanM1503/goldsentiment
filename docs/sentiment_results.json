@@ -1,8 +1,476 @@
 {
-  "timestamp": "2026-02-09T08:42:58.196197+00:00",
+  "timestamp": "2026-02-09T09:53:20.359904+00:00",
   "news": {
-    "count": 2472,
+    "count": 2460,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.dw.com/en/arrest-in-dubai-after-shooting-of-russian-general-fsb/a-75859699",
+        "timestamp": "2026-02-08T09:46:00+00:00",
+        "text": "Arrest in Dubai after shooting of Russian general — FSB \nA Russian national has been detained in the United Arab Emirates in connection with Friday's shooting of military intelligence officer ⁠Vladimir ‍Alexeyev. The Kremlin blamed Ukraine for the attempted assassination. \nThe man suspected of shooting senior Russian military intelligence officer Vladimir Alexeyev in Moscow has been detained in Dubai, Russia's Federal Security Service (FSB) intelligence agency said Sun… [+2850 chars]",
+        "positive": 4.646805609809235e-05,
+        "negative": 0.005454233847558498,
+        "neutral": 0.9944993257522583
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/info-tech/cybersecurity-breaches-emerge-as-top-risk-for-india-inc-ficci-ey-survey/article70607018.ece",
+        "timestamp": "2026-02-08T09:45:49+00:00",
+        "text": "Cybersecurity breaches emerge as top risk for India Inc: FICCI-EY Survey \nThe report, which draws on inputs from senior decision-makers across various sectors, highlights that technology risk is now tightly linked to operational continuity \nCybersecurity breaches and attacks have emerged as the top risks for Indian companies' organisational performance, with 51 per cent of senior leaders citing it as their primary concern, according to … [+3185 chars]",
+        "positive": 0.06980215758085251,
+        "negative": 0.21218407154083252,
+        "neutral": 0.7180137634277344
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/news/pm-modi-malaysian-counterpart-welcome-ongoing-aitiga-review/article70607020.ece",
+        "timestamp": "2026-02-08T09:45:24+00:00",
+        "text": "PM Modi, Malaysian counterpart welcome ongoing AITIGA review \nPM Modi and Anwar welcomed the ongoing review of AITIGA to make it mutually beneficial, trade-facilitative, and relevant to current global trading practices \nPrime Minister Narendra Modi on Sunday thanked Malaysia for its support in the ongoing review of the ASEAN-India Trade in Goods Agreement (AITIGA).\"With the support of friendly countries like Malaysi… [+4714 chars]",
+        "positive": 0.18344423174858093,
+        "negative": 0.00011030957102775574,
+        "neutral": 0.816445529460907
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/world-news/olympic-snowboarding-hopeful-mia-brookes-was-never-going-to-do-anything-else/a316517360.html",
+        "timestamp": "2026-02-08T09:45:12+00:00",
+        "text": "Olympic snowboarding hopeful Mia Brookes was ‘never going to do anything else’ \nA family friend who has known Winter Olympics gold medal hopeful Mia Brookes since she first began snowboarding has said the world champion was sliding down slopes “almost as soon as she could walk”. \nA family friend who has known Winter Olympics gold medal hopeful Mia Brookes since she first began snowboarding has said the world champion was sliding down slopes almost as soon as she could walk.Br… [+2355 chars]",
+        "positive": 0.005981323774904013,
+        "negative": 0.00012719412916339934,
+        "neutral": 0.9938914775848389
+      },
+      {
+        "source": "news",
+        "id": "https://eplindex.com/142558/report-arsenal-keen-on-31-year-old-bundesliga-star-for-free-transfer-in-summer.html",
+        "timestamp": "2026-02-08T09:45:00+00:00",
+        "text": "Report: Arsenal keen on 31-year-old Bundesliga star for free transfer in summer \nLeon Goretzka Transfer Update: Arsenal Position Strengthens Ahead of Summer WindowArsenal’s long-term midfield planning is beginning to take clearer shape, with Leon Goretzka emerging as a serious t... \nArsenals long-term midfield planning is beginning to take clearer shape, with Leon Goretzka emerging as a serious target ahead of the summer transfer window. The Bayern Munich midfielder is approachi… [+4470 chars]",
+        "positive": 0.2921766936779022,
+        "negative": 7.612021727254614e-05,
+        "neutral": 0.707747220993042
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/sport/rugby-union/articles/c4g0vjy1j8xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "timestamp": "2026-02-08T09:42:26+00:00",
+        "text": "'The shirt used to weigh heavy - now England players double in size in it' \nWorld Cup winner Matt Dawson discusses England's seven-try thrashing of Wales and the lessons coach Steve Borthwick can learn from France. \nIn his latest BBC Sport column, England World Cup winner Matt Dawson discusses England's seven-try thrashing of Wales, Tommy Freeman's performance at centre and the lessons coach Steve Borthwick coul… [+5076 chars]",
+        "positive": 8.160301513271406e-05,
+        "negative": 4.627320322470041e-06,
+        "neutral": 0.9999136924743652
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/world/2026/02/08/ukraine-imposes-sanctions-on-foreign-suppliers-of-components-for-russian-missiles",
+        "timestamp": "2026-02-08T09:39:00+00:00",
+        "text": "Ukraine imposes sanctions on foreign suppliers of components for Russian missiles \nKYIV, Feb 8 (Reuters) - Ukrainian ‌President Volodymyr Zelenskiy said on Sunday that he ‌was imposing sanctions on some foreign manufacturers of ‌components for Russian drones and missiles used against Ukraine. Read full story \nKYIV, Feb 8 (Reuters) - Ukrainian President Volodymyr Zelenskiy said on Sunday that he was imposing sanctions on some foreign manufacturers of components for Russian drones and missiles used against … [+1360 chars]",
+        "positive": 0.0019354828400537372,
+        "negative": 0.5439763069152832,
+        "neutral": 0.4540882110595703
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/company/corporate-trends/cybersecurity-breaches-emerge-as-top-risk-for-india-inc-report/articleshow/128066181.cms",
+        "timestamp": "2026-02-08T09:38:40+00:00",
+        "text": "Cybersecurity breaches emerge as top risk for India Inc: Report \nCybersecurity breaches and attacks are the top risks for Indian companies. Changing customer demands and geopolitical events also pose significant threats. Rapid technological change and digital disruption affect competitive positions. AI presents dual risks,… \nNew Delhi, Cybersecurity breaches and attacks have emerged as the top risks for Indian companies' organisational performance, with 51 per cent of senior leaders citing it as their primary concern, ac… [+3158 chars]",
+        "positive": 7.88041579653509e-05,
+        "negative": 0.9998576641082764,
+        "neutral": 6.348871829686686e-05
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/?p=2058459",
+        "timestamp": "2026-02-08T09:38:38+00:00",
+        "text": "Lagos seals Ladipo market over environmental violations \nThe Lagos State Government has sealed the popular Ladipo spare parts market due to repeated environmental infractions and improper waste disposal.\n\nRead More: https://punchng.com/lagos-seals-ladipo-market-over-environmental-violations/ \nThe Lagos State Government has sealed Ladipo Spare Parts Market along the Murtala Muhammed International Airport Road (ApapaOshodi Expressway) over alleged repeated environmental infractions.\r\nCommis… [+1879 chars]",
+        "positive": 0.04669788479804993,
+        "negative": 0.7428984045982361,
+        "neutral": 0.21040372550487518
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-and-silver-prices-turn-volatile/article70607057.ece",
+        "timestamp": "2026-02-08T09:36:39+00:00",
+        "text": "Gold and silver prices turn volatile \nGold and silver prices experience volatility after hitting record highs, with expectations of range-bound trading in the near term. \nPrecious metals started the new year 2026 with a bang, with both gold and silver reaching fresh all-time highs in January. The price action, however, turned hugely volatile in the past few trading se… [+2835 chars]",
+        "positive": 0.02417653799057007,
+        "negative": 0.9124448299407959,
+        "neutral": 0.06337867677211761
+      },
+      {
+        "source": "news",
+        "id": "https://www.bmwblog.com/2026/02/08/bmw-brings-m2-cs-to-a-wine-show/",
+        "timestamp": "2026-02-08T09:34:05+00:00",
+        "text": "BMW Brings The M2 CS To A Wine Show \nAlcohol and driving certainly don’t mix, but BMW had a good reason to bring the M2 CS to Mexico’s Nation of Wines. The hardcore sports coupe is locally produced, so the marketing team couldn’t pass...\nFirst published by https://www.bmwblog.com \nAlcohol and driving certainly dont mix, but BMW had a good reason to bring the M2 CS to Mexico’s Nation of Wines. The hardcore sports coupe is locally produced, so the marketing team couldnt pass up … [+2209 chars]",
+        "positive": 0.9987909197807312,
+        "negative": 3.0237953978939913e-05,
+        "neutral": 0.0011788328411057591
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/sport/rugby-union/articles/c4g0vjy1j8xo",
+        "timestamp": "2026-02-08T09:32:30+00:00",
+        "text": "'The shirt used to weigh heavy - now England players double in size in it' \nWorld Cup winner Matt Dawson discusses England's seven-try thrashing of Wales and the lessons coach Steve Borthwick can learn from France. \nTommy Freeman is rapidly approaching world-class status.\r\nThe package that he brings to Test rugby - the pace, size, aerial ability and appetite for the ball - is pretty special.\r\nHe was a starter fo… [+1730 chars]",
+        "positive": 0.07925594598054886,
+        "negative": 0.00012577022425830364,
+        "neutral": 0.9206182360649109
+      },
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/opinion/online-views/monetary-policy-rbi-rate-stance-decisions-prudent-overdoing-liquidity-injections-mpc-11770493197360.html",
+        "timestamp": "2026-02-08T09:30:54+00:00",
+        "text": "Monetary policy: RBI’s rate and stance decisions are prudent but is it overdoing its liquidity injections? \nThe Reserve Bank of India’s monetary policy call to hold interest rates and retain its neutral stance revealed both sense and sensibility. But by providing liquidity at the slightest hint of tightness, rather than allowing rates to rise, RBI may be courting t… \nFinance minister Nirmala Sitharamans business-as-usual budget for 2026-27, presented on 1 February, was followed less than a week later by an equally pragmatic monetary policy decision, Friday last. … [+5243 chars]",
+        "positive": 0.0012763055274263024,
+        "negative": 0.001871298300102353,
+        "neutral": 0.996852457523346
+      },
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/opinion/online-views/china-comac-airbus-boeing-global-duopoly-aircraft-airplane-trade-war-supply-chain-11770365334770.html",
+        "timestamp": "2026-02-08T09:30:54+00:00",
+        "text": "China’s Comac wants to challenge Airbus and Boeing globally: Can it break their duopoly? \nChina wants to do build safe and profitable passenger aircraft at scale. Comac’s planes are flying beyond China, but supply-chain bottlenecks, trade wars and certification hurdles raise a bigger question—can it really break the Airbus-Boeing duopoly? \nMaking passenger planes is an exceptionally daunting task. There are safety requirements and complex systems, not to mention sky-high costs. Though the pace of Chinas efforts to build a self-reliant … [+4605 chars]",
+        "positive": 0.00062625075224787,
+        "negative": 0.9964874982833862,
+        "neutral": 0.0028862960170954466
+      },
+      {
+        "source": "news",
+        "id": "https://sputnikglobe.com/20260208/seven-afd-members-barred-from-entering-bundestag-1123605075.html",
+        "timestamp": "2026-02-08T09:30:35+00:00",
+        "text": "Seven AfD Members Barred From Entering Bundestag \nThe German authorities have repeatedly tightened screws on AfD, which hits out at the EU’s migration policy and stands for a “good, partner-like dialogue” with Russia. \nGet the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20260208/seven-afd-members-barred-from-entering-bundestag-1123605075.html\r… [+2687 chars]",
+        "positive": 0.063451386988163,
+        "negative": 0.00012628029799088836,
+        "neutral": 0.9364223480224609
+      },
+      {
+        "source": "news",
+        "id": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/08/ukraine-imposes-sanctions-on-foreign-suppliers-of-components-for-russian-missiles",
+        "timestamp": "2026-02-08T09:30:34+00:00",
+        "text": "Ukraine imposes sanctions on foreign suppliers of components for Russian missiles \nKYIV, Feb 8 (Reuters) - Ukrainian President Volodymyr Zelenskiy said on Sunday that he was imposing sanctions on some foreign manufacturers of components for Russian dron… Leggi \nKYIV, Feb 8 (Reuters) - Ukrainian President Volodymyr Zelenskiy said on Sunday that he was imposing sanctions on some foreign manufacturers of components for Russian drones and missiles used against … [+1355 chars]",
+        "positive": 0.0016662819543853402,
+        "negative": 0.7259861826896667,
+        "neutral": 0.27234750986099243
+      },
+      {
+        "source": "news",
+        "id": "https://www.hurriyetdailynews.com/central-bank-to-unveil-2026s-first-inflation-report-next-week-218705",
+        "timestamp": "2026-02-08T09:29:58+00:00",
+        "text": "Central Bank to unveil 2026’s first inflation report next week \nTürkiye’s Central Bank will unveil its first Inflation Report of the year next week in Istanbul. \nISTANBUL\r\nTürkiyes Central Bank will unveil its first InflationReport of the year next week in Istanbul.\r\nAccording to the banks announcement, Governor Fatih Karahan will host a briefing to present t… [+2680 chars]",
+        "positive": 7.902624020061921e-06,
+        "negative": 8.214835361286532e-06,
+        "neutral": 0.9999839067459106
+      },
+      {
+        "source": "news",
+        "id": "https://www.hurriyetdailynews.com/turkiye-could-become-regional-gold-refining-trading-hub-218704",
+        "timestamp": "2026-02-08T09:28:16+00:00",
+        "text": "‘Türkiye could become regional gold refining, trading hub’ \nRising global demand for gold could create an opportunity for Türkiye to expand domestic output and position itself as a regional refining and trading hub, supported by its established refining and jewelry manufacturing infrastructure, an industry representat… \nISTANBUL\r\nRising global demand for gold could create an opportunity for Türkiye to expand domestic output and position itself as a regional refining and trading hub, supported by its established refi… [+1326 chars]",
+        "positive": 0.9999997615814209,
+        "negative": 1.0927514892955514e-08,
+        "neutral": 2.0578359283263126e-07
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/real-estate/news/top-5-real-estate-hotspots-in-ahmedabad-gujarat-in-2026/photostory/128066151.cms",
+        "timestamp": "2026-02-08T09:27:45+00:00",
+        "text": "Top 5 real estate hotspots in Ahmedabad, Gujarat in 2026 \nIn the last few years, Ahmedabad has emerged as India’s one of the most resilient and opportunity-driven real estate markets. In 2026, the demand continues to grow. The city is attracting developers and buyers alike, thanks to its strong infrastructure, devel… \nIn the last few years, Ahmedabad has emerged as Indias one of the most resilient and opportunity-driven real estate markets. In 2026, the demand continues to grow. The city is attracting developers a… [+618 chars]",
+        "positive": 0.9999997615814209,
+        "negative": 1.9428155084710852e-08,
+        "neutral": 2.1846716435902636e-07
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/netflix-inc-nflx-warner-bros-092723210.html",
+        "timestamp": "2026-02-08T09:27:23+00:00",
+        "text": "Netflix, Inc. (NFLX)’s Warner Bros. Acquisition Faces Regulatory Scrutiny Amid Mixed Analyst Outlook \nNetflix Inc. (NASDAQ:NFLX) is one of the best blue-chip stocks with a 52-week low to buy right now. On January 27, Reuters reported that the U.S. Senate... \nNetflix Inc. (NASDAQ:NFLX) is one of the best blue-chip stocks with a 52-week low to buy right now. On January 27, Reuters reported that the U.S. Senate Judiciary Committee planned a hearing on Netfl… [+2439 chars]",
+        "positive": 0.0030236016027629375,
+        "negative": 0.00015448855992872268,
+        "neutral": 0.9968218803405762
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/sanofi-sny-strengthens-shareholder-returns-092720690.html",
+        "timestamp": "2026-02-08T09:27:20+00:00",
+        "text": "​Sanofi (SNY) Strengthens Shareholder Returns Amid Robust 2025 Performance and Long-Term Growth Outlook \nSanofi (NASDAQ:SNY) is one of the best 52-week low blue-chip stocks to buy right now. On January 29, Sanofi SA (NASDAQ:SNY) reiterated plans to conduct a €1 ... \nSanofi (NASDAQ:SNY) is one of the best 52-week low blue-chip stocks to buy right now. On January 29, Sanofi SA (NASDAQ:SNY) reiterated plans to conduct a 1 billion share buyback in 2026. The buyback … [+1833 chars]",
+        "positive": 0.022070255130529404,
+        "negative": 9.110354585573077e-05,
+        "neutral": 0.9778385758399963
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/veeva-systems-inc-veev-balancing-092719014.html",
+        "timestamp": "2026-02-08T09:27:19+00:00",
+        "text": "Veeva Systems Inc. (VEEV): Balancing Analyst Skepticism with Innovation and Strategic Partnerships \nVeeva Systems (NYSE:VEEV) is one of the best 52-week low blue-chip stocks to buy right now. On January 29, Veeva Systems (NYSE:VEEV) unveiled Veeva eSource, ... \nVeeva Systems (NYSE:VEEV) is one of the best 52-week low blue-chip stocks to buy right now. On January 29, Veeva Systems (NYSE:VEEV) unveiled Veeva eSource, a new Veeva SiteVault tailored to eliminat… [+2526 chars]",
+        "positive": 0.20528419315814972,
+        "negative": 5.411545134847984e-05,
+        "neutral": 0.7946617007255554
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_304c1e41-f46d-47f0-8616-1a27f2b63150",
+        "timestamp": "2026-02-08T09:27:17+00:00",
+        "text": "Eldorado Gold Corporation (EGO): Strategic Growth, Strong Balance Sheet, and Long-Term Value \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 2.3504386263084598e-05,
+        "negative": 3.472446223895531e-06,
+        "neutral": 0.9999730587005615
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/kogi-orders-closure-of-markets-motor-parks-over-insecurity/",
+        "timestamp": "2026-02-08T09:25:46+00:00",
+        "text": "Kogi orders closure of markets, motor parks over insecurity \nThe Kogi State Government has ordered the temporary closure of markets and motor parks in seven LGAs to cut off supplies for terrorists and bandits.\n\nRead More: https://punchng.com/kogi-orders-closure-of-markets-motor-parks-over-insecurity/ \nThe Kogi State Government has announced the temporary closure of selected markets and motor parks across parts of Kogi West Senatorial District as part of intensified security operations aimed at flu… [+3188 chars]",
+        "positive": 4.900398198515177e-05,
+        "negative": 0.004624761175364256,
+        "neutral": 0.9953262805938721
+      },
+      {
+        "source": "news",
+        "id": "https://cheezburger.com/44218629/24-itty-bitty-cute-baby-animals-to-bring-a-smile-to-your-face-february-8-2026",
+        "timestamp": "2026-02-08T09:25:10+00:00",
+        "text": "24 Itty Bitty Cute Baby Animals To Bring A Smile To Your Face (February 8, 2026) \nAnother week is about to start with an itty bitty dose of tiny animal cuteness! \r\nListen, there is not a lot that we need in this world to make us happy. We are simple people. We know that there is a whole lot that we cannot control. We try not to think about… \nListen, there is not a lot that we need in this world to make us happy. We are simple people. We know that there is a whole lot that we cannot control. We try not to think about it. We try to focus o… [+824 chars]",
+        "positive": 0.003519689664244652,
+        "negative": 0.015509949997067451,
+        "neutral": 0.9809703230857849
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/International/wireStory/greenland-crisis-boosted-danish-apps-designed-identify-boycott-129962148",
+        "timestamp": "2026-02-08T09:24:42+00:00",
+        "text": "Greenland crisis boosted Danish apps designed to identify and help boycott US goods \nThe makers of mobile apps designed to help shoppers identify and boycott U.S. goods say they saw a surge of interest in Denmark and beyond after the recent flare-up in tensions over Greenland \nCOPENHAGEN, Denmark -- The makers of mobile apps designed to help shoppers identify and boycott American goods say they saw a surge of interest in Denmark and beyond after the recent flare-up in tens… [+4845 chars]",
+        "positive": 0.955481767654419,
+        "negative": 0.0020732965786010027,
+        "neutral": 0.04244505241513252
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/arch-capital-acgl-navigates-market-092206121.html",
+        "timestamp": "2026-02-08T09:22:06+00:00",
+        "text": "Arch Capital (ACGL) Navigates Market Cycles with Strength, Offering Investors Long-Term Value \nArch Capital Group Ltd. (NASDAQ:ACGL) is one of the best affordable long term stocks to buy according to hedge funds. On January 16, Citizens analyst Matthew... \nArch Capital Group Ltd. (NASDAQ:ACGL) is one of the best affordable long term stocks to buy according to hedge funds. On January 16, Citizens analyst Matthew Carletti reaffirmed his Market Outperform… [+2153 chars]",
+        "positive": 0.9960876703262329,
+        "negative": 5.619554940494709e-05,
+        "neutral": 0.0038562112022191286
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/prediction-markets-polymarket-kalshi-super-bowl-boom-bubble-2026-2",
+        "timestamp": "2026-02-08T09:17:01+00:00",
+        "text": "The prediction market bubble is already here \nThe Super Bowl and other recent events show prediction markets are in a fragile \"boom\" thanks to a legal workaround. But it could burst at any moment. \nPrediction markets are everywhere right now. The Golden Globes! The Oscars! The airwaves! For the Super Bowl, people can use prediction markets not only to wager on the outcome of the big game but al… [+13383 chars]",
+        "positive": 0.0004994059563614428,
+        "negative": 0.0001917658228194341,
+        "neutral": 0.9993088245391846
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/ark-sells-22m-coinbase-adds-bullish-across-etfs",
+        "timestamp": "2026-02-08T09:14:53+00:00",
+        "text": "ARK extends Coinbase selling streak with another $22M sale, adds Bullish \nCathie Wood’s ARK Invest offloaded $22 million in Coinbase shares across multiple ETFs and added $10.7 million worth of Bullish, continuing a shift in its crypto-related holdings. \nCathie Woods ARK Invest continued reducing its exposure to crypto exchange Coinbase on Friday, unloading $22 million worth of shares across multiple exchange-traded funds (ETFs) while adding to its p… [+2524 chars]",
+        "positive": 0.5341623425483704,
+        "negative": 0.0024316217750310898,
+        "neutral": 0.4634059965610504
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/why-dessert-chains-die-sprinkles-cupcakes-frozen-yogurt-insomnia-cookies-2026-2",
+        "timestamp": "2026-02-08T09:14:01+00:00",
+        "text": "America's sweet tooth is looking for a new chain obsession \nSprinkles' abrupt closure at the end of 2025 marked the end of the cupcake era. Now, bundt cakes and cookies are vying for the top sweet spot. \nThe cupcake boom, a twenty-year dessert trend that once captivated the nation, ended with a thunk. However, America's sweet tooth doesn't retire  it just hunts for its next obsession.\r\nWhen all ofSpr… [+5213 chars]",
+        "positive": 0.00012536629219539464,
+        "negative": 4.8982537919073366e-06,
+        "neutral": 0.999869704246521
+      },
+      {
+        "source": "news",
+        "id": "https://www.hurriyetdailynews.com/syria-saudis-sign-joint-airline-and-telecommunications-deals-218701",
+        "timestamp": "2026-02-08T09:13:00+00:00",
+        "text": "Syria, Saudis sign joint airline and telecommunications deals \nSyria and Saudi Arabia signed deals on Feb. 7 that include a joint airline and a $1-billion project to develop telecommunications, officials said, as Syria seeks to rebuild after years of war. \nDAMASCUS\r\nSyria and Saudi Arabia signed deals on Feb. 7 that include a joint airline and a $1-billion project to develop telecommunications, officials said, as Syria seeks to rebuild after years of w… [+1455 chars]",
+        "positive": 0.00047829037066549063,
+        "negative": 0.000931869784835726,
+        "neutral": 0.998589813709259
+      },
+      {
+        "source": "news",
+        "id": "https://sports.yahoo.com/olympics/article/winter-olympics-what-to-watch-today-in-milan-cortina-including-lindsey-vonn-going-for-gold-091157156.html",
+        "timestamp": "2026-02-08T09:11:57+00:00",
+        "text": "Winter Olympics: What to watch today in Milan Cortina, including Lindsey Vonn going for gold \nThere's a lot more on tap than just the Super Bowl this Sunday. \nThe Winter Games have begun in Italy. From the rink to the slopes, a new generation of stars has emerged to chase gold. Well keep you connected to all of the thrilling moments and top stories as we t… [+4713 chars]",
+        "positive": 0.08120828866958618,
+        "negative": 0.00010645425209077075,
+        "neutral": 0.918685257434845
+      },
+      {
+        "source": "news",
+        "id": "https://github.com/joshuanwalker/Raiders2600",
+        "timestamp": "2026-02-08T09:10:18+00:00",
+        "text": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600 \nReverse Engineering Raiders of the Lost Ark for the Atari 2600 - joshuanwalker/Raiders2600 \nOriginal Game (1982) by Atari, Inc.Original Designer: Howard Scott WarshawDisassembly &amp; Analysis: Dennis Debro &amp; Halkun (That's me!)\r\nThis repository contains the fully reverse-engineered and… [+28397 chars]",
+        "positive": 3.255259071011096e-05,
+        "negative": 4.192992491880432e-06,
+        "neutral": 0.9999632835388184
+      },
+      {
+        "source": "news",
+        "id": "https://7news.com.au/sport/winter-olympics/mariah-carey-under-fire-as-winter-olympics-opening-ceremony-act-sparks-lip-sync-accusations-c-21564884",
+        "timestamp": "2026-02-08T09:08:56+00:00",
+        "text": "Mariah Carey under fire as Winter Olympics opening ceremony act sparks lip-sync accusations \nMariah Carey under fire as Winter Olympics opening ceremony act sparks lip-sync accusations7news.com.au \nThe performance by pop star Mariah Carey at the Milan Cortina Winter Olympics opening ceremony was the talk of the town but it also raised a few questions.\r\nThe rendition by the American singer of It… [+3223 chars]",
+        "positive": 0.0001093363607651554,
+        "negative": 0.0014736484736204147,
+        "neutral": 0.9984170198440552
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-kurt-cobain-id-rather-be-hated-for-who-i-am-than-loved-for-who-i-am-not-/articleshow/128065649.cms",
+        "timestamp": "2026-02-08T09:08:19+00:00",
+        "text": "Quote of the day by Kurt Cobain: 'I'd rather be hated for who I am, than loved for who I am not...' \nKurt Cobain, the voice of Nirvana, left an indelible mark on rock music. His raw lyrics and rebellious spirit challenged norms.  Despite personal struggles and immense fame, Cobain's influence endures.  Nirvana's music continues to resonate, cementing Cobain'… \nHe was just 27 years old at the time of his death, yet Kurt Cobain secured a permanent place among the most transformative musicians in modern history. As the frontman, lead guitarist, chief lyricist… [+3176 chars]",
+        "positive": 0.9137126803398132,
+        "negative": 0.0022705355659127235,
+        "neutral": 0.08401679992675781
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/economy/india-today-negotiating-trade-deals-from-a-position-of-strength-confidence-goyal/article70606988.ece",
+        "timestamp": "2026-02-08T09:05:57+00:00",
+        "text": "India today negotiating trade deals from a position of strength, confidence: Goyal \n\"I start by saying look we are 4 trillion dollar economy today, but it is going to be 30-35 trillion by 2047, when we are a developed economy,\" says Goyal \nThe India of today is negotiating trade deals from a position of strength and confidence that it can offer a future market of $35 trillion, Commerce and Industry Minister Piyush Goyal said on Sunday.… [+616 chars]",
+        "positive": 0.2990155518054962,
+        "negative": 0.00016749756468925625,
+        "neutral": 0.7008169293403625
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f7c9738-e714-4190-932b-480b9dc421b7",
+        "timestamp": "2026-02-08T09:05:00+00:00",
+        "text": "Today’s Papers: Yildiz renewal, Italy gold, Hojlund 95th \nLa Gazzetta dello SportMamma, how about ItalyWinter Olympics: An unforgettable first dayLollobrigida gold in the 3000m speed skating. ‘Beautiful to win with my Tommi’. Silver for Franzoni in the d... \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 0.0001721635489957407,
+        "negative": 6.327429673547158e-06,
+        "neutral": 0.9998216032981873
+      },
+      {
+        "source": "news",
+        "id": "https://bitcoinist.com/cftc-update-stablecoin-criteria-national-trust-bank/",
+        "timestamp": "2026-02-08T09:00:01+00:00",
+        "text": "CFTC Updates Payment Stablecoin Criteria To Recognize National Trust Banks – Details \nThe US Commodity Futures Trading Commission (CFTC) has amended a recent staff advisory to recognize payment stablecoins issued by national trust banks as eligible margin collateral. This move forms part of a broader regulatory initiative by the Commission on … \nThe US Commodity Futures Trading Commission (CFTC) has amended a recent staff advisory to recognize payment stablecoins issued by national trust banks as eligible margin collateral. This move forms p… [+2790 chars]",
+        "positive": 0.0010840954491868615,
+        "negative": 0.00012788477761205286,
+        "neutral": 0.998788058757782
+      },
+      {
+        "source": "news",
+        "id": "https://qiita.com/Mark-N/items/6b56ecbecf8140ec0dbb",
+        "timestamp": "2026-02-08T08:57:01+00:00",
+        "text": "腑に落ちない人のための多重共線性（マルチコ） - Qiita \nDeleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? データ分析をする人であれば一度は「多重共線性」という言葉を聞いたことがあると思います。色々な人の話を聞いてみると、 とりあえず知らないとやばいらしい 不安定ってなんだよ ... \n1\r\n$x_1$ $x_2+x_3$ \r\n\\rho(X, \\ Y) = \\frac{E \\left[ \\left( X-E \\left[ X \\right] \\right) \\left( Y-E \\left[ Y \\right] \\right) \\right]}{\\sqrt{E \\left[ \\left( X- E \\left[ X \\right] \\right)^2 \\right] E \\le… [+7247 chars]",
+        "positive": 0.0003663505194708705,
+        "negative": 0.0009058964787982404,
+        "neutral": 0.9987277388572693
+      },
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/sports/jake-paul-defends-ice-agents-olympic-hockey-jd-vance-rips-american-skiers-comments",
+        "timestamp": "2026-02-08T08:54:16+00:00",
+        "text": "Jake Paul defends ICE agents after watching Olympic hockey with JD Vance, rips American skier's comments \nJake Paul defended ICE agents while in Italy to support fiancée Jutta Leerdam in the Olympics, calling out Billie Eilish and criticizing U.S. athletes who questioned representing America. \nJake Paul is in Italy to take in some Olympic action and cheer on his fiancée, speedskater Jutta Leerdam.\r\nDuring his trip, he attended an Olympic hockey game with Vice President JD Vance, but afterw… [+1528 chars]",
+        "positive": 4.730062937596813e-05,
+        "negative": 9.35735588427633e-05,
+        "neutral": 0.999859094619751
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/india/piyush-goyal-interview-india-us-deal-piyush-goyal-dismisses-claims-india-conceded-in-us-trade-deal-pti/articleshow/128065073.cms",
+        "timestamp": "2026-02-08T08:51:42+00:00",
+        "text": "Piyush Goyal dismisses claims India conceded in US trade deal \nIndia's Commerce Minister Piyush Goyal has defended a new tariff agreement with the United States. He stated this move will give Indian goods a competitive advantage. Goyal highlighted India's strong negotiating position as a growing economy. He also discusse… \nUnion Commerce and Industry Minister Piyush Goyal on Sunday dismissed criticism about India conceding more to the United States by agreeing to an 18% tariff, asserting that the move would help Indian… [+2804 chars]",
+        "positive": 0.9999945163726807,
+        "negative": 1.1950639873248292e-06,
+        "neutral": 4.299865850043716e-06
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/analysts-saying-hubspot-hubs-084859434.html",
+        "timestamp": "2026-02-08T08:48:59+00:00",
+        "text": "Here’s What Analysts Are Saying About Hubspot (HUBS) \nHubspot, Inc. (NYSE:HUBS) is one of the most promising future stocks to buy now. Citi adjusted the price target on Hubspot, Inc. (NYSE:HUBS) to $600 from... \nHubspot, Inc. (NYSE:HUBS)  is one of the most promising future stocks to buy now. Citi adjusted the price target on Hubspot, Inc. (NYSE:HUBS) to $600 from $660 on February 4, maintaining a Buy rating… [+1847 chars]",
+        "positive": 0.999951958656311,
+        "negative": 6.089550424803747e-06,
+        "neutral": 4.2004194256151095e-05
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/snowflake-inc-snow-one-most-084856092.html",
+        "timestamp": "2026-02-08T08:48:56+00:00",
+        "text": "Is Snowflake Inc. (SNOW) One of the Most Promising Future Stocks to Buy Now? \nSnowflake Inc. (NYSE:SNOW) is one of the most promising future stocks to buy now. Bank of America Securities maintained a Buy rating on Snowflake Inc... \nSnowflake Inc. (NYSE:SNOW) is one of the most promising future stocks to buy now. Bank of America Securities maintained a Buy rating on Snowflake Inc. (NYSE:SNOW) on February 6, setting a price targe… [+2155 chars]",
+        "positive": 0.9998791217803955,
+        "negative": 4.726975475932704e-06,
+        "neutral": 0.00011614716640906408
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/analysts-think-salesforce-inc-crm-084851766.html",
+        "timestamp": "2026-02-08T08:48:51+00:00",
+        "text": "What Do Analysts Think About Salesforce, Inc. (CRM)? \nSalesforce, Inc. (NYSE:CRM) is one of the most promising future stocks to buy now. Stifel Nicolaus reaffirmed a Buy rating on Salesforce, Inc. (NYSE:CRM) on ... \nSalesforce, Inc. (NYSE:CRM) is one of the most promising future stocks to buy now. Stifel Nicolaus reaffirmed a Buy rating on Salesforce, Inc. (NYSE:CRM) on February 5, setting a price target of $300… [+1787 chars]",
+        "positive": 0.9999145269393921,
+        "negative": 2.5192009616148425e-06,
+        "neutral": 8.293733117170632e-05
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/bitcoin-price-institutional-interest-ramping-up-bitwise-ceo",
+        "timestamp": "2026-02-08T08:48:21+00:00",
+        "text": "Bitcoin under $70K gives institutions a ‘new crack of the apple’: Bitwise CEO \nBitcoin is in a bear market and is “getting swept up” with the rest of the macro assets, Bitwise CEO Hunter Horsley declared during a television interview. \nBitcoins drop below $70,000 is being seen very differently by long-time holders and institutional investors, according to Bitwise CEO Hunter Horsley.\r\nI think long-time holders are feeling unsure, an… [+2338 chars]",
+        "positive": 0.029694167897105217,
+        "negative": 0.04632176086306572,
+        "neutral": 0.9239840507507324
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/astrology/gemstones/can-wearing-garnet-help-you-get-married/articleshow/127860624.cms",
+        "timestamp": "2026-02-08T08:47:07+00:00",
+        "text": "Can wearing garnet help you get married? \nFeeling demotivated by disappointing marriage alliances? Ancient beliefs suggest wearing garnet, also known as Rakt Mani, can attract cosmic energies to remove blockages in your love life. This red gem is believed to harmonize planetary influences, potentiall… \nFollow Us On Social Media\r\n'Shows how far we have gone from Allah': Farooq Abdullah on suicide bombing in Pakistan mosqueForeign investors return to Indian equity markets with Rs 8,129 crore in early… [+1643 chars]",
+        "positive": 0.05766233429312706,
+        "negative": 8.620525477454066e-05,
+        "neutral": 0.9422515034675598
+      },
+      {
+        "source": "news",
+        "id": "https://www.thejournal.ie/readme/washington-post-6948549-Feb2026/",
+        "timestamp": "2026-02-08T08:45:24+00:00",
+        "text": "From white knight to grim reaper: Bezos guts the Washington Post \nOnce cast as a saviour of American journalism, Bezos now appears willing to hollow out a great newspaper in exchange for proximity to power, writes Marion McKeone. \nWHAT DOES IT profit a multi-billionaire if he owns a hefty chunk of the world and a stake in the galaxy beyond but sells his soul?\r\nWednesdays announcement that Jeff Bezos, currently the third-riches… [+8571 chars]",
+        "positive": 0.014909756369888783,
+        "negative": 0.0008364819223061204,
+        "neutral": 0.9842537641525269
+      },
+      {
+        "source": "news",
+        "id": "https://www.ladbible.com/news/sport/todd-richards-winter-olympics-hot-mic-snowboarding-967252-20260208",
+        "timestamp": "2026-02-08T08:45:21+00:00",
+        "text": "NBC presenter caught in awkward hot mic moment during Olympic coverage \nThe former snowboarder later addressed and doubled-down on his 'boring' Olympics comment \nFollowing Friday (6 February) nights opening ceremony, the Milan-Cortina Olympic Winter Games are truly in full swing.\r\nAnd with scandals before it even began, its not been without its dull moments.\r… [+2630 chars]",
+        "positive": 0.0066736903972923756,
+        "negative": 0.0003186983522027731,
+        "neutral": 0.9930076599121094
+      },
+      {
+        "source": "news",
+        "id": "https://www.animenewsnetwork.com/news/2026-02-08/1st-new-made-in-abyss-anime-film-teaser-unveils-more-staff-fall-opening/.233944",
+        "timestamp": "2026-02-08T08:44:08+00:00",
+        "text": "1st New Made in Abyss Anime Film's Teaser Unveils More Staff, Fall Opening \nKevin Penkin returns to score Made in Abyss: Mezameru Shinpi, 1st of 3 films \nThe \"Made in Abyss FIlm Concert\" debuted the teaser trailer for Made in Abyss: Mezameru Shinpi (Made in Abyss: Awakening Mystery), the first film in the new Made in Abyss anime film trilogy, on Sunda… [+3963 chars]",
+        "positive": 0.0012388818431645632,
+        "negative": 4.223835276206955e-05,
+        "neutral": 0.9987188577651978
+      },
+      {
+        "source": "news",
+        "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Don-t-risk-your-health-on-unapproved-aphrodisiacs-FDA-warns-youth-2020769",
+        "timestamp": "2026-02-08T08:42:37+00:00",
+        "text": "Don’t risk your health on unapproved aphrodisiacs – FDA warns youth \nThe Food and Drugs Authority (FDA) has issued a warning to consumers against the use of unapproved aphrodisiacs, citing serious health risks associated with many of these products. \nThe Food and Drugs Authority (FDA) has issued a warning to consumers against the use of unapproved aphrodisiacs, citing serious health risks associated with many of these products.\r\nSpeaking on Morni… [+954 chars]",
+        "positive": 0.009286216460168362,
+        "negative": 0.9151694774627686,
+        "neutral": 0.07554437220096588
+      },
+      {
+        "source": "news",
+        "id": "https://football-italia.net/todays-papers-yildiz-renewal-italy-gold/",
+        "timestamp": "2026-02-08T08:38:49+00:00",
+        "text": "Today’s Papers: Yildiz renewal, Italy gold, Hojlund 95th \nLa Gazzetta dello Sport  Mamma, how about Italy Winter Olympics: An unforgettable first day Lollobrigida... \nLa Gazzetta dello Sport \r\nMamma, how about Italy\r\nWinter Olympics: An unforgettable first day\r\nLollobrigida gold in the 3000m speed skating. Beautiful to win with my Tommi. Silver for Franzoni in the… [+2611 chars]",
+        "positive": 0.002681506099179387,
+        "negative": 5.647080251947045e-05,
+        "neutral": 0.9972620010375977
+      },
+      {
+        "source": "news",
+        "id": "https://www.bostonherald.com/2026/02/08/say-it-with-flower-themes-on-valentines-day/",
+        "timestamp": "2026-02-08T08:37:39+00:00",
+        "text": "Say it with flower themes on Valentine’s Day \nThis year, how about nixing the real flowers and asking for something with more longevity, still with a floral theme? \nLove is in the air, thanks to Valentines Day directly in our sights. I hope everyones bracing themselves for a deluge of heart-shaped cards, impossible-to-get dinner reservations, and expensive choco… [+2557 chars]",
+        "positive": 0.00013784448674414307,
+        "negative": 3.489185110083781e-05,
+        "neutral": 0.9998272061347961
+      },
       {
         "source": "news",
         "id": "https://www.rte.ie/news/ireland/2026/0208/1557315-garda-appeal-madigan/",
@@ -464,78 +932,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.lifesciencesworld.com/how-do-fish-regulate-salt-balance/",
-        "timestamp": "2026-02-08T06:41:22+00:00",
-        "text": "How do fish regulate salt balance? \nHow Fish Regulate Salt Balance: A Deep Dive Fish maintain their internal salt balance through a complex interplay of physiological mechanisms, adapting to their aquatic environments. This article explores the fascinating process of osmoregulation, detailing h… \nFish maintain their internal salt balance through a complex interplay of physiological mechanisms, adapting to their aquatic environments. This article explores the fascinating process of osmoregulat… [+10254 chars]",
-        "positive": 4.3591338908299804e-05,
-        "negative": 7.614992682647426e-06,
-        "neutral": 0.9999487400054932
-      },
-      {
-        "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a32bdb67-da43-4964-96ff-d0d70443657c",
-        "timestamp": "2026-02-08T06:41:00+00:00",
-        "text": "UTEP men beat NM State 91-88 in overtime thriller \nEL PASO, Texas (KTSM) — UTEP men’s basketball outlasted Battle of I-10 rival New Mexico State, 91-88, in an overtime thriller Saturday night inside the Don Haskins Center. After trailing by as many as 14 points in the first half, the Miners stormed back in th… \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 6.541098264278844e-05,
-        "negative": 3.690810626721941e-05,
-        "neutral": 0.9998975992202759
-      },
-      {
-        "source": "news",
-        "id": "https://sportsview.co.uk/2026/02/view-romero-is-the-disgraceful-one-after-letting-tottenham-down-again?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=view-romero-is-the-disgraceful-one-after-letting-tottenham-down-again",
-        "timestamp": "2026-02-08T06:40:00+00:00",
-        "text": "View: Romero is the ‘disgraceful’ one after letting Tottenham down again \nTottenham Hotspur defender Cristian Romero caused a stir when he used the word disgraceful to describe Spurs’ poor squad depth last week.All eyes were already on the Tottenham captain as they prepar... \nTottenham Hotspur defender Cristian Romero caused a stir when he used the word disgraceful to describe Spurs poor squad depth last week.\r\nAll eyes were already on the Tottenham captain as they prepar… [+1772 chars]",
-        "positive": 0.00042179535375908017,
-        "negative": 0.0013389346422627568,
-        "neutral": 0.9982391595840454
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/mcap-of-8-of-top-10-valued-firms-surges-by-whopping-455-lakh-crore-reliance-biggest-winner/article70606713.ece",
-        "timestamp": "2026-02-08T06:39:02+00:00",
-        "text": "Mcap of 8 of top 10 valued firms surges by whopping ₹4.55 lakh crore; Reliance biggest winner \nAmong the top 10, Reliance Industries, HDFC Bank, Bharti Airtel, ICICI Bank, State Bank of India, Bajaj Finance, LIC, and Hindustan Unilever gained, while TCS and Infosys lost value \nThe combined market valuation of eight of the top 10 valued firms jumped by a whopping 4.55 lakh crore last week, with Reliance Industries emerging as the biggest winner, in line with a remarkable ra… [+1672 chars]",
-        "positive": 0.9999852180480957,
-        "negative": 6.525455773953581e-06,
-        "neutral": 8.241871910286136e-06
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/us-trade-deal-framework-to-boost-investor-confidence-strength-capital-flows-deepen-markets-bse-chief/articleshow/128061728.cms",
-        "timestamp": "2026-02-08T06:37:51+00:00",
-        "text": "US trade deal framework to boost investor confidence, strength capital flows, deepen markets: BSE chief \nThe successful conclusion of an interim trade framework agreement between India and the US will boost investor confidence, strengthen the foundation for capital flows, and deepen market participation as India integrates further with the world economy--directl… \nThe successful conclusion of an interim trade framework agreement between India and the US will boost investor confidence, strengthen the foundation for capital flows, and deepen market participation… [+3769 chars]",
-        "positive": 1.0,
-        "negative": 2.0343845719139608e-08,
-        "neutral": 5.186782559007952e-09
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/?p=2058404",
-        "timestamp": "2026-02-08T06:35:43+00:00",
-        "text": "Five online side hustles to earn extra income in 2026 \nLooking for online side hustles to earn extra income in 2026? Discover five unique opportunities you can start from home, from audiobook narration to Subst\n\nRead More: https://punchng.com/five-online-side-hustles-to-earn-extra-income-in-2026/ \nSide hustles remain a popular way to earn extra income alongside a full-time job or small business.\r\nWhile common options such as pet sitting, mobile car washing, or general freelancing work for some… [+2883 chars]",
-        "positive": 0.9998565912246704,
-        "negative": 1.8689809166971827e-06,
-        "neutral": 0.00014150995411910117
-      },
-      {
-        "source": "news",
-        "id": "https://github.com/Kristian5013/flow-protocol",
-        "timestamp": "2026-02-08T06:34:48+00:00",
-        "text": "Show HN: 83K lines of C++ – cryptocurrency written from scratch, not a fork \nI spent weeks writing a full cryptocurrency implementation from scratch. Not a fork of Bitcoin or any existing codebase – 83,000 lines of original C++20.Technical choices:\n- Equihash (200,9) for PoW – memory-hard, ASIC-resistant\n- Keccak-256 for all hashing –… \nDecentralized cryptocurrency built from scratch in C++20.81,418 lines of original code 333 files 11 modules 184+ tests 0 dependencies on Bitcoin Core\r\nflowcoin.orgflowprotocol.netTelegramGitHub\r\nFlow… [+17995 chars]",
-        "positive": 3.186495086993091e-05,
-        "negative": 8.279311259684619e-06,
-        "neutral": 0.9999599456787109
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-in-feb-invest-rs-8100-cr-in-a-week-on-us-trade-deal/articleshow/128061603.cms",
-        "timestamp": "2026-02-08T06:34:42+00:00",
-        "text": "FPIs turn net buyers in Feb; invest Rs 8,100 cr in a week on US trade deal \nAfter three consecutive months of heavy selling, foreign portfolio investors (FPIs) turned net buyers in the first week of February, infusing more than Rs 8,100 crore in Indian equities, aided by improving risk sentiment, along with a trade deal with the US. \nAfter three consecutive months of heavy selling, foreign portfolio investors (FPIs) turned net buyers in the first week of February, infusing more than Rs 8,100 crore in Indian equities, aided by imp… [+2382 chars]",
-        "positive": 0.9999997615814209,
-        "negative": 6.446321521025311e-08,
-        "neutral": 1.7304704158505047e-07
-      },
-      {
-        "source": "news",
         "id": "https://www.livemint.com/opinion/online-views/surjit-bhalla-india-us-trade-deal-viksit-bharat-deeper-economic-world-free-market-11770493983737.html",
         "timestamp": "2026-02-08T06:33:20+00:00",
         "text": "Surjit Bhalla: Viksit Bharat may hinge on deeper economic ties with the world’s most vibrant free market \nEngagement with the world’s pre-eminent free market is more important for India than any other relationship. It could deliver far more than trade gains. It could impact how policy is made in New Delhi, revive private investment and enlarge space for market-le… \nThere are two basic elements to any successful development strategy: growth and redistribution. Over the last decade, the Narendra Modi government has been very successful with policies of redistribu… [+5032 chars]",
@@ -563,42 +959,6 @@
       },
       {
         "source": "news",
-        "id": "https://silodrome.com/lycoming-o540-aircraft-engine-coffee-table/",
-        "timestamp": "2026-02-08T06:30:01+00:00",
-        "text": "8.9 Liter Flat Six! A Lycoming O-540 Aircraft Engine Coffee Table \nThis is a coffee table made from an original Lycoming O-540 aircraft engine, specifically this is a Lycoming TIO-540 engine which was a higher...\nThe post 8.9 Liter Flat Six! A Lycoming O-540 Aircraft Engine Coffee Table appeared first on Silodrome. \nThis is a coffee table made from an original Lycoming O-540 aircraft engine, specifically this is a Lycoming TIO-540 engine which was a higher performance turbocharged and fuel injected variant.\r\nThe… [+2541 chars]",
-        "positive": 0.04700694978237152,
-        "negative": 0.00016723138105589896,
-        "neutral": 0.9528258442878723
-      },
-      {
-        "source": "news",
-        "id": "http://www.vulture.com/article/3-doors-down-frontman-brad-arnold-death.html",
-        "timestamp": "2026-02-08T06:29:45+00:00",
-        "text": "3 Doors Down Frontman Brad Arnold Dies at 47 \n3 Doors Down frontman Brad Arnold died Saturday at age of 47. In May of last year, he announced he had stage 4 kidney cancer. The band played Trump’s first inauguration in 2017. \nBrad Arnold, lead singer and songwriter of 3 Doors Down, died February 7. He was 47. The 3 Doors Down official social media announced their founders passing, saying Arnold passed away peacefully, sur… [+1596 chars]",
-        "positive": 0.0007760169683024287,
-        "negative": 0.0026592526119202375,
-        "neutral": 0.9965648055076599
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-valued-firms-surges-by-whopping-rs-4-55-lakh-cr-reliance-biggest-winner/articleshow/128061454.cms",
-        "timestamp": "2026-02-08T06:28:23+00:00",
-        "text": "Mcap of 8 of top 10 valued firms surges by whopping Rs 4.55 lakh cr; Reliance biggest winner \nThe combined market valuation of eight of the top 10 valued firms jumped by a whopping Rs 4.55 lakh crore last week, with Reliance Industries emerging as the biggest winner, in line with a remarkable rally in equities. \nThe combined market valuation of eight of the top 10 valued firms jumped by a whopping Rs 4.55 lakh crore last week, with Reliance Industries emerging as the biggest winner, in line with a remarkable… [+1671 chars]",
-        "positive": 0.9999988079071045,
-        "negative": 4.2240765196766006e-07,
-        "neutral": 6.886116352688987e-07
-      },
-      {
-        "source": "news",
-        "id": "https://thefootballfaithful.com/liverpool-vs-manchester-city-match-preview-and-team-news-2/",
-        "timestamp": "2026-02-08T06:25:00+00:00",
-        "text": "Liverpool vs Manchester City – Match preview and team news \nAnfield plays host to the definitive “main event” of Premier League gameweek 25 this Sunday as Liverpool and Manchester City renew a rivalry that has defined the modern era of English football.For... \nAnfield plays host to the definitive main event of Premier League gameweek 25 this Sunday as Liverpool and Manchester City renew a rivalry that has defined the modern era of English football.\r\nFor Pe… [+3105 chars]",
-        "positive": 4.734440517495386e-05,
-        "negative": 2.970024615933653e-05,
-        "neutral": 0.9999229907989502
-      },
-      {
-        "source": "news",
         "id": "https://www.wmur.com/article/olympic-figure-skaters-parents-ex-soviet-skaters/70275622",
         "timestamp": "2026-02-08T06:21:50+00:00",
         "text": "Meet the skaters whose parents were ex-Soviet skating superstars \n“My mom gets really stressed,” said Anthony Ponomarenko, part of the powerful U.S. Figure Skating team attempting to set records at the Milan Cortina Olympics. \nOne would think that given all the success Marina Klimova enjoyed in high-stakes, international figure skating with her husband and pairs partner, Sergei Ponomarenko, she would have no trouble watchi… [+4655 chars]",
@@ -617,111 +977,12 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-to-stay-disciplined-on-ma-says-dilip-shanghvi/articleshow/128061213.cms",
-        "timestamp": "2026-02-08T06:16:54+00:00",
-        "text": "Sun Pharma to stay disciplined on M&A, says Dilip Shanghvi \nSun Pharma plans a careful acquisition strategy. The company prioritizes organic growth to remain an attractive investment.  Chairman Dilip Shanghvi highlighted a focus on innovative medicines in the US.  Smaller acquisitions are being considered for emerging… \nNew Delhi: Sun Pharma will maintain a disciplined approach when it comes to acquisitions in order to allow the business to grow organically while remaining attractive for shareholders, according to C… [+1826 chars]",
-        "positive": 0.986406147480011,
-        "negative": 2.5735251256264746e-05,
-        "neutral": 0.013568142428994179
-      },
-      {
-        "source": "news",
-        "id": "https://english.khabarhub.com/2026/08/534269/",
-        "timestamp": "2026-02-08T06:15:34+00:00",
-        "text": "Two more industries begin operations in Hetauda Industrial Area \nHETAUDA: The number of industries operating in Hetauda Industrial Area, Makawanpur, has been steadily increasing. Recently, two more industries have commenced operations within the industrial zone. Ramesh Raj Nepal, Information Officer at the Industrial Area … \nHETAUDA: The number of industries operating in Hetauda Industrial Area, Makawanpur, has been steadily increasing. Recently, two more industries have commenced operations within the industrial zone.\r\n… [+1931 chars]",
-        "positive": 0.9883213639259338,
-        "negative": 5.174992111278698e-06,
-        "neutral": 0.01167339738458395
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/how-does-osmoregulation-work-in-freshwater-fish/",
-        "timestamp": "2026-02-08T06:14:08+00:00",
-        "text": "How does osmoregulation work in freshwater fish? \nHow Freshwater Fish Maintain Water Balance: The Osmoregulation Process How does osmoregulation work in freshwater fish? Osmoregulation in freshwater fish is the critical process where they actively combat water influx and salt loss through specialized adaptat… \nHow does osmoregulation work in freshwater fish?Osmoregulation in freshwater fish is the critical process where they actively combat water influx and salt loss through specialized adaptations, includ… [+8625 chars]",
-        "positive": 9.314186172559857e-05,
-        "negative": 2.1769863451481797e-05,
-        "neutral": 0.999885082244873
-      },
-      {
-        "source": "news",
-        "id": "https://www.clickondetroit.com/news/world/2026/02/08/greenland-crisis-boosted-danish-apps-designed-to-identify-and-help-boycott-us-goods/",
-        "timestamp": "2026-02-08T06:13:51+00:00",
-        "text": "Greenland crisis boosted Danish apps designed to identify and help boycott US goods \nThe makers of mobile apps designed to help shoppers identify and boycott U.S. goods say they saw a surge of interest in Denmark and beyond after the recent flare-up in tensions over Greenland. \nCOPENHAGEN The makers of mobile apps designed to help shoppers identify and boycott American goods say they saw a surge of interest in Denmark and beyond after the recent flare-up in tensions over U.… [+5066 chars]",
-        "positive": 0.9528382420539856,
-        "negative": 0.0032832203432917595,
-        "neutral": 0.043878503143787384
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/magazines/panache/after-aishwarya-rai-and-salman-khan-cases-vivek-oberoi-wins-protection-over-personality-rights-in-the-delhi-high-court-ruling/articleshow/128060778.cms",
-        "timestamp": "2026-02-08T06:13:15+00:00",
-        "text": "After Aishwarya Rai and Salman Khan cases, Vivek Oberoi wins protection over personality rights in the Delhi High Court ruling \nActor Vivek Oberoi has secured court protection against the misuse of his identity. The Delhi High Court has ordered multiple entities to stop using his name, image, and voice without consent. This ruling comes amid growing concerns over deepfakes and AI-gene… \nWith the rise of artificial intelligence, deepfake videos and fake social media accounts, Indian celebrities are increasingly turning to the courts to safeguard their identities. Actor and entreprene… [+3372 chars]",
-        "positive": 0.8443014025688171,
-        "negative": 0.08855025470256805,
-        "neutral": 0.06714843958616257
-      },
-      {
-        "source": "news",
-        "id": "https://mediagazer.com/260208/p1",
-        "timestamp": "2026-02-08T06:10:02+00:00",
-        "text": "WaPo squandered two precious years under Will Lewis' leadership, and his short resignation note and the lack of a succession plan suggest his exit was unplanned (Max Tani/Semafor) \nMax Tani / Semafor:\nWaPo squandered two precious years under Will Lewis' leadership, and his short resignation note and the lack of a succession plan suggest his exit was unplanned  —  It's easy to forget that Sir Will Lewis's arrival at the Washington Post i… \nMediagazer presents the day's must-read media news on a single page.\r\nThe media business is in tumult: from the production side to\r\nthe distribution side, new technologies are upending the industry.\r… [+416 chars]",
-        "positive": 0.0001502866653027013,
-        "negative": 0.062350936233997345,
-        "neutral": 0.9374988079071045
-      },
-      {
-        "source": "news",
-        "id": "https://www.firstpost.com/lifestyle/why-travelling-at-least-once-a-year-is-good-for-mental-health-heres-what-experts-say-13976991.html",
-        "timestamp": "2026-02-08T06:08:21+00:00",
-        "text": "Why travelling at least once a year is good for mental health. Here’s what experts say \nPsychologists and health researchers say travel is not just a treat. It is a reset button for the mind and body. Firstpost spoke to psychiatrist, Dr. Aninda Sidhana for evidence based inputs \nIn a world where workdays bleed into nights and weekends feel shorter than ever, the idea of taking a proper break can seem like a luxury. But psychologists and health researchers say travel is not j… [+6426 chars]",
-        "positive": 0.18782639503479004,
-        "negative": 0.00021245716197881848,
-        "neutral": 0.8119611740112305
-      },
-      {
-        "source": "news",
-        "id": "https://www.onefc.com/lifestyle/from-the-mosh-pit-to-the-circle-ben-tynan-on-his-lifelong-love-for-the-used/",
-        "timestamp": "2026-02-08T06:05:29+00:00",
-        "text": "From The Mosh Pit To The Circle: Ben Tynan On His Lifelong Love For The Used \nBefore ONE Fight Night 40 this Friday, \"Vanilla Thunder\" explains how The Used became the soundtrack to his life. \nCanadian heavyweight MMA fighter Ben Tynan may enjoy riding his dirt bike and exploring Americas backcountry, but theres no doubt that everywhere he goes, he brings a little bit of a punk rock vibe t… [+3651 chars]",
-        "positive": 0.0015041133156046271,
-        "negative": 0.0002995452960021794,
-        "neutral": 0.9981964230537415
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-failed-to-link-farmers-to-global-markets-shivraj-singh-chouhan-on-allegations-over-india-us-trade-deal/articleshow/128060893.cms",
-        "timestamp": "2026-02-08T06:03:29+00:00",
-        "text": "Congress failed to link farmers to global markets: Shivraj Singh Chouhan on allegations over India-US trade deal \nUnion Agriculture Minister Shivraj Singh Chouhan on Sunday defended the India-US trade pact and rejected Congress criticism, saying the agreement protects the agriculture sector and keeps farmers’ interests at the centre. He said key farm products have been k… \nUnion Agriculture Minister Shivraj Singh Chouhan on Sunday hit out at the Congress over its allegations on the India-US trade deal, saying despite ruling for years, it failed to connect farmers to gl… [+3567 chars]",
-        "positive": 0.0007633136701770127,
-        "negative": 0.9533318281173706,
-        "neutral": 0.045904818922281265
-      },
-      {
-        "source": "news",
         "id": "https://ambcrypto.com/explainer-why-is-bitcoin-under-so-much-sell-pressure-right-now/",
         "timestamp": "2026-02-08T06:00:37+00:00",
         "text": "Explainer – Why is Bitcoin under so much sell pressure right now? \nA few bearish trends across the board have affected Bitcoin's price lately. \nAs the world’s largest cryptocurrency, Bitcoin [BTC] often takes the lead whenever the market falls or climbs. However, the last 24 hours proved that assumption somewhat inaccurate.\r\nIn fact, while B… [+3302 chars]",
         "positive": 0.000551822071429342,
         "negative": 0.8010494112968445,
         "neutral": 0.19839875400066376
-      },
-      {
-        "source": "news",
-        "id": "https://apnews.com/article/denmark-greenland-trump-boycott-apps-93071df9a5b8aec8116c37730d175a46",
-        "timestamp": "2026-02-08T06:00:29+00:00",
-        "text": "Apps to boycott US goods gained traction in crisis over Greenland \nThe makers of mobile apps designed to help shoppers identify and boycott U.S. goods say they saw a surge of interest in Denmark and beyond after the recent flare-up in tensions over Greenland. The creator of the “Made O’Meter” app says he saw around 30,000 do… \nCOPENHAGEN, Denmark (AP) The makers of mobile apps designed to help shoppers identify and boycott American goods say they saw a surge of interest in Denmark and beyond after the recent flare-up in te… [+4924 chars]",
-        "positive": 0.9998237490653992,
-        "negative": 1.999565211008303e-05,
-        "neutral": 0.00015629026165697724
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/politics/2026/02/08/social-democrats-are-on-an-upward-curve-but-are-they-ready-to-land-in-government/",
-        "timestamp": "2026-02-08T06:00:01+00:00",
-        "text": "Social Democrats are on an upward curve, but are they ready to land in government? \nThe party’s national conference in Cork underlines its ambitions and its appeal among younger voters \nThe Social Democrats have been around for over a decade so they can hardly be called the new kids on the block any more. Yet the party retains the most youthful image of all the Dáil parties and the … [+4734 chars]",
-        "positive": 0.9334951043128967,
-        "negative": 1.403643091180129e-05,
-        "neutral": 0.06649092584848404
       },
       {
         "source": "news",
@@ -758,78 +1019,6 @@
         "positive": 0.0003459226281847805,
         "negative": 5.850371508131502e-06,
         "neutral": 0.9996482133865356
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-02-08-why-you-shouldnt-miss-out-on-fiber.html",
-        "timestamp": "2026-02-08T06:00:00+00:00",
-        "text": "Dietary fiber: Here’s why you shouldn’t miss out on this digestive superhero \nMost Americans consume only 10–15 g of fiber daily, far below the recommended 25–34 g, contributing to digestive disorders, heart disease and cancer risks. Soluble fiber slows digestion, lowers cholesterol and stabilizes blood sugar, while insoluble fiber pre… \n<ul><li>Most Americans consume only 1015 g of fiber daily, far below the recommended 2534 g, contributing to digestive disorders, heart disease and cancer risks.</li><li>Soluble fiber slows digestion… [+4817 chars]",
-        "positive": 1.0500873941055033e-05,
-        "negative": 0.0007434229482896626,
-        "neutral": 0.9992461204528809
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-02-08-us-grows-more-dependent-on-foreign-mineral.html",
-        "timestamp": "2026-02-08T06:00:00+00:00",
-        "text": "U.S. grows more dependent on foreign mineral imports, USGS report finds \nA new USGS report shows the U.S. grew more reliant on foreign mineral imports in 2025, with 16 of 90 non-fuel minerals being 100% import dependent and 54 minerals reliant on imports for more than half of consumption. Most fully import-dependent minerals, such… \n<ul><li>A new USGS report shows the U.S. grew more reliant on foreign mineral imports in 2025, with 16 of 90 non-fuel minerals being 100% import dependent and 54 minerals reliant on imports for more … [+4535 chars]",
-        "positive": 0.006528674624860287,
-        "negative": 0.0009657504851929843,
-        "neutral": 0.9925056099891663
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-02-08-multi-state-salmonella-outbreak-sparks-supplement-recall.html",
-        "timestamp": "2026-02-08T06:00:00+00:00",
-        "text": "Multi-state salmonella outbreak sparks major supplement recall \nA popular dietary supplement has been recalled due to its link to a dangerous, multi-state salmonella outbreak. Why Not Natural voluntarily recalled its Pure Organic Moringa Green Superfood capsules. The outbreak is significant and growing, with at least 65 i… \n<ul><li>A popular dietary supplement has been recalled due to its link to a dangerous, multi-state salmonella outbreak. Why Not Natural voluntarily recalled its Pure Organic Moringa Green Superfood c… [+5348 chars]",
-        "positive": 0.0014949438627809286,
-        "negative": 0.9876859188079834,
-        "neutral": 0.01081915944814682
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-02-08-the-human-connection-what-american-medicine-abandoned.html",
-        "timestamp": "2026-02-08T06:00:00+00:00",
-        "text": "The Human Connection: What American Medicine Abandoned in Pursuit of Progress \nIntroduction: A Priest in a Fedora On winter evenings in Great Neck, New York, a young Frank Ittleman would watch his father, Dr. Felix ‘Big Frank’ Ittleman, step in from the cold, fedora on his head and a heavy black bag in hand. His home’s front rooms doubl… \nIntroduction: A Priest in a Fedora\r\nOn winter evenings in Great Neck, New York, a young Frank Ittleman would watch his father, Dr. Felix 'Big Frank' Ittleman, step in from the cold, fedora on his hea… [+9173 chars]",
-        "positive": 0.00012443980085663497,
-        "negative": 3.4581924410304055e-05,
-        "neutral": 0.9998409748077393
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-02-08-10-simple-and-natural-treatments-for-eczema.html",
-        "timestamp": "2026-02-08T06:00:00+00:00",
-        "text": "10 Simple and natural treatments for eczema \nEczema is a chronic, non-contagious inflammatory skin condition that causes itching, redness and dryness, often triggered by irritants such as soaps, fragrances, metals and chemicals. Many people use gentle, natural remedies alongside medical care to help soo… \n<ul><li>Eczema is a chronic, non-contagious inflammatory skin condition that causes itching, redness and dryness, often triggered by irritants such as soaps, fragrances, metals and chemicals.</li><li… [+5285 chars]",
-        "positive": 2.2264543076744303e-05,
-        "negative": 0.00017538441170472652,
-        "neutral": 0.99980229139328
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-02-08-why-sleep-aid-might-be-robbing-rest.html",
-        "timestamp": "2026-02-08T06:00:00+00:00",
-        "text": "The hidden dangers of noise machines: Why your sleep aid might be robbing you of rest \nPrescription and over-the-counter sleep aids fail to replicate natural sleep architecture, worsen cognitive decline and increase dementia risk, particularly in older adults. Pink and white noise machines, marketed as sleep aids, reduce REM sleep (critical for… \n<ul><li>Prescription and over-the-counter sleep aids fail to replicate natural sleep architecture, worsen cognitive decline and increase dementia risk, particularly in older adults.</li><li>Pink and … [+6584 chars]",
-        "positive": 0.0006621659267693758,
-        "negative": 0.9969077706336975,
-        "neutral": 0.0024300566874444485
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-02-08-winter-sun-shines-citrus-recipes.html",
-        "timestamp": "2026-02-08T06:00:00+00:00",
-        "text": "Even in Winter, the Sun Still Shines in These Citrus Recipes \nBrightening Winter with Nature’s Sunshine As the long stretches of cold, gray weather descend, our spirits and our health can suffer. The industrial food system offers little solace, peddling processed, lifeless commodities designed for shelf life, not vitali… \nBrightening Winter with Nature's Sunshine\r\nAs the long stretches of cold, gray weather descend, our spirits and our health can suffer. The industrial food system offers little solace, peddling proces… [+6259 chars]",
-        "positive": 0.00010467982065165415,
-        "negative": 0.999784529209137,
-        "neutral": 0.00011079424439230934
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2026-02-08-5-potent-herbal-synergies-maximizing-power-turmeric.html",
-        "timestamp": "2026-02-08T06:00:00+00:00",
-        "text": "Maximizing Turmeric’s Power: 5 Potent Herbal Synergies for Optimal Health \nIntroduction: Why Turmeric Needs a Team For millennia, turmeric has been revered as a golden goddess of healing. Ancient Ayurvedic and Traditional Chinese Medicine practitioners didn’t just sprinkle it on food; they wove it into complex herbal formulas [1]. M… \nIntroduction: Why Turmeric Needs a Team\r\nFor millennia, turmeric has been revered as a golden goddess of healing. Ancient Ayurvedic and Traditional Chinese Medicine practitioners didn't just sprinkle… [+9100 chars]",
-        "positive": 0.00010840036702575162,
-        "negative": 3.9796243072487414e-05,
-        "neutral": 0.9998518228530884
       },
       {
         "source": "news",
@@ -893,15 +1082,6 @@
         "positive": 5.4234213166637346e-05,
         "negative": 0.0017711046384647489,
         "neutral": 0.9981746673583984
-      },
-      {
-        "source": "news",
-        "id": "https://www.thestar.com.my/news/nation/2026/02/08/optr-offers-20-discount-as-sabah-electricity-tariffs-rise",
-        "timestamp": "2026-02-08T05:47:00+00:00",
-        "text": "OPTR offers 20% discount as Sabah electricity tariffs rise \nKOTA KINABALU: Sabah businesses facing higher electricity costs following the Feb 1 tariff revision may find some relief through the Off Peak Tariff Rider (OPTR) scheme, which offers up to a 20% discount on electricity usage during off-peak hours. Read full s… \nKOTA KINABALU: Sabah businesses facing higher electricity costs following the Feb 1 tariff revision may find some relief through the Off Peak Tariff Rider (OPTR) scheme, which offers up to a 20% disc… [+1651 chars]",
-        "positive": 0.20429757237434387,
-        "negative": 0.003230336355045438,
-        "neutral": 0.7924721837043762
       },
       {
         "source": "news",
@@ -1172,294 +1352,6 @@
         "positive": 0.00014112280041445047,
         "negative": 0.0003901321906596422,
         "neutral": 0.9994688630104065
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/why-is-the-frogs-respiratory-system-so-interesting/",
-        "timestamp": "2026-02-08T03:37:27+00:00",
-        "text": "Why is the frog’s respiratory system so interesting? \nWhy is the Frog’s Respiratory System So Interesting? The frog’s respiratory system is fascinating due to its multifaceted approach to oxygen intake, utilizing lungs, skin, and buccal pumping, making it a prime example of evolutionary adaptation to both aquati… \nThe frog’s respiratory system is fascinating due to its multifaceted approach to oxygen intake, utilizing lungs, skin, and buccal pumping, making it a prime example of evolutionary adaptation to both… [+8431 chars]",
-        "positive": 0.06954660266637802,
-        "negative": 0.0001572643086547032,
-        "neutral": 0.9302961826324463
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/haitis-transitional-council-steps-down-hands-power-to-pm/a-75858493",
-        "timestamp": "2026-02-08T03:35:00+00:00",
-        "text": "Haiti's transitional council steps down, hands power to PM \nHaiti has entered a state of political limbo with the US-backed Prime Minister Alix Didier Fils-Aime facing the daunting task of holding elections in the violence-gripped country. \nAfter almost two years, Haiti's transitional presidential council handed power to US-backed Prime Minister Alix Didier Fils-Aime on Saturday.\r\nThe nine-member council stepped down as it failed to cur… [+2587 chars]",
-        "positive": 0.0037026763893663883,
-        "negative": 0.9448202252388,
-        "neutral": 0.05147708207368851
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180755598",
-        "timestamp": "2026-02-08T03:32:05+00:00",
-        "text": "Directors Guild of America Awards Winners (Updating Live) - Variety \nDirectors Guild of America Awards Winners (Updating Live)Variety DGA Awards: Winners List (Updating Live)The Hollywood Reporter Frontrunner Friday Oscar Predictions: The Calm Before the Storm (2/6/26)AwardsWatch DGA Awards: ‘Dying For Sex’, ‘SNL50: The Annive… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.00021813134662806988,
-        "negative": 0.00010124845721293241,
-        "neutral": 0.9996806383132935
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/politics/2026/02/07/netanyahu-to-meet-trump-wednesday-insists-iran-talks-include-missiles-and-proxy-networks/",
-        "timestamp": "2026-02-08T03:29:22+00:00",
-        "text": "Netanyahu to Meet Trump Wednesday, Insists Iran Talks Include Missiles and Proxy Networks \nIsraeli Prime Minister Benjamin Netanyahu is set to meet President Donald Trump at the White House on Wednesday as U.S.–Iran negotiations advance under mounting tension, with Tehran resisting demands to curb its ballistic missiles, proxy forces, and nuclear p… \nIsraeli Prime Minister Benjamin Netanyahu is set to meet President Donald Trump at the White House on Wednesday as U.S.Iran negotiations advance under mounting tension, with Tehran resisting demands … [+4407 chars]",
-        "positive": 0.00030488509219139814,
-        "negative": 2.4471899450873025e-05,
-        "neutral": 0.9996707439422607
-      },
-      {
-        "source": "news",
-        "id": "https://www.superpunch.net/2026/02/she-giggles-at-her-own-name-olympics.html",
-        "timestamp": "2026-02-08T03:27:00+00:00",
-        "text": "She giggles at her own name (Olympics roundup) \nThe highlight of the “athletes pronouncing their names for the Olympics website” is American alpine skier Mary Bocock, who clearly agrees it’s a pretty funny name[image or embed]\r\n— Rodger Sherman (@rodger.bsky.social) February 6, 2026 at 10:52 AM\n\n\n\n\n\n\n\n\n\n\n\n… \nThe highlight of the “athletes pronouncing their names for the Olympics website” is American alpine skier Mary Bocock, who clearly agrees it’s a pretty funny name\r\n[image or embed]\r\n— Rodger Sherman … [+2431 chars]",
-        "positive": 0.0023639872670173645,
-        "negative": 4.990401066606864e-05,
-        "neutral": 0.9975860118865967
-      },
-      {
-        "source": "news",
-        "id": "https://tokenminds.co/blog/reddit-marketing-how-to-promote-cryptocurrency-on-reddit",
-        "timestamp": "2026-02-08T03:13:37+00:00",
-        "text": "Reddit Marketing Mastery: TokenMinds' Essential Guide in 2026 \nReddit Marketing Ultimate Guide – Harnessing the Power of Massive Online Communities in 2026 Explore TokenMinds' concise guide on Reddit marketing. Harness strategies to elevate your brand within Reddit's dynamic communities. \nThis guide covers Reddit as a marketing channel, especially for Web3 projects. It describes Reddit's community-driven character, broad content, and crucial role in connecting blockchain technologies … [+32495 chars]",
-        "positive": 0.14987552165985107,
-        "negative": 1.019577121041948e-05,
-        "neutral": 0.8501141667366028
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180755566",
-        "timestamp": "2026-02-08T03:12:26+00:00",
-        "text": "Statement by President von der Leyen on the 20th package of sanctions against Russia - European Commission \nStatement by President von der Leyen on the 20th package of sanctions against RussiaEuropean Commission EU targets Russian crude anew with far broader sanctions planReuters EU proposes new sanctions to weaken Russia's oil and gas revenuesEuronews.com EU commi… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.0026539708487689495,
-        "negative": 0.631588339805603,
-        "neutral": 0.36575767397880554
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180755564",
-        "timestamp": "2026-02-08T03:12:16+00:00",
-        "text": "2026 DGA Awards: Complete list of winners (updating) - Gold Derby \n2026 DGA Awards: Complete list of winners (updating)Gold Derby DGA Awards Winners List (Updating Live)Deadline DGA Awards: Winners List (Updating Live)The Hollywood Reporter Frontrunner Friday Oscar Predictions: The Calm Before the Storm (2/6/26)AwardsWatch D… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.00024563114857301116,
-        "negative": 6.681548984488472e-05,
-        "neutral": 0.9996875524520874
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/02/07/us-news/telehealth-company-scraps-plans-to-sell-cheap-glp-1-pill-after-fda-vows-crackdown/",
-        "timestamp": "2026-02-08T03:10:09+00:00",
-        "text": "Telehealth company scraps plans to sell cheap GLP-1 diet pill after FDA vows crackdown \nHims & Hers announced they are scrapping plans to sell a compounded version of the weight loss drug Wegovy after federal regulators vowed to take action against the telehealth provider. \nHims &amp; Hers announced they are scrapping plans to sell a compounded version of the weight loss drug Wegovy after federal regulators vowed to take action against the telehealth provider. \r\n“Since … [+2108 chars]",
-        "positive": 0.0004887732211500406,
-        "negative": 0.0004897535545751452,
-        "neutral": 0.9990215301513672
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/economy/logistics/three-oil-tankers-caught-in-smuggling-racket-off-mumbai-are-us-sanctioned-ships/article70606477.ece",
-        "timestamp": "2026-02-08T03:08:57+00:00",
-        "text": "Three oil tankers caught in smuggling racket off Mumbai are US-sanctioned ships \nActing on tech-enabled surveillance and data-pattern analysis, ICG intercepted three suspect vessels about 100 NM west of Mumbai \nThe three oil tankers involved in the sea-smuggling racket off the Mumbai coast have been identified as US-sanctioned ships. The Indian Coast Guard busted this international oil-smuggling racket.\r\nTa… [+1358 chars]",
-        "positive": 0.0007025526138022542,
-        "negative": 7.483994704671204e-05,
-        "neutral": 0.9992226362228394
-      },
-      {
-        "source": "news",
-        "id": "http://www.newsbtc.com/altcoin/ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/",
-        "timestamp": "2026-02-08T03:00:28+00:00",
-        "text": "Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says \nEthereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are … \nEthereums recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and … [+2706 chars]",
-        "positive": 0.0001242953003384173,
-        "negative": 0.9995193481445312,
-        "neutral": 0.0003564213402569294
-      },
-      {
-        "source": "news",
-        "id": "https://www.snopes.com//fact-check/epstein-satoshi-nakamoto-bitcoin/",
-        "timestamp": "2026-02-08T03:00:00+00:00",
-        "text": "Did Epstein create Bitcoin as Satoshi Nakamoto? Don't fall for email making the claim \nA screenshot shared on social media in February 2026 authentically showed an email from the Epstein files proving that he was Satoshi Nakamoto, the anonymous creator of Bitcoin. \nClaim:\r\nA screenshot shared on social media in February 2026 authentically showed an email from the Epstein files proving that he was Satoshi Nakamoto, the anonymous creator of Bitcoin.\r\nIn January a… [+3377 chars]",
-        "positive": 0.012011883780360222,
-        "negative": 0.0001624386350158602,
-        "neutral": 0.9878256916999817
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-nerve-pain-supplements/",
-        "timestamp": "2026-02-08T02:57:36+00:00",
-        "text": "Best Nerve Pain Supplements (2026) \nNerve pain — characterized by tingling, burning, numbness, or shooting sensations — affects millions of people dealing with neuropathy, diabetes, sciatica, or \nNerve pain characterized by tingling, burning, numbness, or shooting sensations affects millions of people dealing with neuropathy, diabetes, sciatica, or nerve compression injuries. While prescripti… [+22524 chars]",
-        "positive": 0.0005399234942160547,
-        "negative": 0.00040377286495640874,
-        "neutral": 0.9990563988685608
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-l-glutamine-for-gut-health/",
-        "timestamp": "2026-02-08T02:42:46+00:00",
-        "text": "Best L-Glutamine for Gut Health (2026) \nL-glutamine is the most abundant amino acid in the body and plays a critical role in maintaining the integrity of the intestinal lining. For anyone dealing \nL-glutamine is the most abundant amino acid in the body and plays a critical role in maintaining the integrity of the intestinal lining. For anyone dealing with leaky gut, IBS symptoms, or general di… [+18614 chars]",
-        "positive": 0.001400376670062542,
-        "negative": 0.00033052245271392167,
-        "neutral": 0.9982690811157227
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-vitex-chasteberry-supplements/",
-        "timestamp": "2026-02-08T02:42:04+00:00",
-        "text": "Best Vitex (Chasteberry) Supplements (2026) \nVitex agnus-castus, commonly known as chasteberry or chaste tree berry, is one of the most well-researched herbs for women's hormonal health. It works by \nVitex agnus-castus, commonly known as chasteberry or chaste tree berry, is one of the most well-researched herbs for women’s hormonal health. It works by acting on the pituitary gland to help regulat… [+18617 chars]",
-        "positive": 0.9526666402816772,
-        "negative": 9.429222700418904e-06,
-        "neutral": 0.04732389375567436
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-5-htp-supplements/",
-        "timestamp": "2026-02-08T02:41:52+00:00",
-        "text": "Best 5-HTP Supplements (2026) \n5-HTP (5-Hydroxytryptophan) is a naturally occurring amino acid and direct precursor to serotonin — the neurotransmitter that regulates mood, sleep, and \n5-HTP (5-Hydroxytryptophan) is a naturally occurring amino acid and direct precursor to serotonin the neurotransmitter that regulates mood, sleep, and appetite. Derived from the seeds of the African … [+19696 chars]",
-        "positive": 2.508108264009934e-05,
-        "negative": 1.0669314178812783e-05,
-        "neutral": 0.9999642372131348
-      },
-      {
-        "source": "news",
-        "id": "https://www.activistpost.com/cuba-in-the-crosshairs-trump-and-rubios-economic-siege-on-an-entire-nation/",
-        "timestamp": "2026-02-08T02:35:00+00:00",
-        "text": "Cuba in the Crosshairs: Trump and Rubio’s Economic Siege on an Entire Nation \nBy reviving a decades-old “national emergency” and weaponising oil supplies, the Trump administration, with Marco Rubio as its chief ideologue, is escalating a campaign of economic warfare against Cuba, betting that deprivation and collapse will succeed where… \nBy reviving a decades-old national emergency and weaponising oil supplies, the Trump administration, with Marco Rubio as its chief ideologue, is escalating a campaign of economic warfare against Cuba… [+8646 chars]",
-        "positive": 0.018589112907648087,
-        "negative": 0.006951565388590097,
-        "neutral": 0.9744593501091003
-      },
-      {
-        "source": "news",
-        "id": "https://survivalblog.com/2026/02/09/the-ar-super-safety-part-2-by-st-leibowitz/",
-        "timestamp": "2026-02-08T02:34:24+00:00",
-        "text": "The AR Super Safety – Part 2, by St. Leibowitz \n(Continued from Part 1. This concludes the article.) In Part 1, I presented an overview of the Super Safety and why it was chosen. Now, I will move on to describing some details on installation and function checking. This will cover the modifications to insta… \n(Continued from Part 1. This concludes the article.)\r\nIn Part 1, I presented an overview of the Super Safety and why it was chosen. Now, I will move on to describing some details on installation and … [+16327 chars]",
-        "positive": 1.8676428226171993e-05,
-        "negative": 3.0528610750479857e-06,
-        "neutral": 0.9999781847000122
-      },
-      {
-        "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_97a4c2a4-f650-42a3-bef7-4b37955dc472",
-        "timestamp": "2026-02-08T02:30:22+00:00",
-        "text": "Francesca Lollobrigida hugs her son after winning Italy’s first gold of the Milan Olympics \nFinally an Olympic champion on the day she turned 35, Italian speedskater Francesca Lollobrigida couldn’t wait to run over to hug her 2 1/2-year-old son, Tommaso, after winning the women’s 3,000 meters at the Milan Cortina Games on Saturday. \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 6.810956256231293e-05,
-        "negative": 1.0254948392685037e-05,
-        "neutral": 0.9999216794967651
-      },
-      {
-        "source": "news",
-        "id": "https://thesportsrush.com/nba-news-kendrick-perkins-argues-austin-reaves-is-the-most-important-player-in-the-nba/",
-        "timestamp": "2026-02-08T02:28:15+00:00",
-        "text": "Kendrick Perkins Argues Austin Reaves Is the “Most Important Player in the NBA” \nAustin Reaves went from being undrafted to becoming a bona fide starter for the Los Angeles Lakers, but in the 2025-26 season, his role appears even more significant. As the Lakers push for the highest possible seed in the Western Conference and keep their ch… \nAustin Reaves went from being undrafted to becoming a bona fide starter for the Los Angeles Lakers, but in the 2025-26 season, his role appears even more significant. As the Lakers push for the highe… [+3351 chars]",
-        "positive": 0.0007743441383354366,
-        "negative": 0.0006294323247857392,
-        "neutral": 0.9985962510108948
-      },
-      {
-        "source": "news",
-        "id": "http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html",
-        "timestamp": "2026-02-08T02:10:16+00:00",
-        "text": "The Scriptovision Super Micro Script video titler is almost a home computer \nArticle URL: http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html\nComments URL: https://news.ycombinator.com/item?id=46930634\nPoints: 6\n# Comments: 1 \nCanadians, rejoice! Not only do you have curling, the Big Turk and Tim Hortons (and, when I was in BC last, Dr Pepper made with real cane sugar), you also have a number of interesting indigenous comp… [+99491 chars]",
-        "positive": 8.035381324589252e-05,
-        "negative": 1.737822822178714e-05,
-        "neutral": 0.9999022483825684
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/world-news/kim-expected-to-issue-major-policy-goals-at-north-korea-party-congress-in-late-february/articleshow/128055592.cms",
-        "timestamp": "2026-02-08T02:03:14+00:00",
-        "text": "Kim expected to issue major policy goals at North Korea party congress in late February \nNorth Korea's ruling Workers' Party will convene a major conference in late February, where leader Kim Jong Un is expected to unveil his domestic and foreign policies for the next five years. This gathering follows years of accelerated weapons development and… \nNorth Korea will convene a major political conference later this month, the country's state media said Sunday, where leader Kim Jong Un is expected to outline his domestic and foreign policies for th… [+3416 chars]",
-        "positive": 0.00014589622151106596,
-        "negative": 2.773326195892878e-05,
-        "neutral": 0.9998263716697693
-      },
-      {
-        "source": "news",
-        "id": "https://www.israelnationalnews.com/news/422090",
-        "timestamp": "2026-02-08T02:02:33+00:00",
-        "text": "Iran FM: Oman talks a good start, Iran missile program not negotiable \nIran’s Foreign Minister says talks with the US will resume soon, warns US bases could be targeted if Iran is attacked. \nIranian Foreign Minister Abbas Araghchi said Saturday that he hopes talks with the United States will resume soon, while reiterating Tehrans red lines and warning that any American attack on Iranian … [+2302 chars]",
-        "positive": 0.09776521474123001,
-        "negative": 0.015215191058814526,
-        "neutral": 0.8870195746421814
-      },
-      {
-        "source": "news",
-        "id": "https://abcnews.go.com/International/wireStory/kim-expected-issue-major-policy-goals-north-korea-129959236",
-        "timestamp": "2026-02-08T01:54:34+00:00",
-        "text": "Kim expected to issue major policy goals at North Korea party congress this month \nNorth Korean state media says the country's leadership will convene a major political conference later this month \nSEOUL, South Korea -- North Korea will convene a major political conference later this month, the countrys state media said Sunday, where leader Kim Jong Un is expected to outline his domestic and fo… [+3418 chars]",
-        "positive": 1.2798986972484272e-05,
-        "negative": 3.2737370929680765e-06,
-        "neutral": 0.9999840259552002
-      },
-      {
-        "source": "news",
-        "id": "https://www.marca.com/en/olympic-games/2026/02/08/6987ea1a268e3e7f758b4574.html",
-        "timestamp": "2026-02-08T01:53:05+00:00",
-        "text": "Team USA secures spot in Olympic team skating Final despite Ilia Malinin's stumble \nThe start of the team figure skating competition at the 2026 Winter Olympic Games has delivered an unexpected narrative: although Team USA ended this Saturday&apos;s session at the \nThe start of the team figure skating competition at the 2026 Winter Olympic Games has delivered an unexpected narrative: although Team USA ended this Saturday's session at the top of the overall stan… [+2133 chars]",
-        "positive": 0.0005084698204882443,
-        "negative": 0.0009887401247397065,
-        "neutral": 0.9985027313232422
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbsnews.com/video/lindsey-vonn-finishes-faster-than-previous-practice-runs-despite-acl-tear/",
-        "timestamp": "2026-02-08T01:52:00+00:00",
-        "text": "Lindsey Vonn finishes faster than previous practice runs, despite ACL tear \nSaturday marked the first full day of the Olympic Winter Games in Italy. Switzerland took the first gold medal in men's downhill skiing. In all, five medal events were held, but no gold yet for Team USA. Seth Doane has the latest details from Cortina, Italy. \nCopyright ©2026 CBS Interactive Inc. All rights reserved.",
-        "positive": 0.005754416808485985,
-        "negative": 3.738505984074436e-05,
-        "neutral": 0.9942082166671753
-      },
-      {
-        "source": "news",
-        "id": "https://prtimes.jp/main/html/rd/p/000000002.000163557.html",
-        "timestamp": "2026-02-08T01:40:24+00:00",
-        "text": "テルペン/510アトマイザーを店頭＆通販で販売、法人卸も対応｜TERP HEADS テルペンヘッズ（大阪日本橋）グランドオープン。 \n[合同会社WING]\n[画像1: https://prcdn.freetls.fastly.net/release_image/163557/2/163557-2-936939327d681e3f9a477bf38569218e-1536x1024.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am... \nTERP HEADS556-0005 4-7-28 3F16:2023:20070-8541-6024terpheads9@gmail.comOsaka Metro 1-A5Osaka Metro101210\r\n510TERP HEADS2026215!!\r\nTERP HEADS510\r\n510\r\nTERP HEADS / / CDT\r\n/\r\nTERP HEADS\r\nCDT \r\n × \r\nCDT… [+487 chars]",
-        "positive": 0.0003689788863994181,
-        "negative": 3.1870515613263706e-06,
-        "neutral": 0.9996278285980225
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/what-to-do-if-your-ferret-is-pregnant/",
-        "timestamp": "2026-02-08T01:33:33+00:00",
-        "text": "What to do if your ferret is pregnant? \nWhat to Do If Your Ferret Is Pregnant: A Comprehensive Guide Discovering your ferret is pregnant can be both exciting and daunting. This guide provides crucial information on what to do if your ferret is pregnant?, offering expert advice to ensure a healthy p… \nWhat to Do If Your Ferret Is Pregnant: A Comprehensive Guide\r\nDiscovering your ferret is pregnant can be both exciting and daunting. This guide provides crucial information on what to do if your ferr… [+9471 chars]",
-        "positive": 0.005932094994932413,
-        "negative": 2.5276498490711674e-05,
-        "neutral": 0.994042694568634
-      },
-      {
-        "source": "news",
-        "id": "https://www.azcentral.com/story/sports/olympics/winter-olympics/2026/02/07/arizona-figure-skater-camden-pulkinen-reflects-missing-olympics/88571569007/",
-        "timestamp": "2026-02-08T01:32:15+00:00",
-        "text": "Arizona figure skater Camden Pulkinen reflects on missing Olympics \nGilbert native Camden Pulkinen placed third at the 2024 U.S. Figure Skating Championships in Columbus, Ohio. \nCamden Pulkinen was on a roll.\r\nThe 25-year-old figure skater from Gilbert had captivated crowds at the 2024 U.S. Figure Skating Championships with routines that blended technical ability with the un… [+6802 chars]",
-        "positive": 8.160634024534374e-06,
-        "negative": 3.5789066714642104e-06,
-        "neutral": 0.999988317489624
-      },
-      {
-        "source": "news",
-        "id": "https://www.zdnet.com/article/iphone-17-pro-vs-iphone-14-pro/",
-        "timestamp": "2026-02-08T01:30:51+00:00",
-        "text": "I broke my 5-year iPhone upgrade rule with the latest model - here's why I'm not regretting it \nThe iPhone 17 Pro is the new hotness, but is it truly worth the upgrade? Here's how I made my decision, as a former iPhone 14 Pro user. \nApple/Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAs a former iPhone 14 Pro Max user, I still felt like my three-year-old iPhone gave me everything I needed when I traded… [+6000 chars]",
-        "positive": 0.0015851769130676985,
-        "negative": 0.00028101762291043997,
-        "neutral": 0.9981338381767273
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-mens-olympic-hockey-goaltending-preview-2026-9.7074149",
-        "timestamp": "2026-02-08T01:29:48+00:00",
-        "text": "Legendary goalie Brodeur among ex-Olympians who don't see Canada's netminders as a weakness \nJordan Binnington likely to get first crack at the Canadian net after his winning performance at last year's 4 Nations Face-Off. \nThe last time NHL players competed at the Olympics in 2014, Canada rolled out a goaltending group headlined by one of the calmest players to ever work between the pipes: Carey Price.\r\nHe was backed u… [+7552 chars]",
-        "positive": 0.003565656952559948,
-        "negative": 0.0009674244793131948,
-        "neutral": 0.995466947555542
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/world-news/israel-says-netanyahu-will-meet-with-trump-on-wednesday-about-iran-talks/articleshow/128054860.cms",
-        "timestamp": "2026-02-08T01:24:44+00:00",
-        "text": "Israel says Netanyahu will meet with Trump on Wednesday about Iran talks \nIsraeli Prime Minister Benjamin Netanyahu heads to Washington to meet U.S. President Donald Trump. Discussions will focus on American talks with Iran. Meanwhile, Iran's foreign minister issued threats against U.S. military bases in the region. Netanyahu's off… \nIsraeli Prime Minister Benjamin Netanyahu will meet with U.S. President Donald Trump in Washington on Wednesday about American talks with Iran, his office said Saturday, while Iran's foreign minister… [+3533 chars]",
-        "positive": 0.00046543547068722546,
-        "negative": 0.0005480957333929837,
-        "neutral": 0.998986542224884
       },
       {
         "source": "news",
@@ -22252,9 +22144,9 @@
         "neutral": 0.21294093132019043
       }
     ],
-    "nw": 0.8282153389353334,
-    "nw_norm": 91.41076694676667
+    "nw": 0.8197784061395338,
+    "nw_norm": 90.9889203069767
   },
-  "gsi": 91.41076694676667,
+  "gsi": 90.9889203069767,
   "classification": "Extremely Bullish"
 }
