@@ -1,16 +1,997 @@
 {
-  "timestamp": "2026-02-10T04:16:14.256834+00:00",
+  "timestamp": "2026-02-10T06:00:37.826920+00:00",
   "news": {
-    "count": 2468,
+    "count": 2473,
     "documents": [
       {
         "source": "news",
-        "id": "https://www.computerweekly.com/blog/CW-Developer-Network/Salesforce-analysis-the-road-to-multi-agents-is-paved-with-connected-orchestration",
-        "timestamp": "2026-02-09T04:08:07+00:00",
-        "text": "Salesforce analysis: the road to multi-agents is paved with connected orchestration \nDevelopers are set for acceleration… the new wave of agentic AI services will, in and of themselves, create a supercharged programming landscape that sees software engineers propelled forward into ... \nDevelopers are set for acceleration the new wave of agentic AI services will, in and of themselves, create a supercharged programming landscape that sees software engineers propelled forward into a v… [+6293 chars]",
-        "positive": 0.9775643944740295,
-        "negative": 1.7778471374185756e-05,
-        "neutral": 0.022417832165956497
+        "id": "https://www.thehindubusinessline.com/info-tech/indian-startup-moves-belagavi-court-in-anthropic-name-row/article70609761.ece",
+        "timestamp": "2026-02-09T05:52:27+00:00",
+        "text": "Indian startup moves Belagavi court in Anthropic name row \nAnthropic Software has alleged passing off and misrepresentation, arguing that the similarity in names has affected its brand identity and online visibility in India \nAnthropic Software Private Limited, a Belagavi-based technology company, has moved the Commercial Division of the District Court at Belagavi against US-based Anthropic PBC over the use of the name An… [+2863 chars]",
+        "positive": 0.02089393325150013,
+        "negative": 0.7472466826438904,
+        "neutral": 0.23185932636260986
+      },
+      {
+        "source": "news",
+        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180759370",
+        "timestamp": "2026-02-09T05:52:06+00:00",
+        "text": "Amber Glenn sees mixed emotions in Olympic U.S. gold win, her performance and critics - The New York Times \nAmber Glenn sees mixed emotions in Olympic U.S. gold win, her performance and criticsThe New York Times Amber Glenn shocked by 'outlandish backlash' to comments about LGBTQ communityUSA Today Glenn masters her nerves in Olympic team event free skateNBC Olympi… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+        "positive": 0.0008953710203059018,
+        "negative": 7.691967766731977e-05,
+        "neutral": 0.9990277290344238
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/expert-view/earnings-set-for-strong-rebound-in-fy27-after-weak-fy26-says-mahesh-nandurkar/articleshow/128099701.cms",
+        "timestamp": "2026-02-09T05:51:29+00:00",
+        "text": "Earnings set for strong rebound in FY27 after weak FY26, says Mahesh Nandurkar \nIndian investors are learning the importance of diversifying beyond domestic equities. Mahesh Nandurkar of Jefferies highlights the need for global exposure. He also notes the Union Budget has become less of a market mover. Corporate earnings are expected to … \nThe sharp moves across asset classes over the past year have reinforced the importance of diversification for Indian investors, with market participants increasingly recognising that portfolio constr… [+4936 chars]",
+        "positive": 0.9999911785125732,
+        "negative": 3.8571197364944965e-06,
+        "neutral": 4.960822934663156e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.hurriyetdailynews.com/japan-pm-takaichi-basks-in-historic-election-triumph-218733",
+        "timestamp": "2026-02-09T05:51:12+00:00",
+        "text": "Japan PM Takaichi basks in historic election triumph \nJapan's Prime Minister Sanae Takaichi savoured an election landslide Monday, with her ruling party projected to have won a two-thirds majority in the powerful lower house for the first time in its history. \nTOKYO\r\nJapan's Prime Minister Sanae Takaichi savoured an election landslide Monday, with her ruling party projected to have won a two-thirds majority in the powerful lower house for the first time in… [+4492 chars]",
+        "positive": 0.0022911697160452604,
+        "negative": 5.006868741475046e-05,
+        "neutral": 0.9976587295532227
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/world/2026/02/09/japan-election-landslide-clears-path-for-takaichi-to-deliver-tax-cuts",
+        "timestamp": "2026-02-09T05:51:00+00:00",
+        "text": "Japan election landslide clears path for Takaichi to deliver tax cuts \nTOKYO, Feb 9 (Reuters) - Japanese Prime Minister ‌Sanae Takaichi is set to be pressed on her promised tax cuts and spending plans on Monday after a historic election win was seen heightening the chances of ‌her delivering on stimulus measures that have rattle… \nTOKYO, Feb 9 (Reuters) - Japanese Prime Minister Sanae Takaichi is set to be pressed on her promised tax cuts and spending plans on Monday after a historic election win was seen heightening the chanc… [+4631 chars]",
+        "positive": 0.026532569900155067,
+        "negative": 0.00043353860382921994,
+        "neutral": 0.9730337858200073
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/business/2026/02/09/donald-trump-could-deflect-maga-criticism-of-ai-for-the-loss-of-jobs-in-us-towards-ireland/",
+        "timestamp": "2026-02-09T05:51:00+00:00",
+        "text": "Donald Trump could deflect Maga criticism of AI for the loss of jobs in US towards Ireland \nIf the AI sector collapses, Trump might try to blame over-regulation in Europe \nA fascinating if ominous power struggle is dividing the Trump administration over the future of AI.\r\nTechnology titans, including Mark Zuckerberg of Meta, Oracles Larry Ellison, Sam Altman of OpenAI,… [+5499 chars]",
+        "positive": 9.213876910507679e-05,
+        "negative": 0.9981389045715332,
+        "neutral": 0.0017689961241558194
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-21-paise-to-90-44-against-the-us-dollar-in-early-trade/articleshow/128099661.cms",
+        "timestamp": "2026-02-09T05:50:48+00:00",
+        "text": "Rupee rises 21 paise to 90.44 against the US dollar in early trade \nIn a noteworthy development today, the Indian rupee has shown an upward trend against the US dollar. This increase comes on the heels of a newly forged trade agreement between India and the United States, which will ease import duties on a selection of produc… \nThe rupee gained 21 paise to 90.44 against the US dollar in early trade on Monday, supported by positive sentiments after India and the US reached a framework for an interim trade pact.Forex traders … [+2691 chars]",
+        "positive": 0.9999992847442627,
+        "negative": 1.8144351088267285e-07,
+        "neutral": 4.8802803576109e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/japan-election-result-debt-market-jgb-bond-yields-takaichi-trade-2026-2",
+        "timestamp": "2026-02-09T05:50:44+00:00",
+        "text": "Japan's election puts its massive bond market back in the spotlight \nJapanese Prime Minister Sanae Takaichi's call for a snap election had rattled markets and triggered a sharp selloff in Japanese government bonds. \nJapan's bond market is back under scrutiny after Prime Minister Sanae Takaichi's landslide election victory pushed government bond yields higher, even as stocks surged to record highs.\r\nOn Sunday, Ja… [+3265 chars]",
+        "positive": 0.02431240677833557,
+        "negative": 0.9743906259536743,
+        "neutral": 0.0012969875242561102
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/International/wireStory/thailands-ruling-bhumjaithai-party-tops-election-marks-conservative-129983391",
+        "timestamp": "2026-02-09T05:49:39+00:00",
+        "text": "Thailand’s ruling Bhumjaithai party tops election that marks a conservative comeback \nThe Bhumjaithai Party of Prime Minister Anutin Charnvirakul is on track to win the most seats in Thailand’s general election, according to unofficial results \nBANGKOK -- The Bhumjaithai Party of Prime Minister Anutin Charnvirakul is on track to win the most seats in Thailands general election, according to unofficial results released by the state Election … [+3480 chars]",
+        "positive": 0.9906875491142273,
+        "negative": 0.0001297991257160902,
+        "neutral": 0.00918269157409668
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/industry/news/indias-tea-exports-touch-all-time-high-in-2025-126020900317_1.html",
+        "timestamp": "2026-02-09T05:49:04+00:00",
+        "text": "India's tea exports hit record high in 2025 as Iran, Iraq buy more \nIndia's tea exports rose to an all-time high of 280.40 million kg in 2025, driven by strong demand from Iran, Iraq and China, with export earnings climbing to Rs 8,488 crore \nIndia's tea exports rose to an all-time high of 280.40 million kg in 2025, driven by stronger demand from Iran and Iraq and a sharp jump in shipments to China\r\nExports to the US were at 15.21 million… [+3977 chars]",
+        "positive": 1.0,
+        "negative": 1.2225361167850224e-08,
+        "neutral": 1.1267149879756744e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/markets/news/markets-pricing-in-trade-deal-positives-buy-the-dips-and-hold-analysts-126020900316_1.html",
+        "timestamp": "2026-02-09T05:49:03+00:00",
+        "text": "Markets pricing in trade deal positives; buy the dips and hold: Analysts \nUR Bhat, co-founder & director, Alphaniti Fintech says the trade deals have cleared the air as regards the EU and the US stance, and expects the market to react to finer details of the India-US deal. \nUR Bhat, co-founder &amp; director, Alphaniti Fintech says the trade deals have cleared the air as regards the EU and the US stance, and expects the market to react to finer details of the India-US d… [+4066 chars]",
+        "positive": 0.2944539487361908,
+        "negative": 0.0010066975373774767,
+        "neutral": 0.7045393586158752
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/markets/news/kalyan-jewellers-share-price-jumps-12-after-q3-net-profit-surges-90-yoy-126020900268_1.html",
+        "timestamp": "2026-02-09T05:48:48+00:00",
+        "text": "Kalyan Jewellers share price jumps 12% after Q3 net profit surges 90% YoY \nKalyan Jewellers share price jumped 11.7 per cent to the day's high of ₹424.70 on the National Stock Exchange (NSE) \nThe scrip jumped 11.7 per cent to the day's high of 424.70 on the National Stock Exchange (NSE)\r\nKalyan Jewellers share price jumped 11 per cent on Monday.\r\nAnanya ChaudhuriMumbai\r\nKalyan Jewllers In… [+2303 chars]",
+        "positive": 0.999305009841919,
+        "negative": 7.042107608867809e-05,
+        "neutral": 0.00062457041349262
+      },
+      {
+        "source": "news",
+        "id": "https://www.hurriyetdailynews.com/iran-defies-us-threats-to-insist-on-right-to-enrich-uranium-218732",
+        "timestamp": "2026-02-09T05:47:29+00:00",
+        "text": "Iran defies US threats to insist on right to enrich uranium \nIranian Foreign Minister Abbas Araghchi on Sunday ruled out Tehran ever giving up uranium enrichment in its negotiations with Washington, insisting it will not be intimidated by the threat of war with the United States. \nTEHRAN\r\nIranian men speaking on their mobile walk past a huge anti-U.S. billboard displayed on a building in Tehran's Valiasr Square on Feb. 8, 2026. (AFP)\r\nIranian Foreign Minister Abbas Araghchi on… [+4816 chars]",
+        "positive": 0.03411884605884552,
+        "negative": 0.0039071086794137955,
+        "neutral": 0.961974024772644
+      },
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/opinion/bad-bunnys-polarizing-super-bowl-halftime-show-felt-like-slap-america",
+        "timestamp": "2026-02-09T05:47:10+00:00",
+        "text": "Why Bad Bunny’s polarizing Super Bowl halftime show felt like a slap at America \nNFL Commissioner Roger Goodell's promise of unity backfires as Bad Bunny delivers polarizing Super Bowl halftime show featuring anti-American themes. \nBad Bunnys Super Bowl halftime show is officially behind us. Mercifully. What began with hype and outrage, and then more outrage, ended with a show most charitably described as polarizing and confusi… [+5520 chars]",
+        "positive": 0.3814542591571808,
+        "negative": 2.6454863473190926e-05,
+        "neutral": 0.6185193061828613
+      },
+      {
+        "source": "news",
+        "id": "https://archiveofourown.org/works/79081311",
+        "timestamp": "2026-02-09T05:47:01+00:00",
+        "text": "laundry (lovesjar) - I only see it when you show me - Heated Rivalry (TV) [Archive of Our Own] \n“If it happened, you can complain,” Ilya reasons, “and I will listen. Like you did for me on the phone. And we can make list. And it will not kill you.” (Words: 7,971) \nShane is too quiet when they get back to the cottage. Ilya worries hes going to have another panic attack, or perhaps his previous one still remains, tightening him into an alarmingly guarded shape. … [+42561 chars]",
+        "positive": 0.0023953591007739305,
+        "negative": 0.82492995262146,
+        "neutral": 0.17267465591430664
+      },
+      {
+        "source": "news",
+        "id": "https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b",
+        "timestamp": "2026-02-09T05:47:01+00:00",
+        "text": "The Anthropic Hive Mind. As you’ve probably noticed, something… | by Steve Yegge | Feb, 2026 | Medium \nAs you’ve probably noticed, something is happening over at Anthropic. They are a spaceship that is beginning to take off. \nAs youve probably noticed, something is happening over at Anthropic. They are a spaceship that is beginning to take off.\r\nThis whole post is just spidey-sense stuff. Dont read too much into it. Just … [+21672 chars]",
+        "positive": 5.921453339396976e-05,
+        "negative": 0.0020909076556563377,
+        "neutral": 0.9978498220443726
+      },
+      {
+        "source": "news",
+        "id": "https://redmonk.com/kholterhoff/2026/02/03/ai-slopageddon-and-the-oss-maintainers/",
+        "timestamp": "2026-02-09T05:47:01+00:00",
+        "text": "AI Slopageddon and the OSS Maintainers \nAI slop is ripping up the social contract between maintainers and contributors essential to open source development. Practitioners have been repeatedly assured that AI would supercharge their communities, but so far that hasn’t been the case. Just look at wha… \nAI slop is ripping up the social contract between maintainers and contributors essential to open source development. Practitioners have been repeatedly assured that AI would supercharge their communi… [+18705 chars]",
+        "positive": 0.7651262879371643,
+        "negative": 0.00037041326868347824,
+        "neutral": 0.23450331389904022
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/politics-and-nation/akhilesh-yadav-slams-india-us-trade-deal-says-make-in-india-abandoned/articleshow/128099190.cms",
+        "timestamp": "2026-02-09T05:43:48+00:00",
+        "text": "Akhilesh Yadav slams India-US trade deal; says ‘Make in India’ abandoned \nSamajwadi Party chief Akhilesh Yadav criticizes the new US-India trade deal. He claims India's market is being handed to America, undermining the 'Make in India' initiative. Yadav questions the government's priorities, highlighting imports of animal feed desp… \nLucknow: Samajwadi Party chief Akhilesh Yadav on Monday launched a sharp attack on the BJP-led Centre over the newly announced US-India interim trade deal, accusing the government of \"handing over In… [+2968 chars]",
+        "positive": 0.0007706938195042312,
+        "negative": 0.44295209646224976,
+        "neutral": 0.5562772154808044
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/do-groundhogs-eat-tomatoes/",
+        "timestamp": "2026-02-09T05:43:34+00:00",
+        "text": "Do groundhogs eat tomatoes? \nDo Groundhogs Eat Tomatoes? A Gardener’s Guide to Protection Yes, groundhogs absolutely will eat tomatoes, making them a serious pest for gardeners. Understanding their attraction to this garden favorite is crucial for protecting your precious harvest. Ground… \nDo Groundhogs Eat Tomatoes? A Gardener’s Guide to Protection\r\nYes, groundhogs absolutely will eat tomatoes, making them a serious pest for gardeners.Understanding their attraction to this garden favo… [+9870 chars]",
+        "positive": 9.31946124183014e-05,
+        "negative": 0.0003909860388375819,
+        "neutral": 0.9995158910751343
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/fractal-analytics-ipo-day-1-subscription-status-gmp-and-analyst-insights/articleshow/128099424.cms",
+        "timestamp": "2026-02-09T05:42:58+00:00",
+        "text": "Fractal Analytics IPO day 1: Subscription status, GMP and analyst insights \nFractal Analytics' Rs 2,834-crore IPO opened today. Initial subscription was low, with only 2% of shares bid for in the first hour. The issue closes on February 11. In the grey market, Fractal shares trade at a small premium. Experts advise long-term investme… \nThe Rs 2,834-crore IPO of Fractal Analytics opened for subscription today. In the initial hour, the issue received bids for just 2% of the offered 1.85 crore shares. The IPO will remain open for thre… [+4933 chars]",
+        "positive": 0.0005789558053947985,
+        "negative": 4.427020394359715e-05,
+        "neutral": 0.9993767142295837
+      },
+      {
+        "source": "news",
+        "id": "https://english.khabarhub.com/2026/09/534389/",
+        "timestamp": "2026-02-09T05:39:35+00:00",
+        "text": "Gold price rises again \nKATHMANDU: The price of gold in the domestic market continued its upward trend on Monday, rising for the second consecutive day. According to the Federation of Nepal Gold and Silver Dealers’ Association, gold price increased by Rs 4,100 per tola on Monday. Wi… \nKATHMANDU: The price of gold in the domestic market continued its upward trend on Monday, rising for the second consecutive day.\r\nAccording to the Federation of Nepal Gold and Silver Dealers Associat… [+517 chars]",
+        "positive": 0.9988452196121216,
+        "negative": 5.5859934946056455e-05,
+        "neutral": 0.0010989555157721043
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/politics-and-nation/hole-in-government-approach-congress-dig-over-ministers-remarks-on-russian-oil/articleshow/128099252.cms",
+        "timestamp": "2026-02-09T05:37:31+00:00",
+        "text": "Hole in government approach: Congress' dig over ministers' remarks on Russian oil \nThe Congress party has criticized the government's handling of the Russian oil issue and the India-US trade deal. Party leader Jairam Ramesh stated there is a 'hole in government' approach. This comes as India plans to buy US energy products and aircraft over… \nNew Delhi: The Congress on Monday took a swipe at the government over the reported remarks of External Affairs Minister S Jaishankar and Commerce Minister Piyush Goyal on the Russian oil issue and th… [+1468 chars]",
+        "positive": 0.00016139775107149035,
+        "negative": 0.008247645571827888,
+        "neutral": 0.9915909767150879
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/london-stocks-are-leaving-the-growth-market-they-once-flocked-to",
+        "timestamp": "2026-02-09T05:37:25+00:00",
+        "text": "London Stocks Are Leaving the Growth Market They Once Flocked to \nIn 2005, Young & Co.’s Brewery Plc was one of 40 companies to transfer its shares from the London Stock Exchange’s main market to its growth segment. The nearly 200-year-old pub chain was attracted by the smaller exchange’s tax incentives, “growing success an… \n(Bloomberg) In 2005, Young &amp; Co.s Brewery Plc was one of 40 companies to transfer its shares from the London Stock Exchanges main market to its growth segment. The nearly 200-year-old pub chain w… [+5468 chars]",
+        "positive": 0.43963876366615295,
+        "negative": 0.0003235706826671958,
+        "neutral": 0.5600376725196838
+      },
+      {
+        "source": "news",
+        "id": "https://www.silverscreenandroll.com/lakers-game-previews/107736/lakers-vs-thunder-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-shai-gilgeous-alexander-lebron-james",
+        "timestamp": "2026-02-09T05:37:07+00:00",
+        "text": "Lakers vs. Thunder Preview: A daunting back-to-back \nThe Lakers look to even the season series against the Thunder on Monday. \nThe Lakers (32-19) aim to extend their winning streak to four when they take on the Oklahoma City Thunder (40-13) on Monday. This is the second match-up between the two teams this season.\r\nWho: Los A… [+2546 chars]",
+        "positive": 0.066883385181427,
+        "negative": 4.667562825488858e-05,
+        "neutral": 0.9330698847770691
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/bitcoin-sharpe-ratio-falls-bear-market-bottom",
+        "timestamp": "2026-02-09T05:37:06+00:00",
+        "text": "Bitcoin Sharpe ratio slides to levels seen in previous market bottoms \nBitcoin’s Sharpe ratio has fallen to -10, nearing bear market lows seen in 2018 and 2022, suggesting the risk/reward profile is approaching extreme levels. \nThe Bitcoin Sharpe ratio, which measures risk/reward potential, is in negative territory that is often associated with the end of bear markets, according to CryptoQuant analyst Darkfost.\r\nThe Sharpe … [+2249 chars]",
+        "positive": 0.009984999895095825,
+        "negative": 0.9500584006309509,
+        "neutral": 0.039956629276275635
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/business/japan-stocks-soar-record-super-long-bonds-steady-in-nod-takaichis-responsible-stimulus-5917076",
+        "timestamp": "2026-02-09T05:35:04+00:00",
+        "text": "Japan stocks soar to record, super-long bonds steady in nod to Takaichi's 'responsible' stimulus \nTOKYO, Feb 9 : Japanese stocks swept to all-time peaks while super-long bonds quickly reversed early weakness in an apparent vote of confidence in Prime Minister Sanae Takaichi's \"responsible, proactive\" fiscal policy.The yen initially declined to a record tr… \nTOKYO, Feb 9 : Japanese stocks swept to all-time peaks while super-long bonds quickly reversed early weakness in an apparent vote of confidence in Prime Minister Sanae Takaichi's \"responsible, proact… [+4361 chars]",
+        "positive": 0.9950096607208252,
+        "negative": 0.004605061374604702,
+        "neutral": 0.00038523980765603483
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/news/articles/cjd9k852zdjo",
+        "timestamp": "2026-02-09T05:34:33+00:00",
+        "text": "Japanese stocks surge as Takaichi secures historic election victory \nJapanese stocked jumped as markets opened on Monday morning, after prime minister Sanae Takaichi won a landslide victory. \nThe Japan Innovation Party, the LDP's coalition partner, won in 36 more constituencies, taking their combined total to 352 seats.",
+        "positive": 0.999985933303833,
+        "negative": 4.5124779717298225e-06,
+        "neutral": 9.551313269184902e-06
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/australia-cant-reach-its-ambitious-climate-targets-with-current-policies-here-are-6-things-we-can-try-275088",
+        "timestamp": "2026-02-09T05:31:11+00:00",
+        "text": "Australia can’t reach its ambitious climate targets with current policies. Here are 6 things we can try \nAustralia cannot meet its 2035 climate target with existing policy settings: Stronger incentives are urgently needed. \nLudvig Hedenborg/Pexels, CC BY-NC-ND\r\nIn less than ten years, Australia has to cut its emissions 62–75% below 2005 levels. Given reductions in emissions over the past 20 years, that translates to cut… [+7111 chars]",
+        "positive": 0.011463604867458344,
+        "negative": 0.17689760029315948,
+        "neutral": 0.8116387724876404
+      },
+      {
+        "source": "news",
+        "id": "https://www.helpnetsecurity.com/2026/02/09/securing-autonomous-ai-agents-rules/",
+        "timestamp": "2026-02-09T05:30:47+00:00",
+        "text": "AI agents behave like users, but don’t follow the same rules \nSecurity and governance approaches to autonomous AI agents rely on static credentials, inconsistent controls, and limited visibility. Securing these agents requires the same rigor and traceability applied to human users, according to Cloud Security Alliance’s… \nSecurity and governance approaches to autonomous AI agents rely on static credentials, inconsistent controls, and limited visibility. Securing these agents requires the same rigor and traceability ap… [+4431 chars]",
+        "positive": 1.7357848264509812e-05,
+        "negative": 3.0274239179561846e-05,
+        "neutral": 0.9999523162841797
+      },
+      {
+        "source": "news",
+        "id": "https://m.economictimes.com/news/india/sharvari-lehenga-look/when-tradition-meets-power-dressing/slideshow/128067076.cms",
+        "timestamp": "2026-02-09T05:30:00+00:00",
+        "text": "Modern Muse Energy: Sharvari’s Lehenga the Spotlight \nSharvari redefines festive fashion in a lehenga that blends heritage craft with sharp, modern confidence. When Tradition Meets Power Dressing \nFeb 08, 2026, 03:34:44 PM IST\r\nSharvari redefines festive fashion in a lehenga that blends heritage craft with sharp, modern confidence.\r\nMuted bronze and antique gold tones give this lehenga a rich,… [+657 chars]",
+        "positive": 0.11136431992053986,
+        "negative": 7.446094969054684e-05,
+        "neutral": 0.8885612487792969
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/opinion/analysis/what-victory-for-thatcher-inspired-sanae-takaichi-in-snap-election-means-for-japan/a1214292359.html",
+        "timestamp": "2026-02-09T05:30:00+00:00",
+        "text": "What victory for Thatcher-inspired Sanae Takaichi in snap election means for Japan \nThe coalition government of prime minister Sanae Takaichi’s swept to a historic election win yesterday, paving the way for military spending aimed at countering China and promised tax cuts that have spooked markets. \nThe Liberal Democratic Party and Japan Innovation Party now hold a supermajority\r\nThe coalition government of prime minister Sanae Takaichis swept to a historic election win yesterday, paving the way… [+321 chars]",
+        "positive": 0.9974114298820496,
+        "negative": 9.667380072642118e-05,
+        "neutral": 0.0024918823037296534
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/irish-news/td-calls-for-ireland-to-take-interest-in-polar-regions-and-join-antarctic-treaty-system/a65122195.html",
+        "timestamp": "2026-02-09T05:30:00+00:00",
+        "text": "TD calls for Ireland to take interest in Polar regions and join Antarctic Treaty System \nA Government TD has called for Ireland to take greater interest in the Polar regions and join the Antarctic Treaty System. \nA Government TD has called for Ireland to take greater interest in the Polar regions and join the Antarctic Treaty System.\r\nAfter US President Donald Trumps demands to acquire Greenland and his threa… [+164 chars]",
+        "positive": 0.015267566777765751,
+        "negative": 0.00024401291739195585,
+        "neutral": 0.9844883680343628
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/call-for-write-ups-when-global-environmental-governance-displaces-local-wisdom-in-halmahera-and-amazon-275326",
+        "timestamp": "2026-02-09T05:29:35+00:00",
+        "text": "Call for write-ups: When global environmental governance displaces local wisdom in Halmahera and Amazon \nJoin us for a discussion on how weak environmental governance brings a curse to natural resources and indigenous people in Halmahera and the Amazon. \nAcross resource-rich regions, weak governance and limited transparency determine who profits from extraction and who bears the environmental and social costs.\r\nIn Halmahera, Indonesia, nickel mining … [+4295 chars]",
+        "positive": 0.0008568487828597426,
+        "negative": 0.09184864163398743,
+        "neutral": 0.9072945713996887
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/expert-view/s-naren-says-markets-in-boring-cycle-wants-investors-to-temper-returns-and-rethink-silver-smallcaps-and-ai-bets/articleshow/128098797.cms",
+        "timestamp": "2026-02-09T05:29:06+00:00",
+        "text": "S Naren says markets in ‘boring cycle’, wants investors to temper returns and rethink silver, smallcaps and AI bets \nIndia's investment market is in a 'boring cycle'. Investors should maintain current allocations but expect moderate returns. S Naren of ICICI Prudential AMC advises patience, especially for smallcaps. He highlights India's potential as an AI user and defends … \nIn a candid assessment of Indias investment landscape, S Naren, Executive Director and Chief Investment Officer at ICICI Prudential AMC, described the current market environment as being in a boring … [+6800 chars]",
+        "positive": 0.9909770488739014,
+        "negative": 8.218437869800255e-06,
+        "neutral": 0.009014617651700974
+      },
+      {
+        "source": "news",
+        "id": "https://www.yahoo.com/news/articles/thailand-ruling-bhumjaithai-party-tops-052410860.html",
+        "timestamp": "2026-02-09T05:24:10+00:00",
+        "text": "Thailand’s ruling Bhumjaithai party tops election that marks a conservative comeback \nThe Bhumjaithai Party of Prime Minister Anutin Charnvirakul is on track to win the most seats in Thailand’s general election, according to unofficial results... \nBANGKOK (AP) The Bhumjaithai Party of Prime Minister Anutin Charnvirakul is on track to win the most seats in Thailands general election, according to unofficial results released by the state Electio… [+3482 chars]",
+        "positive": 0.9050201177597046,
+        "negative": 0.00021671908325515687,
+        "neutral": 0.09476317465305328
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/business/companies/airlines/cuba-halts-airline-refuelling-as-us-punishment-takes-toll/47IUG74XANDPDLEE3F3JHYNY5E/",
+        "timestamp": "2026-02-09T05:23:58+00:00",
+        "text": "Cuba halts airline refuelling as US punishment takes toll \nAirlines flying long haul from Cuba must now add extra refuelling stops. \nThe Cuban Government on Friday announced emergency measures to address the islands energy crisis, including a four-day work week for state-owned companies and fuel sale restrictions.\r\nThe belt-tighte… [+1220 chars]",
+        "positive": 0.012593473307788372,
+        "negative": 0.41417476534843445,
+        "neutral": 0.5732317566871643
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-heavy-state-debt-supply-post-rbi-move/articleshow/128098648.cms",
+        "timestamp": "2026-02-09T05:23:05+00:00",
+        "text": "Indian bonds slip on heavy state debt supply, post-RBI move \nIndian government bonds are experiencing a downward trend amidst a surge in state debt offerings that are burdening the market. The central bank's decision to withhold extra liquidity has sent ripples of concern among bond traders. As state borrowing continue… \n(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+        "positive": 0.00010849384852917865,
+        "negative": 0.9996848106384277,
+        "neutral": 0.00020667990611400455
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/business/2026/02/09/leapmotor-chinas-no-frills-ev-maker-aiming-to-become-the-next-byd/",
+        "timestamp": "2026-02-09T05:23:00+00:00",
+        "text": "Leapmotor: China’s no-frills EV maker aiming to become the next BYD \nLow-cost carmaker harbours ambitions to go global and rank among world’s top 10 auto groups \nEven as Chinas BYD moved ahead of Elon Musks Tesla in the worlds electric vehicles (EV) race in 2025, a less known local rival has been in the rear-view mirror. Leapmotor has produced no-frills, low-… [+7787 chars]",
+        "positive": 0.1845337450504303,
+        "negative": 0.0006523846532218158,
+        "neutral": 0.8148139119148254
+      },
+      {
+        "source": "news",
+        "id": "https://www.sciencedaily.com/releases/2026/02/260208233819.htm",
+        "timestamp": "2026-02-09T05:22:21+00:00",
+        "text": "A legendary golden fabric lost for 2,000 years has been brought back \nA legendary golden fabric once worn only by emperors has made an astonishing comeback. Korean scientists have successfully recreated ancient sea silk—a rare, shimmering fiber prized since Roman times—using a humble clam farmed in modern coastal waters. Beyond… \nA rare luxury material once worn only by emperors in ancient times has been successfully recreated by scientists in South Korea. Researchers led by Professor Dong Soo Hwang (Division of Environmental… [+3739 chars]",
+        "positive": 0.9837105870246887,
+        "negative": 0.0003668398130685091,
+        "neutral": 0.015922605991363525
+      },
+      {
+        "source": "news",
+        "id": "https://slate.com/culture/2026/02/super-bowl-2026-bad-bunny-halftime-show-lady-gaga-liam-ricky-martin-trump.html",
+        "timestamp": "2026-02-09T05:21:42+00:00",
+        "text": "Bad Bunny’s Super Bowl Performance Wasn’t What Conservatives Feared. It Was Something Else Entirely. \nThe Puerto Rican superstar’s halftime show was pure joy. \nWhen it was first revealed that Puerto Rican superstar Bad Bunny would be headlining the Super Bowl LX halftime show, it was immediately registered as a political choice. The singer and rapperwho cap… [+10548 chars]",
+        "positive": 0.0002138636918971315,
+        "negative": 5.708222488465253e-06,
+        "neutral": 0.9997804760932922
+      },
+      {
+        "source": "news",
+        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_76d71ebd-f928-443a-b673-35b21bf87729",
+        "timestamp": "2026-02-09T05:20:18+00:00",
+        "text": "Resolution Minerals confirms major Golden Gate gold discovery \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "positive": 5.0232130888616666e-05,
+        "negative": 3.7258696465869434e-06,
+        "neutral": 0.999946117401123
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/markets/news/india-us-trade-deal-brokerages-risks-market-impact-rupee-outlook-126020900283_1.html",
+        "timestamp": "2026-02-09T05:18:32+00:00",
+        "text": "India-US trade deal: Brokerages decode key risks, market implications \nBrokerages analyse the India-US interim trade deal, flagging key risks, tariff implications, rupee outlook and potential impact on Indian markets and the Nifty \nBrokerages analyse the India-US interim trade deal, flagging key risks, tariff implications, rupee outlook and potential impact on Indian markets and the Nifty\r\nBrokerages decode the impact of India-… [+3070 chars]",
+        "positive": 4.7257391997845843e-05,
+        "negative": 9.552740084473044e-05,
+        "neutral": 0.9998573064804077
+      },
+      {
+        "source": "news",
+        "id": "https://post.rlsbb.to/distant-worlds-2-mercantile-i-know/",
+        "timestamp": "2026-02-09T05:18:22+00:00",
+        "text": "Distant Worlds 2 Mercantile-I KnoW \nRelease Description: Distant Worlds Returns! Distant Worlds, the critically acclaimed 4X space strategy game is back with a brand new 64-bit engine, 3D graphics and a polished interface to begin an epic new Distant Worlds series with Distant Worlds 2. Distant… \nRelease Description:\r\n Distant Worlds Returns! Distant Worlds, the critically acclaimed 4X space strategy game is back with a brand new 64-bit engine, 3D graphics and a polished interface to begin an… [+2734 chars]",
+        "positive": 0.0009590747649781406,
+        "negative": 8.361577056348324e-05,
+        "neutral": 0.9989572763442993
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-finishes-flat-at-up-002-market-close/premium/P44EYHWVS5F5DEE6YL6B7QD5AQ/",
+        "timestamp": "2026-02-09T05:18:16+00:00",
+        "text": "NZ sharemarket finishes flat at up 0.02% - Market close \nThe S&P/NZX 50 Index closed at 13,446.37 ... up 2.35 points or 0.02%. \nMatt Goodson, managing director of Salt Funds Management, said the local market belied the extreme volatility in the United States, Asia and Australia.\r\nIt proves the low beta nature of the NZ market… [+4042 chars]",
+        "positive": 0.0030779074877500534,
+        "negative": 9.080675954464823e-05,
+        "neutral": 0.9968313574790955
+      },
+      {
+        "source": "news",
+        "id": "https://decrypt.co/357421/french-police-arrest-six-magistrate-kidnapped-crypto-ransom",
+        "timestamp": "2026-02-09T05:17:54+00:00",
+        "text": "French Police Arrest Six After Magistrate Kidnapped in Crypto Ransom Case \nAuthorities in France launched the manhunt after a magistrate and her mother were abducted overnight and found injured. \nIn brief\r\n<ul><li>Authorities detained six suspects, including a minor, after a magistrate and her mother were abducted and later escaped.</li><li>Prosecutors said kidnappers demanded crypto as a ran… [+3851 chars]",
+        "positive": 4.219319089315832e-05,
+        "negative": 0.000516443164087832,
+        "neutral": 0.9994413256645203
+      },
+      {
+        "source": "news",
+        "id": "https://katalogpromosi.com/promo-the-duck-king-bank-mega-chinese-new-year-diskon-30/",
+        "timestamp": "2026-02-09T05:12:25+00:00",
+        "text": "Promo The Duck King Bank Mega Chinese New Year Diskon 30% \nPromo The Duck King Bank Mega Chinese New Year Diskon 30% potongan dine-in min transaksi, berlaku 16 Februari 2026 – 22 Februari 2026 di seluruh outlet Good food tastes even better with the right deal - [ baca lebih lanjut ] -\nThe post Promo The Duck King Ban… \nPromo The Duck King Bank Mega Chinese New Year Diskon 30% potongan dine-in min transaksi, berlaku 16 Februari 2026 – 22 Februari 2026 di seluruh outlet\r\nGood food tastes even better with the right de… [+3275 chars]",
+        "positive": 0.000889957940671593,
+        "negative": 0.00010660776752047241,
+        "neutral": 0.9990034699440002
+      },
+      {
+        "source": "news",
+        "id": "https://freerepublic.com/focus/f-news/4366055/posts",
+        "timestamp": "2026-02-09T05:09:18+00:00",
+        "text": "Demanding Support for Trump, Justice Dept. Struggles to Recruit Prosecutors \nChad Mizelle, a former chief of staff to Attorney General Pam Bondi, hung an online help wanted sign for federal prosecutors last weekend that perhaps explained why so many valuable Justice Department staff members have left, and why so few candidates want in… \nSkip to comments.\r\nDemanding Support for Trump, Justice Dept. Struggles to Recruit ProsecutorsThe New York Times ^\r\n | Feb. 7, 2026\r\n | Glenn Thrush, Alan Feuer, Mimi Dwyer, Ernesto Londoño and Micha… [+3297 chars]",
+        "positive": 0.008291255682706833,
+        "negative": 0.002699456876143813,
+        "neutral": 0.9890093207359314
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-fed-to-take-its-time-on-trimming-bond-holdings-bessent-says/articleshow/128098300.cms",
+        "timestamp": "2026-02-09T05:09:11+00:00",
+        "text": "US Stocks Today | Fed to take its time on trimming bond holdings, Bessent says \nThe U.S. Federal Reserve is unlikely to quickly shrink its balance sheet, even if Kevin Warsh — a critic of bond-buying programmes — takes a leadership role, Treasury Secretary Scott Bessent said. Major decisions could take up to a year, and the Fed is expect… \nThe U.S. Federal Reserve is unlikely to rush into shrinking its massive balance sheet, even under Kevin Warsh a critic of the central banks bond-buying programmes, U.S. Treasury Secretary Scott Besse… [+1381 chars]",
+        "positive": 0.0013525016838684678,
+        "negative": 0.9716236591339111,
+        "neutral": 0.02702387049794197
+      },
+      {
+        "source": "news",
+        "id": "http://www.newsbtc.com/analysis/solana-sol-below-80-risks-downtrend/",
+        "timestamp": "2026-02-09T05:08:49+00:00",
+        "text": "Solana (SOL) Below $80 Risks Restarting A Brutal Downtrend \nSolana failed to settle above $90 and remained in a range. SOL price is now facing hurdles near $90-$92 and might decline again below $80. SOL price started a decent recovery wave above $75 and $80 against the US Dollar. The price is now trading above $85 and… \nAayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]",
+        "positive": 0.86183762550354,
+        "negative": 0.08753790706396103,
+        "neutral": 0.05062447860836983
+      },
+      {
+        "source": "news",
+        "id": "https://roundtable.io/sports/nfl/cowboys/news/super-bowl-champion-seattle-seahawks-can-be-blueprint-for-2026-dallas-cowboys",
+        "timestamp": "2026-02-09T05:06:26+00:00",
+        "text": "Super Bowl Champion Seattle Seahawks Can Be Blueprint for 2026 Dallas Cowboys \nThe Seattle Seahawks rolled past the New England Patriots in Super Bowl LX. While it remains a long-shot, the Dallas Cowboys can pursue the same type of success by copying a championship-winning formula. \nThe 2025 Seattle Seahawks just became world champions in Super Bowl LX, cruising past the New England Patriots 29-13 in Santa Clara on Sunday.\r\nThey did so with second-year head coach Mike Macdonald … [+3329 chars]",
+        "positive": 0.941578209400177,
+        "negative": 0.00021196744637563825,
+        "neutral": 0.058209892362356186
+      },
+      {
+        "source": "news",
+        "id": "https://news.un.org/en/story/2026/02/1166912",
+        "timestamp": "2026-02-09T05:05:17+00:00",
+        "text": "How AI and Virtual Worlds Are Reshaping Holocaust Remembrance \nSource: United Nations News\r\nAs Holocaust survivors age and first-hand testimony becomes rarer, educators are turning to new technologies to preserve memory, foster empathy, and engage younger generations far beyond museums and classrooms using narrative-driv… \nAt the moment, we have an incredibly dispersed and diverse landscape of memory-making, and the more digital we get, the most diverse it gets, Professor Victoria Grace Richardson-Walden, Director of t… [+5642 chars]",
+        "positive": 0.9490637183189392,
+        "negative": 1.7452712199883536e-05,
+        "neutral": 0.050918854773044586
+      },
+      {
+        "source": "news",
+        "id": "https://clsbluesky.law.columbia.edu/2026/02/09/the-outlook-for-restructuring-venezuelas-sovereign-debt-after-maduro/",
+        "timestamp": "2026-02-09T05:05:14+00:00",
+        "text": "The Outlook for Restructuring Venezuela’s Sovereign Debt After Maduro \nThe capture of Nicolás Maduro by U.S. forces in the early morning hours of January 3, 2026 produced dramatic headlines, but a key question is whether his removal significantly affects the dynamics that have underpinned Venezuela’s long‑running crises. The rea… \nThe capture of Nicolás Maduro by U.S. forces in the early morning hours of January 3, 2026 produced dramatic headlines, but a key question is whether his removal significantly affects the dynamics th… [+5309 chars]",
+        "positive": 5.2951301768189296e-05,
+        "negative": 0.08352326601743698,
+        "neutral": 0.9164237976074219
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/markets/news/crompton-greaves-consumer-electricals-share-price-target-nse-bse-q3-results-profit-revenue-126020900269_1.html",
+        "timestamp": "2026-02-09T05:05:11+00:00",
+        "text": "Crompton Greaves Consumer shares gain 4% on posting modest Q3 results \nThe buying on the counter came after the company released its Q3FY26 numbers on Friday, after market hours. Brokerages believe the company posted modest numbers \nThe buying on the counter came after the company released its Q3FY26 numbers on Friday, after market hours. Brokerages believe the company posted modest numbers\r\nPhoto: Shutterstock\r\nSirali GuptaMumb… [+4377 chars]",
+        "positive": 0.9989898800849915,
+        "negative": 3.849054337479174e-05,
+        "neutral": 0.000971612345892936
+      },
+      {
+        "source": "news",
+        "id": "https://www.rte.ie/news/asia/2026/0209/1557425-japan-election-victory/",
+        "timestamp": "2026-02-09T05:02:10+00:00",
+        "text": "Japan's prime minister secures historic election victory \nJapanese Prime Minister Sanae Takaichi's coalition has swept to a historic election win, paving the way for promised tax cuts that have spooked financial markets and ⁠military spending aimed at countering China. \nJapanese Prime Minister Sanae Takaichi's coalition has swept to a historic election win, paving the way for promised tax cuts that have spooked financial markets and military spending aimed at counte… [+4591 chars]",
+        "positive": 0.9997846484184265,
+        "negative": 1.7457257854402997e-05,
+        "neutral": 0.00019797036657109857
+      },
+      {
+        "source": "news",
+        "id": "https://www.rte.ie/news/asia/2026/0209/1557425-japan-election/",
+        "timestamp": "2026-02-09T05:02:10+00:00",
+        "text": "Japan's prime minister secures historic election victory \nJapanese Prime Minister Sanae Takaichi's coalition has swept to a historic election win, paving the way for promised tax cuts that have spooked financial markets, and ⁠military spending aimed at countering China. \nJapanese Prime Minister Sanae Takaichi's coalition has swept to a historic election win, paving the way for promised tax cuts that have spooked financial markets, and military spending aimed at count… [+4566 chars]",
+        "positive": 0.9987369179725647,
+        "negative": 3.558579919626936e-05,
+        "neutral": 0.001227533328346908
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/runway/fall-2026/new-york/donna-karan/review/",
+        "timestamp": "2026-02-09T05:01:00+00:00",
+        "text": "Donna Karan New York Fall 2026: Considered Modern Dress \nDonna Karan New York Fall 2026  ready to wear runway, fashion show & collection review. Punching above its price point. \nIn looking at collection images, one might forget the many hands that help shape a garment and the research that goes into perfecting a seasonal message. Months before anything is created, the Donna … [+2597 chars]",
+        "positive": 2.7804606361314654e-05,
+        "negative": 7.582502803415991e-06,
+        "neutral": 0.9999645948410034
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.comhttps://www.nytimes.com/2026/02/04/arts/television/miss-piggy-muppet-show.html",
+        "timestamp": "2026-02-09T05:01:00+00:00",
+        "text": "How Miss Piggy went from minor Muppet to TV’s top hog \nMiss Piggy began as a bit player, but a sassy attitude and a karate chop carried her to the pinnacle of pop culture \nNearly 50 years ago a prima-donna pig made her first appearance on The Muppet Show and quickly became its breakout star. Within a few years she was a sought-after Hollywood celebrity, a pin-up model … [+7695 chars]",
+        "positive": 0.013299566693603992,
+        "negative": 0.0005655202548950911,
+        "neutral": 0.986134946346283
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/fashion-news/fashion-scoops/cfda-open-ai-launch-innovation-hub-1238553467/",
+        "timestamp": "2026-02-09T05:01:00+00:00",
+        "text": "CFDA, Open AI Launch Innovation Hub to Drive Creativity and Growth in Fashion Industry \nThe program seeks to demonstrate how emerging technologies can support design, business longevity, and positive industry change. \nThe Council of Fashion Designers and OpenAI are launching an Innovation Hub, a two-year initiative designed to bring together promising CFDA members and cutting-edge AI builders to drive innovation, … [+2234 chars]",
+        "positive": 0.999930739402771,
+        "negative": 6.501716143247904e-07,
+        "neutral": 6.862192822154611e-05
+      },
+      {
+        "source": "news",
+        "id": "http://digiday.com/media-buying/media-buying-briefing-why-is-wall-street-punishing-publicis-and-maybe-other-holdcos/",
+        "timestamp": "2026-02-09T05:01:00+00:00",
+        "text": "Media Buying Briefing: Why is Wall Street punishing Publicis – and maybe other holdcos? \nIs it possible that Wall Street doesn't understand the value of a holding company anymore -- or at least is missing the intangibles? \nThis Media Buying Briefing covers the latest in agency news and media buying for Digiday+ members and is distributed over email every Monday at 10 a.m. ET. More from the series →Speak to any holding … [+8418 chars]",
+        "positive": 2.2067613826948218e-05,
+        "negative": 2.863662302843295e-05,
+        "neutral": 0.9999493360519409
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/beauty-industry-news/beauty-features/sol-de-janeir-jelly-perfume-fragrance-launches-noyz-1238553546/",
+        "timestamp": "2026-02-09T05:01:00+00:00",
+        "text": "Fragrance Brands Are Doubling Down on Innovative Formats — Again \nFragrance brands like Sol de Janeiro are bringing innovative new formats to fragrance, including jelly perfume balms and fragrance milks. \nIn 2026, fragrance brands are looking past even the nascent mist and oil formats of 2025 for their next chapter of growth. \r\nAmong them, Sol de Janeiro has introduced a trio of Jelly Perfume Balms, m… [+1817 chars]",
+        "positive": 0.8715702295303345,
+        "negative": 6.393556395778432e-05,
+        "neutral": 0.1283658742904663
+      },
+      {
+        "source": "news",
+        "id": "https://ambcrypto.com/why-ethereum-is-rethinking-its-rollup-first-strategy-in-2026/",
+        "timestamp": "2026-02-09T05:00:49+00:00",
+        "text": "Why Ethereum is rethinking its ‘rollup-first’ strategy in 2026 \nOnce built to scale Ethereum, many L2s now face uncertainty.... \nFor years, Ethereum [ETH] prioritized security on mainnet while Layer 2 handled speed and scalability, and the ecosystem viewed L2s as “branded shards” and direct extensions of the network.\r\nHowever,… [+3693 chars]",
+        "positive": 0.016477055847644806,
+        "negative": 0.23803725838661194,
+        "neutral": 0.7454856634140015
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/your-money/2026/02/09/bitcoins-claim-to-be-digital-gold-looks-increasingly-thin/",
+        "timestamp": "2026-02-09T05:00:00+00:00",
+        "text": "Bitcoin’s claim to be digital gold looks increasingly thin \nEconomist says investors generally treat cryptocurrency as something that thrives when US economy does well, not a refuge in global turmoil \nBitcoin has long been pitched as digital gold, a scarce, government-free asset that should shine when fiat currencies falter or in times of turmoil. \r\nRecent price action, however, tells a different … [+1204 chars]",
+        "positive": 0.05767533928155899,
+        "negative": 0.019359847530722618,
+        "neutral": 0.9229647517204285
+      },
+      {
+        "source": "news",
+        "id": "https://www.biblegateway.com/reading-plans/chronological/2026/02/09/",
+        "timestamp": "2026-02-09T05:00:00+00:00",
+        "text": "Chronological Reading for Monday February 9, 2026 (NIV) \nExodus 30-32\r\n\n\n The Altar of Incense(A)\r\n30 “Make an altar(B) of acacia wood for burning incense.(C) 2 It is to be square, a cubit long and a cubit wide, and two cubits high[a]—its horns(D) of one p… [+20723 chars]",
+        "positive": 1.0347141142119654e-05,
+        "negative": 1.5126764765227563e-06,
+        "neutral": 0.9999880790710449
+      },
+      {
+        "source": "news",
+        "id": "https://www.techtarget.com/searcherp/podcast/AI-human-symbiosis-could-be-key-for-enterprise-AGI-software",
+        "timestamp": "2026-02-09T05:00:00+00:00",
+        "text": "AI-human symbiosis could be key for enterprise AGI software \nIn this podcast, Nik Kairinos, chief AI architect at Fountech, argues that humans working in partnership with machines is the best route to an artificial general intelligence. \nArtificial general intelligence (AGI) is controversial for many reasons, but most of them boil down to two big issues: whether it's even possible to make computers that are as smart as humans, and wh… [+3376 chars]",
+        "positive": 1.1114546396129299e-05,
+        "negative": 0.9943438768386841,
+        "neutral": 0.005645003169775009
+      },
+      {
+        "source": "news",
+        "id": "https://wwwnc.cdc.gov/eid/article/32/2/25-1279_article",
+        "timestamp": "2026-02-09T05:00:00+00:00",
+        "text": "Invasive Pneumococcal Disease among Childbearing-Age Women, United States, 2007–2023 \nInvasive Pneumococcal Disease among Childbearing-Age Women, United States, 2007–2023 \nDisclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Streptococcus pneumoniae i… [+8155 chars]",
+        "positive": 3.326798105263151e-05,
+        "negative": 1.4567327525583096e-05,
+        "neutral": 0.9999521970748901
+      },
+      {
+        "source": "news",
+        "id": "https://news.mit.edu/2026/how-mits-10th-president-shaped-cold-war-0209",
+        "timestamp": "2026-02-09T05:00:00+00:00",
+        "text": "How MIT’s 10th president shaped the Cold War \nThe Killian Report, overseen by MIT’s 10th president, James Killian, helped define the frontiers of military technology, intelligence gathering, national security policy, and global affairs from U.S. President Eisenhower’s first term through the next several … \nToday, MIT plays a key role in maintaining U.S. competitiveness, technological leadership, and national defense and much of the Institutes work to support the nations standing in these areas can be t… [+12091 chars]",
+        "positive": 0.9771182537078857,
+        "negative": 2.669606328709051e-05,
+        "neutral": 0.022855132818222046
+      },
+      {
+        "source": "news",
+        "id": "https://wwwnc.cdc.gov/eid/article/32/2/25-1043_article",
+        "timestamp": "2026-02-09T05:00:00+00:00",
+        "text": "Candida auris Testing by the Antimicrobial Resistance Laboratory Network, United States, 2022–2023 \n<em>Candida auris</em> Testing by the Antimicrobial Resistance Laboratory Network, United States, 2022–2023 \nDisclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Candida auris is an urgent… [+6726 chars]",
+        "positive": 7.177997031249106e-05,
+        "negative": 9.856159522314556e-06,
+        "neutral": 0.9999183416366577
+      },
+      {
+        "source": "news",
+        "id": "https://wwwnc.cdc.gov/eid/article/32/2/25-0908_article",
+        "timestamp": "2026-02-09T05:00:00+00:00",
+        "text": "Severe Respiratory Diphtheria-Like Illness Caused by Toxigenic Corynebacterium ulcerans \nSevere Respiratory Diphtheria-Like Illness Caused by Toxigenic <em>Corynebacterium ulcerans</em> \nDisclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Corynebacterium ulcerans b… [+6830 chars]",
+        "positive": 6.587320967810228e-05,
+        "negative": 3.775100412894972e-05,
+        "neutral": 0.9998962879180908
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/markets/stock-markets/markets-open-higher-on-trade-deal-boost-banking-stocks-lead-rally/article70609659.ece",
+        "timestamp": "2026-02-09T04:59:36+00:00",
+        "text": "Markets open higher on trade deal boost, banking stocks lead rally \nBanking stocks dominated the gainers’ list, with State Bank of India surging 5.80 per cent to ₹1,128.30, emerging as the top performer \nBenchmark indices opened in positive territory on Monday, driven by improving global sentiment and clarity on the India-US trade agreement. The Nifty 50 opened at 25,888.70, up from its previous clos… [+3282 chars]",
+        "positive": 0.9999997615814209,
+        "negative": 1.0639524816724588e-07,
+        "neutral": 1.3692712741431023e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/technology/tech-news/india-smartphone-market-2025-5g-demand-cmr-report-126020900233_1.html",
+        "timestamp": "2026-02-09T04:59:36+00:00",
+        "text": "Affordable 5G fuels India smartphone market despite 1% dip in 2025: Report \nIndia Smartphone Market Size 2025: India's smartphone market declined 1% in 2025, but demand for affordable 5G phones surged, with Vivo leading the market and brands like iQOO and CMF posting strong growth, says CMR \nIndia's smartphone market declined 1% in 2025, but demand for affordable 5G phones surged, with Vivo leading the market and brands like iQOO and CMF posting strong growth, says CMR\r\nFile photo: Vivo … [+3360 chars]",
+        "positive": 0.9999991655349731,
+        "negative": 7.708756584179355e-07,
+        "neutral": 6.72090436637518e-08
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2026/02/08/sports/cooper-kupp-gets-last-laugh-with-super-bowl-ring-after-contentious-rams-split/",
+        "timestamp": "2026-02-09T04:55:45+00:00",
+        "text": "Cooper Kupp gets last laugh with Super Bowl 2026 ring after contentious Rams split \nKupp once said the journey was supposed to begin and end in L.A. It didn’t. It ended better. \nThe 2025 season started by trying to spit Cooper Kupp out.\r\nIt ended with confetti and another Lombardi Trophy.\r\nIn March last year, Kupp got a phone call from the Rams, the kind that changes how you… [+2575 chars]",
+        "positive": 5.549681736738421e-05,
+        "negative": 0.00018101907335221767,
+        "neutral": 0.9997634291648865
+      },
+      {
+        "source": "news",
+        "id": "https://www.sportingnews.com/us/olympics/news/meet-summer-britcher-us-luge-star-snl-skit/b3b880c91c0cb8149577f148",
+        "timestamp": "2026-02-09T04:54:35+00:00",
+        "text": "Meet Summer Britcher, the U.S. luge star who was parodied in an SNL skit \nShe has a chance to make a name for herself. \nMeet Summer Britcher, the U.S. luge star who was parodied in an SNL skit originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nWith the Winter Olymp… [+1812 chars]",
+        "positive": 0.00025835903943516314,
+        "negative": 4.141577301197685e-05,
+        "neutral": 0.9997001886367798
+      },
+      {
+        "source": "news",
+        "id": "https://decrypt.co/357418/bitcoin-coinbase-premium-turns-higher",
+        "timestamp": "2026-02-09T04:53:45+00:00",
+        "text": "Bitcoin Recovers as Coinbase Premium Turns Higher \nAnalysts maintain a cautious stance even after Bitcoin’s 12% relief rally clawed back recent losses amid a surging Coinbase Premium. \nIn brief\r\n<ul><li>Bitcoin is up 12% from the Friday low of $62,822, coinciding with a 70% uptick in the Coinbase Premium index.</li><li>The recovery is flashing signs of a textbook dead cat bounce, d… [+3801 chars]",
+        "positive": 0.9041644334793091,
+        "negative": 0.08677581697702408,
+        "neutral": 0.009059691801667213
+      },
+      {
+        "source": "news",
+        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180759274",
+        "timestamp": "2026-02-09T04:52:56+00:00",
+        "text": "What to Expect in Markets This Week: January Jobs Report, Inflation and Retail Sales Data; Earnings From Cisco, Coca-Cola, McDonald’s - Investopedia \nWhat to Expect in Markets This Week: January Jobs Report, Inflation and Retail Sales Data; Earnings From Cisco, Coca-Cola, McDonald’sInvestopedia Dow 50,000 sets table for inflation data, delayed January jobs report: What to watch this weekYahoo Finance Inter… \nIf you hype something and it succeeds, you're a genius -- it wasn't a\r\nhype. If you hype it and it fails, then it was just a hype.\r\n-- Neil Bogart",
+        "positive": 0.008751459419727325,
+        "negative": 0.0013620773097500205,
+        "neutral": 0.9898864030838013
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-21-paise-to-9044-against-the-us-dollar-in-early-trade/article70609650.ece",
+        "timestamp": "2026-02-09T04:52:13+00:00",
+        "text": "Rupee rises 21 paise to 90.44 against the US dollar in early trade \nAt the interbank foreign exchange market, the rupee opened at 90.66 against the US dollar, then gained some ground to touch 90.44, registering a gain of 21 paise over its previous close \nThe rupee gained 21 paise to 90.44 against the US dollar in early trade on Monday, supported by positive sentiments after India and the US reached a framework for an interim trade pact.\r\n Forex trade… [+2742 chars]",
+        "positive": 0.9999940395355225,
+        "negative": 5.959454369985906e-07,
+        "neutral": 5.3212875172903296e-06
+      },
+      {
+        "source": "news",
+        "id": "https://pagesix.com/2026/02/08/style/cardi-b-makes-super-bowl-2026-halftime-show-cameo-in-corset-and-thigh-high-gladiator-heels/",
+        "timestamp": "2026-02-09T04:51:56+00:00",
+        "text": "Cardi B makes a Super Bowl 2026 halftime show cameo in a corset and thigh-high gladiator heels \nThe \"I Like It\" rapper went for a romantic ruffled look and plenty of diamonds. \nCardi B was one of many celebs who made cameos during Bad Bunny’s Super Bowl 2026 halftime performance. Kevin Mazur/Getty Images for Roc Nation\r\nCardi B came through drippin’.\r\nThe 33-year-old rapper… [+2413 chars]",
+        "positive": 0.0002643459592945874,
+        "negative": 3.76295452042541e-06,
+        "neutral": 0.9997318387031555
+      },
+      {
+        "source": "news",
+        "id": "https://www.superpunch.net/2026/02/the-bushes-were-real-super-bowl-roundup.html",
+        "timestamp": "2026-02-09T04:51:00+00:00",
+        "text": "The bushes were real (Super Bowl roundup) \nthe bushes were people ???? pic.twitter.com/GscO1tOHNY\r\n— ludwig (@LudwigAhgren) February 9, 2026 \n\n\n\n\n\n\n\n\n\n\n\n\nCardi B happily leaving the stage after her #SuperBowl halftime show cameo.  pic.twitter.com/O5c1BQf40s\r\n— The Cardi Room | FAN ACCOUNT (@theecard… \nthe bushes were people ???? pic.twitter.com/GscO1tOHNY\r\n— ludwig (@LudwigAhgren) February 9, 2026\r\nCardi B happily leaving the stage after her #SuperBowl halftime show cameo. pic.twitter.com/O5c1BQf4… [+4614 chars]",
+        "positive": 7.358835864579305e-05,
+        "negative": 1.1867184184666257e-05,
+        "neutral": 0.9999145269393921
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/technology/tech-news/sony-wf-1000xm6-earbuds-launch-confirmed-on-feb-12-what-to-expect-126020900230_1.html",
+        "timestamp": "2026-02-09T04:50:48+00:00",
+        "text": "Sony may launch WF-1000XM6 flagship earbuds on Feb 12: What to expect \nSony has posted a short teaser for its next-generation flagship earbuds, likely to be called the WF-1000XM6, launching February 12 \nSony has posted a short teaser for its next-generation flagship earbuds, likely to be called the WF-1000XM6, launching February 12\r\nA frame from Sonys teaser video shows the silhouette of its upcomin… [+2320 chars]",
+        "positive": 0.0006988607929088175,
+        "negative": 3.284017657279037e-05,
+        "neutral": 0.9992682337760925
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/markets/capital-market-news/wall-street-soars-as-bargain-hunting-and-strong-sentiment-spark-broad-based-rally-126020900250_1.html",
+        "timestamp": "2026-02-09T04:47:53+00:00",
+        "text": "Wall Street Soars as Bargain Hunting and Strong Sentiment Spark Broad-Based Rally \nU.S. stocks surged with the Dow jumping over 1,200 points amid renewed buying interest and upbeat consumer sentiment; airline, tech and gold stocks led gains despite Amazon's sharp drop. \nU.S. stocks surged with the Dow jumping over 1,200 points amid renewed buying interest and upbeat consumer sentiment; airline, tech and gold stocks led gains despite Amazon's sharp drop.\r\nThe Dow soa… [+2259 chars]",
+        "positive": 0.9999998807907104,
+        "negative": 1.404195160148447e-07,
+        "neutral": 4.803070652315e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-decline-as-us-iran-talks-ease-supply-concerns/article70609633.ece",
+        "timestamp": "2026-02-09T04:46:36+00:00",
+        "text": "Crude oil prices decline as US-Iran talks ease supply concerns \nAt 9.58 am on Monday, April Brent oil futures were at $67.36, down by 1.01%, and March crude oil futures on WTI (West Texas Intermediate) were at $62.93, down by 0.98% \nCrude oil futures traded lower on Monday morning as diplomatic talks between the US and Iran eased concerns over global supply disruptions. \r\nAt 9.58 am on Monday, April Brent oil futures were at $67… [+2176 chars]",
+        "positive": 0.02948782406747341,
+        "negative": 0.9654903411865234,
+        "neutral": 0.005021854769438505
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/india-news/parliament-session-both-houses-to-begin-discussion-on-union-budget-2026-27-126020900081_1.html",
+        "timestamp": "2026-02-09T04:45:13+00:00",
+        "text": "Parliament session: Both Houses to begin discussion on Union Budget 2026-27 \nBoth Houses of Parliament are scheduled to begin discussion on the Union Budget 2026-27 on Monday, which was presented by Finance Minister Nirmala Sitharaman on February 1.FM Sitharaman presented the Union Budget 2026-27 in Lok Sabha, for the ninth consecutiv… \nBoth Houses of Parliament are scheduled to begin discussion on the Union Budget 2026-27 on Monday, which was presented by Finance Minister Nirmala Sitharaman on February 1.\r\nFM Sitharaman presented t… [+1887 chars]",
+        "positive": 1.3356896033656085e-06,
+        "negative": 4.225867087370716e-07,
+        "neutral": 0.9999982118606567
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-at-50000-from-ai-spillovers-to-rate-cuts-what-drove-the-record-run/articleshow/128097530.cms",
+        "timestamp": "2026-02-09T04:45:06+00:00",
+        "text": "US Stocks Today | Dow at 50,000: From AI spillovers to rate cuts, what drove the record run \nThe Dow Jones Industrial Average crossed the 50,000 mark for the first time, rising 2.47% (1,206 points) to close at 50,115.67, driven by gains in industrial, financial, and select technology stocks. The rally helped Wall Street recover from a tech-led sellof… \nThe Dow Jones Industrial Average crossed the 50,000 mark for the first time on Friday, marking a historic milestone for the 128-year-old blue-chip index, as a powerful rally in industrials, financial… [+3527 chars]",
+        "positive": 1.0,
+        "negative": 5.06117636689396e-08,
+        "neutral": 1.9828132025168088e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/nz/politics/prime-minister-christopher-luxon-says-new-zealand-is-going-to-need-support-capital-investment-for-critical-mineral-sector-as-talks-with-us-continue/premium/IZKZO5VJZJBQTM5A2URW4HBS6A/",
+        "timestamp": "2026-02-09T04:43:26+00:00",
+        "text": "Prime Minister Christopher Luxon says New Zealand is ‘going to need support’, ‘capital investment’ for critical mineral sector as talks with US continue \nNZ will require capital \"from domestic purposes and overseas purposes to do that\". \nWe actually dont have anything and so wed have to make serious investments and that will require capital from domestic purposes and overseas purposes to do that. As to the construct of any deal, were… [+8995 chars]",
+        "positive": 1.3580111954070162e-05,
+        "negative": 0.0008966058376245201,
+        "neutral": 0.9990898370742798
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2026/02/09/private-credit-software-firms-fall-ai-fears.html",
+        "timestamp": "2026-02-09T04:41:28+00:00",
+        "text": "Private credit worries resurface in $3 trillion market as AI pressures software firms \nArtificial intelligence is adding a new layer of uncertainty to the private credit industry, raising concerns that some lenders may face rising defaults. \nPrivate credit markets are facing fresh uncertainty as AI-driven tools start to pressure software companies, a major borrower group for private lenders.\r\nThe software industry came under renewed pres… [+4144 chars]",
+        "positive": 5.4220577112573665e-06,
+        "negative": 0.9999934434890747,
+        "neutral": 1.1224702802792308e-06
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/live-news/top-news-briefing-pm-cares-fund-scrutiny-10521871/",
+        "timestamp": "2026-02-09T04:39:19+00:00",
+        "text": "Daily Briefing: PM CARES fund under scrutiny \nIn today's edition: a look at Bangladesh polls, Jhumpa Lahiri at Idea Exchange, Manipur's long pending settlement, and more \nThe debate over a social media ban in India has resurfaced following the recent tragic deaths of three minors in Ghaziabad, reportedly linked to online gaming. With countries like Australia banning s… [+5755 chars]",
+        "positive": 0.003825108055025339,
+        "negative": 0.7848313450813293,
+        "neutral": 0.21134355664253235
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/nation/2026/02/09/ph-world-launches-new-phase-at-dart-hills-residence",
+        "timestamp": "2026-02-09T04:35:00+00:00",
+        "text": "PH World launches new phase at D’Art Hills Residence \nKULAI: Following an exceptional launch that achieved a 80% take-up rate, PH World Property announced the release of a new phase for registration at D'Art Hills Residence in Bukit Seni Kulai. Read full story \nKULAI: Following an exceptional launch that achieved a 80% take-up rate, PH World Property announced the release of a new phase for registration at D'Art Hills Residence in Bukit Seni Kulai.\r\nThe str… [+3117 chars]",
+        "positive": 0.9742315411567688,
+        "negative": 2.5386099878232926e-05,
+        "neutral": 0.02574305422604084
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/flexible-office-companies-take-the-d-street-way-to-grow/articleshow/128097054.cms",
+        "timestamp": "2026-02-09T04:34:43+00:00",
+        "text": "Flexible office companies take the D-street way to grow \nIndia's flexible office market is set for significant growth, reaching 100 million sq ft by year-end. Listed operators are expected to lead this expansion, contributing nearly half of the market share. Companies like Smartworks, Awfis, WeWork, and Indiqube ar… \nNew Delhi: Listed flexible office space operators are expected to contribute almost half of Indias flexible office market, which is set to reach 100 million sq ft by year end.Four operators have alre… [+2856 chars]",
+        "positive": 0.999964714050293,
+        "negative": 1.5580557999328448e-07,
+        "neutral": 3.516528522595763e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/is-ro-water-better-than-tap-water-for-planted-aquarium/",
+        "timestamp": "2026-02-09T04:34:23+00:00",
+        "text": "Is RO water better than tap water for planted aquarium? \nIs RO Water Better Than Tap Water for Planted Aquariums? Unveiling the Truth Choosing the right water source is crucial for a thriving planted aquarium. While tap water can sometimes be suitable, RO (Reverse Osmosis) water offers significantly more control an… \nChoosing the right water source is crucial for a thriving planted aquarium. While tap water can sometimes be suitable, RO (Reverse Osmosis) water offers significantly more control and consistency, ma… [+9989 chars]",
+        "positive": 0.9999986886978149,
+        "negative": 1.9783691129759973e-07,
+        "neutral": 1.043956444846117e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/world-news/cuba-warns-airlines-of-fuel-shortage-as-nicaragua-ends-easy-entry-126020900206_1.html",
+        "timestamp": "2026-02-09T04:34:10+00:00",
+        "text": "Cuba warns airlines of fuel shortage as Nicaragua ends easy entry \nThe communist government warned international airlines they can no longer refuel at its main airport in Havana for the next month after Donald Trump threatened tariffs on any nation that supplies Cuba \nThe communist government warned international airlines they can no longer refuel at its main airport in Havana for the next month after Donald Trump threatened tariffs on any nation that supplies Cub… [+2854 chars]",
+        "positive": 0.0005298261530697346,
+        "negative": 0.9887879490852356,
+        "neutral": 0.010682203806936741
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-zoom-to-10-upper-circuit-what-motilal-oswal-jm-financial-said-after-q3-results/articleshow/128096969.cms",
+        "timestamp": "2026-02-09T04:34:03+00:00",
+        "text": "Kalyan Jewellers shares zoom to 10% upper circuit. What Motilal Oswal, JM Financial said after Q3 results \nKalyan Jewellers India's shares surged 10% to ₹417.75 after reporting a 90.36% jump in Q3 net profit to ₹416.29 crore. This strong performance triggered bullish brokerage calls, with JM Financial setting a ₹750 price target, citing robust same-store sales gro… \nShares of retailer Kalyan Jewellers India hit the 10% upper circuit limit on BSE, surging to Rs 417.75, as the jewellery retailer's blockbuster third-quarter earnings triggered a wave of bullish brok… [+2509 chars]",
+        "positive": 1.0,
+        "negative": 4.208397896832139e-08,
+        "neutral": 1.2175980224071736e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/industry/news/asics-eyes-35-annual-growth-in-india-aims-to-lead-running-shoe-market-126020900205_1.html",
+        "timestamp": "2026-02-09T04:33:12+00:00",
+        "text": "Asics eyes 35% annual growth in India, aims to lead running shoe market \nRecreational running is booming across the South Asian nation, driven by an increased focus on fitness in India's growing ranks of affluent consumers \nRecreational running is booming across the South Asian nation, driven by an increased focus on fitness in India's growing ranks of affluent consumers\r\nShoppers with Asics Corp. branded shopping bags … [+3368 chars]",
+        "positive": 0.9999408721923828,
+        "negative": 9.90892999652715e-07,
+        "neutral": 5.811415030620992e-05
+      },
+      {
+        "source": "news",
+        "id": "https://thechronicle.com.gh/fuel-price-relief-energy-sector-reset-and-economic-governance-in-ghana/",
+        "timestamp": "2026-02-09T04:32:19+00:00",
+        "text": "Fuel Price Relief, Energy Sector Reset, and Economic Governance in Ghana \nIntroduction In the everyday lives of Ghanaians, few economic issues are as immediately felt as the price of fuel. Whether one is a commercial driver, a trader transporting goods, a manufacturer powering machinery, or a household budgeting for transportation,… \nIntroduction\r\nIn the everyday lives of Ghanaians, few economic issues are as immediately felt as the price of fuel. Whether one is a commercial driver, a trader transporting goods, a manufacturer pow… [+10970 chars]",
+        "positive": 2.6716708816820756e-05,
+        "negative": 2.135700560756959e-05,
+        "neutral": 0.999951958656311
+      },
+      {
+        "source": "news",
+        "id": "https://www.c-sharpcorner.com/article/why-banks-are-really-against-crypto/",
+        "timestamp": "2026-02-09T04:31:30+00:00",
+        "text": "Why Banks Are Really Against Crypto? Its $1 Trillion Matter \nWhy are banks against crypto? Because stablecoins threaten a $1 trillion global fee economy. Learn how crypto slashes credit card, wire transfer, and FX fees worldwide. \nThe real reason banks fight crypto\r\nBanks rarely say this out loud, but their resistance to crypto has very little to do with volatility, ideology, or protecting consumers. The real reason is much si… [+5997 chars]",
+        "positive": 0.002042904030531645,
+        "negative": 0.001269661821424961,
+        "neutral": 0.9966874718666077
+      },
+      {
+        "source": "news",
+        "id": "https://japantoday.com/category/world/hong-kong-media-mogul-jimmy-lai-faces-sentencing-in-landmark-national-security-case",
+        "timestamp": "2026-02-09T04:30:04+00:00",
+        "text": "Hong Kong ex-media tycoon Jimmy Lai sentenced to 20 years in prison in national security case \nJimmy Lai, the pro-democracy former Hong Kong media tycoon and a fierce critic of Beijing, was sentenced to 20 years in prison in one of the most prominent cases under a China-imposed national security law that has virtually silenced the city’s dissent. Three… \nJimmy Lai, the pro-democracy former Hong Kong media tycoon and a fierce critic of Beijing, was sentenced to 20 years in prison in one of the most prominent cases under a China-imposed national securi… [+6274 chars]",
+        "positive": 1.3956007023807615e-05,
+        "negative": 0.000219586756429635,
+        "neutral": 0.9997665286064148
+      },
+      {
+        "source": "news",
+        "id": "https://www.justjared.com/2026/02/08/cadillac-unveils-silver-formula-1-car-in-new-2026-super-bowl-commercial/",
+        "timestamp": "2026-02-09T04:27:09+00:00",
+        "text": "Cadillac Unveils Silver Formula 1 Car in New 2026 Super Bowl Commercial \nThe Cadillac Formula 1 team debuted a stunning new commercial during the 2026 Super Bowl. Cadillac used its Super Bowl commercial to unveil the official look of its Formula 1 car, a sleek silver look. According to The Hollywood Reporter, the ad is also a way … \nThe Cadillac Formula 1 team debuted a stunning new commercial during the 2026 Super Bowl.\r\nCadillac used its Super Bowl commercial to unveil the official look of its Formula 1 car, a sleek silver loo… [+889 chars]",
+        "positive": 0.00045322178630158305,
+        "negative": 2.5284343792009167e-05,
+        "neutral": 0.9995214939117432
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/singapore/lawrence-wong-congratulates-japan-prime-minister-takaichi-ldp-election-win-5916856",
+        "timestamp": "2026-02-09T04:25:19+00:00",
+        "text": "PM Wong congratulates Takaichi on Japan election win \nJapan Prime Minister Sanae Takaichi's Liberal Democratic Party won a landslide victory in the Lower House election on Sunday, securing a two-thirds majority. \nSINGAPORE: Singapore Prime Minister Lawrence Wong on Monday (Feb 9) congratulated his Japanese counterpart Sanae Takaichi on her Liberal Democratic Party's (LDP) win in the Lower House election.\r\nMs … [+1382 chars]",
+        "positive": 0.9573094844818115,
+        "negative": 0.0010373988188803196,
+        "neutral": 0.04165312647819519
+      },
+      {
+        "source": "news",
+        "id": "http://www.autostraddle.com/2026-winter-olympics-every-gay-lesbian-trans-athlete/",
+        "timestamp": "2026-02-09T04:24:13+00:00",
+        "text": "2026 Winter Olympics: All 40+ Gay Women and Trans Athletes \nThe first out lesbian Olympic figure skater, the first openly trans athlete competing in the Winter games, a real-life Heated Rivalry hockey couple and more. \nThe post 2026 Winter Olympics: All 40+ Gay Women and Trans Athletes appeared first on Autostraddle. \nLast week, the 2026 Winter Olympics kicked off in Milan and Cortina d’Ampezzo, Italy. Before all the pomp and circumstance of the Opening Ceremonies ushered in the official start of the games, athlet… [+4169 chars]",
+        "positive": 0.00044168796739540994,
+        "negative": 5.268390304991044e-05,
+        "neutral": 0.9995056390762329
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/markets/ipo/fractal-analytics-ipo-opens-today-check-gmp-price-band-key-dates-review-126020900196_1.html",
+        "timestamp": "2026-02-09T04:24:05+00:00",
+        "text": "Fractal Analytics IPO opens today: Check GMP, price band, key dates, review \nFractal Analytics raised ₹1,248.3 crore from 52 anchor investors, allocating 13.8 million equity shares at the upper end of the price band of ₹857 to ₹900 \nFractal Analytics raised 1,248.3 crore from 52 anchor investors, allocating 13.8 million equity shares at the upper end of the price band of 857 to 900\r\nFractal Analytics IPO\r\nSI ReporterNew Delhi\r\nF… [+3458 chars]",
+        "positive": 0.00016100730863399804,
+        "negative": 5.611777851299848e-07,
+        "neutral": 0.9998383522033691
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/super-bowl-fashion-moments-luxury-status-symbols-celebrities-2026-2",
+        "timestamp": "2026-02-09T04:23:59+00:00",
+        "text": "Fashion moments and status symbols you might have missed at the Super Bowl LX \nTravis Scott arrived at the Super Bowl in vintage Chanel, and Travis Kelce looked sharp in a black double-breasted Fear of God blazer. \nCelebrities brought their fashion A-game to the Super Bowl.Kevin C. Cox/Getty Images\r\n<ul><li>The Super Bowl LX was held at Levi's Stadium in California on Sunday.</li><li>Attendees were spotted in d… [+3186 chars]",
+        "positive": 1.138029620051384e-05,
+        "negative": 9.76199225988239e-06,
+        "neutral": 0.9999788999557495
+      },
+      {
+        "source": "news",
+        "id": "https://www.israelnationalnews.com/news/422142",
+        "timestamp": "2026-02-09T04:23:37+00:00",
+        "text": "Iranian Foreign Minister: US must drop unrealistic demands \nIran may continue indirect nuclear talks if the US shows seriousness, says FM Araghchi, who calls on Washington to drop what he describes as its “unrealistic demands\". \nIrans Foreign Minister Abbas Araghchi stated on Sunday that indirect nuclear negotiations with the United States will proceed if Tehran concludes that Washington possesses the necessary seriousness\" … [+2837 chars]",
+        "positive": 0.00023101165425032377,
+        "negative": 0.0023161410354077816,
+        "neutral": 0.9974527955055237
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-braces-for-ai-led-tech-churn-as-economic-data-takes-focus/articleshow/128096597.cms",
+        "timestamp": "2026-02-09T04:21:40+00:00",
+        "text": "US Stocks Today: Wall Street braces for AI-led tech churn as economic data takes focus \nU.S. equity investors are cautious this week as an AI-driven shakeout in heavyweight tech stocks continues, with software shares experiencing a significant rout. Investors are increasingly concerned about AI's disruptive potential, though signs of rotation to… \nAn artificial intelligencedriven shakeout in heavyweight technology stocks is expected to keep U.S. equity investors cautious this week, while a heavy slate of economic data could shift focus toward … [+3696 chars]",
+        "positive": 7.205262022580428e-07,
+        "negative": 0.9999988079071045,
+        "neutral": 4.3458035747789836e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/markets/capital-market-news/indices-trade-firm-in-early-trade-breadth-strong-126020900193_1.html",
+        "timestamp": "2026-02-09T04:21:40+00:00",
+        "text": "Indices trade firm in early trade; breadth strong \nBarring FMCG index the lone laggard, all the sectoral indices on the NSE were traded in green. \nThe key equity indices traded with modest gains in early trade as investors sentiment remained optimistic following the recently signed India- US trade deal agreement and positive global cues. Invest… [+4147 chars]",
+        "positive": 0.9999990463256836,
+        "negative": 5.168739676264522e-07,
+        "neutral": 4.3713845343518187e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.business-standard.com/markets/capital-market-news/inr-extends-gains-amid-weak-dollar-overseas-positive-cues-from-equities-support-126020900190_1.html",
+        "timestamp": "2026-02-09T04:21:22+00:00",
+        "text": "INR extends gains amid weak dollar overseas; Positive cues from equities support \nThe Indian rupee is extending gains against the dollar in opening trades on Monday, tracking weakness in dollar overseas and positive cues from local equities. INR opened at Rs 90.66 per dollar and hit a high of 90.44 so far during the day. On Friday, rupee d… \nThe Indian rupee is extending gains against the dollar in opening trades on Monday, tracking weakness in dollar overseas and positive cues from local equities. INR opened at Rs 90.66 per dollar and h… [+1131 chars]",
+        "positive": 0.9940451383590698,
+        "negative": 0.0003018909483216703,
+        "neutral": 0.005652927327901125
+      },
+      {
+        "source": "news",
+        "id": "https://paultan.org/2026/02/09/2026-toyota-corolla-cross-hev-gr-sport-new-grille-extra-gr-logos-sportier-cabin-same-rm149k-price/",
+        "timestamp": "2026-02-09T04:20:52+00:00",
+        "text": "2026 Toyota Corolla Cross HEV GR Sport – new grille, extra GR logos, sportier cabin, same RM149k price \nClick to enlarge Say hello to the 2026 Toyota Corolla Cross HEV GR Sport, which gains small but effective visual updates over the 2025 Toyota Corolla Cross HEV GR Sport that debut in late 2024 […]\nThe post 2026 Toyota Corolla Cross HEV GR Sport – new grille, … \nClick to enlarge\r\nSay hello to the 2026 Toyota Corolla Cross HEV GR Sport, which gains small but effective visual updates over the 2025 Toyota Corolla Cross HEV GR Sport that debut in late 2024 at KL… [+2584 chars]",
+        "positive": 0.6410631537437439,
+        "negative": 7.726666808594018e-05,
+        "neutral": 0.3588595688343048
+      },
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/sports/austrian-snowboarder-strips-down-cold-temperatures-during-wild-celebration-after-winning-olympic-gold",
+        "timestamp": "2026-02-09T04:20:37+00:00",
+        "text": "Austrian snowboarder strips down in cold temperatures during wild celebration after winning Olympic gold \nAustrian snowboarder Benjamin Karl stripped off clothes in a wild celebration after winning his second straight Olympic gold medal in men's parallel giant slalom. \nAdrenaline was running high for Austrian snowboarder Benjamin Karl after winning a second straight Olympic gold medal in the mens parallel giant slalom on Sunday.\r\nAnd that adrenaline had him not fee… [+1535 chars]",
+        "positive": 0.18678012490272522,
+        "negative": 0.06524907797574997,
+        "neutral": 0.7479708194732666
+      },
+      {
+        "source": "news",
+        "id": "https://www.newyorker.com/culture/the-lede/2026-super-bowl-halftime-show-bad-bunny",
+        "timestamp": "2026-02-09T04:19:54+00:00",
+        "text": "Bad Bunny’s All-American Super Bowl Halftime Show \nKelefa Sanneh reviews performances at the 2026 game, featuring Lady Gaga, Ricky Martin, Cardi B, and Pedro Pascal, and at the Turning Point USA show, featuring Kid Rock. \nBad Bunny arrived on the Super Bowl stage wearing a silver trenchcoat and a matching do-rag. He delivered a perfectly incendiary verse in which he declared, Viva la raza!, and then he disappearedand … [+4948 chars]",
+        "positive": 4.2020557884825394e-05,
+        "negative": 1.2285864613659214e-05,
+        "neutral": 0.9999456405639648
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/crypto-banks-input-fed-skinny-master-account-proposal",
+        "timestamp": "2026-02-09T04:19:27+00:00",
+        "text": "Crypto and banks spar in comments on Fed’s ‘skinny master account’ idea \nThe Federal Reserve has received input on its “skinny master account” proposal, with crypto firms at odds with banks over how much access the sector should have to the central bank. \nThe Federal Reserve has heard arguments from crypto companies and banking associations on a proposal to allow so-called skinny master accounts, which would give fintech firms limited access to the ce… [+3228 chars]",
+        "positive": 8.649394294479862e-05,
+        "negative": 0.0004968795692548156,
+        "neutral": 0.9994165897369385
+      },
+      {
+        "source": "news",
+        "id": "https://www.sportingnews.com/us/olympics/news/how-power-play-works-olympic-curling-mixed-doubles/d9e035fe1b4a665475728167",
+        "timestamp": "2026-02-09T04:18:33+00:00",
+        "text": "How a power play works in Olympic curling for mixed doubles \nThis only exists in this particular sport. \nHow a power play works in Olympic curling for mixed doubles originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nPower plays are well known in hock… [+1349 chars]",
+        "positive": 0.003395168576389551,
+        "negative": 7.353140972554684e-06,
+        "neutral": 0.9965974688529968
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitaljournal.com/world/japans-takaichi-may-struggle-to-soothe-voters-and-markets/article",
+        "timestamp": "2026-02-09T04:12:32+00:00",
+        "text": "Japan’s Takaichi may struggle to soothe voters and markets \nJapanese stocks soared to record highs Monday after Prime Minister Sanae Takaichi’s election triumph, but experts warned that the country’s first woman leader could struggle to keep both voters and markets happy. In its best result since its founding in 1955,… \nNews of Prime Minister Sanae Takaichi's election triumph sent the Nikkei 225 index soaring past 57,000 points for the first time - Copyright AFP Kazuhiro NOGI\r\nJapanese stocks soared to record highs … [+4525 chars]",
+        "positive": 0.8762786984443665,
+        "negative": 0.111487478017807,
+        "neutral": 0.012233800254762173
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/yes-one-nations-poll-numbers-are-climbing-but-major-party-status-let-alone-government-is-still-a-long-way-off-275086",
+        "timestamp": "2026-02-09T04:12:01+00:00",
+        "text": "Yes, One Nation’s poll numbers are climbing. But major party status – let alone government – is still a long way off \nPauline Hanson’s party is certainly climbing in the polls. But it is still a very long way from genuine leadership contention. \nRecent polling has delivered a spike for the anti-immigration party One Nation, triggering media speculation that Australian politics is on the cusp of a populist realignment. \n\nThe latest Newspoll h… [+6760 chars]",
+        "positive": 0.7610129714012146,
+        "negative": 0.004173678811639547,
+        "neutral": 0.234813392162323
       },
       {
         "source": "news",
@@ -23,30 +1004,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/companies/q3-results-today-live-updates-bse-zydus-lifesciences-aurobindo-pharma-linde-india-axiscades-tech-glaxosmithkline-pharma-navin-fluorine-intl-cholamandalam-financial-holdings-ramco-cements-amber-enterp/article70601057.ece",
-        "timestamp": "2026-02-09T04:05:11+00:00",
-        "text": "Q3 Results Today Live: BSE, Zydus Lifesciences, Aurobindo Pharma, Linde India, Axiscades Tech, GlaxoSmithKline Pharma, Navin Fluorine Intl, Cholamandalam Financial Holdings, Ramco Cements, Amber Enterprises, Trident, Graphite India, Bata to announce Q3 results \nQ3 Results Today, 09th Feb 2026 Live Updates: Find all the latest Q3 results 2026 updates of BSE Limited, Zydus Lifesciences, Aurobindo Pharma, Linde India, GlaxoSmithKline Pharmaceuticals, KPR Mill, Navin Fluorine International, Cholamandalam Financial Holdi… \ndouble exposure of city with row of coin stack with growth stock chart and graph progress report for business investment finance banking and money saving concept. istock photo for BL\r\n | Photo Credit… [+257 chars]",
-        "positive": 0.005306550767272711,
-        "negative": 6.247539204196073e-06,
-        "neutral": 0.9946871995925903
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-rebound-rs-10000-to-rs-2-6-lakh-gold-rises-rs-3000-time-to-buy-or-wait-for-dip/articleshow/128096197.cms",
         "timestamp": "2026-02-09T04:01:37+00:00",
         "text": "Silver prices rebound Rs 10,000 to Rs 2.6 lakh, gold rises Rs 3,000. Time to buy or wait for dip? \nGold and silver futures surged on MCX Monday, recovering from last week's sharp declines. Silver prices had fallen nearly 10%, while gold saw a 2% correction. Experts suggest buying gold and silver within specific ranges, anticipating continued price swings d… \nGold and silver futures opened sharply higher on the MCX on Monday, rebounding after last weeks steep selloff. Silver prices had plunged nearly 10% over two sessions, while gold saw a comparatively m… [+3016 chars]",
         "positive": 0.9951954483985901,
         "negative": 0.0047470806166529655,
         "neutral": 5.746021633967757e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.animenewsnetwork.com/news/2026-02-08/the-case-book-of-arne-anime-casts-yuko-miyamura-as-red-riding-hood/.233956",
-        "timestamp": "2026-02-09T04:01:17+00:00",
-        "text": "The Case Book of Arne Anime Casts Yūko Miyamura as Red Riding Hood \nPhantom Thief Red Riding Hood appears in episode 7 on February 18 \nThe official website for the television anime of Game Magazine's The Case Book of Arne (Arne no Jiken-bo) mystery game announced on Monday that Yko Miyamura is joining the anime's cast as the Phantom… [+2114 chars]",
-        "positive": 0.0029403367079794407,
-        "negative": 2.7236194000579417e-05,
-        "neutral": 0.9970324039459229
       },
       {
         "source": "news",
@@ -68,48 +1031,12 @@
       },
       {
         "source": "news",
-        "id": "https://bossip.com/4355214/bad-bunny-brought-elite-boricua-vibes-to-super-bowl-halftime/",
-        "timestamp": "2026-02-09T03:56:58+00:00",
-        "text": "Let’s Go, Benito! Bad Bunny Brought Elite Boricua Vibes To Super Bowl Performance \nBenito Antonio Martínez Ocasio made the absolute most his moment. While performing at the Super Bowl halftime show, Bad Bunny hit all the musical notes and offered up a danceable and by all means patriotic history lesson in the process. The show kicked off wi… \nSource: Kevin Sabitus / Getty\r\nBenito Antonio Martínez Ocasio made the absolute most his moment. While performing at the Super Bowl halftime show, Bad Bunny hit all the musical notes and offered up a… [+771 chars]",
-        "positive": 0.00036986597115173936,
-        "negative": 3.188041227986105e-05,
-        "neutral": 0.9995982050895691
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-600-pts-nifty-at-25900-tracking-global-cues-and-indiaus-trade-optimism/articleshow/128096117.cms",
         "timestamp": "2026-02-09T03:56:47+00:00",
         "text": "Sensex jumps 600 pts, Nifty at 25,900 tracking global cues and India–US trade optimism \nIndian stock markets opened with significant gains on Monday. The Sensex and Nifty saw a strong start, rising by 0.7 percent each. Positive news from the India-US trade deal and robust performances in US and Asian markets boosted investor confidence. PSU bank… \nBenchmark indices Sensex and Nifty opened sharply higher on Monday, February 9, rising 0.7% each as positive cues from interim agreement details from the IndiaUS trade deal and a strong finish across… [+3855 chars]",
         "positive": 1.0,
         "negative": 4.160582633971899e-08,
         "neutral": 1.4756532884518947e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbssports.com/nfl/news/ranking-worst-super-bowls-of-all-time-patriots-seahawks/",
-        "timestamp": "2026-02-09T03:56:05+00:00",
-        "text": "Ranking worst Super Bowls of all time: Where Patriots-Seahawks rematch falls among bottom 10 \nSuper Bowl LX certainly did not live up to the hype \nAs is often the case, the Super Bowl sequel between the New England Patriots and Seattle Seahawks didn't live up to the original. \r\nAfter playing in one of the greatest Super Bowls of all time 11 yea… [+9849 chars]",
-        "positive": 0.0008425333071500063,
-        "negative": 0.0007547015557065606,
-        "neutral": 0.9984027743339539
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-says-he-loved-close-friend-iulia-vanturs-song-tere-sang/articleshow/128095497.cms",
-        "timestamp": "2026-02-09T03:55:34+00:00",
-        "text": "Salman Khan says he loved close friend Iulia Vantur's song 'Tere Sang' \nBollywood star Salman Khan expresses admiration for Iulia Vantur's new song 'Tere Sang', lauding its composition by Arijit Singh and congratulating the team behind 'Echoes Of Us'. \nFollow Us On Social Media\r\nT20 World Cup: ICC meets PCB over India-Pakiskan match, BCB chief also presentAamir Khan gets SLAMMED by film distributor for suggesting India needs more theaters; 'Which o… [+1627 chars]",
-        "positive": 0.00507413549348712,
-        "negative": 0.00015465478645637631,
-        "neutral": 0.9947711825370789
-      },
-      {
-        "source": "news",
-        "id": "https://english.gossiplankanews.com/2026/02/japans-iron-lady-sanae-takaichi.html",
-        "timestamp": "2026-02-09T03:55:22+00:00",
-        "text": "Japan's 'Iron Lady' Sanae Takaichi achieves a historic election victory \nJapanese Prime Minister Sanae Takaichi's coalition government achieved a historic victory in Sunday's general election, a result that will pave the way for increased military spending against China and the implementation of tax cut promises that have rattled … \nJapanese Prime Minister Sanae Takaichi's coalition government achieved a historic victory in Sunday's general election, a result that will pave the way for increased military spending against China a… [+3524 chars]",
-        "positive": 0.9999980926513672,
-        "negative": 9.013600106300146e-07,
-        "neutral": 9.391118851453939e-07
       },
       {
         "source": "news",
@@ -131,39 +1058,12 @@
       },
       {
         "source": "news",
-        "id": "https://timesofindia.indiatimes.com/science/fireflies-throw-new-light-on-cancer/articleshow/128095885.cms",
-        "timestamp": "2026-02-09T03:52:33+00:00",
-        "text": "Fireflies throw new light on cancer \nScience News: For more than a century, fireflies have been treated as biology’s most dependable natural light source. Each species was thought to emit peak light of. \nFollow Us On Social Media\r\nT20 World Cup: ICC meets PCB over India-Pakiskan match, BCB chief also presentAamir Khan gets SLAMMED by film distributor for suggesting India needs more theaters; 'Which o… [+1627 chars]",
-        "positive": 0.0014362786896526814,
-        "negative": 3.432804805925116e-05,
-        "neutral": 0.9985294342041016
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/new-updates/anand-mahindra-spots-a-rare-dinosaur-era-rock-in-the-middle-of-mumbai-in-andheri-found-only-in-the-us-and-ireland/articleshow/128095665.cms",
-        "timestamp": "2026-02-09T03:46:47+00:00",
-        "text": "Anand Mahindra spots a rare dinosaur-era rock in the middle of Mumbai in Andheri, found only in the US and Ireland \nMumbai's bustling Andheri hides a 66-million-year-old volcanic rock formation, Gilbert Hill, a geological wonder previously unknown to many, including industrialist Anand Mahindra. This rare basalt column, one of only three globally, has survived urban sprawl… \nMumbais crowded skyline hides a secret from the time of dinosaurs. In the middle of busy Andheri stands a 66-million-year-old volcanic rock formation that most residents pass by without noticing. The… [+2739 chars]",
-        "positive": 5.1004801207454875e-05,
-        "negative": 0.00045067351311445236,
-        "neutral": 0.9994983673095703
-      },
-      {
-        "source": "news",
         "id": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-way-too-early-look-how-every-team-stacks-up",
         "timestamp": "2026-02-09T03:46:40+00:00",
         "text": "2026 NFL Power Rankings: Way-Too-Early Look At How Every Team Stacks Up \nRalph Vacchiano offers his first iteration of the NFL's hierarchy for the 2026 season. \nFor the Seattle Seahawks, the party is just getting started. For everyone else, there is no party at all. There is only misery and the bitter memory of a disappointing 2025 season. So, to borrow a ph… [+7387 chars]",
         "positive": 0.00373009848408401,
         "negative": 0.0013180229580029845,
         "neutral": 0.9949519634246826
-      },
-      {
-        "source": "news",
-        "id": "https://english.khabarhub.com/2026/09/534362/",
-        "timestamp": "2026-02-09T03:45:36+00:00",
-        "text": "Orange production worth Rs 316 million in Myagdi \nMYAGDI: Oranges worth Rs 316 million were produced in Myagdi this year, where the fruit remains the district’s main cash crop. According to the Agricultural Development Office, Myagdi, a total of 4,515 metric tons of oranges were harvested from 430 hectares o… \nMYAGDI: Oranges worth Rs 316 million were produced in Myagdi this year, where the fruit remains the districts main cash crop.\r\nAccording to the Agricultural Development Office, Myagdi, a total of 4,5… [+1745 chars]",
-        "positive": 9.529811904940289e-06,
-        "negative": 1.508186869614292e-05,
-        "neutral": 0.999975323677063
       },
       {
         "source": "news",
@@ -176,48 +1076,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/economy/indias-position-in-asia-improves-with-india-us-deal-positive-for-equities-and-export-oriented-sectors-report/article70609537.ece",
-        "timestamp": "2026-02-09T03:36:58+00:00",
-        "text": "India's position in Asia improves with India-US deal, positive for equities and export-oriented sectors: Report \nThe report stated that India’s external position improves compared to Asian EM peers facing higher US tariffs, boosting sentiment for Indian equities, especially in export-oriented sectors \nIndia's external position among Asian peers improves following the interim trade framework announced between India and the United States, with exports expected to rebound and dollar inflows likely to… [+2927 chars]",
-        "positive": 1.0,
-        "negative": 3.364121781146423e-08,
-        "neutral": 7.251027334120863e-09
-      },
-      {
-        "source": "news",
         "id": "https://www.thestar.com.my/news/nation/2026/02/09/shift-into-delivery-gear-as-nation-enters-13mp-implementation-phase-says-economy-minister",
         "timestamp": "2026-02-09T03:36:00+00:00",
         "text": "Shift into delivery gear as nation enters 13MP implementation phase, says Economy Minister \nJOHOR BARU: Malaysia must shift decisively from planning to delivery in 2026 as the country moves into the implementation phase of the 13th Malaysia Plan (13MP), says Economy Minister Akmal Nasrullah Mohd Nasir. Read full story \nJOHOR BARU: Malaysia must shift decisively from planning to delivery in 2026 as the country moves into the implementation phase of the 13th Malaysia Plan (13MP), says Economy Minister Akmal Nasrullah… [+3183 chars]",
         "positive": 0.0008072918863035738,
         "negative": 0.00028807148919440806,
         "neutral": 0.9989047050476074
-      },
-      {
-        "source": "news",
-        "id": "https://www.aninews.in/news/business/indias-position-in-asia-improves-with-india-us-deal-positive-for-equities-and-export-oriented-sectors-report20260209081344",
-        "timestamp": "2026-02-09T03:35:41+00:00",
-        "text": "India's position in Asia improves with India-US deal, positive for equities and export-oriented sectors: Report \nIndia's external position among Asian peers improves following the interim trade framework announced between India and the United States, with exports expected to rebound and dollar inflows likely to strengthen, according to a report by JM Financial. \nNew Delhi [India], February 9 (ANI): India's external position among Asian peers improves following the interim trade framework announced between India and the United States, with exports expected to… [+2907 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 9.779834897472028e-08,
-        "neutral": 6.16984996426595e-09
-      },
-      {
-        "source": "news",
-        "id": "https://pagesix.com/2026/02/08/style/how-lady-gaga-super-bowl-2026-halftime-show-look-paid-tribute-to-puerto-rico/",
-        "timestamp": "2026-02-09T03:32:47+00:00",
-        "text": "How Lady Gaga’s Super Bowl 2026 halftime show look paid tribute to Puerto Rico \nBad Bunny's electric performance was a love letter to his native Puerto Rico — and his stage outfit wasn't the only one loaded with meaning. \nLady Gaga joined Bad Bunny onstage during his Super Bowl halftime show performance, dressed in Luar. Charles Wenzelberg/New York Post\r\nBad Bunny’s electric Super Bowl 2026 halftime show performance w… [+1694 chars]",
-        "positive": 0.00013233625213615596,
-        "negative": 6.069451046641916e-06,
-        "neutral": 0.9998615980148315
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/india-bonds-brace-for-decline-as-supply-shock-tests-after-rbi-disappointment/article70609539.ece",
-        "timestamp": "2026-02-09T03:31:15+00:00",
-        "text": "India bonds brace for decline as supply shock tests after RBI disappointment \nThe RBI kept its key repo rate unchanged on Friday,\nsupported ‍by a positive economic outlook. While the rate pause\nwas widely anticipated, traders had expected the central bank ‍to\nannounce measures to ease liquidity \nIndian government bonds are\r\nset to extend their decline at the start of the week, as heavy\r\nstate debt issuance scheduled for the next session weighs on\r\nsentiment after the central bank refrained f… [+1757 chars]",
-        "positive": 0.9999518394470215,
-        "negative": 4.477907350519672e-05,
-        "neutral": 3.387370270502288e-06
       },
       {
         "source": "news",
@@ -248,102 +1112,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.prnewswire.co.uk/news-releases/retread-tires-market-to-reach-usd-13-50-billion-by-2032-as-fleets-push-cost-savings-and-sustainability--credence-research-302681873.html",
-        "timestamp": "2026-02-09T03:30:00+00:00",
-        "text": "Retread Tires Market to Reach USD 13.50 Billion by 2032 as Fleets Push Cost Savings and Sustainability - Credence Research \nLONDON, Feb. 9, 2026 /PRNewswire/ -- Credence Research Inc. announces the release of its latest study on the Global Retread Tires Market, which was valued at USD 9,600.00 million in 2018, reached USD 10,333.98 million in 2024, and is projected to hit USD 13,4… \nLONDON, Feb. 9, 2026 /PRNewswire/ -- Credence Research Inc. announces the release of its latest study on the Global Retread Tires Market, which was valued at USD 9,600.00 million in 2018, reached USD… [+12763 chars]",
-        "positive": 0.0037933695130050182,
-        "negative": 6.167944957269356e-05,
-        "neutral": 0.9961450099945068
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/expert-view/fiis-ease-bearish-bets-post-budget-but-charts-warn-of-range-bound-nifty-anand-james/articleshow/128093945.cms",
-        "timestamp": "2026-02-09T03:30:00+00:00",
-        "text": "FIIs ease bearish bets post-Budget, but charts warn of range-bound Nifty: Anand James \nForeign investors are reducing their negative bets on the market after the Budget. However, the market's overall sentiment remains delicate. Technical indicators suggest IT stocks may enter a period of consolidation or decline. Analysts are closely watching f… \nForeign investors are gradually trimming their bearish bets after the Budget, but the markets undertone remains fragile, says Anand James, Chief Market Strategist at Geojit Investments. Fading moment… [+5659 chars]",
-        "positive": 0.07037723809480667,
-        "negative": 0.8956232666969299,
-        "neutral": 0.033999502658843994
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-stt-hike-weighs-on-sentiment-but-growth-focused-budget-supports-markets-naveen-kulkarni/articleshow/128061986.cms",
-        "timestamp": "2026-02-09T03:30:00+00:00",
-        "text": "ETMarkets Smart Talk| STT hike weighs on sentiment, but growth-focused Budget supports markets: Naveen Kulkarni \nMarkets experienced a sharp reaction following the Budget announcement. This was primarily due to a hike in the securities transaction tax. Experts believe this sell-off is sentiment-driven and temporary. The Budget's focus on growth, increased capital expend… \nMarkets saw a sharp knee-jerk reaction after the Budget despite a strong capex push, as higher securities transaction tax (STT) weighed on near-term sentiment. Naveen Kulkarni, CIO at Axis Securities… [+4144 chars]",
-        "positive": 0.0006252218154259026,
-        "negative": 0.9989282488822937,
-        "neutral": 0.0004464814846869558
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2026/02/08/betting/super-bowl-2026-gatorade-bath-color-revealed-after-seahawks-beat-patriots/",
-        "timestamp": "2026-02-09T03:26:21+00:00",
-        "text": "Super Bowl 2026 Gatorade bath color revealed after Seahawks beat Patriots \nThe Super Bowl 2026 Gatorade color has been revealed. \nGambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nThe final throes of Super Bowl 2026 w… [+2398 chars]",
-        "positive": 3.287197250756435e-05,
-        "negative": 1.3634828519570874e-06,
-        "neutral": 0.9999657869338989
-      },
-      {
-        "source": "news",
-        "id": "https://www.covers.com/super-bowl/lxi-odds-analysis",
-        "timestamp": "2026-02-09T03:26:00+00:00",
-        "text": "Updated Super Bowl LXI Odds: Seahawks, Rams Open as Early DraftKings Favorites \nUpdated Super Bowl LXI odds from DraftKings show the Seahawks and Rams leading a deep futures market, followed closely by the Bills, Patriots, and Eagles. See the full odds board and early betting tiers. \nFresh off the Seattle Seahawks' victory over the New England Patriots, DraftKings has released updated Super Bowl LXI odds, and the early futures market is wide open.\r\nThe Seahawks and Los Angeles Ra… [+2546 chars]",
-        "positive": 0.003920734394341707,
-        "negative": 3.819593621301465e-05,
-        "neutral": 0.9960410594940186
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/pmn/business-pmn/chinas-copper-demand-to-cool-as-buyers-shut-for-longer-holiday",
         "timestamp": "2026-02-09T03:24:17+00:00",
         "text": "China’s Copper Demand to Cool as Buyers Shut for Longer Holiday \nChinese copper buyers are extending their break over the Lunar New Year as near-record prices chill industrial demand for the metal. \n(Bloomberg) Chinese copper buyers are extending their break over the Lunar New Year as near-record prices chill industrial demand for the metal.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscr… [+5668 chars]",
         "positive": 0.1399564892053604,
         "negative": 0.0003216956974938512,
         "neutral": 0.8597217798233032
-      },
-      {
-        "source": "news",
-        "id": "https://www.nature.com/articles/s41598-026-38842-8",
-        "timestamp": "2026-02-09T03:20:37+00:00",
-        "text": "Eco-friendly synthesis of star-shaped Zn nanoparticles using Beta vulgaris peel extract and evaluation of their antibacterial, photocatalytic, and cytotoxic activities \nIn this study, for the first time, Zn nanoparticles were created using the root peel of Beta vulgaris by a green method. Synthesized Zn nanoparticles have been characterized via UV–Vis spectroscopy, Zeta potential analysis, XRD, FTIR, TEM, and FESEM-EDX techn… \n<li>Ajaz, M., Rasool, W. &amp; Mahmood, A. Comprehensive review of nanotechnology: innovations and multidisciplinary applications: comprehensive review of nanotechnology. Futuristic Biotechnol.4 (1),… [+16059 chars]",
-        "positive": 9.24598589335801e-06,
-        "negative": 1.2466664429666707e-06,
-        "neutral": 0.9999895095825195
-      },
-      {
-        "source": "news",
-        "id": "https://www.bloomberg.com/news/articles/2026-02-06/pb-fintech-is-said-to-revive-1-billion-fundraise-after-outreach",
-        "timestamp": "2026-02-09T03:18:46+00:00",
-        "text": "PB Fintech is said to revive fundraise after outreach \nThe Policybazaar parent is likely to return with a proposal to raise as much as $1 billion through a qualified institutional placement once the investor outreach is concluded and market conditions stabilise \nPB Fintech Ltd., is expected to revive a major fundraising plan that had been paused over shareholder pushback, after completing consultations with existing shareholders and prospective investors, ac… [+2221 chars]",
-        "positive": 0.0003912753891199827,
-        "negative": 2.400664561719168e-05,
-        "neutral": 0.9995847344398499
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/sports/patriots-drake-maye-shares-heartfelt-sideline-moment-wife-ann-michael-before-super-bowl-debut",
-        "timestamp": "2026-02-09T03:14:03+00:00",
-        "text": "Patriots’ Drake Maye shares heartfelt sideline moment with wife Ann Michael before Super Bowl debut \nDrake Maye shared a kiss with his wife Ann Michael Maye on field before the New England Patriots and Seattle Seahawks faced off in Super Bowl LX in Santa Clara, California. \nIn just his second NFL season, Drake Maye narrowly missed league MVP honors and led the New England Patriots to the Super Bowl. \r\nWhile the 23-year-old has earned widespread praise on the field, he r… [+2583 chars]",
-        "positive": 0.01042654924094677,
-        "negative": 0.00030358877847902477,
-        "neutral": 0.9892699122428894
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/tech/technology/taiwan-says-40-shift-of-chip-capacity-to-us-is-impossible/articleshow/128094798.cms",
-        "timestamp": "2026-02-09T03:13:56+00:00",
-        "text": "Taiwan says 40% shift of chip capacity to US is 'impossible' \nIn an interview with Taiwanese television channel CTS that was broadcast late on Sunday, Taiwan Vice Premier Cheng Li-chiun said she had made it clear to Washington that Taiwan's semiconductor ecosystem, built up over decades, could not be ‌relocated. \nIt would be \"impossible\" to move 40% of Taiwan's semiconductor capacity to the US, the island's top tariff negotiator said, pushing back against recent comments by American officials who called for a… [+2435 chars]",
-        "positive": 0.000958158343564719,
-        "negative": 0.31114882230758667,
-        "neutral": 0.6878930330276489
-      },
-      {
-        "source": "news",
-        "id": "https://slickdeals.net/f/19189072-jbl-live-buds-3-noise-cancelling-wireless-earbuds-silver-99-95-free-shipping",
-        "timestamp": "2026-02-09T03:13:42+00:00",
-        "text": "JBL Live Buds 3 Noise-Cancelling Wireless Earbuds (Silver) $99.95 + Free Shipping (2 replies) \nAmazon [amazon.com] has JBL Live Buds 3 Noise-Cancelling Wireless Earbuds (Silver) $99.95. Shipping is free. \nThis collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
-        "positive": 0.012334697879850864,
-        "negative": 2.0008972569485195e-05,
-        "neutral": 0.9876453280448914
       },
       {
         "source": "news",
@@ -374,84 +1148,12 @@
       },
       {
         "source": "news",
-        "id": "https://blog.minethatdata.com/2026/02/the-play-caller.html",
-        "timestamp": "2026-02-09T03:10:00+00:00",
-        "text": "The Play Caller \nDatabase Marketing, Data Mining, Analytics, Big Data, Forecasting, Segmentation, Predictive Modeling, Measurement, Catalog, Business \nThat's what you are. You are a playcaller. Your job is to call plays to score points (i.e. profit) for your company. It isn't necessarily an easy job.\r\nReaders ask \"what do you look to for inspiratio… [+1753 chars]",
-        "positive": 0.0001711147342575714,
-        "negative": 0.0001182641790364869,
-        "neutral": 0.9997106194496155
-      },
-      {
-        "source": "news",
-        "id": "https://ftw.usatoday.com/story/entertainment/pop-culture/2026/02/08/are-tom-brady-alix-earle-dating-super-bowl-party/88583612007/",
-        "timestamp": "2026-02-09T03:09:44+00:00",
-        "text": "Are they dating? Tom Brady and Alix Earle spotted at Super Bowl party \nRumors are flying about Tom Brady and Alix Earle after being spotted at a party over Super Bowl weekend. \nWhile theres no official indication as to whether Tom Brady and Alix Earle are actuallya thing, they were definitely spotted chatting at a party over Super Bowl weekend, and AS YALL KNOW, TWO SINGLE … [+751 chars]",
-        "positive": 3.0510479973600013e-06,
-        "negative": 1.3944684724265244e-05,
-        "neutral": 0.9999829530715942
-      },
-      {
-        "source": "news",
         "id": "https://www.huffpost.com/entry/turning-point-super-bowl-halftime_n_698732f6e4b0dfac87443dfd",
         "timestamp": "2026-02-09T03:07:52+00:00",
         "text": "Kid Rock Falls Flat In A Really Long Turning Point Super Bowl Halftime Show \nThe MAGA-oriented \"All-American Halftime Show\" was no match for the NFL's main event with global superstar Bad Bunny. \nTurning Point USAs All-American Halftime Show flopped in its bid to overshadow Bad Bunnys Super Bowl Halftime Show, and lasted over 10 minutes longer than the Puerto Rican superstars dynamic presenta… [+3442 chars]",
         "positive": 0.0014086171286180615,
         "negative": 0.00020314469293225557,
         "neutral": 0.9983882904052734
-      },
-      {
-        "source": "news",
-        "id": "https://www.roadandtrack.com/news/a70280117/cadillac-reveals-sharp-asymmetric-1st-f1-livery-super-bowl-lx-commercial/",
-        "timestamp": "2026-02-09T03:04:00+00:00",
-        "text": "Cadillac Reveals Sharp Asymmetric Inaugural F1 Livery During Super Bowl LX Commercial \nIn a one-minute Super Bowl commercial, Cadillac F1 officially introduces itself to the audience. \nF1 fans had their first peak at Cadillac's inaugural livery during the fourth quarter of Sunday's Super Bowl LX, just moments after the Patriots scored their first touchdown of the night to cut the S… [+1051 chars]",
-        "positive": 0.0027814845088869333,
-        "negative": 0.00020378509361762553,
-        "neutral": 0.9970146417617798
-      },
-      {
-        "source": "news",
-        "id": "https://brickset.com/article/129944/random-set-of-the-day-the-precious-crystal-mine",
-        "timestamp": "2026-02-09T03:01:02+00:00",
-        "text": "Random set of the day: The Precious Crystal Mine \nToday's random set is 41177 The Precious Crystal Mine, released during 2016. It's one of 13 Elves sets produced that year. It contains 273 pieces and 2 minifigs, and its retail price was US$29.99/£24.99. It's owned by 1,890 Brickset members. If you want to ad… \nPosted by Huwbot, 09 Feb 2026 03:01\r\nToday's random set is 41177 The Precious Crystal Mine, released during 2016. It's one of 13 Elves sets produced that year. It contains 273 pieces and 2 minifigs, … [+349 chars]",
-        "positive": 8.187708772311453e-06,
-        "negative": 2.351502644160064e-06,
-        "neutral": 0.99998939037323
-      },
-      {
-        "source": "news",
-        "id": "https://www.politico.eu/article/time-for-brexit-reckoning-uk-eu-relationship/",
-        "timestamp": "2026-02-09T03:00:00+00:00",
-        "text": "Time for a Brexit reckoning \nIn order to finally move one, Britain must face the abysmal failure this project has been. \nCanadian Prime Minister Mark Carney recently received a lot of acclaim for citing Czech playwright and former President Václav Havels The Power of the Powerless in his speech at the World Economic Fo… [+2492 chars]",
-        "positive": 0.08935951441526413,
-        "negative": 0.07758985459804535,
-        "neutral": 0.8330506086349487
-      },
-      {
-        "source": "news",
-        "id": "https://www.abc.net.au/news/2026-02-09/rain-brings-relief-and-road-closures-in-outback-sa/106321082",
-        "timestamp": "2026-02-09T02:59:43+00:00",
-        "text": "Rain brings relief and road closures after record heatwave in SA \nHigh rainfall in north-eastern South Australia has brought some relief for pastoralists after record-breaking heat, with a reprieve expected for metropolitan Adelaide this week. \nHigh rainfall in north-eastern South Australia has brought some relief for pastoralists after record-breaking heat, with some reprieve expected for metropolitan Adelaide this week.\r\nSeveral roads clo… [+3796 chars]",
-        "positive": 0.776151180267334,
-        "negative": 0.021399304270744324,
-        "neutral": 0.2024494707584381
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-2-lakh-crore-it-rout-meets-indias-first-ai-ipo-is-fractal-a-better-bet-than-tcs-infosys-and-hcl-tech/articleshow/128094546.cms",
-        "timestamp": "2026-02-09T02:58:22+00:00",
-        "text": "Rs 2 lakh crore IT rout meets India's first AI IPO: Is Fractal a better bet than TCS, Infosys and HCL Tech? \nFractal Analytics' IPO launches amid Indian IT sector worries about AI automation. While traditional IT stocks face a sharp sell-off, Fractal offers a pure-play AI investment. Its focus on enterprise AI and analytics solutions differentiates it from legacy fi… \nFractal Analytics' IPO is opening at a time when the Indian IT sector is facing one of its sharpest bouts of anxiety in years. Over the past two sessions, stocks of large IT services companies such a… [+5962 chars]",
-        "positive": 0.9958142638206482,
-        "negative": 0.0015962531324476004,
-        "neutral": 0.002589378971606493
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com.au/video-super-bowl-2026-halftime-show-replay-bad-bunny-ricky-martin-lady-gaga-where-watch-1861461",
-        "timestamp": "2026-02-09T02:56:27+00:00",
-        "text": "(VIDEO) Super Bowl 2026 Halftime Show Replay: Bad Bunny, Ricky Martin and Lady Gaga, Where to Watch? \nBad Bunny's historic Apple Music Super Bowl LX Halftime Show — featuring surprise appearances by Lady Gaga and Ricky Martin — captivated millions during the Feb. 8, 2026, \nBad Bunny's historic Apple Music Super Bowl LX Halftime Show — featuring surprise appearances by Lady Gaga and Ricky Martin — captivated millions during the Feb. 8, 2026, championship between the New… [+4585 chars]",
-        "positive": 0.0009469756623730063,
-        "negative": 3.2518810257897712e-06,
-        "neutral": 0.9990498423576355
       },
       {
         "source": "news",
@@ -470,15 +1172,6 @@
         "positive": 2.02477713173721e-05,
         "negative": 2.1060675862827338e-05,
         "neutral": 0.9999586343765259
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2026/02/09/chinese-chipmaker-montage-technology-hong-kong-ipo-debut.html",
-        "timestamp": "2026-02-09T02:53:41+00:00",
-        "text": "Chinese chip designer Montage Technology soars over 50% in Hong Kong debut \nShares of Chinese chip designer Montage Technology surged 57% in its Hong Kong trading debut on Monday following an initial share sale that raised $902 million. \nShares of Chinese chip designer Montage Technology surged 57% in its Hong Kong trading debut on Monday following an initial share sale that raised $902 million.\r\nMontage Technology jumped to HK$168 a… [+691 chars]",
-        "positive": 0.9986218214035034,
-        "negative": 1.4337338143377565e-05,
-        "neutral": 0.0013638578820973635
       },
       {
         "source": "news",
@@ -509,39 +1202,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/fractal-analytics-ipo-opens-at-857-900-issue-size-2834-crore/article70609485.ece",
-        "timestamp": "2026-02-09T02:44:56+00:00",
-        "text": "Fractal Analytics IPO opens at ₹857-900; issue size ₹2,834 crore \nFractal Analytics Ltd opens its Rs 2,834 crore IPO at Rs 857-900 per share, backed by strong anchor investor demand, raising funds for AI R&D and loan repayment. \nFractal Analytics Ltd, Indias first pure-play artificial intelligence company, opens its initial public offering today at a price band of Rs 857-900, with an issue size of Rs 2,834 crore. Bids can be… [+3939 chars]",
-        "positive": 0.9941516518592834,
-        "negative": 9.029719763020694e-07,
-        "neutral": 0.005847395863384008
-      },
-      {
-        "source": "news",
-        "id": "https://pagesix.com/2026/02/08/style/what-does-the-64-on-bad-bunny-super-bowl-2026-halftime-show-outfit-mean/",
-        "timestamp": "2026-02-09T02:41:54+00:00",
-        "text": "What does the ‘64’ on Bad Bunny’s Super Bowl 2026 halftime show outfit mean? We have some ideas \nWhile the rapper's white Zara outfit seemed simple, it contained a secret message. \nBad Bunny performed during the Super Bowl 2026 halftime show wearing a white Zara football jersey and suit. Getty Images\r\nFrom album of the year to halftime performer.\r\nBad Bunny turned Levi’s Stadiu… [+4098 chars]",
-        "positive": 5.720897388528101e-05,
-        "negative": 3.7938614241284085e-06,
-        "neutral": 0.99993896484375
-      },
-      {
-        "source": "news",
         "id": "https://apnews.com/article/stocks-markets-japan-trump-election-9b8ca5d0b21d8f2c6d0cb6992e05c112",
         "timestamp": "2026-02-09T02:41:01+00:00",
         "text": "Japan's Nikkei jumps after Takaichi wins a super majority in parliament \nTokyo's Nikkei 225 share index has jumped 4.5% after Japanese Prime Minister Sanae Takaichi’s governing party secured a two-thirds supermajority in a parliamentary election. Takaichi is expected to pursue market-friendly policies. She told public broadcaster … \nBANGKOK (AP) Tokyos Nikkei 225 share index jumped 4.7% on Monday after Japanese Prime Minister Sanae Takaichis governing party secured a two-thirds supermajority in a parliamentary election. \r\nTakaic… [+2793 chars]",
         "positive": 0.3849179148674011,
         "negative": 0.0016411636024713516,
         "neutral": 0.6134409308433533
-      },
-      {
-        "source": "news",
-        "id": "https://m.economictimes.com/markets/stocks/news/itc-among-5-stocks-flash-bullish-signals-indicating-possible-uptrend/bullish-breakout/slideshow/128093971.cms",
-        "timestamp": "2026-02-09T02:36:19+00:00",
-        "text": "ITC among 5 stocks flash bullish signals, indicating possible uptrend \nOn February 6, five stocks in the Nifty200 pack appeared on the bullish scanner of “White Marubozu”, according to StockEdge.com’s technical scan data. A White Marubozu is a bullish candlestick pattern in technical analysis. It occurs when the opening price is… \nFeb 09, 2026, 08:10:42 AM IST\r\nOn February 6, five stocks in the Nifty200 pack appeared on the bullish scanner of “White Marubozu”, according to StockEdge.com’s technical scan data. A White Marubozu … [+706 chars]",
-        "positive": 0.00036013947101309896,
-        "negative": 8.816310582915321e-05,
-        "neutral": 0.9995517134666443
       },
       {
         "source": "news",
@@ -554,84 +1220,12 @@
       },
       {
         "source": "news",
-        "id": "https://japan.cnet.com/release/31146205/",
-        "timestamp": "2026-02-09T02:35:00+00:00",
-        "text": "Ministry Of Financeサウジアラビア財務省と国際通貨基金 、第2回アルウラ新興市場経済会議（AlUla Conference for Emerging Market Economies）を明日開催 \nアルウラ、サウジアラビア, 2026年2月8日 /PRNewswire/ -- 第2回アルウラ新興市場経済会議（AlUla Conference for Emerging Market Economies）が明日開催されます。このハイレベル会合はサウジアラビア財務省（Ministry of Finance）と国際通貨基金（International Monetary Fund）のパートナーシップによりアルウラで... \n, 202628 /PRNewswire/ -- 2AlUla Conference for Emerging Market EconomiesMinistry of FinanceInternational Monetary Fund\r\n Policies Amid a Reset of International Trade and Financial Systems \r\nPR Newswi… [+60 chars]",
-        "positive": 0.0018721460364758968,
-        "negative": 1.2210945897095371e-05,
-        "neutral": 0.9981156587600708
-      },
-      {
-        "source": "news",
-        "id": "https://www.malaymail.com/news/what-you-think/2026/02/09/the-power-of-the-subconscious-mind-for-healthy-living-ariyanti-mustapha/208568",
-        "timestamp": "2026-02-09T02:34:03+00:00",
-        "text": "The power of the subconscious mind for healthy living — Ariyanti Mustapha \nFEBRUARY 9 — Peacefulness and serenity are precious gems that need to be cultivated in every human life. The rising prevalence of mental health issues worldwide is putting the... \nFEBRUARY 9 Peacefulness and serenity are precious gems that need to be cultivated in every human life. The rising prevalence of mental health issues worldwide is putting the lives of teenagers and ad… [+5433 chars]",
-        "positive": 0.025249971076846123,
-        "negative": 0.002714248141273856,
-        "neutral": 0.9720357060432434
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/pmn/business-pmn/hong-kong-sentences-jimmy-lai-to-20-years-in-landmark-case",
         "timestamp": "2026-02-09T02:32:59+00:00",
         "text": "Hong Kong Sentences Jimmy Lai to 20 Years in Landmark Case \nA Hong Kong court sentenced former media mogul Jimmy Lai to 20 years in prison, handing the pro-democracy advocate the heaviest penalty ever meted out under a Beijing-imposed national security law. \n(Bloomberg) A Hong Kong court sentenced former media mogul Jimmy Lai to 20 years in prison, handing the pro-democracy advocate the heaviest penalty ever meted out under a Beijing-imposed national sec… [+4810 chars]",
         "positive": 0.0003317451919429004,
         "negative": 0.0006745355203747749,
         "neutral": 0.9989936947822571
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/opinion/columns/in-japan-a-charismatic-leader-and-three-challenges-10521410/",
-        "timestamp": "2026-02-09T02:32:54+00:00",
-        "text": "In Japan, a charismatic leader and three challenges \nWhile the Liberal Democratic Party has been battered by scandals for years, Takaichi has successfully decoupled her personal brand from the party’s baggage. \nJAPAN HELD a high-stakes snap general election, triggered by Sanae Takaichi, the nations first female Prime Minister. Takaichi has successfully capitalised on her honeymoon period. Her LDP-Ishin coal… [+3026 chars]",
-        "positive": 0.9999929666519165,
-        "negative": 3.6364483548823046e-06,
-        "neutral": 3.3490723581053317e-06
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/auto/auto-components/india-us-trade-deal-a-game-changer-for-auto-parts-exporters/articleshow/128093709.cms",
-        "timestamp": "2026-02-09T02:31:55+00:00",
-        "text": "Pact puts auto parts exporters in driver's seat \nThe joint statement said India will receive a preferential tariff rate quota for automotive parts currently covered under US national security tariffs, creating a pathway for Indian exporters to access the US market at lower or zero duties. \nIndia's auto component industry is set for a significant boost following the India-US trade deal, with the agreement providing preferential tariff treatment for Indian auto parts exports, including z… [+1913 chars]",
-        "positive": 0.9999995231628418,
-        "negative": 1.7043629441104713e-07,
-        "neutral": 3.851713756830577e-07
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-in-focus-as-q3-net-profit-soars-723-to-rs-2689-crore/articleshow/128093707.cms",
-        "timestamp": "2026-02-09T02:31:52+00:00",
-        "text": "Tata Steel shares in focus as Q3 net profit soars 723% to Rs 2,689 crore \nTata Steel reported a significant 723% year-on-year surge in its December quarter consolidated net profit, reaching Rs 2,689 crore. Revenue also saw a 6% increase to Rs 57,002 crore, driven by strong performance in India with record crude steel production and… \nShares of Tata Steel, one of Indias largest steelmakers, are likely to be in focus on Monday, February 9, after the company reported a sharp surge in its December quarter earnings. Consolidated net p… [+2767 chars]",
-        "positive": 1.0,
-        "negative": 7.403044399723058e-09,
-        "neutral": 1.7275514352377286e-08
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/opinion/editorials/after-start-need-for-new-stabilising-mechanisms-10521384/",
-        "timestamp": "2026-02-09T02:30:57+00:00",
-        "text": "After START, need for new stabilising mechanisms \nThe collapse of formal arms control will create ripples well beyond US-Russia relations. States feeling vulnerable may sense fewer constraints on pursuing nuclear options. \nThe Trump Administrations decision to let the last remaining nuclear arms-control treaty with Russia lapse marks a historic inflection point in the management of dangerous weapons. Since the 1950s, t… [+2445 chars]",
-        "positive": 0.9580996632575989,
-        "negative": 0.008707537315785885,
-        "neutral": 0.03319279104471207
-      },
-      {
-        "source": "news",
-        "id": "https://hiphopwired.com/3036494/bad-bunny-brought-elite-boricua-vibes-to-super-bowl-performance-social-media-celebrates/",
-        "timestamp": "2026-02-09T02:30:52+00:00",
-        "text": "Bad Bunny Brought Elite Boricua Vibes To Super Bowl Performance, Social Media Celebrates \nBenito Antonio Martínez Ocasio made the absolute most his moment. While performing at the Super Bowl halftime show, Bad Bunny hit all the musical notes and offered up a danceable and by all means patriotic history lesson in the process. The show kicked off wi… \nSource: San Francisco Chronicle/Hearst Newspapers / Getty\r\nBenito Antonio Martínez Ocasio made the absolute most his moment. While performing at the Super Bowl halftime show, Bad Bunny hit all the mu… [+804 chars]",
-        "positive": 0.0008709258399903774,
-        "negative": 4.408864333527163e-05,
-        "neutral": 0.9990849494934082
-      },
-      {
-        "source": "news",
-        "id": "https://hiphopwired.com/3036494/bad-bunny-brought-elite-boricua-vibes-to-super-bowl-performance/",
-        "timestamp": "2026-02-09T02:30:52+00:00",
-        "text": "Bad Bunny Brought Elite Boricua Vibes To Super Bowl Performance, Social Media Celebrates \nBenito Antonio Martínez Ocasio made the absolute most his moment. While performing at the Super Bowl halftime show, Bad Bunny hit all the musical notes and offered up a danceable and by all means patriotic history lesson in the process. The show kicked off wi… \nSource: San Francisco Chronicle/Hearst Newspapers / Getty\r\nBenito Antonio Martínez Ocasio made the absolute most his moment. While performing at the Super Bowl halftime show, Bad Bunny hit all the mu… [+804 chars]",
-        "positive": 0.0008709258399903774,
-        "negative": 4.408864333527163e-05,
-        "neutral": 0.9990849494934082
       },
       {
         "source": "news",
@@ -650,15 +1244,6 @@
         "positive": 0.9999998807907104,
         "negative": 1.2612904498610078e-08,
         "neutral": 7.998589524049748e-08
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/tech/startups/homegrown-startups-outperform-returnee-tech-talent-study-shows/articleshow/128093332.cms",
-        "timestamp": "2026-02-09T02:28:03+00:00",
-        "text": "Homegrown startups outperform returnee tech talent, study shows \naAnew study suggests that in India’s competitive startup ecosystem, domestic founders now outperform returning diaspora entrepreneurs over the long run. Research comparing 596 Indian high-tech startups finds local founders lead on longevity, revenue and valua… \nIndias fiercely competitive startup field has provided evidence to suggest that homegrown entrepreneurs fare better over the long run than returning diaspora with overseas experience, contradicting w… [+4651 chars]",
-        "positive": 0.999997615814209,
-        "negative": 3.554854401954799e-07,
-        "neutral": 2.069124093395658e-06
       },
       {
         "source": "news",
@@ -707,15 +1292,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.israelnationalnews.com/news/422138",
-        "timestamp": "2026-02-09T02:16:11+00:00",
-        "text": "Israeli-Turkish cooperation expected at NBA All-Star game \nAfter initially being left off the roster, Houston Rockets Turkish center Alperen Şengün named to the All-Star team as an injury replacement and will take part alongside Deni Avdija. \nOne week after Deni Avdija made Israeli history by becoming the first Israeli player to be selected to the NBA All-Star Game\r\n, Avdija will be indirectly responsible for another historic moment.\r\nThi… [+996 chars]",
-        "positive": 0.0002528796612750739,
-        "negative": 7.449935947079211e-05,
-        "neutral": 0.9996726512908936
-      },
-      {
-        "source": "news",
         "id": "https://english.khabarhub.com/2026/09/534343/",
         "timestamp": "2026-02-09T02:15:56+00:00",
         "text": "Economic Digest: Nepal’s Business News in a Snap \nKATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s economy shows a cautious outlook, with mixed signals from markets and policy. NEPSE slipped d… \nKATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries.\r\nNepals economy shows a cautious outlook,… [+11228 chars]",
@@ -743,48 +1319,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.animenewsnetwork.com/news/2026-02-08/the-super-mario-galaxy-movie-airs-super-bowl-commercial/.233954",
-        "timestamp": "2026-02-09T02:11:22+00:00",
-        "text": "The Super Mario Galaxy Movie Airs Super Bowl Commercial \nFilm opens in U.S., U.K. on April 1 &  in Japan on April 24 \nIllumination and Universal Pictures unveiled a new commercial for The Super Mario Galaxy Movie, the sequel to The Super Mario Bros. Movie, during the Super Bowl LX game on Sunday.\r\nThe film will open… [+1934 chars]",
-        "positive": 0.0020158598199486732,
-        "negative": 1.523392438684823e-05,
-        "neutral": 0.997968852519989
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/over-dozen-stocks-including-reliance-belrise-bajel-anant-raj-stallion-india-go-digit-to-hog-limelight-in-todays-trade/article70609464.ece",
-        "timestamp": "2026-02-09T02:07:35+00:00",
-        "text": "Over dozen stocks, including Reliance, Belrise, Bajel, Anant Raj, Stallion India, Go Digit, to hog limelight in today’s trade \nSeveral stocks are in focus today after key corporate developments including acquisitions, large EPC orders, global expansions, defence contracts, green energy tie-ups and regulatory disclosures \nReliance Consumer Products Limited (RCPL), the FMCG arm of Reliance Industries Ltd, has acquired a majority stake in Australias popular Better-For-You beverage business Goodness Group Global Pty. Ltd… [+4792 chars]",
-        "positive": 0.0011281640036031604,
-        "negative": 1.942363269336056e-05,
-        "neutral": 0.9988523721694946
-      },
-      {
-        "source": "news",
         "id": "https://www.abc.net.au/news/2026-02-09/winter-olympics-rivals-pay-credit-to-lindsey-vonn/106320254",
         "timestamp": "2026-02-09T02:07:34+00:00",
         "text": "'My heart broke for her': Rivals heap praise on 'idol' Vonn after crash \nLindsey Vonn's 2026 Winter Olympic Games ended in disaster, but her teammates and rivals have heaped praise on the three-time Olympic medallist. \nAlpine skiing rivals have paid credit to skiing \"icon\" Lindsey Vonn after the 41-year-old's horror crash at the Milano Cortina Winter Olympics on Sunday.\r\nVonn, competing just nine days after she rup… [+6247 chars]",
         "positive": 0.0009979751193895936,
         "negative": 0.0002941693237517029,
         "neutral": 0.9987078905105591
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/kalshi-transfers-delayed-in-the-middle-of-super-bowl-2026-2",
-        "timestamp": "2026-02-09T02:07:33+00:00",
-        "text": "Some Kalshi transfers are delayed during the Super Bowl \nKalshi said it saw over $325 million in volume less than an hour before the championship game started. \nKalshi experienced a surge in deposits during the Super Bowl.illustration by Cheng Xin/Getty Images\r\n<ul><li>Kalshi said it experienced delays in fund transfers due to a Super Bowl traffic surge.</li… [+1582 chars]",
-        "positive": 0.10254886746406555,
-        "negative": 0.770846426486969,
-        "neutral": 0.12660469114780426
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/india-us-trade-deal-kpr-mill-other-textile-stocks-in-focus-as-interim-agreement-confirms-reduced-18-tariff/articleshow/128093047.cms",
-        "timestamp": "2026-02-09T02:06:44+00:00",
-        "text": "India-US trade deal: KPR Mill, other textile stocks in focus as interim agreement confirms reduced 18% tariff \nTextile stocks are poised for a boost as India and the US finalize an interim trade deal, reducing tariffs on textile exports to 18%. This agreement alleviates a significant overhang for the sector, which heavily relies on the US market for revenue. The deal … \nShares of export-heavy textile companies such as Gokaldas Exports, KPR Mill, Welspun Living and Indo Count, among others, are set to be in focus when markets open on Monday, February 9, after the int… [+1934 chars]",
-        "positive": 0.9999814033508301,
-        "negative": 6.64758772472851e-06,
-        "neutral": 1.1902492587978486e-05
       },
       {
         "source": "news",
@@ -806,66 +1346,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.pymnts.com/cryptocurrency/2026/china-extends-crypto-ban-to-stablecoins-and-tokenized-assets/",
-        "timestamp": "2026-02-09T02:00:26+00:00",
-        "text": "China Extends Crypto Ban to Stablecoins and Tokenized Assets \nRegulators in China have expanded their cryptocurrency crackdown to cover stablecoins and tokenized assets. “Recently, influenced by various factors, speculative activities related to virtual currencies and the tokenization of real-world assets have occurred … \nRegulators in China have expanded their cryptocurrency crackdown to cover stablecoins and tokenized assets.Recently, influenced by various factors, speculative activities related to virtual currencie… [+2476 chars]",
-        "positive": 0.016016745939850807,
-        "negative": 0.00016205653082579374,
-        "neutral": 0.9838211536407471
-      },
-      {
-        "source": "news",
         "id": "https://nypost.com/2026/02/08/sports/christian-mccaffrey-adds-comeback-player-of-year-to-gold-jacket-resume/",
         "timestamp": "2026-02-09T02:00:13+00:00",
         "text": "Christian McCaffrey overcame adversity to boost ‘gold jacket’ resume with Comeback Player of Year award \nHas he thought much about how it might one day carry him to a place alongside new inductee Roger Craig and maybe (by then) 2026 snub Frank Gore? \nSANTA CLARA, Calif. One great 49ers running back made the Hall of Fame Class of 2026, one did not and one bolstered his case for the future.\r\nOn the same night of Super Bowl 2026 week that the Hall o… [+3517 chars]",
         "positive": 0.0017147233011201024,
         "negative": 0.0003277757205069065,
         "neutral": 0.9979574680328369
-      },
-      {
-        "source": "news",
-        "id": "https://www.nzherald.co.nz/the-country/news/nz-dairy-expo-matamata-dates-times-exhibitors-and-how-farmers-can-register/J6DBM4CDDRCF7JHR7X43GSJZYE/",
-        "timestamp": "2026-02-09T02:00:00+00:00",
-        "text": "NZ Dairy Expo Matamata: Dates, times, exhibitors and how farmers can register \nA full house of more than 160 exhibitors will pack Bedford Park on February 18 and 19. \nThe Government announced pre-Christmas that the RMA would be replaced by a Planning Bill to enable development and regulate land use, and a Natural Environment Bill to manage resource impacts and pro… [+4183 chars]",
-        "positive": 0.031823236495256424,
-        "negative": 0.00011824091779999435,
-        "neutral": 0.9680584669113159
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/02/09/3234224/0/en/Digital-Realty-Debuts-NVIDIA-Certification-for-Liquid-Cooled-Data-Center-in-Japan.html",
-        "timestamp": "2026-02-09T02:00:00+00:00",
-        "text": "Digital Realty Debuts NVIDIA Certification for Liquid Cooled Data Center in Japan \nExpands AI-Ready Infrastructure in Asia Pacific     Rendering of Digital Realty’s NRT14 data center in the Greater Tokyo area  SINGAPORE, Feb.  09, 2026 ... \n<ul><li>Expands AI-Ready Infrastructure in Asia Pacific </li></ul>\r\nRendering of Digital Realtys NRT14 data center in the Greater Tokyo area\r\nSINGAPORE, Feb. 09, 2026 (GLOBE NEWSWIRE) -- Digital Real… [+5806 chars]",
-        "positive": 0.00015221262583509088,
-        "negative": 1.7739438362696092e-06,
-        "neutral": 0.9998459815979004
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2026/02/09/3234223/0/en/Biologics-License-Application-for-Subcutaneous-Formulation-of-LEQEMBI-lecanemab-for-the-Treatment-of-Early-Alzheimer-s-Disease-Designated-for-Priority-Review-in-China.html",
-        "timestamp": "2026-02-09T02:00:00+00:00",
-        "text": "Biologics License Application for Subcutaneous Formulation of “LEQEMBI®” (lecanemab) for the Treatment of Early Alzheimer’s Disease Designated for Priority Review in China \nTOKYO and CAMBRIDGE, Mass., Feb. 08, 2026 (GLOBE NEWSWIRE) -- Eisai Co., Ltd. (Headquarters: Tokyo, CEO: Haruo Naito, “Eisai”) and Biogen Inc. (Nasdaq: BIIB, Corporate headquarters: Cambridge, Massachusetts, CEO: Christopher A. Viehbacher, “Biogen”) announced… \nTOKYO and CAMBRIDGE, Mass., Feb. 08, 2026 (GLOBE NEWSWIRE) -- Eisai Co., Ltd. (Headquarters: Tokyo, CEO: Haruo Naito, Eisai) and Biogen Inc. (Nasdaq: BIIB, Corporate headquarters: Cambridge, Massachu… [+15295 chars]",
-        "positive": 4.636207813746296e-05,
-        "negative": 3.246268761358806e-06,
-        "neutral": 0.9999504089355469
-      },
-      {
-        "source": "news",
-        "id": "https://thesportsrush.com/nfl-news-who-is-maria-taylor-and-whats-her-2020-controversy-with-rachel-nichols/",
-        "timestamp": "2026-02-09T01:59:38+00:00",
-        "text": "Who is Maria Taylor and What Was Her 2020 Controversy with Rachel Nichols? \nAs Super Bowl LX takes center stage, one of the most prominent faces in NBC’s coverage is Maria Taylor. A key member of the network’s broadcast team, Taylor will host the Super Bowl pregame show on NBC and Peacock before also taking on one of the night’s most… \nAs Super Bowl LX takes center stage, one of the most prominent faces in NBCs coverage is Maria Taylor. A key member of the networks broadcast team, Taylor will host the Super Bowl pregame show on NBC… [+4492 chars]",
-        "positive": 3.259035656810738e-05,
-        "negative": 2.4684425170562463e-06,
-        "neutral": 0.9999649524688721
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/adegoke-olaoye-cap-brilliant-nigerian-athletics-weekend/",
-        "timestamp": "2026-02-09T01:56:00+00:00",
-        "text": "Adegoke, Olaoye cap brilliant Nigerian athletics weekend \nEnoch Adegoke and Fola Olaoye shine in a weekend of standout performances for Nigerian athletics, with Samuel Ogazi making history in the indoor 400m.\n\nRead More: https://punchng.com/adegoke-olaoye-cap-brilliant-nigerian-athletics-weekend/ \nNigerias athletics contingent delivered a series of standout performances over the weekend, with Samuel Ogazi and Saaed Salam, formerly Sunday Akintan, blazing the trail for Nigerian brilliance, befo… [+2473 chars]",
-        "positive": 4.6998455218272284e-05,
-        "negative": 3.5107266285194783e-06,
-        "neutral": 0.99994957447052
       },
       {
         "source": "news",
@@ -878,48 +1364,12 @@
       },
       {
         "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9015767b-4aff-42f2-809f-25d74561635a",
-        "timestamp": "2026-02-09T01:54:00+00:00",
-        "text": "Prediction Markets See Super Bowl Betting Surge to New Highs \nThe football might have been a tad low-scoring in Super Bowl LX, but the betting action on the game remained fast and furious. \nIf you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-        "positive": 0.0020759995095431805,
-        "negative": 0.00014512916095554829,
-        "neutral": 0.9977788329124451
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/japan-stocks-surge-to-record-bonds-slide-with-yen-on-takaichis-landslide-election-win/articleshow/128092724.cms",
-        "timestamp": "2026-02-09T01:50:47+00:00",
-        "text": "Japan stocks surge to record, bonds slide with yen on Takaichi's landslide election win \nFollowing Prime Minister Sanae Takaichi's resounding electoral triumph, Japanese stocks have soared to unprecedented heights. With her party attaining a supermajority, ambitious spending and tax relief measures are now on the horizon. Meanwhile, the yen has s… \nJapanese stocks jumped to record peaks while bonds slid and the yen sagged to an all-time low against the Swiss franc after Prime Minister Sanae Takaichi scored a landslide win in Sunday's snap elect… [+1959 chars]",
-        "positive": 0.9960213303565979,
-        "negative": 0.0037366636097431183,
-        "neutral": 0.00024202819622587413
-      },
-      {
-        "source": "news",
         "id": "https://www.marca.com/en/lifestyle/celebrities/2026/02/09/69893a0aca474150408b45ab.html",
         "timestamp": "2026-02-09T01:46:55+00:00",
         "text": "Bad Bunny turns the Super Bowl halftime into a Latino celebration \nThere are Super Bowl halftime shows, and then there is this one. The kind that grabs everyone&apos;s attention from the very first second. Bad Bunny stepped onto the stage at Levi& \nThere are Super Bowl halftime shows, and then there is this one. The kind that grabs everyone's attention from the very first second. Bad Bunny stepped onto the stage at Levi's Stadium with more than… [+1695 chars]",
         "positive": 2.648349982337095e-05,
         "negative": 4.283300950191915e-05,
         "neutral": 0.999930739402771
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/japans-nikkei-surges-as-takaichi-win-fuels-spending-hopes",
-        "timestamp": "2026-02-09T01:46:53+00:00",
-        "text": "Japan’s Nikkei Surges as Takaichi Win Fuels Spending Hopes \nJapanese stocks gained the most since April as Prime Minister Sanae Takaichi’s historic win in Sunday’s election ignited expectations of more government spending in key industries. \n(Bloomberg) Japanese stocks gained the most since April as Prime Minister Sanae Takaichis historic win in Sundays election ignited expectations of more government spending in key industries.\r\nTHIS CO… [+4549 chars]",
-        "positive": 0.9994322657585144,
-        "negative": 0.00025410333182662725,
-        "neutral": 0.0003135472070425749
-      },
-      {
-        "source": "news",
-        "id": "https://www.trysight.ai/blog/best-ai-marketing-tools-for-seo#article",
-        "timestamp": "2026-02-09T01:46:28+00:00",
-        "text": "Best AI Marketing Tools For SEO: Complete 2026 Guide \nDiscover the best ai marketing tools for seo that cut production time, uncover ranking opportunities, and boost visibility across search engines today. \nAI has fundamentally changed how marketers approach SEOfrom content creation and keyword research to tracking how AI models themselves talk about brands. The right AI marketing tools can cut content … [+18672 chars]",
-        "positive": 0.9996755123138428,
-        "negative": 9.223816050507594e-06,
-        "neutral": 0.0003153395955450833
       },
       {
         "source": "news",
@@ -932,48 +1382,12 @@
       },
       {
         "source": "news",
-        "id": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-sbi-bse-share-price-09-february-2026/liveblog/128092631.cms",
-        "timestamp": "2026-02-09T01:45:16+00:00",
-        "text": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap-up start; Asian shares trade higher \nSensex Today | Nifty 50 | Stock Market Live Updates: Indian benchmark indices finished in positive territory, supported by buying in consumer and private banking stocks, even as selling pressure in auto, IT and pharma shares capped gains. \nSensex Today | Nifty 50 | Stock Market Live Updates: Stocks in news: SBI, BSE, Anand Rathi Share, Tata Steel, PFC, Kotak Mahindra Bank\r\nMarkets remained range-bound and closed on a flat note on Frida… [+288 chars]",
-        "positive": 0.9609065055847168,
-        "negative": 0.0006580521003343165,
-        "neutral": 0.03843538463115692
-      },
-      {
-        "source": "news",
-        "id": "https://www.out.com/gay-music/bad-bunny-super-bowl-halftime-show-recap-watch",
-        "timestamp": "2026-02-09T01:43:00+00:00",
-        "text": "Super Bowl: Bad Bunny puts on queer-inclusive show with Lady Gaga & Ricky Martin \n​Lady Gaga and Ricky Martin joined Bad Bunny in his legendary and LGBTQ-inclusive performance at the Super Bowl Halftime Show. \nIn Bad Bunny's world, everyone is invited to the party.\r\nAs expected, Bad Bunny delivered a high-energy, colorful, and all-around inclusive performance at the 2026 Super Bowl Halftime Show that under… [+3335 chars]",
-        "positive": 0.10233626514673233,
-        "negative": 2.4253315132227726e-05,
-        "neutral": 0.8976395130157471
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-slide-deepens-as-takaichi-triumph-in-japan-election-paves-the-way-for-more-stimulus/articleshow/128092526.cms",
         "timestamp": "2026-02-09T01:42:57+00:00",
         "text": "Yen slide deepens as Takaichi triumph in Japan election paves the way for more stimulus \nIn a bold turn of events, the Japanese Yen lost some ground against the US Dollar after Prime Minister Sanae Takaichi's party achieved a remarkable supermajority. This victory opens the door for increased government expenditure, prompting investors to dissect… \nThe yen extended a string of recent losses in early Asian trading on Monday after Japanese Prime Minister Sanae Takaichi swept to victory in Sunday's election, easing the path to further fiscal stimu… [+2224 chars]",
         "positive": 0.9946603178977966,
         "negative": 0.005306703969836235,
         "neutral": 3.291864777565934e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.pymnts.com/cryptocurrency/2026/koreas-bithumb-mistakenly-gives-away-40-billion-in-bitcoin/",
-        "timestamp": "2026-02-09T01:40:44+00:00",
-        "text": "Korea’s Bithumb Mistakenly Gives Away $40 Billion in Bitcoin \nA South Korean cryptocurrency exchange is facing regulatory investigation following a $40 billion bitcoin-related mistake. That exchange, Bithumb, announced this weekend it had accidentally given out $40 billion in the world’s most popular crypto to customers… \nA South Korean cryptocurrency exchange is facing regulatory investigation following a $40 billion bitcoin-related mistake.That exchange, Bithumb, announced this weekend it had accidentally given out … [+2361 chars]",
-        "positive": 0.0029497514478862286,
-        "negative": 0.8899692296981812,
-        "neutral": 0.10708098858594894
-      },
-      {
-        "source": "news",
-        "id": "https://www.101greatgoals.com/nfl/bad-bunny-dazzles-during-super-bowl-lx-halftime-show/",
-        "timestamp": "2026-02-09T01:40:00+00:00",
-        "text": "Bad Bunny Dazzles During Super Bowl LX Halftime Show \nThe international superstar took viewers on a musical journey through many aspects of Latin culture. \nThe international superstar took viewers on a musical journey through many aspects of Latin culture. Just one week after taking home the Grammy for Album of the Year, Puerto Rican musical artist Bad … [+2494 chars]",
-        "positive": 8.802687807474285e-05,
-        "negative": 2.2994288428890286e-06,
-        "neutral": 0.9999097585678101
       },
       {
         "source": "news",
@@ -1055,375 +1469,6 @@
         "positive": 0.00013389790547080338,
         "negative": 0.0001081079535651952,
         "neutral": 0.9997580647468567
-      },
-      {
-        "source": "news",
-        "id": "https://www.newsshooter.com/2026/02/08/viltrox-nexusfocus-f1-adapter-review/",
-        "timestamp": "2026-02-09T01:15:00+00:00",
-        "text": "Viltrox NexusFocus F1 Adapter Review \nThe Viltrox NexusFocus F1 PL to Sony E-mount adapter, which allows manual PL cine lenses to behave as AF lenses, is arguably one of the most anticipated products of 2026. According to Viltrox, the NexusFocus F1 adapter with AI Autofocus (PL-E) acts as a ‘tran… \nThe Viltrox NexusFocus F1 PL to Sony E-mount adapter, which allows manual PL cine lenses to behave as AF lenses, is arguably one of the most anticipated products of 2026.\r\nAccording to Viltrox, the N… [+28795 chars]",
-        "positive": 0.032584384083747864,
-        "negative": 0.0012770912144333124,
-        "neutral": 0.9661385416984558
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/us/far-left-group-foreign-ties-undermining-us-under-guise-protest-report-warns",
-        "timestamp": "2026-02-09T01:12:46+00:00",
-        "text": "Far-left group with foreign ties undermining US under guise of protest, report warns \nDemocratic Socialists of America faces congressional scrutiny over alleged 'malign foreign influence' from China, Venezuela and Cuba. \nLate last month, after the killing of local Minneapolis resident Alex Pretti by federal agents working with Immigration and Customs Enforcement, MS NOW interviewed a protester identified as \"Andrew\" … [+11642 chars]",
-        "positive": 0.0018997422885149717,
-        "negative": 0.4278077483177185,
-        "neutral": 0.5702924728393555
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2026/02/09/cnbc-daily-open-watch-japans-yen-and-government-bond-yields-as-takaichi-storms-to-an-election-victory.html",
-        "timestamp": "2026-02-09T01:11:44+00:00",
-        "text": "CNBC Daily Open: Watch Japan's yen and government bond yields as Takaichi storms to an election victory \nJapan's Sanae Takaichi and her ruling Liberal Democratic Party overwhelmingly found the support of voters in a Sunday election, sweeping a supermajority. \nJapan's Sanae Takaichi and her ruling Liberal Democratic Party overwhelmingly found the support of voters in a Sunday election, sweeping a supermajority which means the LDP holds two-thirds or more s… [+3563 chars]",
-        "positive": 0.1858111172914505,
-        "negative": 0.0060542281717062,
-        "neutral": 0.8081347346305847
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/east-asia/jimmy-lai-sentence-20-years-prison-hong-kong-media-tycoon-5916421",
-        "timestamp": "2026-02-09T01:09:00+00:00",
-        "text": "Hong Kong media tycoon Jimmy Lai sentenced to 20 years jail in national security trial \n<![CDATA[ Jimmy Lai, the founder of the now-shuttered Apple Daily newspaper, was convicted of two counts of conspiracy to collude with foreign forces and one count of publishing seditious materials.  ]]> \nHONG KONG: Hong Kong's most vocal China critic, media tycoon Jimmy Lai, was sentenced on Monday (Feb 9) to 20 years in jail, ending the city's biggest national security case, which drew international… [+2686 chars]",
-        "positive": 0.013372529298067093,
-        "negative": 0.008124900981783867,
-        "neutral": 0.978502631187439
-      },
-      {
-        "source": "news",
-        "id": "https://www.wmur.com/article/super-bowl-ad-trump-accounts/70280982",
-        "timestamp": "2026-02-09T01:08:23+00:00",
-        "text": "A Super Bowl ad says every American child will get a free Trump Account. Is that true? \nA Super Bowl ad says every American child will get a free Trump Account. Is that true?wmur.com \nA Super Bowl TV ad tells parents to expect \"free money\" from the federal government to help their children achieve their dreams.\r\nInvest America, a nonprofit advocacy group, created the 30-second ad,… [+5077 chars]",
-        "positive": 0.21581527590751648,
-        "negative": 0.00024234996817540377,
-        "neutral": 0.7839424014091492
-      },
-      {
-        "source": "news",
-        "id": "https://bleedingcool.com/tv/law-order-law-order-svu-returns-previewed-in-new-teaser/",
-        "timestamp": "2026-02-09T01:08:07+00:00",
-        "text": "Law & Order, Law & Order: SVU Returns Previewed in New Teaser \nWe know how you're feeling, \"Law & Order\" fans. With NBCUniversal turning itself over to 2026 Winter Olympics coverage for the next two weeks, you're going to be lacking in new episodes of NBC's Law & Order, starring Reid Scott, David Ajala, Maura Tierney, Hu… \nPosted in: NBC, Peacock, TV | Tagged: Law &amp; Order, Law &amp; Order: SVU\r\nWith both shows set to return on February 26th, here's a look at NBC's teaser promo for Law &amp; Order and Law &amp; Orde… [+2617 chars]",
-        "positive": 0.00021248454868327826,
-        "negative": 3.457011189311743e-05,
-        "neutral": 0.999752938747406
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-rise-nikkei-jumps-after-takaichi-win/articleshow/128091862.cms",
-        "timestamp": "2026-02-09T01:07:44+00:00",
-        "text": "Asian stocks rise, Nikkei jumps after Takaichi win \nAsian markets opened higher, mirroring a Wall Street surge. Investors are showing renewed interest in cyclical stocks, moving away from technology. This shift comes as markets assess demand and intense scrutiny on artificial intelligence valuations. A strong … \nAsian stocks rose at the open as investors took cues from a Wall Street rally on Friday, following a volatile week driven by concerns over valuations in technology stocks.The Nikkei 225 Index surged … [+1818 chars]",
-        "positive": 0.9999593496322632,
-        "negative": 1.875707857834641e-05,
-        "neutral": 2.192569081671536e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.dumblittleman.com/how-can-i-pick-a-good-watermelon/",
-        "timestamp": "2026-02-09T01:00:25+00:00",
-        "text": "How Can I Pick a Good Watermelon Like a Pro \nIf you have ever asked how to pick a good watermelon without guessing, you are my people. I get excited about this fruit. I am opinionated because watermelon disappointment hurts. Picking the perfect watermelon is not luck. It is skill, confidence, and a litt… \nIf you have ever asked how to pick a good watermelon without guessing, you are my people. I get excited about this fruit. I am opinionated because watermelon disappointment hurts. Picking the perfect… [+12963 chars]",
-        "positive": 0.9912430047988892,
-        "negative": 0.003768776310607791,
-        "neutral": 0.0049881841987371445
-      },
-      {
-        "source": "news",
-        "id": "https://roundtable.io/sports/nfl/saints/news/the-carr-comeback-a-ghost-from-the-saints-past-or-a-future-draft-asset",
-        "timestamp": "2026-02-09T01:00:05+00:00",
-        "text": "The Carr Comeback: A Ghost from the Saints’ Past or a Future Draft Asset? \nDerek Carr's potential return opens a rare NFL win-win for the Saints, offering draft capital and cap resolution, not a quarterback controversy. \nJust when the \"Who Dat\" nation had finally settled into the post-Derek Carr era, the rumor mill has churned out a surprising development. Reports indicate that Derek Carrwho retired last May due to a… [+3268 chars]",
-        "positive": 0.9496364593505859,
-        "negative": 0.034523915499448776,
-        "neutral": 0.0158395878970623
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/wealth/plan/rbi-tightens-norms-against-mis-selling-coercive-recovery-impact-on-consumers/articleshow/128019195.cms",
-        "timestamp": "2026-02-09T01:00:00+00:00",
-        "text": "RBI tightens norms against mis-selling, coercive recovery: Impact on consumers \nThe Reserve Bank of India is prioritizing customer protection in its latest monetary policy. New rules will target mis-selling of financial products and harsh loan recovery practices. A compensation framework for small-value fraudulent digital transactions is… \nIn its first monetary policy for 2026, the Reserve Bank of India (RBI) kept the repo rate unchanged and shifted its attention to customer protection, proposing a set of measures aimed at making the f… [+3914 chars]",
-        "positive": 0.015116548165678978,
-        "negative": 0.0011249171802774072,
-        "neutral": 0.9837586283683777
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/wealth/invest/10-year-asset-allocation-performance-tracker-equity-debt-and-gold-combination-with-highest-returns-in-last-10-years/articleshow/128019315.cms",
-        "timestamp": "2026-02-09T01:00:00+00:00",
-        "text": "10-year asset allocation performance tracker: Equity, debt and gold- combination with highest returns in last 10 years \nExperts recommend diversification. While asset allocation is the way to go, the question remains: what is the best combination? Portfolios with gold have delivered a notable returns boost in recent years, while those with zero gold exposure have persistently … \nFor best portfolio results, dont get swayed by any one asset class. Experts recommend diversification. While asset allocation is the way to go, the question remains: what is the best combination? Eve… [+2042 chars]",
-        "positive": 0.9999988079071045,
-        "negative": 4.232250034874596e-07,
-        "neutral": 7.017835628175817e-07
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/wealth/invest/silver-and-gold-crash-after-speculative-frenzy-is-the-bull-run-over-or-just-taking-a-breather/articleshow/128022445.cms",
-        "timestamp": "2026-02-09T01:00:00+00:00",
-        "text": "Silver and gold crash after speculative frenzy: Is the bull run over or just taking a breather? \nGold and silver prices have seen a significant drop after reaching record highs. This correction follows a period of rapid gains driven by speculative demand and fear of missing out. Experts suggest this pullback is a healthy market adjustment, but investors … \nGravity has finally caught up with the high-flying precious metals. After a meteoric rise that saw silver MCX futures price climb to Rs.4,20,000 per kg, the white metal declined by 27% on 30 Januaryi… [+10498 chars]",
-        "positive": 0.03097771480679512,
-        "negative": 0.9689056873321533,
-        "neutral": 0.00011656509741442278
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/wealth/plan/returning-to-india-in-your-golden-years-your-6-step-guide-to-live-freely-and-stress-free/articleshow/127999870.cms",
-        "timestamp": "2026-02-09T01:00:00+00:00",
-        "text": "Returning to India in your golden years? Your 6-step guide to live freely and stress-free \nReturning home makes tremendous sense for senior Indians, economically and socially. But for those who want to buy a property in a facility right away, for use in a future date, a word of caution: property choices tend to modernise rapidly; and the rupee cont… \nWe were at a 75th birthday party. The couple had just returned to India after living 40 years abroad. They had prepared for their return over the past few years and hoped that everything would work o… [+6388 chars]",
-        "positive": 0.15724687278270721,
-        "negative": 0.001366877113468945,
-        "neutral": 0.8413861989974976
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/wealth/invest/rbi-rate-cuts-what-falling-rates-mean-for-your-deposits-loans/articleshow/128020431.cms",
-        "timestamp": "2026-02-09T01:00:00+00:00",
-        "text": "RBI rate cuts: What falling rates mean for your deposits, loans \nOver the last year, the Reserve Bank of India has supported the government bond market through purchases. The market is concerned that similar support may be absent next year. Our currency has been weakening for quite some time, except for the latest pullback. \nThe Reserve Bank of Indias (RBI) repo rate calls shape interest rates across the system, affecting your investment portfolio as well as deposit and loan rates. Lets look at the central banks interest… [+5496 chars]",
-        "positive": 3.738188388524577e-05,
-        "negative": 0.7931259274482727,
-        "neutral": 0.2068367302417755
-      },
-      {
-        "source": "news",
-        "id": "https://www.drive.com.au/caradvice/how-this-aussie-rock-legend-inherited-the-band-car-named-the-pig/",
-        "timestamp": "2026-02-09T01:00:00+00:00",
-        "text": "How this Aussie rock legend inherited the band car named ‘the pig’ \nAussie band The Screaming Jets' front man Dave Gleeson shared how his first car became an infamous symbol of the band's Gold album, All for One. \nKatie and I were out shopping for a RAV4, and after visiting lots of car dealers, we couldnt find anything. By the fourth car yard, Katie said 'wow, look at that Saab, thats nice'. To which I replied… [+100 chars]",
-        "positive": 0.00011049518798245117,
-        "negative": 3.7425284972414374e-05,
-        "neutral": 0.9998520612716675
-      },
-      {
-        "source": "news",
-        "id": "https://www.fool.com.au/2026/02/09/four-mining-stocks-to-watch-ahead-of-reporting-season/",
-        "timestamp": "2026-02-09T00:52:28+00:00",
-        "text": "Four mining stocks to watch ahead of reporting season \nShaw and Partners has picked some winners.\nThe post Four mining stocks to watch ahead of reporting season appeared first on The Motley Fool Australia. \nAs reporting season kicks off, the team at Shaw and Partners have had a look at the mining sector and come up with four stocks they believe could outperform now and into the future. \r\nIn particular f… [+3057 chars]",
-        "positive": 0.9998962879180908,
-        "negative": 3.1535025755147217e-06,
-        "neutral": 0.00010063093941425905
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180758776",
-        "timestamp": "2026-02-09T00:52:27+00:00",
-        "text": "U.S. medal hopes in figure skating came down to one skater. Ilia Malinin was golden. - NBC News \nU.S. medal hopes in figure skating came down to one skater. Ilia Malinin was golden.NBC News Ilia Malinin, U.S. win figure skating team gold at OlympicsESPN Ilia Malinin makes Olympic debut with strong second-place performanceNBC News Winter Olympics today: I… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.725861132144928,
-        "negative": 0.00023041894019115716,
-        "neutral": 0.27390843629837036
-      },
-      {
-        "source": "news",
-        "id": "https://fortune.com/2026/02/08/stock-market-today-dow-futures-50000-japan-election-us-bond-yields/",
-        "timestamp": "2026-02-09T00:46:12+00:00",
-        "text": "Dow futures rise after index tops 50,000 for the first time while landslide election in Japan sends U.S. bond yields higher \nThe Dow soared by 1,200 points on Friday to top 50,000 for the first time as chipmakers and airlines fueled a ferocious stock market rebound \nWall Street is eyeing another record session as U.S. stock futures pointed higher on Sunday, while the bond market digested the results of Japans snap election over the weekend.Futures tied to the Do… [+1463 chars]",
-        "positive": 0.9998469352722168,
-        "negative": 4.418844582687598e-06,
-        "neutral": 0.00014866024139337242
-      },
-      {
-        "source": "news",
-        "id": "https://www.bostonherald.com/2026/02/08/lindsey-vonn-stable-after-surgery/",
-        "timestamp": "2026-02-09T00:43:11+00:00",
-        "text": "Lindsey Vonn stable after surgery \nLindsey Vonn 's defiant bid to win the Winter Olympic downhill at the age of 41, on a rebuilt right knee and a badly injured left knee, ended Sunday in a frightening crash that left her with a broken leg and saw her taken to safety by a rescue helicopter for … \nCORTINA D’AMPEZZO, Italy Lindsey Vonn ‘s defiant bid to win the Winter Olympic downhill at the age of 41, on a rebuilt right knee and a badly injured left knee, ended Sunday in a frightening crash th… [+4871 chars]",
-        "positive": 0.0033249775879085064,
-        "negative": 0.002917057368904352,
-        "neutral": 0.993757963180542
-      },
-      {
-        "source": "news",
-        "id": "https://www.ign.com/articles/au-deals-the-big-games-of-today-that-stopped-pretending-theyre-worth-full-price",
-        "timestamp": "2026-02-09T00:42:44+00:00",
-        "text": "AU Deals: The Big Games of Today That Stopped Pretending They're Worth Full Price \nThese are the games that make sense now. They've (mostly) been patched, balanced, and priced into something honest. You know what they are, they know what they are, and the deal is finally fair on both sides. \nI've got mates who bounced off most full price games this year, not because they are bad, but because they ask for too much too soon. Time, patience, and a premium that assumes blind trust. My lists … [+6123 chars]",
-        "positive": 0.002846295014023781,
-        "negative": 0.00018457688565831631,
-        "neutral": 0.9969691634178162
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-supplements-for-histamine-intolerance/",
-        "timestamp": "2026-02-09T00:41:59+00:00",
-        "text": "Best Supplements for Histamine Intolerance (2026) \nHistamine intolerance occurs when the body can't break down histamine efficiently, often due to low levels of diamine oxidase (DAO), the enzyme responsible \nHistamine intolerance occurs when the body can’t break down histamine efficiently, often due to low levels of diamine oxidase (DAO), the enzyme responsible for degrading dietary histamine in the gut.… [+19362 chars]",
-        "positive": 0.0003408201737329364,
-        "negative": 0.0007218607352115214,
-        "neutral": 0.9989373087882996
-      },
-      {
-        "source": "news",
-        "id": "https://www.usatoday.com/story/sports/olympics/2026/02/08/biathlon-2026-milano-cortina-how-it-works-stars-to-watch/87962981007/",
-        "timestamp": "2026-02-09T00:38:52+00:00",
-        "text": "Biathlon at 2026 Milano Cortina: How it works, U.S. stars to watch \nThe U.S. has medaled in every Winter Olympic sport, except Biathlon, which combines cross-country skiing and rifle shooting. Here's what to know: \nThe U.S. has medaled in every Winter Olympic sport, except Biathlon, which combines cross-country skiing and rifle shooting. Can American biathletes end their 66-year shutout at the 2026 Milano Corti… [+3378 chars]",
-        "positive": 0.00020880377269349992,
-        "negative": 2.3144177248468623e-05,
-        "neutral": 0.999768078327179
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-signals-pause-after-december-cut-as-inflation-pressures-edge-up/articleshow/128091182.cms",
-        "timestamp": "2026-02-09T00:38:41+00:00",
-        "text": "RBI signals pause after December cut as inflation pressures edge up \nThe Reserve Bank of India's rate cuts may be over. Economists predict a pause as inflation pressures rise and growth prospects improve. Trade deals with the USA and EU boost economic outlook. The central bank has kept its policy rate steady. This suggests mon… \nMumbai: The Reserve Bank of India's December rate cut was perhaps the last in the recent easing cycle, with economists expecting a pause, citing a slight uptick in inflationary pressures amid elevate… [+2610 chars]",
-        "positive": 0.9960683584213257,
-        "negative": 0.002971293870359659,
-        "neutral": 0.0009604154038242996
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/lagos-moves-to-enforce-waste-sorting-at-source/",
-        "timestamp": "2026-02-09T00:35:39+00:00",
-        "text": "Lagos moves to enforce waste sorting at source \nLagos State makes waste sorting at source mandatory to modernize waste management, boost recycling, and unlock the economic value of waste.\n\nRead More: https://punchng.com/lagos-moves-to-enforce-waste-sorting-at-source/ \nThe Lagos State Government said it has concluded plans to make waste sorting at source mandatory as part of a broader strategy to modernise waste management and unlock the economic value embedded in … [+2206 chars]",
-        "positive": 0.07663670182228088,
-        "negative": 0.00026053335750475526,
-        "neutral": 0.9231026768684387
-      },
-      {
-        "source": "news",
-        "id": "https://variety.com/2026/tv/news/coinbase-super-bowl-commercial-lo-fi-karaoke-1236656225/",
-        "timestamp": "2026-02-09T00:30:00+00:00",
-        "text": "Coinbase Bets Lo-Fi Karaoke Super Bowl Commercial Creates High-Flying Response \nMost Super Bowl commercials aim to be faster, louder and shinier than the rest. And then there are Big Game ads from advertisers like Coinbase. After mystifying Super Bowl viewers in 2022 with a decidedly lo-fi ad showing nothing but a floating QR code, the c… \nMost Super Bowl commercials aim to be faster, louder and shinier than the rest. And then there are Big Game ads from advertisers like Coinbase.\r\nAfter mystifying Super Bowl viewers in 2022 with a dec… [+5422 chars]",
-        "positive": 0.0027371919713914394,
-        "negative": 4.235975939081982e-05,
-        "neutral": 0.997220516204834
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/sport/figure-skating-malinin-powers-us-past-japan-team-gold-in-milan-5916591",
-        "timestamp": "2026-02-09T00:26:28+00:00",
-        "text": "Figure skating-Malinin powers US past Japan to team gold in Milan \nMILAN, Feb 8 : \"Quad God\" Ilia Malinin vaulted the United States above Japan and to the top of the podium at the Milano Cortina Games on Sunday to cap a thrilling team competition that saw host Italy seize bronze.With the U.S. and Japan tied going into the me… \nMILAN, Feb 8 : \"Quad God\" Ilia Malinin vaulted the United States above Japan and to the top of the podium at the Milano Cortina Games on Sunday to cap a thrilling team competition that saw host Italy… [+5067 chars]",
-        "positive": 0.0022535568568855524,
-        "negative": 3.0496072213281877e-05,
-        "neutral": 0.9977160692214966
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-dlpa-supplements/",
-        "timestamp": "2026-02-09T00:24:34+00:00",
-        "text": "Best DLPA Supplements (2026) \nDLPA (DL-phenylalanine) is a unique 50/50 blend of the D and L forms of the essential amino acid phenylalanine. The L-form serves as a precursor to \nDLPA (DL-phenylalanine) is a unique 50/50 blend of the D and L forms of the essential amino acid phenylalanine. The L-form serves as a precursor to neurotransmitters like dopamine, norepinephrine, an… [+20018 chars]",
-        "positive": 0.0026479389052838087,
-        "negative": 4.7706736950203776e-05,
-        "neutral": 0.9973043203353882
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-lumbrokinase-supplements/",
-        "timestamp": "2026-02-09T00:24:16+00:00",
-        "text": "Best Lumbrokinase Supplements (2026) \nLumbrokinase is a potent fibrinolytic enzyme complex extracted from earthworms, used for centuries in Traditional Chinese Medicine. It supports healthy \nLumbrokinase is a potent fibrinolytic enzyme complex extracted from earthworms, used for centuries in Traditional Chinese Medicine. It supports healthy circulation by breaking down fibrin a protein t… [+15693 chars]",
-        "positive": 0.06439019739627838,
-        "negative": 3.506408029352315e-05,
-        "neutral": 0.9355748295783997
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-dmae-supplements/",
-        "timestamp": "2026-02-09T00:24:11+00:00",
-        "text": "Best DMAE Supplements (2026) \nDMAE (dimethylaminoethanol) is a naturally occurring compound found in small amounts in the brain and in certain foods like fatty fish. It serves as a \nDMAE (dimethylaminoethanol) is a naturally occurring compound found in small amounts in the brain and in certain foods like fatty fish. It serves as a precursor to choline, which the body uses to pro… [+16178 chars]",
-        "positive": 0.00022073516447562724,
-        "negative": 8.662333857500926e-05,
-        "neutral": 0.9996926784515381
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-policosanol-supplements/",
-        "timestamp": "2026-02-09T00:24:04+00:00",
-        "text": "Best Policosanol Supplements (2026) \nPolicosanol is a blend of long-chain fatty alcohols derived primarily from sugar cane wax. Research has shown it may support cardiovascular health by \nPolicosanol is a blend of long-chain fatty alcohols derived primarily from sugar cane wax. Research has shown it may support cardiovascular health by promoting healthy cholesterol levels already with… [+18874 chars]",
-        "positive": 0.009439712390303612,
-        "negative": 6.76937197567895e-05,
-        "neutral": 0.9904926419258118
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-manganese-supplements/",
-        "timestamp": "2026-02-09T00:23:58+00:00",
-        "text": "Best Manganese Supplements (2026) \nManganese is an essential trace mineral involved in bone formation, blood clotting, metabolism, and antioxidant defense — yet it's one of the most overlooked \nManganese is an essential trace mineral involved in bone formation, blood clotting, metabolism, and antioxidant defense yet it’s one of the most overlooked minerals in supplementation. The body requi… [+14972 chars]",
-        "positive": 4.9632813897915184e-05,
-        "negative": 1.1641286619124003e-05,
-        "neutral": 0.9999387264251709
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/tinubus-economic-reforms-yielding-results-group/",
-        "timestamp": "2026-02-09T00:20:32+00:00",
-        "text": "Tinubu’s economic reforms yielding results – Group \nDiscover how President Tinubu’s economic reforms are starting to yield results, with reports of easing food prices across Nigeria’s major markets.\n\nRead More: https://punchng.com/tinubus-economic-reforms-yielding-results-group/ \nThe Tinubu Media Force has lauded the economic reforms being carried out under President Bola Tinubu’s administration, stating that food prices are gradually easing across major markets nationwide.Th… [+3260 chars]",
-        "positive": 0.19520509243011475,
-        "negative": 0.003726051887497306,
-        "neutral": 0.801068902015686
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-citrulline-malate-supplements/",
-        "timestamp": "2026-02-09T00:16:19+00:00",
-        "text": "Best Citrulline Malate Supplements (2026) \nCitrulline malate combines the amino acid L-citrulline with malic acid, creating a compound that boosts nitric oxide production, enhances blood flow, \nCitrulline malate combines the amino acid L-citrulline with malic acid, creating a compound that boosts nitric oxide production, enhances blood flow, increases endurance, and reduces muscle fatigue. … [+18470 chars]",
-        "positive": 0.9762607216835022,
-        "negative": 7.782819011481479e-05,
-        "neutral": 0.023661453276872635
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-intra-workout-supplements/",
-        "timestamp": "2026-02-09T00:15:46+00:00",
-        "text": "Best Intra-Workout Supplements (2026) \nIntra-workout supplements are designed to be consumed during training to sustain energy, enhance endurance, reduce muscle breakdown, and keep you hydrated \nIntra-workout supplements are designed to be consumed during training to sustain energy, enhance endurance, reduce muscle breakdown, and keep you hydrated through intense sessions. The best formulas … [+16048 chars]",
-        "positive": 0.0132742365822196,
-        "negative": 3.667237251647748e-05,
-        "neutral": 0.986689031124115
-      },
-      {
-        "source": "news",
-        "id": "https://english.khabarhub.com/2026/09/534225/",
-        "timestamp": "2026-02-09T00:15:11+00:00",
-        "text": "Davos 2026: A View from the Global South \nThis year’s World Economic Forum was framed around dialogue in a contested world. From Geneva to Jakarta, Nairobi to New Delhi, that framing landed with a familiar mix of recognition and resignation. Yes, the world is contested. Yes, dialogue matters. But for… \nThis years World Economic Forum was framed around dialogue in a contested world. From Geneva to Jakarta, Nairobi to New Delhi, that framing landed with a familiar mix of recognition and resignation. … [+6886 chars]",
-        "positive": 0.00029963848646730185,
-        "negative": 0.000565576134249568,
-        "neutral": 0.9991347193717957
-      },
-      {
-        "source": "news",
-        "id": "https://zacjohnson.com/best-borage-oil-supplements/",
-        "timestamp": "2026-02-09T00:14:47+00:00",
-        "text": "Best Borage Oil Supplements (2026) \nBorage oil is one of nature's richest sources of gamma-linolenic acid (GLA), an omega-6 fatty acid that supports skin health, joint comfort, and hormonal \nBorage oil is one of nature’s richest sources of gamma-linolenic acid (GLA), an omega-6 fatty acid that supports skin health, joint comfort, and hormonal balance. Derived from the seeds of the Borago… [+15264 chars]",
-        "positive": 0.0004328655486460775,
-        "negative": 1.9523129594745114e-05,
-        "neutral": 0.99954754114151
-      },
-      {
-        "source": "news",
-        "id": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-dows-50000-rally-as-jobs-inflation-reports-loom-001401239.html",
-        "timestamp": "2026-02-09T00:14:01+00:00",
-        "text": "Stock market today: Dow, S&P 500, Nasdaq futures slip after Dow's 50,000 rally as jobs, inflation reports loom \nWall Street is set for a packed week defined by jobs and inflation reports. \nUS stock futures edged lower on Monday after a turbulent week that ended with the Dow above 50,000, as markets got set for a busy stretch of earnings, inflation data, and the crucial monthly jobs rep… [+3715 chars]",
-        "positive": 0.03734047710895538,
-        "negative": 0.8136125206947327,
-        "neutral": 0.14904695749282837
-      },
-      {
-        "source": "news",
-        "id": "https://www.abc.net.au/news/2026-02-09/search-ends-loved-gold-coast-fisherman-ash-haigh/106321162",
-        "timestamp": "2026-02-09T00:13:34+00:00",
-        "text": "Search ends for 'very loved' Gold Coast fisherman Ash Haigh \nQueensland Police have suspended the cross-border search for missing Gold Coast fisherman Ash Haigh after an extensive air and sea operation found no signs of life, with his sister describing him as a \"very loved\" family man. \nQueensland Police have suspended the cross-border search for Gold Coast fisherman Ash Haigh, after scouring 1,800 square nautical miles for the \"very loved\" family man.\r\nMr Haigh, 44, was reported mi… [+1257 chars]",
-        "positive": 0.0015908780042082071,
-        "negative": 0.7040210366249084,
-        "neutral": 0.294388085603714
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180758624",
-        "timestamp": "2026-02-09T00:12:42+00:00",
-        "text": "Winter Olypmics: Ester Ledecka upset in her bid for third straight gold - Yahoo Sports \nWinter Olypmics: Ester Ledecka upset in her bid for third straight goldYahoo Sports Ledecka's quest for Olympic snowboarding 3-peat grinds to a haltESPN Ester Ledecka fails to retain Olympic title, hits out at IOC over snowboard event’s futureThe New York Tim… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.00011508283205330372,
-        "negative": 0.004601059481501579,
-        "neutral": 0.9952839016914368
-      },
-      {
-        "source": "news",
-        "id": "https://www.boredpanda.com/melania-trump-secret-exposed-by-the-wind/",
-        "timestamp": "2026-02-09T00:12:40+00:00",
-        "text": "Melania Trump’s Perfectly Polished Appearance Slips As The Wind Uncovers A Hidden Secret \n“I love how she’s just as bald as he is. So many extensions, toppers, and comb-overs,” wrote Monsees. \nA few tightly zoomed photos of Melania Trump began circulating online after a windy public appearance and quickly turned her carefully managed image into a new internet talking point.\r\nThe pictures, … [+8906 chars]",
-        "positive": 0.0002564503229223192,
-        "negative": 0.000153526256326586,
-        "neutral": 0.9995900988578796
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180758622",
-        "timestamp": "2026-02-09T00:12:32+00:00",
-        "text": "Milan's First Gold Goes to Swiss Skier on His First Try - Newser \nMilan's First Gold Goes to Swiss Skier on His First TryNewser Switzerland's Franjo von Allmen wins Olympic men's downhillESPN Alpine skiing-Swiss upstart Von Allmen stuns Odermatt to win downhill goldReuters Bangers and smash: Von Allmen wins first gold of Wi… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 0.0001252078654943034,
-        "negative": 0.00011844599794130772,
-        "neutral": 0.9997562766075134
       },
       {
         "source": "news",
